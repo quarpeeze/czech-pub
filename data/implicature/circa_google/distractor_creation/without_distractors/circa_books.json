@@ -1,0 +1,332 @@
+[
+  {
+    "id": 5,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Čteš rád motivační knížky?",
+    "answer_Y_cz": "Zrovna jejich fanoušek nejsem."
+  },
+  {
+    "id": 8,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Baví tě tlusté knihy?",
+    "answer_Y_cz": "Skoro žádný jiný typ knížek ani nečtu."
+  },
+  {
+    "id": 23,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Koupil jsi si v poslední době nějaké sci-fi?",
+    "answer_Y_cz": "Minulý víkend jsem si dvě pořídil."
+  },
+  {
+    "id": 55,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Baví tě sci-fi knížky?",
+    "answer_Y_cz": "Můj manžel mě k nim přivedl."
+  },
+  {
+    "id": 76,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Byla ta biografie, co jsi četl, dobrá?",
+    "answer_Y_cz": "Přišla mi celkem o ničem."
+  },
+  {
+    "id": 81,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Četl jsi někdy nějaké horory?",
+    "answer_Y_cz": "Pár jsem jich četla."
+  },
+  {
+    "id": 103,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Máš rád romány z druhé světové války?",
+    "answer_Y_cz": "Miluju jakékoli válečné romány."
+  },
+  {
+    "id": 108,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Máš průkazku do knihovny?",
+    "answer_Y_cz": "Mám."
+  },
+  {
+    "id": 109,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Dáváš přednost šťastným koncům?",
+    "answer_Y_cz": "Zvládám jenom dobré konce."
+  },
+  {
+    "id": 129,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Patříš mezi fanoušky Harryho Pottera?",
+    "answer_Y_cz": "To bych ani neřekl."
+  },
+  {
+    "id": 147,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Máš rád ilustrace?",
+    "answer_Y_cz": "Obrázky dělají knížku zajímavější."
+  },
+  {
+    "id": 148,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Baví tě literatura faktu?",
+    "answer_Y_cz": "Mám ráda skutečné příběhy."
+  },
+  {
+    "id": 150,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Jsi vášnivý čtenář?",
+    "answer_Y_cz": "Čtu v jednom kuse."
+  },
+  {
+    "id": 160,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Máš rád Reader's Digest?",
+    "answer_Y_cz": "Nikdy jsem jim nepřišel na chuť."
+  },
+  {
+    "id": 167,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Baví tě beletrie?",
+    "answer_Y_cz": "To teda jo."
+  },
+  {
+    "id": 173,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Máš rád knížky o astrologii?",
+    "answer_Y_cz": "Na tyhle věci nevěřím."
+  },
+  {
+    "id": 176,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Baví tě romány s komplikovaným dějem?",
+    "answer_Y_cz": "Mám radši něco jednoduchého."
+  },
+  {
+    "id": 215,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Četla jsi někdy knížky od Stephena Kinga?",
+    "answer_Y_cz": "Jako puberťačka jsem četla Osvícení."
+  },
+  {
+    "id": 217,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Nechceš zajít do knihovny se jen tak porozhlédnout?",
+    "answer_Y_cz": "Víc, než si myslíš."
+  },
+  {
+    "id": 240,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Četl jsi někdy ruskou literaturu?",
+    "answer_Y_cz": "Vždycky se mi to zdálo hrozně těžké na čtení."
+  },
+  {
+    "id": 241,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Čteš hodně?",
+    "answer_Y_cz": "Snažím se číst každý večer."
+  },
+  {
+    "id": 245,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Byl jsi v poslední době na autorském čtení?",
+    "answer_Y_cz": "Dávám přednost čtení románů v pohodlí domova."
+  },
+  {
+    "id": 247,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Četla jsi Stephena Kinga?",
+    "answer_Y_cz": "Jeho styl je na mě moc děsivý."
+  },
+  {
+    "id": 284,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Zajímáš se o politiku?",
+    "answer_Y_cz": "Politiku nesnáším."
+  },
+  {
+    "id": 378,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Četl jsi někdy nějaké knížky od Roberta Ludluma?",
+    "answer_Y_cz": "O Robertu Ludlumovi jsem nikdy neslyšel."
+  },
+  {
+    "id": 385,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Baví tě knížky, u kterých se zasměješ?",
+    "answer_Y_cz": "Miluju, když mě něco donutí se pousmát."
+  },
+  {
+    "id": 425,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Máš ráda dětské knížky?",
+    "answer_Y_cz": "O Vánocích si vždycky znovu přečtu všechny své oblíbené kousky."
+  },
+  {
+    "id": 447,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Četl jsi ve škole Tolstého?",
+    "answer_Y_cz": "Tolstého jsem četl doma."
+  },
+  {
+    "id": 528,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Zajímáš se o politiku?",
+    "answer_Y_cz": "Politika mě nikdy nezajímala."
+  },
+  {
+    "id": 542,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Byla ta biografie, co jsi četl, dobrá?",
+    "answer_Y_cz": "Jedna z nejlepších knížek, co jsem kdy četl."
+  },
+  {
+    "id": 547,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Četl jsi Černobílý svět?",
+    "answer_Y_cz": "O tom jsem nikdy neslyšel."
+  },
+  {
+    "id": 559,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Četla jsi někdy ruskou literaturu?",
+    "answer_Y_cz": "To nemůžu říct, že bych četla."
+  },
+  {
+    "id": 573,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Jsi vášnivý čtenář?",
+    "answer_Y_cz": "Čtu každý večer před spaním."
+  },
+  {
+    "id": 585,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Četla jsi Harryho Pottera?",
+    "answer_Y_cz": "Tyhle knížky byly v mém čtenářském klubu nejoblíbenější."
+  },
+  {
+    "id": 593,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Fandíš hororům?",
+    "answer_Y_cz": "Čím děsivější, tím lepší."
+  },
+  {
+    "id": 605,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Máš rád knížky od Stevena Kinga?",
+    "answer_Y_cz": "Dávám přednost knížkám od Stephena Kinga."
+  },
+  {
+    "id": 611,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Máš ráda strašidelné věci?",
+    "answer_Y_cz": "Miluju horory."
+  },
+  {
+    "id": 624,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Baví tě detektivky?",
+    "answer_Y_cz": "Mám radši literaturu faktu."
+  },
+  {
+    "id": 628,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Držíš radši knihu v ruce?",
+    "answer_Y_cz": "Dávám přednost čtečce."
+  },
+  {
+    "id": 629,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Půjčíš mi nějakou motivační knížku?",
+    "answer_Y_cz": "Jasně, to není problém."
+  },
+  {
+    "id": 640,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Fandíš klasice?",
+    "answer_Y_cz": "Mám radši současné knížky."
+  },
+  {
+    "id": 652,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Slyšela jsi o detektivkách s otcem Brownem?",
+    "answer_Y_cz": "Ty neznám."
+  },
+  {
+    "id": 671,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Baví tě romány s komplikovaným dějem?",
+    "answer_Y_cz": "Díky nečekaným zvratům mě většina knížek baví víc."
+  },
+  {
+    "id": 697,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Čteš rád biografie?",
+    "answer_Y_cz": "Mám radši high fantasy."
+  },
+  {
+    "id": 751,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Četl jsi někdy Deana Koontze?",
+    "answer_Y_cz": "Pár jsem jich zkusil."
+  },
+  {
+    "id": 767,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Doporučíš mi nějakou literaturu faktu?",
+    "answer_Y_cz": "Mám v telefonu seznam."
+  },
+  {
+    "id": 773,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Četla jsi Černobílý svět?",
+    "answer_Y_cz": "Od Kathryn Stockettové jsem nikdy nic nečetla."
+  },
+  {
+    "id": 794,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Čteš detektivky?",
+    "answer_Y_cz": "Detektivky mě nudí."
+  },
+  {
+    "id": 817,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Hledáš knížky, co tě hned vtáhnou do děje?",
+    "answer_Y_cz": "Miluju knížky, co mě chytnou hned na začátku."
+  },
+  {
+    "id": 833,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Máš rád romány?",
+    "answer_Y_cz": "Mám rád delší příběhy, protože mě dokážou udržet v napětí."
+  },
+  {
+    "id": 838,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Čteš ráda motivační knížky?",
+    "answer_Y_cz": "Práce na sobě je moje nejoblíbenější činnost."
+  },
+  {
+    "id": 854,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Nechceš zajít do knihovny se jen tak porozhlédnout?",
+    "answer_Y_cz": "To je dobrý nápad."
+  },
+  {
+    "id": 873,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Sleduješ žebříčky bestsellerů?",
+    "answer_Y_cz": "Každý týden projíždím seznam New York Times."
+  },
+  {
+    "id": 888,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Baví tě biografie?",
+    "answer_Y_cz": "Přijde mi fascinující číst životní příběh někoho jiného."
+  },
+  {
+    "id": 890,
+    "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+    "question_X_cz": "Dáváš přednost biografiím?",
+    "answer_Y_cz": "Ty nečtu."
+  }
+]

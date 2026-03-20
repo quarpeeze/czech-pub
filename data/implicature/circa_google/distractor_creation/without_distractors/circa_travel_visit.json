@@ -1,0 +1,332 @@
+[
+  {
+    "id": 0,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Máš teď práci?",
+    "answer_Y_cz": "Pracuju jako veterinární technik."
+  },
+  {
+    "id": 7,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Jde ti to v nové práci dobře?",
+    "answer_Y_cz": "To, co dělám, mě hrozně baví."
+  },
+  {
+    "id": 17,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Nezugrilujeme dneska večer něco?",
+    "answer_Y_cz": "Už něco mám."
+  },
+  {
+    "id": 25,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Jel jsi sem rovnou?",
+    "answer_Y_cz": "Musel jsem se ještě stavit u mámy."
+  },
+  {
+    "id": 35,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Pořád tě baví turistika?",
+    "answer_Y_cz": "Snažím se vyrazit na hory aspoň jednou za měsíc."
+  },
+  {
+    "id": 36,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Chodíš často vymetat bary?",
+    "answer_Y_cz": "Už vůbec nepiju."
+  },
+  {
+    "id": 43,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Byla ta cesta únavná?",
+    "answer_Y_cz": "Bylo to vzrušující."
+  },
+  {
+    "id": 69,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Baví tě bydlet mimo město?",
+    "answer_Y_cz": "Život na venkově naprosto miluju."
+  },
+  {
+    "id": 74,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Těšíš se na tenhle víkend?",
+    "answer_Y_cz": "Mám z něj spíš hrůzu."
+  },
+  {
+    "id": 90,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Vzal jsi si všechno, co potřebuješ?",
+    "answer_Y_cz": "Všechno se mi do kufru nevešlo."
+  },
+  {
+    "id": 120,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Chceš si projít to muzeum?",
+    "answer_Y_cz": "Nemohli bychom jít radši do parku?"
+  },
+  {
+    "id": 131,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Nechtěl bys jít dneska večer do kina?",
+    "answer_Y_cz": "Jsem pro."
+  },
+  {
+    "id": 139,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Nechceš zajít na film?",
+    "answer_Y_cz": "To beru."
+  },
+  {
+    "id": 155,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Nechceš jít do nákupáku?",
+    "answer_Y_cz": "Nakupování nesnáším."
+  },
+  {
+    "id": 163,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Chceš jít o víkendu po památkách?",
+    "answer_Y_cz": "To by bylo fajn."
+  },
+  {
+    "id": 198,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Vyspal jsi se cestou sem?",
+    "answer_Y_cz": "V letadle byl hrozný hluk."
+  },
+  {
+    "id": 207,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Byl jsi v poslední době na nějaké velké dovolené?",
+    "answer_Y_cz": "Loni na podzim jsem byl na tři týdny v Evropě."
+  },
+  {
+    "id": 208,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Chceš si pohladit mého psa?",
+    "answer_Y_cz": "Mám alergii."
+  },
+  {
+    "id": 209,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Už jsi někdy viděl moje nové bydlení?",
+    "answer_Y_cz": "Zatím ještě nikdy."
+  },
+  {
+    "id": 232,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Ulevilo se ti, že sis dal na chvíli od všeho pohov?",
+    "answer_Y_cz": "Je to skvělý pocit!"
+  },
+  {
+    "id": 249,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Mrkneme pak na nějaký vánoční film?",
+    "answer_Y_cz": "Doufám, že to bude sranda."
+  },
+  {
+    "id": 272,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Daří se ti dobře?",
+    "answer_Y_cz": "Život je teď vážně fajn."
+  },
+  {
+    "id": 280,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Chceš se jít podívat na památky?",
+    "answer_Y_cz": "Moc rád."
+  },
+  {
+    "id": 281,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Zahrajeme si nějaké hry?",
+    "answer_Y_cz": "Mám epilepsii a nemůžu se dívat na rychle se měnící obraz."
+  },
+  {
+    "id": 286,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Měl bys zájem zajít na nějakou komedii?",
+    "answer_Y_cz": "Komedie miluju."
+  },
+  {
+    "id": 297,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Koukáš na nějaké nové seriály?",
+    "answer_Y_cz": "Teď ujíždím na Úžasné paní Maiselové."
+  },
+  {
+    "id": 308,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Máš v hlavě nějaká místa, kam bys chtěl zajít?",
+    "answer_Y_cz": "Moc rád bych viděl ty nejnovější umělecké výstavy."
+  },
+  {
+    "id": 320,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Viděl jsi ten nový film?",
+    "answer_Y_cz": "Zatím ještě ne."
+  },
+  {
+    "id": 362,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Chceš si projít muzeum?",
+    "answer_Y_cz": "Pojďme se podívat na tu výstavu o starověkém Egyptě."
+  },
+  {
+    "id": 389,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Chceš se před večeří převléknout?",
+    "answer_Y_cz": "V tomhle se cítím dobře."
+  },
+  {
+    "id": 393,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Chceš se najíst v restauraci?",
+    "answer_Y_cz": "Moc rád bych zašel na italskou kuchyni."
+  },
+  {
+    "id": 397,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Máš už hlad?",
+    "answer_Y_cz": "Celý den myslím na ten tvůj tajný recept na brownies."
+  },
+  {
+    "id": 407,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Přijde ti to počasí příjemné?",
+    "answer_Y_cz": "Teď je tam krásně."
+  },
+  {
+    "id": 408,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Půjdeme nakupovat?",
+    "answer_Y_cz": "Klidně můžeme."
+  },
+  {
+    "id": 431,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Máš rád venkov?",
+    "answer_Y_cz": "Ten vzduch je tam mnohem lepší."
+  },
+  {
+    "id": 434,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Chceš se před večeří převléknout?",
+    "answer_Y_cz": "Půjdu prostě tak, jak jsem."
+  },
+  {
+    "id": 459,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Máš nějaké oblečení na převlečení?",
+    "answer_Y_cz": "Všechno, co potřebuju, mám v téhle tašce."
+  },
+  {
+    "id": 464,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Stavoval jsi se cestou někde?",
+    "answer_Y_cz": "Neměl jsem na to čas."
+  },
+  {
+    "id": 484,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Chtěl bys vidět naše staré známé?",
+    "answer_Y_cz": "Bylo by super s nimi probrat, co je nového."
+  },
+  {
+    "id": 524,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Chceš chvíli čas pro sebe na průzkum?",
+    "answer_Y_cz": "Budu rád za společnost."
+  },
+  {
+    "id": 531,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Ty zítra odjíždíš?",
+    "answer_Y_cz": "Zítra přece jdeme na tu komedii, pamatuješ?"
+  },
+  {
+    "id": 535,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Půjdeme se projít?",
+    "answer_Y_cz": "Moc rád se procházím po městě."
+  },
+  {
+    "id": 551,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Máš zítra chuť na delší procházku?",
+    "answer_Y_cz": "Procházka venku by mě osvěžila."
+  },
+  {
+    "id": 570,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Ty zítra odjíždíš?",
+    "answer_Y_cz": "Zůstávám tu dva týdny."
+  },
+  {
+    "id": 572,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Už jsi zkusil tu Sweetish Hill na Šesté?",
+    "answer_Y_cz": "To zní jako místo, které bych rád vyzkoušel."
+  },
+  {
+    "id": 575,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Bydlíš v hotelu?",
+    "answer_Y_cz": "Zatím ano."
+  },
+  {
+    "id": 579,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Šel bys zítra ráno na túru?",
+    "answer_Y_cz": "Beru cokoli."
+  },
+  {
+    "id": 599,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Byla ta cesta dobrá?",
+    "answer_Y_cz": "Byla sice krátká, ale stála za to!"
+  },
+  {
+    "id": 625,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Pořád jsi zasnoubený?",
+    "answer_Y_cz": "Minulý měsíc ty zásnuby zrušila."
+  },
+  {
+    "id": 662,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Měl jsi přímý let?",
+    "answer_Y_cz": "Měl jsem dvouhodinové mezipřistání."
+  },
+  {
+    "id": 666,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Jsi připravená si to užít?",
+    "answer_Y_cz": "To si piš!"
+  },
+  {
+    "id": 681,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Jde ti to v nové práci dobře?",
+    "answer_Y_cz": "Zatím mě to moc baví."
+  },
+  {
+    "id": 694,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Nedáš si po té dlouhé cestě drink?",
+    "answer_Y_cz": "To by mě osvěžilo."
+  },
+  {
+    "id": 706,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Chtěla bys se mnou zajít do muzea?",
+    "answer_Y_cz": "Ráda bych viděla tu novou výstavu v galerii."
+  },
+  {
+    "id": 711,
+    "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+    "question_X_cz": "Víš o tomhle městě hodně?",
+    "answer_Y_cz": "Jenom to, cos mi řekl ty."
+  }
+]

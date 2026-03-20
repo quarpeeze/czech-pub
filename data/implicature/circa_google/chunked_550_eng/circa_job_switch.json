@@ -1,0 +1,277 @@
+[
+  {
+    "id": 30,
+    "question_X": "Do you travel any?",
+    "answer_Y": "Once a week."
+  },
+  {
+    "id": 51,
+    "question_X": "Is your job close to home?",
+    "answer_Y": "It's an hour away."
+  },
+  {
+    "id": 78,
+    "question_X": "Have you been looking for awhile?",
+    "answer_Y": "I just started today."
+  },
+  {
+    "id": 122,
+    "question_X": "Want to work for another company?",
+    "answer_Y": "I want to start my own business."
+  },
+  {
+    "id": 162,
+    "question_X": "Do you want a new challenge?",
+    "answer_Y": "A challenge would be great."
+  },
+  {
+    "id": 193,
+    "question_X": "Do you get on with your current colleagues?",
+    "answer_Y": "My coworkers and I get along pretty well."
+  },
+  {
+    "id": 205,
+    "question_X": "Do you usually have to work late?",
+    "answer_Y": "Often I find myself the last one at work."
+  },
+  {
+    "id": 218,
+    "question_X": "Do you have five years of experience?",
+    "answer_Y": "Only three."
+  },
+  {
+    "id": 220,
+    "question_X": "Are you eligible for promotion?",
+    "answer_Y": "I won't be for another six months."
+  },
+  {
+    "id": 242,
+    "question_X": "Is it stressful all the time?",
+    "answer_Y": "it is very rarely stressful"
+  },
+  {
+    "id": 250,
+    "question_X": "Will you be the head of your department?",
+    "answer_Y": "That position has been filled."
+  },
+  {
+    "id": 288,
+    "question_X": "Are you concerned about your salary?",
+    "answer_Y": "It's way too low."
+  },
+  {
+    "id": 303,
+    "question_X": "Would you like more benefits from your job?",
+    "answer_Y": "I could use more dental coverage."
+  },
+  {
+    "id": 304,
+    "question_X": "Do you like working the production line?",
+    "answer_Y": "I find it gratifying,"
+  },
+  {
+    "id": 306,
+    "question_X": "Are you eligible for promotion?",
+    "answer_Y": "I'm at the top level."
+  },
+  {
+    "id": 328,
+    "question_X": "Have you ever tried a job outdoors?",
+    "answer_Y": "I have never done that"
+  },
+  {
+    "id": 348,
+    "question_X": "Is it close to your house?",
+    "answer_Y": "It's a short commute."
+  },
+  {
+    "id": 349,
+    "question_X": "Do you spend your time behind a computer screen?",
+    "answer_Y": "I spend 10 hours a day at my computer."
+  },
+  {
+    "id": 350,
+    "question_X": "Did you have nice bosses?",
+    "answer_Y": "My superiors were not the best people to work for."
+  },
+  {
+    "id": 370,
+    "question_X": "Is it in the same industry?",
+    "answer_Y": "I'm moving on to something totally different."
+  },
+  {
+    "id": 371,
+    "question_X": "Are you looking for something more challenging?",
+    "answer_Y": "That would be great."
+  },
+  {
+    "id": 372,
+    "question_X": "Are you in a support position?",
+    "answer_Y": "I am the head of a department."
+  },
+  {
+    "id": 383,
+    "question_X": "Do you want to try something new?",
+    "answer_Y": "Everything else has gotten stale."
+  },
+  {
+    "id": 384,
+    "question_X": "Are you looking in the same field?",
+    "answer_Y": "I still want to work in the same field."
+  },
+  {
+    "id": 423,
+    "question_X": "Have you tried that kind of work before?",
+    "answer_Y": "I'm a pro at this."
+  },
+  {
+    "id": 428,
+    "question_X": "Will you be working full-time?",
+    "answer_Y": "its part time for now"
+  },
+  {
+    "id": 441,
+    "question_X": "Do you work long hours?",
+    "answer_Y": "I generally work 50 hours per week."
+  },
+  {
+    "id": 474,
+    "question_X": "Do you not like your boss?",
+    "answer_Y": "She doesn't like me either."
+  },
+  {
+    "id": 478,
+    "question_X": "Do you have to travel far?",
+    "answer_Y": "It would be a pretty long commute."
+  },
+  {
+    "id": 503,
+    "question_X": "Did you like your previous job?",
+    "answer_Y": "I hated it, which is why I needed a change."
+  },
+  {
+    "id": 507,
+    "question_X": "Do you work with a lot of people?",
+    "answer_Y": "Our team is small."
+  },
+  {
+    "id": 555,
+    "question_X": "Is it technical?",
+    "answer_Y": "The position is creative."
+  },
+  {
+    "id": 564,
+    "question_X": "Have you ever taken a day off sick when you were not actually sick?",
+    "answer_Y": "I can't imagine doing that."
+  },
+  {
+    "id": 571,
+    "question_X": "Have you always worked in this field?",
+    "answer_Y": "I haven't got experience in this field"
+  },
+  {
+    "id": 578,
+    "question_X": "Does your job require you to travel?",
+    "answer_Y": "Only the communte"
+  },
+  {
+    "id": 596,
+    "question_X": "Are you a supervisor?",
+    "answer_Y": "I am a manager"
+  },
+  {
+    "id": 627,
+    "question_X": "Is your job close to home?",
+    "answer_Y": "I have a long commute."
+  },
+  {
+    "id": 636,
+    "question_X": "Do you have to do heavy-lifting?",
+    "answer_Y": "I work at a desk, so no lifting involved."
+  },
+  {
+    "id": 655,
+    "question_X": "Is the pay good?",
+    "answer_Y": "I have a great wage."
+  },
+  {
+    "id": 689,
+    "question_X": "Are you looking for something more mentally challenging?",
+    "answer_Y": "I have been bored."
+  },
+  {
+    "id": 729,
+    "question_X": "Do you need a college degree for the job?",
+    "answer_Y": "It requires a BA."
+  },
+  {
+    "id": 734,
+    "question_X": "Is it in tech?",
+    "answer_Y": "I work in the arts."
+  },
+  {
+    "id": 735,
+    "question_X": "Are you happy with your coworkers now?",
+    "answer_Y": "They're all so helpful!"
+  },
+  {
+    "id": 744,
+    "question_X": "Are you a Supervisor now?",
+    "answer_Y": "I will be soon"
+  },
+  {
+    "id": 762,
+    "question_X": "Do you ever work from home?",
+    "answer_Y": "I have, but I don't enjoy it."
+  },
+  {
+    "id": 777,
+    "question_X": "Do you like working with people?",
+    "answer_Y": "It's good to have a team."
+  },
+  {
+    "id": 784,
+    "question_X": "Have you worked in your company for a long time?",
+    "answer_Y": "This will be my nineteenth year."
+  },
+  {
+    "id": 809,
+    "question_X": "Would you want a personal office?",
+    "answer_Y": "A spot with a door I can close would be great."
+  },
+  {
+    "id": 815,
+    "question_X": "Does your job involve customer service?",
+    "answer_Y": "I don't have to deal with customers."
+  },
+  {
+    "id": 841,
+    "question_X": "Do you like to work with computers?",
+    "answer_Y": "Dealing with computers is easier than dealing with people."
+  },
+  {
+    "id": 887,
+    "question_X": "Do you work a morning shift?",
+    "answer_Y": "I work the night shift."
+  },
+  {
+    "id": 901,
+    "question_X": "Would you be interested in a new industry altogether?",
+    "answer_Y": "I would love to try something new."
+  },
+  {
+    "id": 917,
+    "question_X": "Do you want to leave the job?",
+    "answer_Y": "I'm sending resumes out this week."
+  },
+  {
+    "id": 918,
+    "question_X": "Do you think the other job has more to offer?",
+    "answer_Y": "It pays more."
+  },
+  {
+    "id": 930,
+    "question_X": "Are you computer savvy?",
+    "answer_Y": "I grew up on computers."
+  }
+]

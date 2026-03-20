@@ -1,0 +1,387 @@
+[
+    {
+      "id": 0,
+      "question_X": "Are you employed?",
+      "answer_Y": "I'm a veterinary technician.",
+      "question_X_cz": "Máš teď práci?",
+      "answer_Y_cz": "Pracuju jako veterinární technik."
+    },
+    {
+      "id": 7,
+      "question_X": "Is your new job going well?",
+      "answer_Y": "I love what I do.",
+      "question_X_cz": "Jde ti to v nové práci dobře?",
+      "answer_Y_cz": "To, co dělám, mě hrozně baví."
+    },
+    {
+      "id": 17,
+      "question_X": "Do you want to have a BBQ this evening?",
+      "answer_Y": "I already have plans",
+      "question_X_cz": "Nezugrilujeme dneska večer něco?",
+      "answer_Y_cz": "Už něco mám."
+    },
+    {
+      "id": 25,
+      "question_X": "Did you drive straight here?",
+      "answer_Y": "I had to stop at my mom's house.",
+      "question_X_cz": "Jel jsi sem rovnou?",
+      "answer_Y_cz": "Musel jsem se ještě stavit u mámy."
+    },
+    {
+      "id": 35,
+      "question_X": "Do you still like hiking?",
+      "answer_Y": "I still try to hit the trails at least once a month.",
+      "question_X_cz": "Pořád tě baví turistika?",
+      "answer_Y_cz": "Snažím se vyrazit na hory aspoň jednou za měsíc."
+    },
+    {
+      "id": 36,
+      "question_X": "Do you go bar hoping often?",
+      "answer_Y": "I don't drink anymore.",
+      "question_X_cz": "Chodíš často vymetat bary?",
+      "answer_Y_cz": "Už vůbec nepiju."
+    },
+    {
+      "id": 43,
+      "question_X": "Was the travel tiring?",
+      "answer_Y": "It was exciting",
+      "question_X_cz": "Byla ta cesta únavná?",
+      "answer_Y_cz": "Bylo to vzrušující."
+    },
+    {
+      "id": 69,
+      "question_X": "Do you enjoy living out of town?",
+      "answer_Y": "I love living in the countryside.",
+      "question_X_cz": "Baví tě bydlet mimo město?",
+      "answer_Y_cz": "Život na venkově naprosto miluju."
+    },
+    {
+      "id": 74,
+      "question_X": "Looking forward to this weekend?",
+      "answer_Y": "I have been dreading it.",
+      "question_X_cz": "Těšíš se na tenhle víkend?",
+      "answer_Y_cz": "Mám z něj spíš hrůzu."
+    },
+    {
+      "id": 90,
+      "question_X": "Did you bring everything you need?",
+      "answer_Y": "I didn't have enough space for everything",
+      "question_X_cz": "Vzal jsi si všechno, co potřebuješ?",
+      "answer_Y_cz": "Všechno se mi do kufru nevešlo."
+    },
+    {
+      "id": 120,
+      "question_X": "Do you want to look through the museum?",
+      "answer_Y": "Can we go to the park instead?",
+      "question_X_cz": "Chceš si projít to muzeum?",
+      "answer_Y_cz": "Nemohli bychom jít radši do parku?"
+    },
+    {
+      "id": 131,
+      "question_X": "Would you like to go to the movies tonight?",
+      "answer_Y": "I'm open to it.",
+      "question_X_cz": "Nechtěl bys jít dneska večer do kina?",
+      "answer_Y_cz": "Jsem pro."
+    },
+    {
+      "id": 139,
+      "question_X": "Want to go see a movie?",
+      "answer_Y": "I'm down.",
+      "question_X_cz": "Nechceš zajít na film?",
+      "answer_Y_cz": "To beru."
+    },
+    {
+      "id": 155,
+      "question_X": "Do you want to go to the mall?",
+      "answer_Y": "I hate shopping.",
+      "question_X_cz": "Nechceš jít do nákupáku?",
+      "answer_Y_cz": "Nakupování nesnáším."
+    },
+    {
+      "id": 163,
+      "question_X": "Do you want to go sightseeing this weekend?",
+      "answer_Y": "That would be nice",
+      "question_X_cz": "Chceš jít o víkendu po památkách?",
+      "answer_Y_cz": "To by bylo fajn."
+    },
+    {
+      "id": 198,
+      "question_X": "Did you sleep on your way here?",
+      "answer_Y": "The flight was too noisy.",
+      "question_X_cz": "Vyspal jsi se cestou sem?",
+      "answer_Y_cz": "V letadle byl hrozný hluk."
+    },
+    {
+      "id": 207,
+      "question_X": "Have you taken any big vacations lately?",
+      "answer_Y": "I went to Europe for 3 weeks last fall.",
+      "question_X_cz": "Byl jsi v poslední době na nějaké velké dovolené?",
+      "answer_Y_cz": "Loni na podzim jsem byl na tři týdny v Evropě."
+    },
+    {
+      "id": 208,
+      "question_X": "Would you like to pet my dog?",
+      "answer_Y": "I am allergic.",
+      "question_X_cz": "Chceš si pohladit mého psa?",
+      "answer_Y_cz": "Mám alergii."
+    },
+    {
+      "id": 209,
+      "question_X": "Have you seen my new place before?",
+      "answer_Y": "I haven't ever seen it",
+      "question_X_cz": "Už jsi někdy viděl moje nové bydlení?",
+      "answer_Y_cz": "Zatím ještě nikdy."
+    },
+    {
+      "id": 232,
+      "question_X": "Are you relieved to get some time away?",
+      "answer_Y": "It feels great!",
+      "question_X_cz": "Ulevilo se ti, že sis dal na chvíli od všeho pohov?",
+      "answer_Y_cz": "Je to skvělý pocit!"
+    },
+    {
+      "id": 249,
+      "question_X": "Do you want to catch a Christmas movie later?",
+      "answer_Y": "I hope it is funny.",
+      "question_X_cz": "Mrkneme pak na nějaký vánoční film?",
+      "answer_Y_cz": "Doufám, že to bude sranda."
+    },
+    {
+      "id": 272,
+      "question_X": "Are you doing well?",
+      "answer_Y": "Life is really good.",
+      "question_X_cz": "Daří se ti dobře?",
+      "answer_Y_cz": "Život je teď vážně fajn."
+    },
+    {
+      "id": 280,
+      "question_X": "Would  you  like to see the sights?",
+      "answer_Y": "I would love to",
+      "question_X_cz": "Chceš se jít podívat na památky?",
+      "answer_Y_cz": "Moc rád."
+    },
+    {
+      "id": 281,
+      "question_X": "Do you want to play some videogames?",
+      "answer_Y": "I have epilepsy and can't look at rapidly moving graphics.",
+      "question_X_cz": "Zahrajeme si nějaké hry?",
+      "answer_Y_cz": "Mám epilepsii a nemůžu se dívat na rychle se měnící obraz."
+    },
+    {
+      "id": 286,
+      "question_X": "Would you be interested in seeing a comedy show?",
+      "answer_Y": "I love comedy.",
+      "question_X_cz": "Měl bys zájem zajít na nějakou komedii?",
+      "answer_Y_cz": "Komedie miluju."
+    },
+    {
+      "id": 297,
+      "question_X": "Are you watching any new TV shows?",
+      "answer_Y": "I've been bingeing Mrs. Maisel.",
+      "question_X_cz": "Koukáš na nějaké nové seriály?",
+      "answer_Y_cz": "Teď ujíždím na Úžasné paní Maiselové."
+    },
+    {
+      "id": 308,
+      "question_X": "do you have any places in mind you want to go?",
+      "answer_Y": "I really want to see the newest art exhibitions.",
+      "question_X_cz": "Máš v hlavě nějaká místa, kam bys chtěl zajít?",
+      "answer_Y_cz": "Moc rád bych viděl ty nejnovější umělecké výstavy."
+    },
+    {
+      "id": 320,
+      "question_X": "Have you seen that new movie?",
+      "answer_Y": "I have not.",
+      "question_X_cz": "Viděl jsi ten nový film?",
+      "answer_Y_cz": "Zatím ještě ne."
+    },
+    {
+      "id": 362,
+      "question_X": "Do you want to look through the museum?",
+      "answer_Y": "Let's check out the ancient Egypt exhibit.",
+      "question_X_cz": "Chceš si projít muzeum?",
+      "answer_Y_cz": "Pojďme se podívat na tu výstavu o starověkém Egyptě."
+    },
+    {
+      "id": 389,
+      "question_X": "Do you want to change before we go out to dinner?",
+      "answer_Y": "I'm comfortable in what I have on.",
+      "question_X_cz": "Chceš se před večeří převléknout?",
+      "answer_Y_cz": "V tomhle se cítím dobře."
+    },
+    {
+      "id": 393,
+      "question_X": "Want to eat at a restaurant?",
+      "answer_Y": "I'd love to go out for Italian.",
+      "question_X_cz": "Chceš se najíst v restauraci?",
+      "answer_Y_cz": "Moc rád bych zašel na italskou kuchyni."
+    },
+    {
+      "id": 397,
+      "question_X": "Are you ready for some food?",
+      "answer_Y": "I've been thinking about your secret brownie recipe all day.",
+      "question_X_cz": "Máš už hlad?",
+      "answer_Y_cz": "Celý den myslím na ten tvůj tajný recept na brownies."
+    },
+    {
+      "id": 407,
+      "question_X": "Do you find the weather pleasant?",
+      "answer_Y": "It is lovely right now",
+      "question_X_cz": "Přijde ti to počasí příjemné?",
+      "answer_Y_cz": "Teď je tam krásně."
+    },
+    {
+      "id": 408,
+      "question_X": "Shall we going shopping?",
+      "answer_Y": "we might as well",
+      "question_X_cz": "Půjdeme nakupovat?",
+      "answer_Y_cz": "Klidně můžeme."
+    },
+    {
+      "id": 431,
+      "question_X": "Do you like Country side?",
+      "answer_Y": "The air smells a lot better.",
+      "question_X_cz": "Máš rád venkov?",
+      "answer_Y_cz": "Ten vzduch je tam mnohem lepší."
+    },
+    {
+      "id": 434,
+      "question_X": "Do you want to change before we go out to dinner?",
+      "answer_Y": "I'll just go as I am",
+      "question_X_cz": "Chceš se před večeří převléknout?",
+      "answer_Y_cz": "Půjdu prostě tak, jak jsem."
+    },
+    {
+      "id": 459,
+      "question_X": "You have any change of clothes?",
+      "answer_Y": "I have everything I need in my overnight bag.",
+      "question_X_cz": "Máš nějaké oblečení na převlečení?",
+      "answer_Y_cz": "Všechno, co potřebuju, mám v téhle tašce."
+    },
+    {
+      "id": 464,
+      "question_X": "Did you stop anywhere on the way?",
+      "answer_Y": "I didn't have time.",
+      "question_X_cz": "Stavoval jsi se cestou někde?",
+      "answer_Y_cz": "Neměl jsem na to čas."
+    },
+    {
+      "id": 484,
+      "question_X": "Would you like to meet up with our old friends?",
+      "answer_Y": "It would be great to catch up with them.",
+      "question_X_cz": "Chtěl bys vidět naše staré známé?",
+      "answer_Y_cz": "Bylo by super s nimi probrat, co je nového."
+    },
+    {
+      "id": 524,
+      "question_X": "Do you want some time on your own to explore?",
+      "answer_Y": "I'm happy for company.",
+      "question_X_cz": "Chceš chvíli čas pro sebe na průzkum?",
+      "answer_Y_cz": "Budu rád za společnost."
+    },
+    {
+      "id": 531,
+      "question_X": "Are you leaving tomorrow?",
+      "answer_Y": "We are going to the comedy show tomorrow, remember?",
+      "question_X_cz": "Ty zítra odjíždíš?",
+      "answer_Y_cz": "Zítra přece jdeme na tu komedii, pamatuješ?"
+    },
+    {
+      "id": 535,
+      "question_X": "Can we go for a walk?",
+      "answer_Y": "I love walking around in the city.",
+      "question_X_cz": "Půjdeme se projít?",
+      "answer_Y_cz": "Moc rád se procházím po městě."
+    },
+    {
+      "id": 551,
+      "question_X": "Do you feel like going for a long walk tomorrow?",
+      "answer_Y": "A walk outside would be refreshing.",
+      "question_X_cz": "Máš zítra chuť na delší procházku?",
+      "answer_Y_cz": "Procházka venku by mě osvěžila."
+    },
+    {
+      "id": 570,
+      "question_X": "Are you leaving tomorrow?",
+      "answer_Y": "I'm staying here for two weeks",
+      "question_X_cz": "Ty zítra odjíždíš?",
+      "answer_Y_cz": "Zůstávám tu dva týdny."
+    },
+    {
+      "id": 572,
+      "question_X": "Have you tried Sweetish Hill on 6th yet?",
+      "answer_Y": "Oh that sounds like a place I would like to try.",
+      "question_X_cz": "Už jsi zkusil tu Sweetish Hill na Šesté?",
+      "answer_Y_cz": "To zní jako místo, které bych rád vyzkoušel."
+    },
+    {
+      "id": 575,
+      "question_X": "Are you staying in a hotel?",
+      "answer_Y": "I am for the time being",
+      "question_X_cz": "Bydlíš v hotelu?",
+      "answer_Y_cz": "Zatím ano."
+    },
+    {
+      "id": 579,
+      "question_X": "Are you up for a hike tomorrow morning?",
+      "answer_Y": "I'm down for whatever.",
+      "question_X_cz": "Šel bys zítra ráno na túru?",
+      "answer_Y_cz": "Beru cokoli."
+    },
+    {
+      "id": 599,
+      "question_X": "Was the trip good?",
+      "answer_Y": "The trip was short and sweet!",
+      "question_X_cz": "Byla ta cesta dobrá?",
+      "answer_Y_cz": "Byla sice krátká, ale stála za to!"
+    },
+    {
+      "id": 625,
+      "question_X": "Are you still engaged?",
+      "answer_Y": "She broke off our engagement last month.",
+      "question_X_cz": "Pořád jsi zasnoubený?",
+      "answer_Y_cz": "Minulý měsíc ty zásnuby zrušila."
+    },
+    {
+      "id": 662,
+      "question_X": "Was your flight nonstop?",
+      "answer_Y": "I had a two hour layover.",
+      "question_X_cz": "Měl jsi přímý let?",
+      "answer_Y_cz": "Měl jsem dvouhodinové mezipřistání."
+    },
+    {
+      "id": 666,
+      "question_X": "Are you ready to have fun?",
+      "answer_Y": "you bet I am",
+      "question_X_cz": "Jsi připravená si to užít?",
+      "answer_Y_cz": "To si piš!"
+    },
+    {
+      "id": 681,
+      "question_X": "Is your new job going well?",
+      "answer_Y": "I love it so far",
+      "question_X_cz": "Jde ti to v nové práci dobře?",
+      "answer_Y_cz": "Zatím mě to moc baví."
+    },
+    {
+      "id": 694,
+      "question_X": "Do you fancy a drink after your long journey?",
+      "answer_Y": "That would be refreshing.",
+      "question_X_cz": "Nedáš si po té dlouhé cestě drink?",
+      "answer_Y_cz": "To by mě osvěžilo."
+    },
+    {
+      "id": 706,
+      "question_X": "Are you willing to visit a museum with me?",
+      "answer_Y": "I'd like to see the new exhibit at the art museum.",
+      "question_X_cz": "Chtěla bys se mnou zajít do muzea?",
+      "answer_Y_cz": "Ráda bych viděla tu novou výstavu v galerii."
+    },
+    {
+      "id": 711,
+      "question_X": "Do you know much about this town?",
+      "answer_Y": "Only what you've told me.",
+      "question_X_cz": "Víš o tomhle městě hodně?",
+      "answer_Y_cz": "Jenom to, cos mi řekl ty."
+    }
+  ]

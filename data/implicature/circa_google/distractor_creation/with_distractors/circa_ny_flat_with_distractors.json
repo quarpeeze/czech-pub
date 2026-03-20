@@ -1,0 +1,552 @@
+[
+    {
+      "id": 2,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Budeš si do bytu brát nějaká zvířata?",
+      "answer_Y_cz": "Žádné mazlíčky nemám.",
+      "direct_answer_pos": "Ano, budu si brát zvířata.",
+      "direct_answer_neg": "Ne, nebudu si brát žádná zvířata.",
+      "distractor_lexical": "Žádné nové byty v centru už nejsou.",
+      "distractor_associative": "New York má přísná pravidla pro psy."
+    },
+    {
+      "id": 16,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Bereš si s sebou nějaká zvířata?",
+      "answer_Y_cz": "Vezmu si svého psa.",
+      "direct_answer_pos": "Ano, beru si zvířata.",
+      "direct_answer_neg": "Ne, neberu si žádná zvířata.",
+      "distractor_lexical": "Vezmu si raději byt blízko parku.",
+      "distractor_associative": "Parkování v NYC je velmi drahé."
+    },
+    {
+      "id": 37,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Radila ses s partnerem nebo s rodiči?",
+      "answer_Y_cz": "S partnerem jsem nemluvila celou věčnost.",
+      "direct_answer_pos": "Ano, radila jsem se.",
+      "direct_answer_neg": "Ne, neradila jsem se.",
+      "distractor_lexical": "S partnerem jsme včera v bytě vymalovali.",
+      "distractor_associative": "Ceny nájmů v NY stále rostou."
+    },
+    {
+      "id": 39,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Potřebuješ hodně místa?",
+      "answer_Y_cz": "Stačila by mi malá garsonka.",
+      "direct_answer_pos": "Ano, potřebuju hodně místa.",
+      "direct_answer_neg": "Ne, nepotřebuju hodně místa.",
+      "distractor_lexical": "Stačila by mi v kuchyni nová polička.",
+      "distractor_associative": "Manhattan má vysokou hustotu zalidnění."
+    },
+    {
+      "id": 46,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Bydlel jsi už někdy v New Yorku?",
+      "answer_Y_cz": "Byl jsem tam jen na dovolené.",
+      "direct_answer_pos": "Ano, už jsem tam bydlel.",
+      "direct_answer_neg": "Ne, ještě jsem tam nebydlel.",
+      "distractor_lexical": "Byl jsem se včera na ten byt podívat.",
+      "distractor_associative": "Empire State Building je v centru."
+    },
+    {
+      "id": 52,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Zjišťoval jsi si něco o čtvrtích, které tě zajímají?",
+      "answer_Y_cz": "Dost jsem toho hledal na internetu.",
+      "direct_answer_pos": "Ano, zjišťoval jsem si informace.",
+      "direct_answer_neg": "Ne, nezjišťoval jsem si informace.",
+      "distractor_lexical": "Dost bytů v NY má stará okna.",
+      "distractor_associative": "Brooklyn je velmi populární čtvrť."
+    },
+    {
+      "id": 54,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Máš nějaké domácí mazlíčky?",
+      "answer_Y_cz": "Mám kočku.",
+      "direct_answer_pos": "Ano, mám mazlíčky.",
+      "direct_answer_neg": "Ne, nemám žádné mazlíčky.",
+      "distractor_lexical": "Mám v bytě hromadu krabic.",
+      "distractor_associative": "Stěhování v NYC je logisticky náročné."
+    },
+    {
+      "id": 92,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Musí to být přímo v centru?",
+      "answer_Y_cz": "Může to být i na okraji.",
+      "direct_answer_pos": "Ano, musí to být v centru.",
+      "direct_answer_neg": "Ne, nemusí to být v centru.",
+      "distractor_lexical": "Může to být v tomhle domě v noci hlučné.",
+      "distractor_associative": "Queens nabízí často levnější nájmy."
+    },
+    {
+      "id": 95,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Je to blízko stanice metra?",
+      "answer_Y_cz": "Je to hned v téhle ulici.",
+      "direct_answer_pos": "Ano, je to blízko metra.",
+      "direct_answer_neg": "Ne, není to blízko metra.",
+      "distractor_lexical": "Je to v téhle čtvrti docela drahé.",
+      "distractor_associative": "Broadway je jedna z nejdelších ulic."
+    },
+    {
+      "id": 97,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Budeš ten byt s někým sdílet?",
+      "answer_Y_cz": "Těším se, až budu bydlet sám.",
+      "direct_answer_pos": "Ano, budu ho sdílet.",
+      "direct_answer_neg": "Ne, nebudu ho sdílet.",
+      "distractor_lexical": "Těším se na prohlídky dalších bytů.",
+      "distractor_associative": "Sdílení bytu šetří peníze za nájem."
+    },
+    {
+      "id": 110,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Je to v bezpečné oblasti?",
+      "answer_Y_cz": "V téhle čtvrti k moc zločinům nedochází.",
+      "direct_answer_pos": "Ano, je to v bezpečí.",
+      "direct_answer_neg": "Ne, není to v bezpečí.",
+      "distractor_lexical": "V téhle budově mají v noci zavřeno.",
+      "distractor_associative": "Bezpečnostní kamery jsou v NY běžné."
+    },
+    {
+      "id": 117,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Chceš bydlet v nějaké dostupnější části města?",
+      "answer_Y_cz": "Chtěla bych něco trochu levnějšího.",
+      "direct_answer_pos": "Ano, chci bydlet v dostupnější části.",
+      "direct_answer_neg": "Ne, nechci bydlet v dostupnější části.",
+      "distractor_lexical": "Chtěla bych v ložnici vymalovat na modro.",
+      "distractor_associative": "Poptávka po bytech v NY neklesá."
+    },
+    {
+      "id": 128,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Máš nějaký strop, kolik chceš platit?",
+      "answer_Y_cz": "Maximálně tři sta dolarů.",
+      "direct_answer_pos": "Ano, mám finanční strop.",
+      "direct_answer_neg": "Ne, nemám finanční strop.",
+      "distractor_lexical": "Maximálně tři měsíce budu v podnájmu.",
+      "distractor_associative": "V USA se platí americkými dolary."
+    },
+    {
+      "id": 146,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Chtěl bys dům s vrátným?",
+      "answer_Y_cz": "To by bylo fajn.",
+      "direct_answer_pos": "Ano, chtěl bych vrátného.",
+      "direct_answer_neg": "Ne, nechtěl bych vrátného.",
+      "distractor_lexical": "To by bylo v kuchyni hrozně málo místa.",
+      "distractor_associative": "Vrátní v NY zvyšují pocit bezpečí."
+    },
+    {
+      "id": 175,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Uvažuješ o spolubydlících?",
+      "answer_Y_cz": "Peníze navíc budu potřebovat.",
+      "direct_answer_pos": "Ano, uvažuju o nich.",
+      "direct_answer_neg": "Ne, neuvažuju o nich.",
+      "distractor_lexical": "Peníze na kauci mám už připravené.",
+      "distractor_associative": "Poplatky v NYC jsou celosvětově vysoké."
+    },
+    {
+      "id": 181,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Nevadí ti hluk velkoměsta?",
+      "answer_Y_cz": "To zvládnu.",
+      "direct_answer_pos": "Ano, vadí mi.",
+      "direct_answer_neg": "Ne, nevadí mi.",
+      "distractor_lexical": "To v téhle ulici v noci nesvítí lampy.",
+      "distractor_associative": "New York je proslulý hlukem z ulic."
+    },
+    {
+      "id": 188,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Máš rád prostorné byty?",
+      "answer_Y_cz": "Přijdou mi skvělé.",
+      "direct_answer_pos": "Ano, mám je rád.",
+      "direct_answer_neg": "Ne, nemám je rád.",
+      "distractor_lexical": "Přijdou mi včera ty nové klíče od bytu.",
+      "distractor_associative": "Loftové byty mají často vysoké stropy."
+    },
+    {
+      "id": 190,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Můžeš si dovolit tak vysoký nájem?",
+      "answer_Y_cz": "Mám dost hotovosti, abych nějakou dobu vydržel.",
+      "direct_answer_pos": "Ano, můžu si ho dovolit.",
+      "direct_answer_neg": "Ne, nemůžu si ho dovolit.",
+      "distractor_lexical": "Mám v bytě dost světla díky oknům.",
+      "distractor_associative": "Banky v NY vyžadují hromadu dokumentů."
+    },
+    {
+      "id": 197,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Můžeš doložit potvrzení o příjmu?",
+      "answer_Y_cz": "Měl bys to zvládnout.",
+      "direct_answer_pos": "Ano, můžu.",
+      "direct_answer_neg": "Ne, nemůžu.",
+      "distractor_lexical": "Měl bys v tomhle domě v noci víc větrat.",
+      "distractor_associative": "Pojištění bytu je v USA nutné."
+    },
+    {
+      "id": 248,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Už jsi začal hledat?",
+      "answer_Y_cz": "Podívám se, až tam dorazíme.",
+      "direct_answer_pos": "Ano, už jsem začal.",
+      "direct_answer_neg": "Ne, ještě jsem nezačal.",
+      "distractor_lexical": "Podívám se na mapu všech zastávek metra.",
+      "distractor_associative": "Times Square leží přímo na Manhattanu."
+    },
+    {
+      "id": 255,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Můžeš doložit potvrzení o příjmu?",
+      "answer_Y_cz": "Zatím jsem tam nedostal práci.",
+      "direct_answer_pos": "Ano, můžu doložit.",
+      "direct_answer_neg": "Ne, nemůžu doložit.",
+      "distractor_lexical": "Zatím jsem si v New Yorku lístky nekoupil.",
+      "distractor_associative": "Trh práce v NY je velmi konkurenční."
+    },
+    {
+      "id": 263,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Budeš mít byt přímo ve městě?",
+      "answer_Y_cz": "Můžu si dovolit jen New Jersey.",
+      "direct_answer_pos": "Ano, budu mít byt ve městě.",
+      "direct_answer_neg": "Ne, nebudu mít byt ve městě.",
+      "distractor_lexical": "Můžu si v novém bytě nechat svoji kočku.",
+      "distractor_associative": "Jersey City leží u řeky Hudson."
+    },
+    {
+      "id": 290,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Máte děti?",
+      "answer_Y_cz": "Vzhledem k přelidnění jsem se vědomě rozhodla k tomu problému nepřispívat.",
+      "direct_answer_pos": "Ano, mám děti.",
+      "direct_answer_neg": "Ne, nemám děti.",
+      "distractor_lexical": "Vzhledem k poloze bytu je tam hrozný hluk.",
+      "distractor_associative": "Statistiky porodnosti v USA mírně klesají."
+    },
+    {
+      "id": 291,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Plánuješ chodit do práce pěšky?",
+      "answer_Y_cz": "Koupil jsem si kolo.",
+      "direct_answer_pos": "Ano, plánuju chodit pěšky.",
+      "direct_answer_neg": "Ne, neplánuju chodit pěšky.",
+      "distractor_lexical": "Koupil jsem si v New Yorku novou mapu.",
+      "distractor_associative": "NYC má stovky mil cyklostezek."
+    },
+    {
+      "id": 293,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Je New York tvoje jediná možnost?",
+      "answer_Y_cz": "Mají volné místo i v Bostonu.",
+      "direct_answer_pos": "Ano, je to jediná možnost.",
+      "direct_answer_neg": "Ne, není to jediná možnost.",
+      "distractor_lexical": "Mají v tomhle domě hned v podkroví volný ateliér.",
+      "distractor_associative": "Boston leží severně od New Yorku."
+    },
+    {
+      "id": 294,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Díval ses, co se teď nabízí?",
+      "answer_Y_cz": "Trochu jsem na to koukal.",
+      "direct_answer_pos": "Ano, díval jsem se.",
+      "direct_answer_neg": "Ne, nedíval jsem se.",
+      "distractor_lexical": "Trochu jsem včera v centru New Yorku zabloudil.",
+      "distractor_associative": "Zillow je populární realitní web v USA."
+    },
+    {
+      "id": 301,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Zjišťoval jsi si, jak dlouho ti potrvá cesta do práce z různých čtvrtí?",
+      "answer_Y_cz": "To si ještě musím spočítat.",
+      "direct_answer_pos": "Ano, zjišťoval jsem si to.",
+      "direct_answer_neg": "Ne, nezjišťoval jsem si to.",
+      "distractor_lexical": "To si v novém bytě v kuchyni brzy opravím.",
+      "distractor_associative": "Metro je nejrychlejší doprava ve městě."
+    },
+    {
+      "id": 326,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Bydlel jsi už někdy v New Yorku?",
+      "answer_Y_cz": "Bydlel jsem už ve třech různých čtvrtích.",
+      "direct_answer_pos": "Ano, už jsem tam bydlel.",
+      "direct_answer_neg": "Ne, ještě jsem tam nebydlel.",
+      "distractor_lexical": "Bydlel jsem včera v hotelu kousek od letiště.",
+      "distractor_associative": "Harlem je historicky významná čtvrť."
+    },
+    {
+      "id": 329,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Chceš bydlet blízko zastávky metra?",
+      "answer_Y_cz": "To je samozřejmost.",
+      "direct_answer_pos": "Ano, chci bydlet blízko metra.",
+      "direct_answer_neg": "Ne, nechci bydlet blízko metra.",
+      "distractor_lexical": "To je v New Yorku docela drahý nájem.",
+      "distractor_associative": "Blízkost metra zvyšuje tržní cenu bytu."
+    },
+    {
+      "id": 341,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Uvažuješ o tom, že se do New Yorku přestěhuješ natrvalo?",
+      "answer_Y_cz": "Do důchodu tam být nechci.",
+      "direct_answer_pos": "Ano, uvažuju o tom.",
+      "direct_answer_neg": "Ne, neuvažuju o tom.",
+      "distractor_lexical": "Do bytu v noci hrozně svítí pouliční lampy.",
+      "distractor_associative": "Důchody se v USA liší podle daného státu."
+    },
+    {
+      "id": 357,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Nevadí ti dlouhé jízdy metrem?",
+      "answer_Y_cz": "V metru mám aspoň čas si víc číst.",
+      "direct_answer_pos": "Ano, vadí mi.",
+      "direct_answer_neg": "Ne, nevadí mi.",
+      "distractor_lexical": "V metru je v New Yorku v létě hrozné horko.",
+      "distractor_associative": "Brooklyn Bridge spojuje dvě velké čtvrti."
+    },
+    {
+      "id": 361,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Máš v New Yorku nějaké přátele nebo rodinu?",
+      "answer_Y_cz": "Většina mých kamarádů tam bydlí.",
+      "direct_answer_pos": "Ano, mám tam přátele.",
+      "direct_answer_neg": "Ne, nemám tam přátele.",
+      "distractor_lexical": "Většina bytů v tomhle domě má malý balkon.",
+      "distractor_associative": "Socializace v NY často probíhá v barech."
+    },
+    {
+      "id": 364,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Má to dvě ložnice?",
+      "answer_Y_cz": "Je to garsonka.",
+      "direct_answer_pos": "Ano, má dvě ložnice.",
+      "direct_answer_neg": "Ne, nemá dvě ložnice.",
+      "distractor_lexical": "Je to v New Yorku v noci hodně rušné.",
+      "distractor_associative": "Ložnice v bytech v NY bývají velmi malé."
+    },
+    {
+      "id": 367,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Nevadil by ti suterénní byt?",
+      "answer_Y_cz": "Potřebuju bydlet nad zemí.",
+      "direct_answer_pos": "Ano, nevadil by mi.",
+      "direct_answer_neg": "Ne, vadil by mi.",
+      "distractor_lexical": "Potřebuju v bytě nejdřív vyměnit všechny zámky.",
+      "distractor_associative": "Central Park je zeleným srdcem NY."
+    },
+    {
+      "id": 379,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Nechceš zkusit obvolat nějaké realitní makléře?",
+      "answer_Y_cz": "To by mi pomohlo.",
+      "direct_answer_pos": "Ano, chci je obvolat.",
+      "direct_answer_neg": "Ne, nechci je obvolat.",
+      "distractor_lexical": "To by v realitce včera nikdo nečekal.",
+      "distractor_associative": "Makléři si v USA účtují fixní provizi."
+    },
+    {
+      "id": 380,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Myslíš, že si v New Yorku najdeš práci?",
+      "answer_Y_cz": "Je to místo plné příležitostí.",
+      "direct_answer_pos": "Ano, myslím si to.",
+      "direct_answer_neg": "Ne, nemyslím si to.",
+      "distractor_lexical": "Je to v téhle ulici docela blízko k řece.",
+      "distractor_associative": "Statisticky se v NY žije velmi rychle."
+    },
+    {
+      "id": 386,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Chceš se stěhovat přímo do centra?",
+      "answer_Y_cz": "Manhattan je moje první volba.",
+      "direct_answer_pos": "Ano, chci do centra.",
+      "direct_answer_neg": "Ne, nechci do centra.",
+      "distractor_lexical": "Manhattan má v noci hrozně moc jasných světel.",
+      "distractor_associative": "Fifth Avenue je světoznámá luxusní ulice."
+    },
+    {
+      "id": 426,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Můžeš si dovolit žít v New Yorku?",
+      "answer_Y_cz": "Potřebuju druhou práci.",
+      "direct_answer_pos": "Ano, můžu.",
+      "direct_answer_neg": "Ne, nemůžu.",
+      "distractor_lexical": "Potřebuju v bytě nejdřív vymalovat ložnici.",
+      "distractor_associative": "Minimální mzda v NY je dána zákonem."
+    },
+    {
+      "id": 453,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Budeš trávit Vánoce v Calgary?",
+      "answer_Y_cz": "Budu v Neapoli.",
+      "direct_answer_pos": "Ano, budu v Calgary.",
+      "direct_answer_neg": "Ne, nebudu v Calgary.",
+      "distractor_lexical": "Budu v novém bytě malovat až příští týden.",
+      "distractor_associative": "Socha svobody se nachází přímo v přístavu."
+    },
+    {
+      "id": 479,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Je to dobrá čtvrť?",
+      "answer_Y_cz": "Je to lepší adresa s nízkou kriminalitou.",
+      "direct_answer_pos": "Ano, je dobrá.",
+      "direct_answer_neg": "Ne, není dobrá.",
+      "distractor_lexical": "Je to v New Yorku v létě hrozně dusno.",
+      "distractor_associative": "Místní policie pravidelně hlídkuje v ulicích."
+    },
+    {
+      "id": 527,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Už ses rozhodl, který chceš?",
+      "answer_Y_cz": "Jeden byt už jsem si vybral.",
+      "direct_answer_pos": "Ano, rozhodl jsem se.",
+      "direct_answer_neg": "Ne, ještě jsem se nerozhodl.",
+      "distractor_lexical": "Jeden byt v tomhle domě včera celý vyhořel.",
+      "distractor_associative": "Realitní agenti doporučují osobní prohlídky."
+    },
+    {
+      "id": 540,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Plánujete v tom bytě sami bydlet?",
+      "answer_Y_cz": "Ten byt je pro mě a pro manžela.",
+      "direct_answer_pos": "Ano, plánujeme.",
+      "direct_answer_neg": "Ne, neplánujeme.",
+      "distractor_lexical": "Ten byt má v New Yorku hrozně stará okna.",
+      "distractor_associative": "Oddací listy jsou v USA úředním dokladem."
+    },
+    {
+      "id": 587,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Nabízíš tu požadovanou cenu?",
+      "answer_Y_cz": "Trochu méně.",
+      "direct_answer_pos": "Ano, nabízím ji.",
+      "direct_answer_neg": "Ne, nenabízím ji.",
+      "distractor_lexical": "Trochu méně v New Yorku prší v létě.",
+      "distractor_associative": "Smlouvání o ceně je v amerických realitách běžné."
+    },
+    {
+      "id": 591,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Máš teď hypotéku?",
+      "answer_Y_cz": "Loni jsem ji doplatil.",
+      "direct_answer_pos": "Ano, mám hypotéku.",
+      "direct_answer_neg": "Ne, nemám hypotéku.",
+      "distractor_lexical": "Loni se v New Yorku otevřela nová trať.",
+      "distractor_associative": "Dluhy na hypotékách jsou v USA velmi běžné."
+    },
+    {
+      "id": 619,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Chtěla bys mít balkon?",
+      "answer_Y_cz": "To by bylo ideální.",
+      "direct_answer_pos": "Ano, chtěla bych balkon.",
+      "direct_answer_neg": "Ne, nechtěla bych balkon.",
+      "distractor_lexical": "To by bylo v New Yorku na ulici ticho.",
+      "distractor_associative": "Střešní terasy jsou v NY velmi populární."
+    },
+    {
+      "id": 642,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Můžeš se stěhovat už v dubnu?",
+      "answer_Y_cz": "Dřív než v červenci to nepůjde.",
+      "direct_answer_pos": "Ano, můžu.",
+      "direct_answer_neg": "Ne, nemůžu.",
+      "distractor_lexical": "Dřív než zítra ty klíče od bytu mít nebudu.",
+      "distractor_associative": "V USA začínají nájmy často prvního v měsíci."
+    },
+    {
+      "id": 643,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Uvažuješ o stěhování v brzké době?",
+      "answer_Y_cz": "Co nejdřív to půjde.",
+      "direct_answer_pos": "Ano, uvažuju o tom.",
+      "direct_answer_neg": "Ne, neuvažuju o tom.",
+      "distractor_lexical": "Co nejdříve v New Yorku opravte to metro.",
+      "distractor_associative": "Wall Street je známým finančním centrem."
+    },
+    {
+      "id": 656,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Už ses rozhodl, v jaké čtvrti chceš kupovat?",
+      "answer_Y_cz": "Pořád se ještě rozmýšlím.",
+      "direct_answer_pos": "Ano, už jsem se rozhodl.",
+      "direct_answer_neg": "Ne, ještě jsem se nerozhodl.",
+      "distractor_lexical": "Pořád je v New Yorku v noci hrozný hluk.",
+      "distractor_associative": "Makléři nabízejí často virtuální prohlídky."
+    },
+    {
+      "id": 685,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Nabízíš tu vyvolávací cenu?",
+      "answer_Y_cz": "Požádal jsem o slevu za nastěhování.",
+      "direct_answer_pos": "Ano, nabízím ji.",
+      "direct_answer_neg": "Ne, nenabízím ji.",
+      "distractor_lexical": "Požádal jsem v New Yorku o novou mapu.",
+      "distractor_associative": "V USA se často platí vysoká kauce předem."
+    },
+    {
+      "id": 696,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Není to hrozně drahé?",
+      "answer_Y_cz": "Je to víc, než jsem si myslel.",
+      "direct_answer_pos": "Ano, je to drahé.",
+      "direct_answer_neg": "Ne, není to drahé.",
+      "distractor_lexical": "Je to v New Yorku hrozně velký a starý byt.",
+      "distractor_associative": "New York patří k nejdražším městům na světě."
+    },
+    {
+      "id": 710,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Budeš jezdit do práce autem?",
+      "answer_Y_cz": "To mám v plánu.",
+      "direct_answer_pos": "Ano, budu jezdit autem.",
+      "direct_answer_neg": "Ne, nebudu jezdit autem.",
+      "distractor_lexical": "To mám v realitce v New Yorku domluvené.",
+      "distractor_associative": "Dopravní zácpy jsou v NY na denním pořádku."
+    },
+    {
+      "id": 737,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Byl jsi v New Yorku?",
+      "answer_Y_cz": "Tohle bude moje poprvé.",
+      "direct_answer_pos": "Ano, byl jsem tam.",
+      "direct_answer_neg": "Ne, nebyl jsem tam.",
+      "distractor_lexical": "Tohle bude v realitce v New Yorku velký den.",
+      "distractor_associative": "Zahraniční kupci nemovitostí v NY přibývají."
+    },
+    {
+      "id": 738,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Má ta čtvrť dobrou pověst?",
+      "answer_Y_cz": "Na všech stránkách, co jsem koukal, měla ta oblast skvělé hodnocení.",
+      "direct_answer_pos": "Ano, má dobrou pověst.",
+      "direct_answer_neg": "Ne, nemá dobrou pověst.",
+      "distractor_lexical": "Na všech stránkách o realitách v NY jsou i fotky.",
+      "distractor_associative": "Online recenze čtvrtí jsou volně dostupné."
+    },
+    {
+      "id": 741,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Musí to být přímo ve městě?",
+      "answer_Y_cz": "To je v plánu.",
+      "direct_answer_pos": "Ano, musí to být ve městě.",
+      "direct_answer_neg": "Ne, nemusí to být ve městě.",
+      "distractor_lexical": "To je v New Yorku docela starý cihlový dům.",
+      "distractor_associative": "Městské daně se v USA liší podle dané lokality."
+    },
+    {
+      "id": 750,
+      "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+      "question_X_cz": "Hledáš nějaký drahý byt?",
+      "answer_Y_cz": "Potřebuju spíš něco levnějšího.",
+      "direct_answer_pos": "Ano, hledám drahý byt.",
+      "direct_answer_neg": "Ne, nehledám drahý byt.",
+      "distractor_lexical": "Potřebuju si v New Yorku nejdřív koupit nové boty.",
+      "distractor_associative": "Ceny nemovitostí v NY v čase neustále kolísají."
+    }
+  ]

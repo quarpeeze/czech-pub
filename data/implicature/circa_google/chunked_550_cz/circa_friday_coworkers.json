@@ -1,0 +1,387 @@
+[
+    {
+      "id": 44,
+      "question_X": "Has this work week gone quickly for you?",
+      "answer_Y": "It's gone very slowly.",
+      "question_X_cz": "Utekl ti tenhle pracovní týden rychle?",
+      "answer_Y_cz": "Vlekl se hrozně pomalu."
+    },
+    {
+      "id": 48,
+      "question_X": "Do you want me to walk you to your car?",
+      "answer_Y": "That would be really nice, thanks.",
+      "question_X_cz": "Chceš, abych tě doprovodil k autu?",
+      "answer_Y_cz": "To by bylo od tebe moc milé, díky."
+    },
+    {
+      "id": 94,
+      "question_X": "Do you have a date?",
+      "answer_Y": "I'm meeting my kids.",
+      "question_X_cz": "Máš dneska rande?",
+      "answer_Y_cz": "Jdu za dětmi."
+    },
+    {
+      "id": 112,
+      "question_X": "Will you be at work tomorrow?",
+      "answer_Y": "I never work on weekends.",
+      "question_X_cz": "Budeš zítra v práci?",
+      "answer_Y_cz": "O víkendech zásadně nepracuju."
+    },
+    {
+      "id": 132,
+      "question_X": "Are you going out tonight?",
+      "answer_Y": "I am not",
+      "question_X_cz": "Chystáš se dneska večer někam ven?",
+      "answer_Y_cz": "To zrovna ne."
+    },
+    {
+      "id": 145,
+      "question_X": "Want to grab something to eat?",
+      "answer_Y": "Let's get tacos.",
+      "question_X_cz": "Nedáme si něco k jídlu?",
+      "answer_Y_cz": "Pojďme na taco."
+    },
+    {
+      "id": 149,
+      "question_X": "Want to go get a drink??",
+      "answer_Y": "I want to have 3 drinks.",
+      "question_X_cz": "Zajdeme na drink?",
+      "answer_Y_cz": "Dal bych si aspoň tři."
+    },
+    {
+      "id": 166,
+      "question_X": "Is it the end of the day already?",
+      "answer_Y": "It's hard to believe.",
+      "question_X_cz": "To už je vážně konec pracovní doby?",
+      "answer_Y_cz": "Člověk tomu ani nechce věřit."
+    },
+    {
+      "id": 169,
+      "question_X": "Do you have a date?",
+      "answer_Y": "I have a date with my wife.",
+      "question_X_cz": "Máš rande?",
+      "answer_Y_cz": "Mám rande se svou ženou."
+    },
+    {
+      "id": 186,
+      "question_X": "Are you doing something fun this weekend?",
+      "answer_Y": "We're going to the zoo.",
+      "question_X_cz": "Podnikneš o víkendu něco zábavného?",
+      "answer_Y_cz": "Vyrážíme do zoo."
+    },
+    {
+      "id": 204,
+      "question_X": "Got anything going on on Saturday?",
+      "answer_Y": "I am planting the garden.",
+      "question_X_cz": "Máš na sobotu nějaký program?",
+      "answer_Y_cz": "Budu sázet na zahradě."
+    },
+    {
+      "id": 210,
+      "question_X": "Do you work near by?",
+      "answer_Y": "We work together.",
+      "question_X_cz": "Pracuješ někde tady poblíž?",
+      "answer_Y_cz": "Vždyť pracujeme spolu."
+    },
+    {
+      "id": 264,
+      "question_X": "Will you be going out at the weekend ?",
+      "answer_Y": "I'm headed out to the slopes.",
+      "question_X_cz": "Vyrážíš o víkendu někam ven?",
+      "answer_Y_cz": "Vyrážím na svah."
+    },
+    {
+      "id": 266,
+      "question_X": "Are you ready for the weekend?",
+      "answer_Y": "I certainly am",
+      "question_X_cz": "Jsi připravený na víkend?",
+      "answer_Y_cz": "To si piš."
+    },
+    {
+      "id": 282,
+      "question_X": "Will you be in tomorrow?",
+      "answer_Y": "I don't come back till next week.",
+      "question_X_cz": "Budeš tu zítra?",
+      "answer_Y_cz": "Vrátím se až příští týden."
+    },
+    {
+      "id": 285,
+      "question_X": "Are you going out this weekend?",
+      "answer_Y": "I'm going out of town.",
+      "question_X_cz": "Chystáš se o víkendu někam?",
+      "answer_Y_cz": "Odjíždím z města."
+    },
+    {
+      "id": 316,
+      "question_X": "Do you want to walk to the bus stop together?",
+      "answer_Y": "That would be nice.",
+      "question_X_cz": "Nechceš jít na zastávku společně?",
+      "answer_Y_cz": "To by bylo fajn."
+    },
+    {
+      "id": 334,
+      "question_X": "Do you have your keys?",
+      "answer_Y": "I forgot them upstairs.",
+      "question_X_cz": "Máš klíče?",
+      "answer_Y_cz": "Nechal jsem je nahoře."
+    },
+    {
+      "id": 336,
+      "question_X": "Do you want to hang out later?",
+      "answer_Y": "I could do with a stiff drink.",
+      "question_X_cz": "Nepodnikneme později něco?",
+      "answer_Y_cz": "Potřeboval bych nějakého panáka."
+    },
+    {
+      "id": 339,
+      "question_X": "Are you spending time with friends or family over the weekend?",
+      "answer_Y": "I have too much work to do.",
+      "question_X_cz": "Budeš o víkendu s rodinou nebo s přáteli?",
+      "answer_Y_cz": "Mám moc práce."
+    },
+    {
+      "id": 359,
+      "question_X": "Are you doing anything fun tonight?",
+      "answer_Y": "I'm going to hit the hay early.",
+      "question_X_cz": "Děláš dneska večer něco zajímavého?",
+      "answer_Y_cz": "Půjdu brzo na kutě."
+    },
+    {
+      "id": 382,
+      "question_X": "Heading home?",
+      "answer_Y": "I am off to the horse track.",
+      "question_X_cz": "Míříš domů?",
+      "answer_Y_cz": "Vyrážím na dostihy."
+    },
+    {
+      "id": 401,
+      "question_X": "Do you have your kids this weekend?",
+      "answer_Y": "They are at their dad's house.",
+      "question_X_cz": "Máš tenhle víkend u sebe děti?",
+      "answer_Y_cz": "Jsou u táty."
+    },
+    {
+      "id": 415,
+      "question_X": "Wanna hang out at the weekend?",
+      "answer_Y": "I'm going out of town.",
+      "question_X_cz": "Nechceš o víkendu něco podniknout?",
+      "answer_Y_cz": "Odjíždím pryč."
+    },
+    {
+      "id": 417,
+      "question_X": "Is your department busy this time of year?",
+      "answer_Y": "There's not much work.",
+      "question_X_cz": "Má vaše oddělení v tuhle roční dobu napilno?",
+      "answer_Y_cz": "Moc práce teď není."
+    },
+    {
+      "id": 418,
+      "question_X": "Have you made dinner plans yet?",
+      "answer_Y": "I have reservations at the new French place.",
+      "question_X_cz": "Už máš vymyšlenou večeři?",
+      "answer_Y_cz": "Mám rezervaci v té nové francouzské restauraci."
+    },
+    {
+      "id": 419,
+      "question_X": "Would hanging out this weekend be something you're into?",
+      "answer_Y": "I don't think I have time this weekend.",
+      "question_X_cz": "Chtěl bys o víkendu něco podniknout?",
+      "answer_Y_cz": "Tenhle víkend mi to asi nevyjde."
+    },
+    {
+      "id": 440,
+      "question_X": "Hey if you're up to it, would you like to hit the gym with me in the morning?",
+      "answer_Y": "I'm already going to a yoga class.",
+      "question_X_cz": "Hele, jestli se na to cítíš, nezašel bys se mnou ráno do fitka?",
+      "answer_Y_cz": "Už jdu na lekci jógy."
+    },
+    {
+      "id": 442,
+      "question_X": "Have you tried the new restaurant by work?",
+      "answer_Y": "I haven't, but I've heard good things.",
+      "question_X_cz": "Už jsi zkusil tu novou restauraci u nás u práce?",
+      "answer_Y_cz": "Zatím ne, ale slyšel jsem na ni chválu."
+    },
+    {
+      "id": 446,
+      "question_X": "Do you get along with our colleagues?",
+      "answer_Y": "They're wonderful.",
+      "question_X_cz": "Vycházíš s našimi kolegy dobře?",
+      "answer_Y_cz": "Jsou skvělí."
+    },
+    {
+      "id": 449,
+      "question_X": "Do you plan on going home?",
+      "answer_Y": "I have errands to run first.",
+      "question_X_cz": "Chystáš se domů?",
+      "answer_Y_cz": "Musím si nejdřív ještě něco zařídit."
+    },
+    {
+      "id": 450,
+      "question_X": "Do you have house chores to do this weekend?",
+      "answer_Y": "I've got to tidy up my kitchen this weekend.",
+      "question_X_cz": "Čekají tě o víkendu domácí práce?",
+      "answer_Y_cz": "Musím o víkendu poklidit kuchyň."
+    },
+    {
+      "id": 455,
+      "question_X": "Do you find your coworkers pleasant?",
+      "answer_Y": "I'd say they are very amicable.",
+      "question_X_cz": "Zdají se ti kolegové milí?",
+      "answer_Y_cz": "Řekl bych, že jsou velmi přátelští."
+    },
+    {
+      "id": 490,
+      "question_X": "Do you want me to walk you to your car?",
+      "answer_Y": "If you don't mind.",
+      "question_X_cz": "Chceš, abych tě doprovodil k autu?",
+      "answer_Y_cz": "Jestli ti to nevadí."
+    },
+    {
+      "id": 495,
+      "question_X": "Want to go to the movies?",
+      "answer_Y": "I'd rather go to the mall.",
+      "question_X_cz": "Nezašel bys do kina?",
+      "answer_Y_cz": "Radši bych šla do nákupáku."
+    },
+    {
+      "id": 514,
+      "question_X": "Do you have to work your other job this weekend?",
+      "answer_Y": "I am on holidays.",
+      "question_X_cz": "Musíš být o víkendu ve své druhé práci?",
+      "answer_Y_cz": "Mám dovolenou."
+    },
+    {
+      "id": 518,
+      "question_X": "Do you have plans for this evening?",
+      "answer_Y": "I plan to head to the gym tonight.",
+      "question_X_cz": "Máš na dnešní večer nějaké plány?",
+      "answer_Y_cz": "Mám v plánu jít dneska do fitka."
+    },
+    {
+      "id": 537,
+      "question_X": "Was work fun?",
+      "answer_Y": "Work is always a chore.",
+      "question_X_cz": "Byla v práci zábava?",
+      "answer_Y_cz": "Práce je vždycky otrava."
+    },
+    {
+      "id": 548,
+      "question_X": "How you seen the scooter rentals?",
+      "answer_Y": "I haven't seen any yet",
+      "question_X_cz": "Viděl jsi ty sdílené koloběžky?",
+      "answer_Y_cz": "Zatím jsem žádné neviděl."
+    },
+    {
+      "id": 550,
+      "question_X": "Do you have to be home for a certain time?",
+      "answer_Y": "The joy of being single, my time is my own.",
+      "question_X_cz": "Musíš být doma na nějakou konkrétní hodinu?",
+      "answer_Y_cz": "V tom je ta krása, když je člověk nezadaný – můj čas patří jen mně."
+    },
+    {
+      "id": 560,
+      "question_X": "Do you have plans for this weekend?",
+      "answer_Y": "I'm meeting up with a few friends.",
+      "question_X_cz": "Máš na víkend nějaké plány?",
+      "answer_Y_cz": "Sejdu se s pár kamarády."
+    },
+    {
+      "id": 566,
+      "question_X": "Do you have dinner plans?",
+      "answer_Y": "I did but thery were cancelled.",
+      "question_X_cz": "Máš v plánu nějakou večeři?",
+      "answer_Y_cz": "Měl jsem, ale zrušilo se to."
+    },
+    {
+      "id": 592,
+      "question_X": "How you seen the scooter rentals?",
+      "answer_Y": "I tried one in San Diego -- they're fun.",
+      "question_X_cz": "Viděl jsi ty sdílené koloběžky?",
+      "answer_Y_cz": "Zkoušel jsem jednu v San Diegu, je to sranda."
+    },
+    {
+      "id": 595,
+      "question_X": "Are you relieved it's Friday?",
+      "answer_Y": "I am always happy to see Friday",
+      "question_X_cz": "Ulevilo se ti, že už je pátek?",
+      "answer_Y_cz": "Z pátku mám radost vždycky."
+    },
+    {
+      "id": 598,
+      "question_X": "Do you guys want to go get something to eat?",
+      "answer_Y": "I could grab a bite.",
+      "question_X_cz": "Nechcete si jít něco dát?",
+      "answer_Y_cz": "Něco malého bych si dal."
+    },
+    {
+      "id": 609,
+      "question_X": "Hi, are you okay?",
+      "answer_Y": "I think I just broke my toe.",
+      "question_X_cz": "Ahoj, jsi v pohodě?",
+      "answer_Y_cz": "Asi jsem si zrovna zlomila palec."
+    },
+    {
+      "id": 616,
+      "question_X": "Are the two of you dating now?",
+      "answer_Y": "We haven't starting dating.",
+      "question_X_cz": "Vy dva už spolu chodíte?",
+      "answer_Y_cz": "Ještě jsme spolu nezačali chodit."
+    },
+    {
+      "id": 623,
+      "question_X": "Are you divorced?",
+      "answer_Y": "I've never been married.",
+      "question_X_cz": "Jsi rozvedený?",
+      "answer_Y_cz": "Nikdy jsem nebyl ženatý."
+    },
+    {
+      "id": 630,
+      "question_X": "Chilly tonight isn't it?",
+      "answer_Y": "It's January, so that makes sense.",
+      "question_X_cz": "Dneska večer je celkem chladno, že?",
+      "answer_Y_cz": "Je leden, tak se není čemu divit."
+    },
+    {
+      "id": 634,
+      "question_X": "Have you been to the new bar in the neighborhood?",
+      "answer_Y": "I just saw an ad for that place, but I'm not sure where exactly it is.",
+      "question_X_cz": "Už jsi byl v tom novém baru u nás ve čtvrti?",
+      "answer_Y_cz": "Zrovna jsem na to viděl reklamu, ale nejsem si jistý, kde přesně to je."
+    },
+    {
+      "id": 638,
+      "question_X": "Have any weekend plans?",
+      "answer_Y": "I've got nothing on my calendar.",
+      "question_X_cz": "Máš nějaké plány na víkend?",
+      "answer_Y_cz": "V kalendáři nemám vůbec nic."
+    },
+    {
+      "id": 641,
+      "question_X": "Are you doing something fun this weekend?",
+      "answer_Y": "We're going to a spa.",
+      "question_X_cz": "Podnikneš o víkendu něco zábavného?",
+      "answer_Y_cz": "Jedeme do lázní."
+    },
+    {
+      "id": 664,
+      "question_X": "Do you have any plans for this weekend?",
+      "answer_Y": "I'm tacking tennis lessons.",
+      "question_X_cz": "Máš na tenhle víkend nějaké plány?",
+      "answer_Y_cz": "Chodím na lekce tenisu."
+    },
+    {
+      "id": 668,
+      "question_X": "Are you going to the gym?",
+      "answer_Y": "I went yesterday.",
+      "question_X_cz": "Jdeš do fitka?",
+      "answer_Y_cz": "Byl jsem včera."
+    },
+    {
+      "id": 688,
+      "question_X": "Shall we go for a drink at a bar?",
+      "answer_Y": "Maybe we could have dinner as well",
+      "question_X_cz": "Zajdeme na drink do baru?",
+      "answer_Y_cz": "Možná bychom si k tomu mohli dát i večeři."
+    }
+  ]

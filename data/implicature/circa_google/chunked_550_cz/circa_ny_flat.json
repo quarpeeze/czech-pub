@@ -1,0 +1,387 @@
+[
+    {
+      "id": 2,
+      "question_X": "Are you bringing any pets into the flat?",
+      "answer_Y": "I do not own any pets",
+      "question_X_cz": "Budeš si do bytu brát nějaká zvířata?",
+      "answer_Y_cz": "Žádné mazlíčky nemám."
+    },
+    {
+      "id": 16,
+      "question_X": "Are you taking any animals?",
+      "answer_Y": "I'll bring my dog.",
+      "question_X_cz": "Bereš si s sebou nějaká zvířata?",
+      "answer_Y_cz": "Vezmu si svého psa."
+    },
+    {
+      "id": 37,
+      "question_X": "Did you consult with your partner/parents?",
+      "answer_Y": "I haven't spoken to my partner in ages.",
+      "question_X_cz": "Radila ses s partnerem nebo s rodiči?",
+      "answer_Y_cz": "S partnerem jsem nemluvila celou věčnost."
+    },
+    {
+      "id": 39,
+      "question_X": "Do you need a lot of space?",
+      "answer_Y": "I could do with a small studio.",
+      "question_X_cz": "Potřebuješ hodně místa?",
+      "answer_Y_cz": "Stačila by mi malá garsonka."
+    },
+    {
+      "id": 46,
+      "question_X": "Have you lived in New York before?",
+      "answer_Y": "I've only been there for vacation.",
+      "question_X_cz": "Bydlel jsi už někdy v New Yorku?",
+      "answer_Y_cz": "Byl jsem tam jen na dovolené."
+    },
+    {
+      "id": 52,
+      "question_X": "Have you researched the areas you are interested in?",
+      "answer_Y": "I've been looking a lot online.",
+      "question_X_cz": "Zjišťoval jsi si něco o čtvrtích, které tě zajímají?",
+      "answer_Y_cz": "Dost jsem toho hledal na internetu."
+    },
+    {
+      "id": 54,
+      "question_X": "Do you have any pets?",
+      "answer_Y": "I have a cat.",
+      "question_X_cz": "Máš nějaké domácí mazlíčky?",
+      "answer_Y_cz": "Mám kočku."
+    },
+    {
+      "id": 92,
+      "question_X": "Does it have to be in the city itself?",
+      "answer_Y": "It can be on the outskirts",
+      "question_X_cz": "Musí to být přímo v centru?",
+      "answer_Y_cz": "Může to být i na okraji."
+    },
+    {
+      "id": 95,
+      "question_X": "Is is close to the Subway station?",
+      "answer_Y": "It's just down the street.",
+      "question_X_cz": "Je to blízko stanice metra?",
+      "answer_Y_cz": "Je to hned v téhle ulici."
+    },
+    {
+      "id": 97,
+      "question_X": "Will you have to share the flat with anyone?",
+      "answer_Y": "I'm excited to live on my own.",
+      "question_X_cz": "Budeš ten byt s někým sdílet?",
+      "answer_Y_cz": "Těším se, až budu bydlet sám."
+    },
+    {
+      "id": 110,
+      "question_X": "Is it in a safe area?",
+      "answer_Y": "The neighborhood doesn't see much crime.",
+      "question_X_cz": "Je to v bezpečné oblasti?",
+      "answer_Y_cz": "V téhle čtvrti k moc zločinům nedochází."
+    },
+    {
+      "id": 117,
+      "question_X": "Want to live in a more affordable area of town?",
+      "answer_Y": "I would like something a little cheaper.",
+      "question_X_cz": "Chceš bydlet v nějaké dostupnější části města?",
+      "answer_Y_cz": "Chtěla bych něco trochu levnějšího."
+    },
+    {
+      "id": 128,
+      "question_X": "Do you have a limit of what you want to pay?",
+      "answer_Y": "Three hundred dollars maximum,",
+      "question_X_cz": "Máš nějaký strop, kolik chceš platit?",
+      "answer_Y_cz": "Maximálně tři sta dolarů."
+    },
+    {
+      "id": 146,
+      "question_X": "Would you like a building with a doorman?",
+      "answer_Y": "That would be nice",
+      "question_X_cz": "Chtěl bys dům s vrátným?",
+      "answer_Y_cz": "To by bylo fajn."
+    },
+    {
+      "id": 175,
+      "question_X": "Are you open to having roommates?",
+      "answer_Y": "I will need the extra cash.",
+      "question_X_cz": "Uvažuješ o spolubydlících?",
+      "answer_Y_cz": "Peníze navíc budu potřebovat."
+    },
+    {
+      "id": 181,
+      "question_X": "Are you comfortable with a busy city?",
+      "answer_Y": "I can handle it.",
+      "question_X_cz": "Nevadí ti hluk velkoměsta?",
+      "answer_Y_cz": "To zvládnu."
+    },
+    {
+      "id": 188,
+      "question_X": "Do you like spacious apartments?",
+      "answer_Y": "I think it's great",
+      "question_X_cz": "Máš rád prostorné byty?",
+      "answer_Y_cz": "Přijdou mi skvělé."
+    },
+    {
+      "id": 190,
+      "question_X": "Can you afford the expensive rent?",
+      "answer_Y": "I have plenty of cash to keep me going for a while.",
+      "question_X_cz": "Můžeš si dovolit tak vysoký nájem?",
+      "answer_Y_cz": "Mám dost hotovosti, abych nějakou dobu vydržel."
+    },
+    {
+      "id": 197,
+      "question_X": "Can you show proof of income?",
+      "answer_Y": "I should be able to",
+      "question_X_cz": "Můžeš doložit potvrzení o příjmu?",
+      "answer_Y_cz": "Měl bys to zvládnout."
+    },
+    {
+      "id": 248,
+      "question_X": "Have you started looking yet?",
+      "answer_Y": "I'll look when we arrive.",
+      "question_X_cz": "Už jsi začal hledat?",
+      "answer_Y_cz": "Podívám se, až tam dorazíme."
+    },
+    {
+      "id": 255,
+      "question_X": "Can you show proof of income?",
+      "answer_Y": "I haven't gotten a job there yet.",
+      "question_X_cz": "Můžeš doložit potvrzení o příjmu?",
+      "answer_Y_cz": "Zatím jsem tam nedostal práci."
+    },
+    {
+      "id": 263,
+      "question_X": "Are you getting a flat in the city?",
+      "answer_Y": "I can only afford New Jersey.",
+      "question_X_cz": "Budeš mít byt přímo ve městě?",
+      "answer_Y_cz": "Můžu si dovolit jen New Jersey."
+    },
+    {
+      "id": 290,
+      "question_X": "Do you have any kids?",
+      "answer_Y": "With such over-population, I made a conscientious choice to not add to the problem.",
+      "question_X_cz": "Máte děti?",
+      "answer_Y_cz": "Vzhledem k přelidnění jsem se vědomě rozhodla k tomu problému nepřispívat."
+    },
+    {
+      "id": 291,
+      "question_X": "Are you planning on walking to work?",
+      "answer_Y": "I bought a bike.",
+      "question_X_cz": "Plánuješ chodit do práce pěšky?",
+      "answer_Y_cz": "Koupil jsem si kolo."
+    },
+    {
+      "id": 293,
+      "question_X": "Is New York your only option?",
+      "answer_Y": "There is also an opening in Boston.",
+      "question_X_cz": "Je New York tvoje jediná možnost?",
+      "answer_Y_cz": "Mají volné místo i v Bostonu."
+    },
+    {
+      "id": 294,
+      "question_X": "Did you look at what's out there?",
+      "answer_Y": "I had a peek",
+      "question_X_cz": "Díval ses, co se teď nabízí?",
+      "answer_Y_cz": "Trochu jsem na to koukal."
+    },
+    {
+      "id": 301,
+      "question_X": "Did you figure out the commute times to work from different boroughs?",
+      "answer_Y": "I still need to do those calculations.",
+      "question_X_cz": "Zjišťoval jsi si, jak dlouho ti potrvá cesta do práce z různých čtvrtí?",
+      "answer_Y_cz": "To si ještě musím spočítat."
+    },
+    {
+      "id": 326,
+      "question_X": "Have you lived in New York before?",
+      "answer_Y": "I've lived in three borroughs.",
+      "question_X_cz": "Bydlel jsi už někdy v New Yorku?",
+      "answer_Y_cz": "Bydlel jsem už ve třech různých čtvrtích."
+    },
+    {
+      "id": 329,
+      "question_X": "Do you want to live close to a subway stop?",
+      "answer_Y": "That's a given.",
+      "question_X_cz": "Chceš bydlet blízko zastávky metra?",
+      "answer_Y_cz": "To je samozřejmost."
+    },
+    {
+      "id": 341,
+      "question_X": "Are you thinking about moving to New York permanently ?",
+      "answer_Y": "I don't want to retire there.",
+      "question_X_cz": "Uvažuješ o tom, že se do New Yorku přestěhuješ natrvalo?",
+      "answer_Y_cz": "Do důchodu tam být nechci."
+    },
+    {
+      "id": 357,
+      "question_X": "Do you mind a long subway ride?",
+      "answer_Y": "Riding the subway gives me a chance to read more.",
+      "question_X_cz": "Nevadí ti dlouhé jízdy metrem?",
+      "answer_Y_cz": "V metru mám aspoň čas si víc číst."
+    },
+    {
+      "id": 361,
+      "question_X": "Do you have friends or family in New York?",
+      "answer_Y": "Most of my friends live there.",
+      "question_X_cz": "Máš v New Yorku nějaké přátele nebo rodinu?",
+      "answer_Y_cz": "Většina mých kamarádů tam bydlí."
+    },
+    {
+      "id": 364,
+      "question_X": "Does it have two bedrooms?",
+      "answer_Y": "It's a studio.",
+      "question_X_cz": "Má to dvě ložnice?",
+      "answer_Y_cz": "Je to garsonka."
+    },
+    {
+      "id": 367,
+      "question_X": "Is a basement flat okay?",
+      "answer_Y": "I need to be above ground.",
+      "question_X_cz": "Nevadil by ti suterénní byt?",
+      "answer_Y_cz": "Potřebuju bydlet nad zemí."
+    },
+    {
+      "id": 379,
+      "question_X": "Are you interested in calling some Realtors?",
+      "answer_Y": "That'd be helpful.",
+      "question_X_cz": "Nechceš zkusit obvolat nějaké realitní makléře?",
+      "answer_Y_cz": "To by mi pomohlo."
+    },
+    {
+      "id": 380,
+      "question_X": "Do you think you can get a job in New York?",
+      "answer_Y": "It's a place with a lot of opportunities",
+      "question_X_cz": "Myslíš, že si v New Yorku najdeš práci?",
+      "answer_Y_cz": "Je to místo plné příležitostí."
+    },
+    {
+      "id": 386,
+      "question_X": "Are you wanting to move into the capital?",
+      "answer_Y": "My first choice is Manhattan.",
+      "question_X_cz": "Chceš se stěhovat přímo do centra?",
+      "answer_Y_cz": "Manhattan je moje první volba."
+    },
+    {
+      "id": 426,
+      "question_X": "Can you afford to live in New York?",
+      "answer_Y": "I need a second job.",
+      "question_X_cz": "Můžeš si dovolit žít v New Yorku?",
+      "answer_Y_cz": "Potřebuju druhou práci."
+    },
+    {
+      "id": 453,
+      "question_X": "Will you be spending Christmas in Calgary?",
+      "answer_Y": "I'll be Naples.",
+      "question_X_cz": "Budeš trávit Vánoce v Calgary?",
+      "answer_Y_cz": "Budu v Neapoli."
+    },
+    {
+      "id": 479,
+      "question_X": "Is the neighborhood good?",
+      "answer_Y": "It's upscale with low crime.",
+      "question_X_cz": "Je to dobrá čtvrť?",
+      "answer_Y_cz": "Je to lepší adresa s nízkou kriminalitou."
+    },
+    {
+      "id": 527,
+      "question_X": "Have you decided which one you want?",
+      "answer_Y": "I found a flat",
+      "question_X_cz": "Už ses rozhodl, který chceš?",
+      "answer_Y_cz": "Jeden byt už jsem si vybral."
+    },
+    {
+      "id": 540,
+      "question_X": "Do you intend to live in the flat ?",
+      "answer_Y": "The flat is for me and my husband.",
+      "question_X_cz": "Plánujete v tom bytě sami bydlet?",
+      "answer_Y_cz": "Ten byt je pro mě a pro manžela."
+    },
+    {
+      "id": 587,
+      "question_X": "Are you offering the asking price?",
+      "answer_Y": "just a little below it",
+      "question_X_cz": "Nabízíš tu požadovanou cenu?",
+      "answer_Y_cz": "Trochu méně."
+    },
+    {
+      "id": 591,
+      "question_X": "Do you have a mortgage right now?",
+      "answer_Y": "I paid my mortgage off last year.",
+      "question_X_cz": "Máš teď hypotéku?",
+      "answer_Y_cz": "Loni jsem ji doplatil."
+    },
+    {
+      "id": 619,
+      "question_X": "Would you like to have a balcony?",
+      "answer_Y": "that would be ideal",
+      "question_X_cz": "Chtěla bys mít balkon?",
+      "answer_Y_cz": "To by bylo ideální."
+    },
+    {
+      "id": 642,
+      "question_X": "Are you available to move in April?",
+      "answer_Y": "I won't be able to move until July.",
+      "question_X_cz": "Můžeš se stěhovat už v dubnu?",
+      "answer_Y_cz": "Dřív než v červenci to nepůjde."
+    },
+    {
+      "id": 643,
+      "question_X": "Are you thinking of moving soon?",
+      "answer_Y": "As soon as possible",
+      "question_X_cz": "Uvažuješ o stěhování v brzké době?",
+      "answer_Y_cz": "Co nejdřív to půjde."
+    },
+    {
+      "id": 656,
+      "question_X": "Have you decided which neighborhood you want to buy in?",
+      "answer_Y": "I'm still deciding.",
+      "question_X_cz": "Už ses rozhodl, v jaké čtvrti chceš kupovat?",
+      "answer_Y_cz": "Pořád se ještě rozmýšlím."
+    },
+    {
+      "id": 685,
+      "question_X": "Are you offering the asking price?",
+      "answer_Y": "I asked for a move-in discount.",
+      "question_X_cz": "Nabízíš tu vyvolávací cenu?",
+      "answer_Y_cz": "Požádal jsem o slevu za nastěhování."
+    },
+    {
+      "id": 696,
+      "question_X": "Isn't it really expensive?",
+      "answer_Y": "It is more than I thought",
+      "question_X_cz": "Není to hrozně drahé?",
+      "answer_Y_cz": "Je to víc, než jsem si myslel."
+    },
+    {
+      "id": 710,
+      "question_X": "Are you going to drive your car to work?",
+      "answer_Y": "That's the plan",
+      "question_X_cz": "Budeš jezdit do práce autem?",
+      "answer_Y_cz": "To mám v plánu."
+    },
+    {
+      "id": 737,
+      "question_X": "Have you ever been to New York?",
+      "answer_Y": "This will be my first time.",
+      "question_X_cz": "Byl jsi někdy v New Yorku?",
+      "answer_Y_cz": "Tohle bude moje poprvé."
+    },
+    {
+      "id": 738,
+      "question_X": "Does the neighborhood have a good reputation?",
+      "answer_Y": "Every website I've looked at has great reviews for the area.",
+      "question_X_cz": "Má ta čtvrť dobrou pověst?",
+      "answer_Y_cz": "Na všech stránkách, co jsem koukal, měla ta oblast skvělé hodnocení."
+    },
+    {
+      "id": 741,
+      "question_X": "Does it have to be in the city itself?",
+      "answer_Y": "That's the plan.",
+      "question_X_cz": "Musí to být přímo ve městě?",
+      "answer_Y_cz": "To je v plánu."
+    },
+    {
+      "id": 750,
+      "question_X": "Are you looking at an expensive apartment?",
+      "answer_Y": "I need something on the cheaper side.",
+      "question_X_cz": "Hledáš nějaký drahý byt?",
+      "answer_Y_cz": "Potřebuju spíš něco levnějšího."
+    }
+  ]

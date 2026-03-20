@@ -1,0 +1,2222 @@
+[
+  {
+    "id": "presupposition-comparative-1",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Percy si v duchu srovnává, co mu připadá nejvíc nebezpečné.",
+    "utterance": "Mluvčí: „Pan Trout byl podle Percyho názoru ještě větším ohrožením veřejného pořádku než ďábelské kočky slečny Priestleyové.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Podle Percyho ďábelské kočky slečny Priestleyové ohrožují veřejný pořádek."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Podle Percyho ďábelské kočky slečny Priestleyové nikdy žádný veřejný pořádek neohrožovaly."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Podle Percyho ďábelské kočky slečny Priestleyové potřebují pravidelné očkování."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Slečna Priestleyová má v lednici pět litrů čerstvého mléka."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-2",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Skupina se zastaví u řeky a někdo si stěžuje na nepříjemné podmínky.",
+    "utterance": "Mluvčí: „U řeky byla ještě větší zima než v lese.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Podle mluvčího byla v lese zima."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Podle mluvčího v lese nikdy žádná zima nebyla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Podle mluvčího byla v lese nalezena stará myslivecká chata."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Jehličnaté lesy jsou v této oblasti plné borůvek a hub."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-3",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Lidé plánují cestu a zvažují, kde bude nejvhodnější se vylodit.",
+    "utterance": "Mluvčí: „Wolf vás taky upozorňuje, že Southampton bude bezpečnější přístav než Londýn.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "V Londýně je přístav."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "V Londýně nikdy žádný přístav neexistoval."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "V Londýně je pro turisty připraven bohatý kulturní program."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Typické londýnské autobusy mají dvě patra a jsou červené."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-4",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Vypravěč s Olavem mluví o nálezu a hodnotí, co pro nem znamená.",
+    "utterance": "Mluvčí: „Nikdy jsem totiž nepoznal silnější bohy než je Ódin a Loke.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ódin a Loke jsou bohy."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Ódin a Loke nikdy žádnými bohy nebyli."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Ódin a Loke jsou jména mluvčího dvou oblíbených psů."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Severské mýty se dnes často objevují v akčních filmech."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-5",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Vypravěčka popisuje noční návrat na hřbitov a své dojmy z prostředí.",
+    "utterance": "Mluvčí: „V noci je to ještě strašidelnější místo než ve dne.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Je to strašidelné místo i ve dne."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "To místo nebylo a nikdy ve dne strašidelné nebude."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Je to velmi klidné místo určené k odpolednímu odpočinku."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Na městských hřbitovech se obvykle nesmějí venčit psi."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-6",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Vypravěčka popisuje cestu a hodnotí podmínky na palubě.",
+    "utterance": "Mluvčí: „Byla to mnohem větší a luxusnější loď než Goldman.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Podle mluvčího je Goldman loď."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Goldman podle mluvčího nikdy žádnou lodí nebyl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Podle mluvčího je Goldman majitelem továrny na nábytek."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Moderní lodě mají v podpalubí často i malé kinosály."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-7",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Postavy v hovoru komentují průběh událostí.",
+    "utterance": "Mluvčí: „Ten den jsem vyslechl víc upřímných zpovědí než Panna Marie Lurdská o sváteční sobotě.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Podle mluvčího Panna Marie Lurdská o sváteční sobotě vyslechla upřímné zpovědi."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Panna Marie Lurdská nikdy o žádné sobotě žádné zpovědi nevyslechla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Podle mluvčího se k Panně Marii Lurdské o sváteční sobotě obrací mnoho poutníků."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "V Lurdech se nachází mnoho hotelů pro unavené poutníky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-8",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Vypravěč v duchu hodnotí chování Emmy.",
+    "utterance": "Mluvčí: „Byla ještě větší naivka než Jeanie Longová.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Podle mluvčího je Jeanie Longová naivka."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Podle mluvčího nebyla Jeanie Longová nikdy ani trochu naivní."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Podle mluvčího je Jeanie Longová autorkou úspěšného románu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Jeanie Longová má ve svém pokoji velký obraz s mořem."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-9",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "V místnosti plné lidí někdo nahlas mluví o hudbě.",
+    "utterance": "Heinrich: „Buck Clayton je mnohem lepší trumpetista než Hot Lips Page.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Hot Lips Page je trumpetista."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Hot Lips Page nikdy žádným trumpetistou nebyl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Hot Lips Page je častým hostem v místní rozhlasové stanici."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Trumpeta se obvykle čistí speciálním olejem na ventily."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-10",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Skupina lidí řeší, jak postupovat, aby se dostali do bezpečí.",
+    "utterance": "Mluvčí: „Zekovi posluhovači možná byli o něco menší hrozbou, než samotný Zek, ale i tak představovali obrovskou hrozbu pro obyčejné lidi.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Podle mluvčího představuje Zek hrozbu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Zek nikdy pro nikoho nepředstavoval vůbec žádnou hrozbu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Podle mluvčího představuje Zek novou posilu pro hokejový tým."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Zek nosí v kapse u kalhot vždycky balíček žvýkaček."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-11",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "V debatě o opatřeních se porovnává, jaké nástroje jsou pro stát nejvhodnější.",
+    "utterance": "Mluvčí: „Portál 24.hu v analýze vyzdvihuje, že k boji proti viru by měla vláda jednodušší a účinnější metody než uzavření hranic.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Uzavření hranic je jedním ze způsobů boje proti viru."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Uzavření hranic nikdy mezi způsoby boje proti viru nepatřilo."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Uzavření hranic je tématem důležitým pro mezinárodní obchod."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Vláda v té době čelila tlaku na rozšíření kompenzací pro podnikatele."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-12",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Odborný text vysvětluje rozdíly v pohybu podzemní vody v různých prostředích.",
+    "utterance": "Mluvčí: „Podzemní proudění je ještě složitější jev než proud v řece.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Proud v řece je také určitý jev."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Proud v řece není žádným jevem a nikdy jím nebyl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Proud v řece unáší velké množství naplaveného dřeva."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Říční voda se v létě ohřívá rychleji než voda v moři."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-13",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Odborník vysvětluje, podle čeho posuzuje závažnost situace.",
+    "utterance": "Mluvčí: „To jsou pro odborníky důležitější ukazatele než prostý počet nakažených nebo jejich podíl na provedených testech.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Prostý počet nakažených nebo jejich podíl na provedených testech představují ukazatele."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Počet nakažených nikdy žádné relevantní ukazatele nepředstavoval."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Prostý počet nakažených ovlivňuje obsazenost lůžek v nemocnici."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Laboratorní testy se dělají ve zkumavkách z odolného skla."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-14",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Hokejový brankář v rozhovoru mluví o konkurenci v týmu a o své pozici.",
+    "utterance": "Mluvčí: „Při mém příchodu do klubu jsem měl taky horší kontrakt než Mike Smith, ale urval jsem si místo v brance.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mike Smith měl kontrakt."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mike Smith nikdy v daném klubu žádný kontrakt neměl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mike Smith měl v týmu silnou konkurenci i na své pozici."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "V klubu se tehdy hodně řešilo obsazení brankářského postu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-15",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluvčí komentuje zahraniční obchod České republiky.",
+    "utterance": "Mluvčí: „Znamená to, že vzhledem ke své populaci je Tchaj-wan stále právě bezmála třikrát významnějším obchodním partnerem České republiky než Čína.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Čína je obchodním partnerem České republiky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Čína nikdy nebyla žádným obchodním partnerem České republiky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Čína je domovem mnoha vzácných druhů divokých zvířat."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Obchodní vztahy s Asií ovlivňují i náklady na dopravu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-16",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Politici diskutují o bezpečnostních rizicích při výběru zahraničních firem.",
+    "utterance": "Mluvčí: „Rusko je menší risk než Čína.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Podle mluvčího představuje Čína riziko."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Čína podle mluvčího nikdy nepředstavovala vůbec žádné riziko."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Podle mluvčího představuje Čína obrovský trh pro evropské zboží."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Čína vyváží do světa obrovské množství levného textilu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-17",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Trenér po losu vysvětluje, proč považuje některé soupeře za náročnější.",
+    "utterance": "Miroslav Nolč: „Přece jen, za ta léta se tam s většinou lidí známe, je to silovější i zkušenější tým než Dukla.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Dukla je tým."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Dukla nikdy v této soutěži nebyla žádným týmem."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Dukla prošla před sezonou výraznou obměnou kádru."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Dukla má ve svém znaku tradiční žlutou a červenou barvu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-18",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluví se o německé politice a vedení země.",
+    "utterance": "Mluvčí: „...že předseda jejich strany by byl lepším kancléřem než Scholz.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Scholz je kancléř."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Scholz nikdy žádným německým kancléřem nebyl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Scholz je autorem nové knihy o historii evropské politiky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Německá politika je založena na koaliční spolupráci stran."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-19",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Trenér hodnotí poslední utkání svého týmu a porovnává ho s předchozím duelem.",
+    "utterance": "Mluvčí: „Určitě to byl lepší zápas než na Bohemce.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Tým měl zápas na Bohemce."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Tým nikdy na Bohemce žádný zápas nesehrál."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Tým měl včera večer na Bohemce slavnostní vyhlášení výsledků."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Stadion Bohemians se nachází v pražské čtvrti Vršovice."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-20",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "V rozhovoru se mluví o šlechtě a náboženských otázkách.",
+    "utterance": "Mluvčí: „Lobkovic byl přesvědčenější katolík než Rožmberk?“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Rožmberk byl katolík."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Rožmberk nikdy v životě nebyl římským katolíkem."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Rožmberk byl vlastníkem rozsáhlých pozemků na jihu země."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Rod Rožmberků nechal vybudovat mnoho rybníků v jižních Čechách."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-21",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluvčí vysvětluje jeden filosofický problém týkající se uspořádání světa.",
+    "utterance": "Mluvčí: „Problém dvou oblastí světa bude přítomen i u dalších myslitelů, byť obráceně než u Platóna.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Platón patří mezi myslitele."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Platón nikdy mezi žádné skutečné myslitele nepatřil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Platón je jméno postavy v jedné moderní divadelní hře."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Antické Řecko bylo kolébkou evropské kultury a vzdělanosti."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-22",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluvčí rozvíjí úvahu o náboženských představách a jejich vzájemném vztahu.",
+    "utterance": "Mluvčí: „Řečtí bohové byli pro živého Boha důstojnějšími oponenty než stíny asijského Východu.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Podle mluvčího byly stíny asijského Východu pro živého Boha oponenty."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Stíny asijského Východu nikdy žádné oponenty nepředstavovaly."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Podle mluvčího byly stíny asijského Východu jen obrysy skal."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Východ slunce je nad mořem vždy velmi působivým zážitkem."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-23",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluvčí hodnotí jednoho autora v širším intelektuálním kontextu.",
+    "utterance": "Mluvčí: „V tomto ohledu je Buber mnohem „modernějším“ myslitelem než Leo Baeck či mnozí další, s nimiž jsme se setkali v předchozích kapitolách.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Leo Baeck je myslitel."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Leo Baeck nikdy žádným myslitelem nebyl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Leo Baeck je zakladatelem malé soukromé nadace."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Filozofické texty bývají pro laiky často velmi složité."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-24",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluvčí popisuje politické rozhodování v době konfliktu.",
+    "utterance": "Mluvčí: „Malý francký stát byl pro něj menším zlem než Byzancie.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Byzancie pro něj představovala zlo."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Byzancie pro něj nikdy nepředstavovala vůbec žádné zlo."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Byzancie pro něj byla cílem jeho loňské studijní cesty."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Byzantská říše byla po staletí centrem východního křesťanství."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-25",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluvčí se vyjadřuje k literatuře.",
+    "utterance": "Mluvčí: „Vracíme se dnes k zapomenutým básníkům a s překvapením zjišťujeme, že jsou srovnatelnými, možná i většími autory než byli Jaroslav Vrchlický, Julius Zeyer nebo Otokar Březina.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Jaroslav Vrchlický, Julius Zeyer a Otokar Březina patřili mezi autory."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Vrchlický, Zeyer a Březina nikdy mezi žádné autory nepatřili."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Jaroslav Vrchlický a Julius Zeyer byli v té době velkými rivaly."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "V České republice je po Vrchlickém pojmenováno mnoho ulic."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-26",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluvčí radí, jak si naplánovat výlet za vínem.",
+    "utterance": "Mluvčí: „Sonoma je mnohem příjemnější a poklidnější oblast než Napa Valley.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Napa Valley je oblast."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Napa Valley nikdy žádnou oblastí nebyla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Napa Valley je velmi suché místo bez dostatku pitné vody."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Bílé víno se obvykle podává chlazené v úzkých sklenicích."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-27",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluvčí podává detailní popis tělesných znaků při určování druhu.",
+    "utterance": "Mluvčí: „mezirýží jsou jemně zaoblena a s jemnějším tečkováním než štít.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Štít má tečkování."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Štít nemá a nikdy neměl žádné tečkování."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Štít má po okrajích jemné rýhování."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Štíty se ve středověku vyráběly hlavně z pevného dřeva."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-28",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Odborný výklad se věnuje stavbě zubu a vzniku kazu.",
+    "utterance": "Mluvčí: „Z toho je vidět, že dentin je výrazně náchylnější ke vzniku zubního kazu než sklovina.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Sklovina je náchylná ke vzniku zubního kazu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Sklovina není a nikdy nebyla náchylná ke vzniku zubního kazu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Sklovina je tvrdá látka, která vyžaduje pravidelné čištění."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Sklovina obsahuje vysoký podíl minerálních látek."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-29",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Vypravěč popisuje člověka.",
+    "utterance": "Mluvčí: „Protože to je ještě větší tvrďák než Gene Simmons.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Podle mluvčího je Gene Simmons tvrďák."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Podle mluvčího Gene Simmons nikdy žádný tvrďák nebyl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Podle mluvčího je Gene Simmons sběratelem starých komiksů."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Gene Simmons má v oblibě nošení velmi vysokých bot."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-30",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluví se o historii vědy.",
+    "utterance": "Mluvčí: „V ekonomii a chemii byl Becher větším odborníkem než Leibniz, se kterým je čas od času srovnáván;“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Leibniz byl mimo jiné odborníkem na ekonomii a chemii."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Leibniz nikdy nebyl odborníkem na ekonomii ani na chemii."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Leibniz byl v té době v kontaktu s mnoha králi."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Leibniz žil v 17. století a zabýval se také matematikou."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "presupposition-comparative-31",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Muž v napjaté situaci sleduje čas a zvažuje svůj další program.",
+    "utterance": "Mluvčí: „Griff také pohlédl na hodinky.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ještě někdo jiný než Griff pohlédl na hodinky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdy nikdo jiný než Griff se na hodinky nepodíval."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Griff také pohlédl na katalog luxusních hodinek."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Griff má na levé ruce staré digitální hodinky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-32",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Skupina v poušti shromažďuje zprávy o dalším dění.",
+    "utterance": "Mluvčí: „Šejchové také zjistili zajímavé informace.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Šejchové nebyli jediní, kdo zjistili zajímavé informace."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo jiný kromě šejchů nikdy žádné zajímavé informace nezjistil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Šejchové také zjistili otevírací dobu turistických informací."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Šejchové cestují po písečných dunách výhradně v noci."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-33",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Ve vypjaté chvíli Threnody mlčky vzdoruje.",
+    "utterance": "Mluvčí: „Threnody také neodpověděla, ale stála se založenýma rukama a zvednutou bradou.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Threnody nebyla jediná, kdo neodpověděl."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdy se nestalo, že by někdo jiný kromě Threnody neodpověděl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Threnody také neodpověděla na otázky v dlouhém dotazníku."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Threnody má na sobě drahé šperky z bílého zlata."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-34",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Skupina řeší komplikace s uvízlým automobilem.",
+    "utterance": "Mluvčí: „Sam také vystoupil a zabouchl za sebou dveře.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ještě někdo jiný než Sam vystoupil z automobilu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Kromě Sama nikdy nikdo jiný z automobilu nevystoupil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Sam také vystoupil na vrchol hory a zabouchl dveře chaty."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Sam má v kufru auta schovanou novou rezervní pneumatiku."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-35",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "U čaje se mezi lidmi odehrává tiché napětí.",
+    "utterance": "Mluvčí: „Sinclair také zvedl šálek, ale nepil.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ještě někdo jiný než Sinclair zvedl šálek."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo jiný kromě Sinclaira šálek nikdy nezvedl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Sinclair také zvedl šálek ze země v obchodě s keramikou."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Sinclair pije čaj vždy zásadně bez cukru a citronu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-36",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Ženy si v osobním rozhovoru navzájem dodávají jistotu.",
+    "utterance": "Mluvčí: „Také Rosalie se zasmála.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Rosalie nebyla jediná, kdo se zasmál."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdy nikdo jiný kromě Rosalie se při rozhovoru nezasmál."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Rosalie se zasmála nad vtipem v ranních novinách."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Rosalie má ve své zahradě vysázené červené růže."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-37",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Atmosféra u společné večeře je velmi napjatá.",
+    "utterance": "Mluvčí: „Také Claire nesnědla ani půlku.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Claire nebyla jediná, kdo nesnědl ani půlku."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdy se nestalo, že by někdo jiný kromě Claire nesnědl ani půlku jídla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Claire nesnědla ani půlku čokolády v kuchyni."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Claire si k večeři objednala jen čistou vodu s ledem."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-38",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Ve skupině lidí došlo k nečekané události.",
+    "utterance": "Mluvčí: „Také Isabelle se tvářila ohromeně.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Isabelle nebyla jediná, kdo se tvářil ohromeně."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Kromě Isabelle se nikdy nikdo jiný netvářil ohromeně."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Isabelle se tvářila ohromeně při čtení ranních zpráv."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Isabelle nosí v kabelce malého psa rasy čivava."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-39",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "V nemocnici náhle zavládne ticho a atmosféra se změní.",
+    "utterance": "Mluvčí: „Také Sára a Kamila byly v pohotovosti.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Sára a Kamila nebyly jediné, které byly v pohotovosti."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Sára a Kamila byly jediné, které byly kdy v pohotovosti."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Sára a Kamila jsou zdravotní sestry v pohotovosti."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Sára a Kamila spolu bydlí v malém podkrovním bytě."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-40",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Na nemocničním oddělení došlo k nečekaným technickým potížím.",
+    "utterance": "Mluvčí: „Taky Tylerovi nefunguje výživa.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Tyler nebyl jediný, komu nefungovala výživa."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikomu jinému kromě Tylera výživa nikdy nepřestala fungovat."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Taky Tyler má signalizační tlačítko u postele."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Tyler leží na pokoji číslo čtyři hned u okna."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-41",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "V debatě o českém předsednictví se hodnotí různé momenty jeho průběhu.",
+    "utterance": "Mluvčí: „Češi také zvládli pobouřit Brusel provokativním dílem Entropa výtvarníka Davida Černého.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Kromě Čechů pobouřil Brusel provokativním dílem i někdo další."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Kromě Čechů nikdy nikdo jiný Brusel provokativním dílem nepobouřil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Češi také zvládli pobouřit návštěvníky bruselských restaurací."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "David Černý se ve své tvorbě věnuje především olejomalbě."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-42",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Debata se vede o tom, jaké pravomoci by mohly získat některé profese.",
+    "utterance": "Mluvčí: „Notáři také usilují o to, aby dostali širší agendu.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Notáři nejsou jediní, kdo usilují o to, aby dostali širší agendu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdy nikdo jiný kromě notářů o širší agendu neusiloval."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Notáři také usilují o členství v mezinárodní organizaci."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Notáři musí pro výkon své praxe používat úřední razítko."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-43",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Předseda vlády vystupuje s dalším apelem na veřejnost.",
+    "utterance": "Mluvčí: „Premiér také požádal, aby lidé nepropadali panice.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Premiér nebyl jediný, kdo požádal, aby lidé nepropadali panice."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdy nikdo jiný než premiér o zachování klidu nepožádal."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Premiér také požádal o snížení cen pohonných hmot."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Premiér dorazil na tiskovou konferenci s velkým zpožděním."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-44",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Ve sporu o krizová pravidla se řeší, kdo má o opatřeních rozhodovat.",
+    "utterance": "Mluvčí: „Piráti také odmítají, aby o všech opatřeních rozhodoval jen jeden ministr.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Piráti nejsou jediní, kdo odmítají, aby o všech opatřeních rozhodoval jen jeden ministr."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo jiný kromě Pirátů toto rozhodování nikdy neodmítal."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Piráti také odmítají používat papírové hlasovací lístky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Piráti mají své hlavní sídlo v centru historické Prahy."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-45",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Rodina s pýchou hodnotí sportovní kariéru mladých hráčů.",
+    "utterance": "Novinář: „Babička taky kluky sleduje?“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Babička není jediná, kdo kluky sleduje."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdy nikdo jiný kromě babičky tyto kluky nesledoval."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Babička taky kluky sleduje v obchodě s hračkami."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Babička včera k obědu upekla velký jablečný závin."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-46",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "V debatě o evropské regulaci se probírají postoje různých států.",
+    "utterance": "Novinář: „Němci také chtějí odklad?“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Němci nejsou jediní, kdo chtějí odklad."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdy nikdo jiný kromě Němců o odklad nepožádal."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Němci také chtějí odklad splátek svého státního dluhu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Němci jsou známí svou zálibou v pití čepovaného piva."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-47",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Text shrnuje detaily násilného útoku a jeho průběhu.",
+    "utterance": "Mluvčí: „Hamás také vyslal přes hranice několik desítek bojovníků na motorových rogalech?“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Hamás nebyl jediný, kdo vyslal přes hranice bojovníky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdy nikdo jiný kromě Hamásu přes hranice bojovníky nevyslal."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Hamás také vyslal přes hranice zásilku humanitární pomoci."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Bojovníci používali k navigaci v terénu pouze tištěné mapy."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-48",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Život v cizím jazykovém prostředí po válce přinášel nečekané komplikace.",
+    "utterance": "Mluvčí: „Taky Joyce málem vyhodili z vlaku, protože nerozuměla…“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Joyce nebyla jediná, koho málem vyhodili z vlaku kvůli tomu, že nerozuměla."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Joyce byla jediná, koho kdy z vlaku kvůli nerozumění vyhodili."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Taky Joyce málem vyhodili z kurzu vaření na univerzitě."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Joyce si včera zapomněla ve vlaku svoji oblíbenou knihu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-49",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluvčí srovnává postup různých evropských zemí během očkování a pandemických opatření.",
+    "utterance": "Mluvčí: „Také Rakousko začalo v neděli očkovat.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Rakousko nebylo jedinou zemí, která začala očkovat."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdy žádná jiná země kromě Rakouska v neděli očkovat nezačala."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Rakousko začalo v neděli prodávat dálniční známky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Rakousko je známé svými vysokými horami a sjezdovkami."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-50",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Analýza trhu hodnotí nedělní prodeje na čerpacích stanicích.",
+    "utterance": "Mluvčí: „Také benzinky EuroOil hlásí vyšší nedělní tržby.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Benzinky EuroOil nejsou jediné, kdo hlásí vyšší tržby."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdy žádná jiná benzinka kromě EuroOilu vyšší tržby nehlásila."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Benzinky EuroOil rozšířily o víkendu nabídku občerstvení."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Benzinky EuroOil nabízejí zákazníkům kávu do vlastního hrnku."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-51",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluví se o průběhu politických voleb.",
+    "utterance": "Mluvčí: „Také volby v roce 1905 byly téměř bez korupce.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Volby v roce 1905 nebyly jediné, které byly téměř bez korupce."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Žádné jiné volby kromě těch v roce 1905 nebyly nikdy bez korupce."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Volby v roce 1905 byly zrušeny kvůli nepříznivému počasí."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "V roce 1905 došlo v mnoha zemích k velkým nepokojům."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-52",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluvčí porovnává různé generace.",
+    "utterance": "Mluvčí: „Také generace X se pyšní tvrdými lidmi.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Generace X není jediná, která se pyšní tvrdými lidmi."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdy žádná jiná generace kromě generace X tvrdé lidi neměla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Generace X se pyšní vysokým počtem registrovaných vozů."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Generace X vyrůstala v době před masivním rozšířením internetu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-53",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluví se o postojích amerických politiků vůči Číně.",
+    "utterance": "Mluvčí: „Také Clintonová vystupovala vůči Číně asertivně v celé řadě otázek.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Clintonová nebyla jediná, kdo vůči Číně vystupoval asertivně."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdy nikdo jiný kromě Clintonové vůči Číně asertivně nevystupoval."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Clintonová také chtěla strávit dovolenou v Číně."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Clintonová má ve své kanceláři portréty všech prezidentů USA."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-54",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluví se o tom, jaký vliv měly proměny trhu na společnost.",
+    "utterance": "Mluvčí: „Také obchodníci se situaci přizpůsobují a nabízejí čím dál lepší služby.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Obchodníci nejsou jediní, kdo se situaci přizpůsobují."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdy nikdo jiný kromě obchodníků se dané situaci nepřizpůsobil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Obchodníci se situaci přizpůsobují v místní knihovně."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Obchodníci v centru města zavírají své prodejny velmi brzy."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-55",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "V rozhovoru se probírá náročnost neobvyklého stavebního projektu.",
+    "utterance": "Tazatel: „Získat stavební povolení také asi nebylo úplně jednoduché?“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Získat stavební povolení nebylo jediné, co nebylo jednoduché."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Kromě stavebního povolení bylo úplně všechno ostatní velmi jednoduché."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Získat stavební povolení k rekonstrukci chaty bylo snadné."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Stavební úřady vyžadují k žádosti hromadu technické dokumentace."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-56",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluví se o právním sporu a argumentaci lichtenštejnské strany.",
+    "utterance": "Mluvčí: „Lichtenštejnové také odmítli obvinění z nadržování Němcům během okupace.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Lichtenštejnové nebyli jediní, kdo odmítli obvinění z nadržování Němcům během okupace."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdy nikdo jiný kromě Lichtenštejnů toto obvinění neodmítl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Lichtenštejnové také odmítli pozvání na slavnostní otevření mostu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Lichtenštejnové vlastnili v minulosti rozsáhlé majetky na Moravě."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-57",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluví se o mezinárodním sporu.",
+    "utterance": "Mluvčí: „Kabinet také nechtěl kvůli sporům o náhradu riskovat zhoršení vztahů se SRN.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Kabinet nebyl jedinou stranou, která nechtěla riskovat zhoršení vztahů se SRN."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Kromě Kabinetu chtěli všichni ostatní riskovat zhoršení vztahů se SRN."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Kabinet také nechtěl kvůli sporům o náhradu ztratit klíče."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "SRN byla v té době jedním z hlavních obchodních partnerů Česka."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-58",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluvčí popisuje přípravy výpravy a komunikaci s politickým vedením.",
+    "utterance": "Mluvčí: „Lewis také udržoval písemný kontakt s Jeffersonem.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Lewis nebyl jediný, kdo udržoval písemný kontakt s Jeffersonem."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdy nikdo jiný kromě Lewise s Jeffersonem písemně nekomunikoval."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Lewis také udržoval písemný kontakt se svým bratrem."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Lewis psal své dopisy výhradně husím brkem na pergamen."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-59",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluvčí líčí dramatický okamžik sportovní události.",
+    "utterance": "Mluvčí: „Jonah také běžel pětikilometrový běh.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Jonah nebyl jediný, kdo běžel pětikilometrový běh."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdy nikdo jiný kromě Jonaha pětikilometrový běh neběžel."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Jonah také běžel pětikilometrový běh do místní pekárny."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Jonah si před každým závodem dává studenou sprchu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "také"
+    }
+  },
+  {
+    "id": "presupposition-comparative-60",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "Mluvčí porovnává různé strašidelné postavy a jejich motivy v lidové slovesnosti.",
+    "utterance": "Mluvčí: „Tyto dvě postavy také často splývají v jednu.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "I jiné postavy než tyto dvě splývají v jednu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Kromě těchto dvou postav nikdy žádné jiné postavy nesplývají."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Tyto dvě postavy také vystupují v různých krajových pověstech."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Strašidelné postavy se často objevují v pohádkách pro děti."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "také"
+    }
+  }
+]

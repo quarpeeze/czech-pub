@@ -1,0 +1,552 @@
+[
+    {
+      "id": "implicature-scalar-quant-qa-1",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Mluvčí cituje radikální názor z internetu a následně s kamarádem rozebírá, jak se věci ve skutečnosti mají.",
+      "utterance": "B: Nějaký chlap mi na sociální sítě napsal, že jsou všechny ženy lhářky. \nA: Všechny ženy?\nB: Fajn, řekněme, že některé jsou lhářky.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všechny ženy jsou lhářky.",
+        "implicature_paraphrased": "Ne všechny ženy jsou prolhané.",
+        "DistractorNegation": "Všechny ženy jsou lhářky.",
+        "DistractorLexicalEdit": "Některé lhářky mají na internetu víc profilů.",
+        "DistractorAssociative0": "Uživatelé internetu se snaží lháře v diskusích nahlásit."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-2",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Postavy v rozhovoru zkoumají předměty, které mají sloužit jako lapače špatné energie.",
+      "utterance": "A: To všechny chytají zlé sny? \nB: Některé ano.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všechny ty předměty chytají zlé sny.",
+        "implicature_paraphrased": "Ne všechny ty předměty lapají zlé sny.",
+        "DistractorNegation": "Všechny ty předměty chytají zlé sny.",
+        "DistractorLexicalEdit": "Některé lapače jsou vyrobeny z plastu.",
+        "DistractorAssociative0": "Zlé sny se zahánějí pomocí vonných bylin."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-3",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Návštěvník psychiatrické léčebny se ptá na minulost a povahu tamních pacientů.",
+      "utterance": "A: Všichni pacienti spáchali nějaký zločin? \nB: Jo, někteří.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všichni pacienti spáchali nějaký zločin.",
+        "implicature_paraphrased": "Ne všichni pacienti se dopustili nějakého zločinu.",
+        "DistractorNegation": "Všechny pacienti spáchali nějaký zločin.",
+        "DistractorLexicalEdit": "Některé pacienti v léčebně hrají šachy.",
+        "DistractorAssociative0": "Návštěvníci léčebny procházejí detektorem kovu."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-4",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Umělkyně ukazuje návštěvě své práce a fotografie lidí, se kterými tráví čas.",
+      "utterance": "A: Všichni jsou tvoji přátelé? \nB: Někteří z nich.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všichni lidé na fotografiích jsou přátelé umělkyně.",
+        "implicature_paraphrased": "Ne všichni lidé na fotografiích jsou kamarádi umělkyně.",
+        "DistractorNegation": "Všechny lidé na fotografiích jsou přátelé umělkyně.",
+        "DistractorLexicalEdit": "Někteří přátelé vlastní galerii v centru.",
+        "DistractorAssociative0": "Fotografie byly pořízeny v ateliéru."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-5",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Starší muž provokuje mladší lidi otázkou na jejich závislost na moderních technologiích.",
+      "utterance": "A: Nejste vy mladí všichni šouplí na internetu? \nB: Myslím, že někteří.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všichni mladí lidé jsou šouplí na internetu.",
+        "implicature_paraphrased": "Ne všichni mladí lidé jsou zavěšení na internetu.",
+        "DistractorNegation": "Všechny mladí lidé jsou šouplí na internetu.",
+        "DistractorLexicalEdit": "Někteří mladí na internetu hledají návody.",
+        "DistractorAssociative0": "Starší lidé odmítají používat chytré telefony."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-6",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Přátelé si prohlížejí autorovy povídky a skripty a mluví o tom, co už stihl napsat.",
+      "utterance": "A: Jsou všechny příběhy jako tento? \nB: Některé ano.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všechny autorovy příběhy jsou jako tento.",
+        "implicature_paraphrased": "Ne všechny autorovy povídky jsou jako tento.",
+        "DistractorNegation": "Všechny autorovy příběhy jsou jako tento.",
+        "DistractorLexicalEdit": "Některé příběhy jsou v modrých deskách.",
+        "DistractorAssociative0": "Autor píše skripty výhradně v noci."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-7",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Zákaznice restaurace se zajímá o výzdobu a původ obrazů vystavených na stěnách.",
+      "utterance": "A: Ty všechny obrazy na zdech jsou od místních umělců?\nB: Některé jsou od místních...",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všechny tyto obrazy na zdech jsou od místních umělců.",
+        "implicature_paraphrased": "Ne všechny tyto obrazy na stěnách jsou od místních umělců.",
+        "DistractorNegation": "Všechny tyto obrazy na zdech jsou od místních umělců.",
+        "DistractorLexicalEdit": "Některé obrazy potřebují nový rám.",
+        "DistractorAssociative0": "Každý obraz v restauraci je na prodej."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-8",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Nově příchozí se vyptává na vylidňování městečka, které má pověst „města duchů“.",
+      "utterance": "A: Všichni odešli? \nB: Někteří ano.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všichni obyvatelé města odešli.",
+        "implicature_paraphrased": "Ne všichni obyvatelé město opustili.",
+        "DistractorNegation": "Všichni obyvatelé města odešli.",
+        "DistractorLexicalEdit": "Někteří obyvatelé pracují v kamenolomu.",
+        "DistractorAssociative0": "Město bylo opuštěno kvůli nedostatku vody."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-9",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Redaktoři ověřují seznam kněží, o kterých hodlají publikovat kompromitující materiály.",
+      "utterance": "A: Vaše zdroje potvrdily všechny ty kněze? \nB: Některé.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všechny ty kněze zdroje redaktorů potvrdily.",
+        "implicature_paraphrased": "Ne všechny ty kněze zdroje redaktorů verifikovaly.",
+        "DistractorNegation": "Všechny ty kněze zdroje redaktorů potvrdily.",
+        "DistractorLexicalEdit": "Některé zdroje byly nalezeny v archivu.",
+        "DistractorAssociative0": "Informátoři dostali za svědectví peníze."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-10",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Postavy se nacházejí v místnosti plné literatury a diskutují o tom, co už stihly přečíst.",
+      "utterance": "A: To si je četl všechny? \nB: Některé.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všechny ty knihy si mluvčí četl.",
+        "implicature_paraphrased": "Ne všechny ty knihy si mluvčí pročetl.",
+        "DistractorNegation": "Všechny ty knihy si mluvčí četl.",
+        "DistractorLexicalEdit": "Některé knihy mají poškozenou vazbu.",
+        "DistractorAssociative0": "Klasická literatura pomáhá chápat historii."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-11",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Mluvčí se podivuje nad povahou personálu v nemocničním zařízení.",
+      "utterance": "A: Takže všichni vaši lékaři jsou sladcí a laskaví? \nB: Vlastně, myslím, že někteří ano.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všichni lékaři v daném zařízení jsou sladcí a laskaví.",
+        "implicature_paraphrased": "Ne všichni doktoři v daném zařízení jsou sladcí a laskaví.",
+        "DistractorNegation": "Všichni lékaři v daném zařízení jsou sladcí a laskaví.",
+        "DistractorLexicalEdit": "Někteří lékaři nosí modré uniformy.",
+        "DistractorAssociative0": "Pacienti si stěžují na kvalitu jídla."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-12",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Návštěvník si prohlíží sbírku historických zbraní a vyptává se na jejich původ.",
+      "utterance": "A: Tyhle všechny zbraně jsou z druhý světový? \nB: Některé z nich, ano.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všechny ty zbraně v místnosti jsou z druhé světové války.",
+        "implicature_paraphrased": "Ne všechny ty zbraně v prostoru jsou z druhé světové války.",
+        "DistractorNegation": "Všechny ty zbraně v místnosti jsou z druhé světové války.",
+        "DistractorLexicalEdit": "Některé zbraně jsou natřeny olejem.",
+        "DistractorAssociative0": "Artefakty z války se draze prodávají."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-13",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Dospělý se vyptává chlapce na to, kolik knih z poličky už zvládl přečíst.",
+      "utterance": "A: Přečetl jsi všechny ty knížky, Wilbure? \nB: Některé.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všechny ty knížky Wilbur přečetl.",
+        "implicature_paraphrased": "Ne všechny ty knížky Wilbur pročetl.",
+        "DistractorNegation": "Všechny ty knížky Wilbur přečetl.",
+        "DistractorLexicalEdit": "Některé knížky mají ilustrace od malíře.",
+        "DistractorAssociative0": "Wilbur dává přednost časopisům."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-14",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Osoba se zajímá o vztah pana Yardleyho k fauně a o to, jak na něj zvířata reagují.",
+      "utterance": "A: Mají vás ráda všechna zvířata? \nB: Některá jistě.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všechna zvířata mají pana Yardleyho ráda.",
+        "implicature_paraphrased": "Ne všechna zvířata mají pana Yardleyho v oblibě.",
+        "DistractorNegation": "Všechna zvířata mají pana Yardleyho ráda.",
+        "DistractorLexicalEdit": "Některá zvířata spí v dřevěných boudách.",
+        "DistractorAssociative0": "Divoká zvěř se lidem v kraji vyhýbá."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-15",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Emma řeší technický problém se svým zařízením, ze kterého jí nečekaně zmizely uložené soubory.",
+      "utterance": "A: Počkej, zmizely ti všechny fotky? \nB: Jo, některé.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všechny fotky Emmě zmizely.",
+        "implicature_paraphrased": "Ne všechny fotky se Emmě ztratily.",
+        "DistractorNegation": "Všechny fotky Emmě zmizely.",
+        "DistractorLexicalEdit": "Některé fotky jsou rozmazané kvůli světlu.",
+        "DistractorAssociative0": "Emma zapomněla soubory zálohovat."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-16",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Skupina lidí se snaží shromáždit všechny členy týmu a kontroluje jejich počet.",
+      "utterance": "A: Kolik jich máme? Všechny? \nB: Jsou tady někteří.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všechny členy týmu tam mají.",
+        "implicature_paraphrased": "Ne všechny členy týmu tam shromáždili.",
+        "DistractorNegation": "Všechny členy týmu tam mají.",
+        "DistractorLexicalEdit": "Někteří členové týmu mají na sobě promočené bundy.",
+        "DistractorAssociative0": "Členové výpravy nosí povinné uniformy."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-17",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Host se zajímá o to, zda v objektu trvale žijí všechny přítomné děti.",
+      "utterance": "A: Bydlíte všichni tady? \nB: Některé děti jsou tady pořád.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všechny děti v objektu bydlí.",
+        "implicature_paraphrased": "Ne všechny děti v objektu žijí.",
+        "DistractorNegation": "Všechny děti v objektu bydlí.",
+        "DistractorLexicalEdit": "Některé děti mají zakázáno hrát si venku.",
+        "DistractorAssociative0": "Objekt slouží jako internátní škola."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-18",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Carol probírá se svou společnicí pracovní nebo osobní nabídky, které jí přišly přes internet.",
+      "utterance": "A: Kontrolovala jsi všechny svoje odkazy? \nB: Myslím, že některé jo.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všechny svoje odkazy si Carol kontrolovala.",
+        "implicature_paraphrased": "Ne všechny svoje odkazy si Carol prověřovala.",
+        "DistractorNegation": "Všechny svoje odkazy si Carol kontrolovala.",
+        "DistractorLexicalEdit": "Některé odkazy vedou na recepty.",
+        "DistractorAssociative0": "Internetové podvody jsou stále častější."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-19",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Muž se podivuje nad zvyky návštěvníků společenských akcí v daném kraji.",
+      "utterance": "A: Všichni tu s sebou na akce vozí sudy s pivem? \nB: Někteří ano.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všichni tam s sebou na akce vozí sudy s pivem.",
+        "implicature_paraphrased": "Ne všichni tam s sebou na události vozí sudy s pivem.",
+        "DistractorNegation": "Všechny tam s sebou na akce vozí sudy s pivem.",
+        "DistractorLexicalEdit": "Některí návštěvníci nosí velké klobouky.",
+        "DistractorAssociative0": "Akce financuje místní pivovár."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-20",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Muž v restauraci hovoří o skupině přátel z Texasu, se kterými přijel do New Yorku.",
+      "utterance": "A: Všichni muži? \nB: Několik mužů tam bylo.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všichni lidé v partě z Texasu byli muži.",
+        "implicature_paraphrased": "Ne všichni lidé v partě z Texasu byli pánové.",
+        "DistractorNegation": "Všichni lidé v partě z Texasu byli muži.",
+        "DistractorLexicalEdit": "Několik mužů mělo na sobě kovbojské klobouky.",
+        "DistractorAssociative0": "Letenky do New Yorku byly levné."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-21",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Rotmistr prověřuje úroveň připravenosti a předchozího výcviku u nové vojenské jednotky.",
+      "utterance": "A: Maj všichni za sebou výcvik? \nB: No, někteří maj základy.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všichni vojáci v jednotce za sebou mají výcvik.",
+        "implicature_paraphrased": "Ne všichni vojáci v jednotce absolvovali výcvik.",
+        "DistractorNegation": "Všechny vojáci v jednotce za sebou mají výcvik.",
+        "DistractorLexicalEdit": "Někteří vojáci umějí vařit v poli.",
+        "DistractorAssociative0": "Rekruti dostanou výstroj po přísaze."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-22",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Postavy v rozhovoru probírají uměleckou komunitu a malíře žijící v Barbizonu.",
+      "utterance": "A: Všichni malíři stále žijí v Barbizonu? \nB: Někteří.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všichni malíři stále žijí v Barbizonu.",
+        "implicature_paraphrased": "Ne všichni malíři nadále pobývají v Barbizonu.",
+        "DistractorNegation": "Všechny malíři stále žijí v Barbizonu.",
+        "DistractorLexicalEdit": "Někteří malíři používají drahé barvy.",
+        "DistractorAssociative0": "Malíři se stěhují kvůli drahým nájmům."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-23",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Generál provádí inspekci vybavení a kontroluje, zda jsou vojáci vyzbrojeni noži pro boj zblízka.",
+      "utterance": "A: Mají všichni vaši vojáci nůž? \nB: Někteří z nich ano.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všichni generálovi vojáci mají nůž.",
+        "implicature_paraphrased": "Ne všichni generálovi vojáci vlastní nůž.",
+        "DistractorNegation": "Všechny generálovi vojáci mají nůž.",
+        "DistractorLexicalEdit": "Někteří vojáci nosí na opasku polní čutoru.",
+        "DistractorAssociative0": "Nože jsou v moderní válce zastaralé."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-24",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Probíhá výslech ohledně nadpřirozeného zjevení a toho, kdo další mohl anděla spatřit.",
+      "utterance": "A: Viděli ho všichni přítomní? \nB: Někteří měli štěstí.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všichni přítomní toho anděla viděli.",
+        "implicature_paraphrased": "Ne všichni přítomní onoho anděla spatřili.",
+        "DistractorNegation": "Všechny přítomní toho anděla viděli.",
+        "DistractorLexicalEdit": "Někteří přítomní měli u sebe zápisník.",
+        "DistractorAssociative0": "Svědci se v popisu anděla rozcházejí."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-qa-25",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Joe se vyptává doktora na jeho praxi a etiku nahrávání rozhovorů s lidmi v ordinaci.",
+      "utterance": "A: Nahráváte si všechny pacienty? \nB: Některé z nich.",
+      "question": "",
+      "options": {
+        "implicature_true": "Ne všechny své pacienty si doktor nahrává.",
+        "implicature_paraphrased": "Ne všechny své pacienty si doktor zaznamenává.",
+        "DistractorNegation": "Všechny své pacienty si doktor nahrává.",
+        "DistractorLexicalEdit": "Některé nahrávky jsou na starých kazetách.",
+        "DistractorAssociative0": "Nahrávání bez souhlasu je nezákonné."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    }
+  ]

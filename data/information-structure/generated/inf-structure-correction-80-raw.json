@@ -1,0 +1,1440 @@
+[
+    {
+      "scenario_id": 89,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "redaktor", "verb": "upravil", "object": "článek" },
+        "distractor_bank": {
+          "focus_object": "Ten článek byl připravený pro zítřejší ranní vydání.",
+          "focus_subject": "Redaktor si dnes v redakci zapomněl svůj deštník.",
+          "focus_verb": "Upravování textů bývá v této profesi často zdlouhavé."
+        },
+        "utterance": "Marek se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Z historie změn vyšlo najevo, že redaktor sice něco upravil, ale nikdo nevěděl, o co šlo. Petr jen tak prohodil, že redaktor upravil titulek.",
+          "focus_subject": "Bylo jasné, že ten článek někdo upravil, ale nikdo nevěděl, kdo to byl. Petr jen tak prohodil, že ho upravil korektor.",
+          "focus_verb": "Bylo patrné, že redaktor s článkem něco provedl, ale nikdo nevěděl, co s ním udělal. Petr jen tak prohodil, že ho redaktor pouze přečetl."
+        }
+      }
+    },
+    {
+      "scenario_id": 90,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "technik", "verb": "vyměnil", "object": "disk" },
+        "distractor_bank": {
+          "focus_object": "Tento disk měl kapacitu necelých dvě stě gigabajtů.",
+          "focus_subject": "Technik měl dnes na sobě jednoduché šedé tričko.",
+          "focus_verb": "Výměna hardwarových prvků má v této firmě svá pravidla."
+        },
+        "utterance": "Jana hlasitě odporovala: „Ne,“",
+        "contexts": {
+          "focus_object": "Z hlášení vyšlo najevo, že technik sice něco vyměnil, ale nikdo nevěděl, o co se jednalo. Lukáš poznamenal, že technik vyměnil zdroj.",
+          "focus_subject": "Zařízení začalo fungovat a bylo jasné, že ten disk někdo vyměnil, ale nikdo nevěděl, kdo to byl. Lukáš poznamenal, že ho vyměnil správce.",
+          "focus_verb": "Bylo patrné, že technik s diskem něco provedl, ale nikdo nevěděl, co s ním přesně udělal. Lukáš poznamenal, že ho technik jenom vyčistil."
+        }
+      }
+    },
+    {
+      "scenario_id": 91,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Marek", "verb": "podepsal", "object": "dopis" },
+        "distractor_bank": {
+          "focus_object": "Ten dopis byl napsaný na papíře s modrým logem.",
+          "focus_subject": "Marek měl dnes v kapse u košile svoji propisku.",
+          "focus_verb": "Podepisování úředních listin vyžaduje klidné prostředí."
+        },
+        "utterance": "Eva se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "Ukázalo se, že Marek sice něco podepsal, ale nikdo nevěděl, o co přesně šlo. Filip nadnesl, že Marek podepsal omluvenku.",
+          "focus_subject": "Bylo zřejmé, že ten dopis někdo podepsal, ale nikdo nevěděl, kdo ho podepsal. Filip nadnesl, že ho podepsal asistent.",
+          "focus_verb": "Bylo patrné, že Marek s dopisem něco provedl, ale nikdo nevěděl, co s ním udělal. Filip nadnesl, že ho Marek jenom otevřel."
+        }
+      }
+    },
+    {
+      "scenario_id": 92,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "asistentka", "verb": "vynesla", "object": "šanony" },
+        "distractor_bank": {
+          "focus_object": "Tyto šanony byly v regálu seřazené podle abecedy.",
+          "focus_subject": "Asistentka měla dnes na stole sklenici s vodou.",
+          "focus_verb": "Vynášení starého papíru probíhá v této kanceláři denně."
+        },
+        "utterance": "Tomáš se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Z evidence vyšlo najevo, že asistentka sice něco vynesla, ale nikdo nevěděl, o co šlo. Klára uvedla, že asistentka vynesla krabice.",
+          "focus_subject": "V archivu bylo prázdno a bylo jasné, že ty šanony někdo vynesl, ale nikdo nevěděl, kdo to byl. Klára uvedla, že je vynesl uklízeč.",
+          "focus_verb": "Bylo patrné, že asistentka se šanony něco provedla, ale nikdo nevěděl, co s nimi udělala. Klára uvedla, že je asistentka jenom přerovnala."
+        }
+      }
+    },
+    {
+      "scenario_id": 93,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "kuchař", "verb": "zamíchal", "object": "směs" },
+        "distractor_bank": {
+          "focus_object": "Tato směs byla připravená z mletého masa a bylinek.",
+          "focus_subject": "Kuchař měl dnes na sobě svůj čistý bílý rondon.",
+          "focus_verb": "Míchání horkých surovin vyžaduje v kuchyni pozornost."
+        },
+        "utterance": "Lucie se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "V kuchyni se ukázalo, že kuchař sice něco zamíchal, ale nikdo nevěděl, o co přesně se jednalo. Martin řekl, že kuchař zamíchal těsto.",
+          "focus_subject": "Bylo zřejmé, že tu směs někdo zamíchal, ale nikdo nevěděl, kdo to byl. Martin řekl, že ji zamíchal pomocník.",
+          "focus_verb": "Bylo patrné, že kuchař se směsí něco provedl, ale nikdo nevěděl, co s ní udělal. Martin řekl, že ji kuchař jenom ochutnal."
+        }
+      }
+    },
+    {
+      "scenario_id": 94,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "správce", "verb": "odemkl", "object": "garáž" },
+        "distractor_bank": {
+          "focus_object": "Ta garáž měla nová masivní plechová vrata.",
+          "focus_subject": "Správce si dnes dopoledne v klidu četl noviny.",
+          "focus_verb": "Odemykání všech prostor je v tomto areálu nutné."
+        },
+        "utterance": "Pavel se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Z hlášení vyšlo najevo, že správce sice něco odemkl, ale nikdo nevěděl, o co přesně šlo. Dana poznamenala, že správce odemkl bránu.",
+          "focus_subject": "Bylo jasné, že tu garáž někdo odemkl, ale nikdo nevěděl, kdo to byl. Dana poznamenala, že ji odemkl hlídač.",
+          "focus_verb": "Ukázalo se, že správce s tou garáží něco provedl, ale nikdo nevěděl, co s ní udělal. Dana poznamenala, že ji správce jenom zkontroloval."
+        }
+      }
+    },
+    {
+      "scenario_id": 95,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "asistent", "verb": "odeslal", "object": "zásilku" },
+        "distractor_bank": {
+          "focus_object": "Ta zásilka byla naložená v papírové krabici.",
+          "focus_subject": "Asistent měl dnes na sobě jednoduché modré tričko.",
+          "focus_verb": "Odesílání firemních balíků probíhá v této firmě ráno."
+        },
+        "utterance": "Jana hlasitě odporovala: „Ne,“",
+        "contexts": {
+          "focus_object": "Z historie zásilek vyšlo najevo, že asistent sice něco odeslal, ale nikdo nevěděl, o co přesně šlo. Petr uvedl, že asistent odeslal dopis.",
+          "focus_subject": "Balík byl pryč a bylo jasné, že tu zásilku někdo odeslal, ale nikdo nevěděl, kdo to byl. Petr uvedl, že ji odeslal kurýr.",
+          "focus_verb": "Ukázalo se, že asistent se zásilkou něco provedl, ale nikdo nevěděl, co s ní udělal. Petr uvedl, že ji asistent jenom zvážil."
+        }
+      }
+    },
+    {
+      "scenario_id": 96,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "studentka", "verb": "přepsala", "object": "poznámky" },
+        "distractor_bank": {
+          "focus_object": "Tyto poznámky byly napsané velmi drobným písmem.",
+          "focus_subject": "Studentka měla dnes na zádech těžký černý batoh.",
+          "focus_verb": "Přepisování dlouhých textů bývá v tomto ročníku časté."
+        },
+        "utterance": "Marek se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Z historie souborů vyšlo najevo, že studentka sice něco přepsala, ale nikdo nevěděl, o co šlo. Michal nadnesl, že studentka přepsala referát.",
+          "focus_subject": "V sešitě byl nový text a bylo jasné, že ty poznámky někdo přepsal, ale nikdo nevěděl, kdo to byl. Michal nadnesl, že je přepsala učitelka.",
+          "focus_verb": "Ukázalo se, že studentka s těmi poznámkami něco provedla, ale nikdo nevěděl, co s nimi udělala. Michal nadnesl, že je studentka jenom podtrhala."
+        }
+      }
+    },
+    {
+      "scenario_id": 97,
+      "cue": "correction",
+      "seed": { "base_proposition": { "subject": "truhlář", "verb": "ohobloval", "object": "stůl" },
+        "distractor_bank": {
+          "focus_object": "Ten stůl byl uříznutý z masivního dubového dřeva.",
+          "focus_subject": "Truhlář měl dnes na sobě svoji starou koženou zástěru.",
+          "focus_verb": "Hoblování drsných ploch bývá v této dílně zdlouhavé."
+        },
+        "utterance": "Eva se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "V dílně bylo vidět hobliny a ukázalo se, že truhlář sice něco ohobloval, ale nikdo nevěděl, o co šlo. Klára říkala, že truhlář ohobloval polici.",
+          "focus_subject": "Povrch byl hladký a bylo jasné, že ten stůl někdo ohobloval, ale nikdo nevěděl, kdo to byl. Klára říkala, že ho ohobloval učeň.",
+          "focus_verb": "Bylo patrné, že truhlář s tím stolem něco provedl, ale nikdo nevěděl, co s ním udělal. Klára říkala, že ho truhlář jenom nalakoval."
+        }
+      }
+    },
+    {
+      "scenario_id": 98,
+      "cue": "correction",
+      "seed": { "base_proposition": { "subject": "úřednice", "verb": "skartovala", "object": "výpis" },
+        "distractor_bank": {
+          "focus_object": "Ten výpis byl označený jako velmi důležitý dokument.",
+          "focus_subject": "Úřednice měla dnes na očích svoje nové brýle.",
+          "focus_verb": "Skartování listin má na tomto úřadě pevná pravidla."
+        },
+        "utterance": "Filip se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Z protokolu vyšlo najevo, že úřednice sice něco skartovala, ale nikdo nevěděl, o co přesně šlo. Tomáš poznamenal, že úřednice skartovala žádost.",
+          "focus_subject": "Dokument zmizel a bylo jasné, že ten výpis někdo skartoval, ale nikdo nevěděl, kdo to byl. Tomáš poznamenal, že ho skartoval kolega.",
+          "focus_verb": "Bylo zřejmé, že úřednice s tím výpisem něco provedla, ale nikdo nevěděl, co s ním přesně udělala. Tomáš poznamenal, že ho úřednice jenom založila."
+        }
+      }
+    },
+    {
+      "scenario_id": 99,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "grafik", "verb": "upravil", "object": "plakát" },
+        "distractor_bank": {
+          "focus_object": "Ten plakát byl připravený pro velký letní festival.",
+          "focus_subject": "Grafik si dnes koupil novou ergonomickou klávesnici.",
+          "focus_verb": "Upravování vizuálních prvků bývá v této agentuře běžné."
+        },
+        "utterance": "Marek se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Z historie úprav vyšlo najevo, že grafik sice něco upravil, ale nikdo nevěděl, o co šlo. Petr uvedl, že grafik upravil vizitku.",
+          "focus_subject": "Bylo jasné, že ten plakát někdo upravil, ale nikdo nevěděl, kdo to byl. Petr uvedl, že ho upravil asistent.",
+          "focus_verb": "Bylo patrné, že grafik s plakátem něco provedl, ale nikdo nevěděl, co s ním přesně udělal. Petr uvedl, že ho grafik jenom vytiskl."
+        }
+      }
+    },
+    {
+      "scenario_id": 100,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "kuchařka", "verb": "připravila", "object": "zálivku" },
+        "distractor_bank": {
+          "focus_object": "Tato zálivka byla připravená z olivového oleje a bylinek.",
+          "focus_subject": "Kuchařka měla dnes ve vlasech čistou bílou gumičku.",
+          "focus_verb": "Příprava studených omáček vyžaduje v kuchyni přesnost."
+        },
+        "utterance": "Eva se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "V kuchyni se ukázalo, že kuchařka sice něco připravila, ale nikdo nevěděl, o co šlo. Jana jen tak prohodila, že kuchařka připravila těsto.",
+          "focus_subject": "V misce byl hotový výrobek a bylo jasné, že tu zálivku někdo připravil, ale nikdo nevěděl, kdo to byl. Jana jen tak prohodila, že ji připravil pomocník.",
+          "focus_verb": "Bylo patrné, že kuchařka se zálivkou něco provedla, ale nikdo nevěděl, co s ní přesně udělala.     "
+        }
+      }
+    },
+    {
+      "scenario_id": 101,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "mechanik", "verb": "vyčistil", "object": "trysku" },
+        "distractor_bank": {
+          "focus_object": "Tato tryska byla vyrobená z velmi jemné mosazi.",
+          "focus_subject": "Mechanik měl dnes na sobě svoje modré montérky.",
+          "focus_verb": "Čištění drobných součástek bývá v servisu náročné."
+        },
+        "utterance": "Jiří se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Z hlášení vyšlo najevo, že mechanik sice něco vyčistil, ale nikdo nevěděl, o co šlo. Martin podotkl, že mechanik vyčistil nádrž.",
+          "focus_subject": "Stroj už zase fungoval a bylo jasné, že tu trysku někdo vyčistil, ale nikdo nevěděl, kdo to byl. Martin podotkl, že ji vyčistil učeň.",
+          "focus_verb": "Bylo zřejmé, že mechanik s tryskou něco provedl, ale nikdo nevěděl, co s ní udělal. Martin podotkl, že ji mechanik pouze vyměnil."
+        }
+      }
+    },
+    {
+      "scenario_id": 102,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "sekretářka", "verb": "naskenovala", "object": "smlouvu" },
+        "distractor_bank": {
+          "focus_object": "Ta smlouva měla v horním rohu drobný modrý nápis.",
+          "focus_subject": "Sekretářka měla dnes na stole sklenici s čistou vodou.",
+          "focus_verb": "Skenování dokumentů patří v této kanceláři k rutině."
+        },
+        "utterance": "Marek se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Z historie skeneru vyšlo najevo, že sekretářka sice něco naskenovala, ale nikdo nevěděl, o co šlo. Lucie promluvila a řekla, že sekretářka naskenovala formulář.",
+          "focus_subject": "V systému se objevila nová kopie a bylo jasné, že tu smlouvu někdo naskenoval, ale nikdo nevěděl, kdo to byl. Lucie promluvila a řekla, že ji naskenoval vedoucí.",
+          "focus_verb": "Bylo patrné, že sekretářka se smlouvou něco provedla, ale nikdo nevěděl, co s ní udělala. Lucie promluvila a řekla, že ji sekretářka pouze podepsala."
+        }
+      }
+    },
+    {
+      "scenario_id": 103,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "správce", "verb": "zamkl", "object": "bránu" },
+        "distractor_bank": {
+          "focus_object": "Ta brána byla vyrobená z masivního černého kovu.",
+          "focus_subject": "Správce si dnes v kůlně zapomněl svoje pracovní brýle.",
+          "focus_verb": "Zamykání všech vchodů je v tomto areálu nutností."
+        },
+        "utterance": "Filip se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Ukázalo se, že správce sice něco zamkl, ale nikdo nevěděl, o co přesně šlo. David nadnesl, že správce zamkl kůlnu.",
+          "focus_subject": "Bylo zřejmé, že tu bránu někdo zamkl, ale nikdo nevěděl, kdo to byl. David nadnesl, že ji zamkl hlídač.",
+          "focus_verb": "Z hlášení vyšlo najevo, že správce s bránou něco provedl, ale nikdo nevěděl, co s ní udělal. David nadnesl, že ji správce pouze zkontroloval."
+        }
+      }
+    },
+    {
+      "scenario_id": 104,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "pokladní", "verb": "orazítkovala", "object": "jízdenku" },
+        "distractor_bank": {
+          "focus_object": "Ta jízdenka byla platná pouze pro dnešní dopolední spoj.",
+          "focus_subject": "Pokladní měla dnes na hlavě červený kšilt s logem.",
+          "focus_verb": "Razítkování cestovních dokladů probíhá přímo u přepážky."
+        },
+        "utterance": "Eva se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "Z evidence vyšlo najevo, že pokladní sice něco orazítkovala, ale nikdo nevěděl, o co šlo. Lucie poznamenala, že pokladní orazítkovala průkazku.",
+          "focus_subject": "Ukázalo se, že tu jízdenku někdo orazítkoval, ale nikdo nevěděl, kdo to byl. Lucie poznamenala, že ji orazítkoval revizor.",
+          "focus_verb": "Bylo patrné, že pokladní s jízdenkou něco provedla, ale nikdo nevěděl, co s ní udělala. Lucie poznamenala, že si ji pokladní pouze prohlédla."
+        }
+      }
+    },
+    {
+      "scenario_id": 105,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "zahradník", "verb": "ostříhal", "object": "růže" },
+        "distractor_bank": {
+          "focus_object": "Tyto růže rostly v řadě přímo pod okny obývacího pokoje.",
+          "focus_subject": "Zahradník si dnes ráno zapomněl v kůlně svoji čepici.",
+          "focus_verb": "Stříhání okrasných květin vyžaduje v tomto parku zkušenost."
+        },
+        "utterance": "Marek se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "V zahradě bylo vidět úpravy a ukázalo se, že zahradník sice něco ostříhal, ale nikdo nevěděl, o co šlo. Tomáš nadnesl, že zahradník ostříhal stromky.",
+          "focus_subject": "Keře byly upravené a bylo jasné, že ty růže někdo ostříhal, ale nikdo nevěděl, kdo to byl. Tomáš nadnesl, že je ostříhal majitel.",
+          "focus_verb": "Bylo patrné, že zahradník s růžemi něco provedl, ale nikdo nevěděl, co s nimi udělal. Tomáš nadnesl, že je zahradník pouze zalil."
+        }
+      }
+    },
+    {
+      "scenario_id": 106,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "úředník", "verb": "podepsal", "object": "žádost" },
+        "distractor_bank": {
+          "focus_object": "Tato žádost byla sepsaná na dvou listech bílého papíru.",
+          "focus_subject": "Úředník měl dnes na stole velký hrnek černé kávy.",
+          "focus_verb": "Podepisování dokumentů probíhá v této kanceláři denně."
+        },
+        "utterance": "Jana hlasitě odporovala: „Ne,“",
+        "contexts": {
+          "focus_object": "Z evidence vyšlo najevo, že úředník sice něco podepsal, ale nikdo nevěděl, o co šlo. Martin uvedl, že úředník podepsal rozhodnutí.",
+          "focus_subject": "V systému se objevil souhlas a bylo jasné, že tu žádost někdo podepsal, ale nikdo nevěděl, kdo to byl. Martin uvedl, že ji podepsal ředitel.",
+          "focus_verb": "Bylo patrné, že úředník se žádostí něco provedl, ale nikdo nevěděl, co s ní přesně udělal. Martin uvedl, že ji úředník pouze orazítkoval."
+        }
+      }
+    },
+    {
+      "scenario_id": 107,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "asistentka", "verb": "vytiskla", "object": "referát" },
+        "distractor_bank": {
+          "focus_object": "Ten referát byl určený pro zítřejší ranní seminář.",
+          "focus_subject": "Asistentka měla dnes na sobě nové tmavě modré šaty.",
+          "focus_verb": "Tisk dlouhých dokumentů zabere v této kanceláři čas."
+        },
+        "utterance": "Jiří se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Z hlášení tiskárny vyšlo najevo, že asistentka sice něco vytiskla, ale nikdo nevěděl, o co šlo. Petr řekl, že asistentka vytiskla prezentaci.",
+          "focus_subject": "Na stole ležel balík papírů a bylo jasné, že ten referát někdo vytiskl, ale nikdo nevěděl, kdo to byl. Petr řekl, že ho vytiskla studentka.",
+          "focus_verb": "Z historie změn bylo vidět, že asistentka s referátem něco provedla, ale nikdo nevěděl, co s ním udělala. Petr řekl, že ho asistentka pouze smazala."
+        }
+      }
+    },
+    {
+      "scenario_id": 108,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "automechanik", "verb": "vypustil", "object": "olej" },
+        "distractor_bank": {
+          "focus_object": "Tento olej byl určený pro starší typy naftových motorů.",
+          "focus_subject": "Automechanik měl dnes v dílně puštěné svoje rádio.",
+          "focus_verb": "Vypouštění kapalin je součástí každé technické prohlídky."
+        },
+        "utterance": "Filip se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "V dílně se ukázalo, že automechanik sice něco vypustil, ale nikdo nevěděl, o co přesně šlo. Marek podotkl, že automechanik vypustil vodu.",
+          "focus_subject": "Pod autem byla nádoba a bylo jasné, že ten olej někdo vypustil, ale nikdo nevěděl, kdo to byl. Marek podotkl, že ho vypustil pomocník.",
+          "focus_verb": "Bylo zřejmé, že automechanik s olejem něco provedl, ale nikdo nevěděl, co s ním udělal. Marek podotkl, že ho automechanik pouze doplnil."
+        }
+      }
+    },
+    {
+      "scenario_id": 109,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Martina", "verb": "rozbila", "object": "lampu" },
+        "distractor_bank": {
+          "focus_object": "Tato lampa měla stínidlo vyrobené z mléčného skla.",
+          "focus_subject": "Martina si dnes ráno ke snídani uvařila černou kávu.",
+          "focus_verb": "Rozbíjení křehkých věcí bývá v této domácnosti k vzteku."
+        },
+        "utterance": "Jana se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "V obývacím pokoji byl slyšet hluk a ukázalo se, že Martina sice něco rozbila, ale nikdo nevěděl, o co šlo. Petr poznamenal, že Martina rozbila vázu.",
+          "focus_subject": "Na zemi ležely střepy a bylo jasné, že tu lampu někdo rozbil, ale nikdo nevěděl, kdo to byl. Petr poznamenal, že ji rozbil Lukáš.",
+          "focus_verb": "Bylo patrné, že Martina s tou lampou něco provedla, ale nikdo nevěděl, co s ní přesně udělala. Petr poznamenal, že ji Martina pouze zhasla."
+        }
+      }
+    },
+    {
+      "scenario_id": 110,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Lukáš", "verb": "schoval", "object": "klíče" },
+        "distractor_bank": {
+          "focus_object": "Tyto klíče byly pověšené na velkém kovovém kroužku.",
+          "focus_subject": "Lukáš si dnes ráno do práce vzal svoji novou bundu.",
+          "focus_verb": "Schovávání důležitých věcí bývá v tomto domě časté."
+        },
+        "utterance": "Petr se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Ukázalo se, že Lukáš sice něco schoval, ale nikdo nevěděl, o co přesně šlo. Lucie nadnesla, že Lukáš schoval mobil.",
+          "focus_subject": "Věc nebyla k nalezení a bylo jasné, že ty klíče někdo schoval, ale nikdo nevěděl, kdo to byl. Lucie nadnesla, že je schovala Klára.",
+          "focus_verb": "Bylo patrné, že Lukáš s těmi klíči něco provedl, ale nikdo nevěděl, co s nimi udělal. Lucie nadnesla, že je Lukáš pouze našel."
+        }
+      }
+    },
+    {
+      "scenario_id": 111,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Klára", "verb": "ztratila", "object": "prsten" },
+        "distractor_bank": {
+          "focus_object": "Ten prsten byl vyrobený z matného bílého zlata.",
+          "focus_subject": "Klára měla dnes ve vlasech barevnou látkovou čelenku.",
+          "focus_verb": "Ztrácení cenných šperků je v tomto chaosu celkem běžné."
+        },
+        "utterance": "Jana namítla: „Ne,“",
+        "contexts": {
+          "focus_object": "V pokoji se ukázalo, že Klára sice něco ztratila, ale nikdo nevěděl, o co se jednalo. David uvedl, že Klára ztratila náušnici.",
+          "focus_subject": "Šperkovnice byla prázdná a bylo jasné, že ten prsten někdo ztratil, ale nikdo nevěděl, kdo ho ztratil. David uvedl, že ho ztratila Simona.",
+          "focus_verb": "Bylo zřejmé, že Klára s tím prstenem něco provedla, ale nikdo nevěděl, co s ním přesně udělala. David uvedl, že ho Klára pouze odložila."
+        }
+      }
+    },
+    {
+      "scenario_id": 112,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Ondřej", "verb": "posunul", "object": "křeslo" },
+        "distractor_bank": {
+          "focus_object": "To křeslo mělo měkké polstrování v tmavě šedé barvě.",
+          "focus_subject": "Ondřej si dnes v kapse u košile zapomněl propisku.",
+          "focus_verb": "Posouvání nábytku při úklidu bývá někdy nezbytné."
+        },
+        "utterance": "Monika se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "V pokoji bylo něco jinak a ukázalo se, že Ondřej sice něco posunul, ale nikdo nevěděl, o co šlo. Filip řekl, že Ondřej posunul stůl.",
+          "focus_subject": "Uspořádání v místnosti se změnilo a bylo jasné, že to křeslo někdo posunul, ale nikdo nevěděl, kdo ho posunul. Filip řekl, že ho posunula Hana.",
+          "focus_verb": "Ukázalo se, že Ondřej s tím křeslem něco provedl, ale nikdo nevěděl, co s ním přesně udělal. Filip řekl, že ho Ondřej pouze oprášil."
+        }
+      }
+    },
+    {
+      "scenario_id": 113,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Hana", "verb": "rozlila", "object": "džus" },
+        "distractor_bank": {
+          "focus_object": "Tento džus byl vyrobený z čerstvě vylisovaných pomerančů.",
+          "focus_subject": "Hana měla dnes na sobě svoji oblíbenou modrou sukni.",
+          "focus_verb": "Rozlití sladké tekutiny na podlahu je vždycky nepříjemné."
+        },
+        "utterance": "Lucie se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "Na stole byla skvrna a ukázalo se, že Hana sice něco rozlila, ale nikdo nevěděl, o co šlo. Petr prohodil, že Hana rozlila kávu.",
+          "focus_subject": "Bylo jasné, že ten džus někdo rozlil, ale nikdo nevěděl, kdo ho rozlil. Petr prohodil, že ho rozlil Filip.",
+          "focus_verb": "Bylo patrné, že Hana s tím džusem něco provedla, ale nikdo nevěděl, co s ním udělala. Petr prohodil, že ho Hana pouze dopila."
+        }
+      }
+    },
+    {
+      "scenario_id": 114,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Marek", "verb": "koupil", "object": "lístky" },
+        "distractor_bank": {
+          "focus_object": "Tyto lístky byly určené na večerní filmové představení.",
+          "focus_subject": "Marek měl dnes na sobě svoji novou šedou mikinu.",
+          "focus_verb": "Nakupování věcí online bývá v této aplikaci snadné."
+        },
+        "utterance": "Pavel se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Z výpisu z účtu vyšlo najevo, že Marek sice něco koupil, ale nikdo nevěděl, o co šlo. Petr nadnesl, že Marek koupil popcorn.",
+          "focus_subject": "V košíku se objevilo potvrzení a bylo jasné, že ty lístky někdo koupil, ale nikdo nevěděl, kdo to byl. Petr nadnesl, že je koupil Honza.",
+          "focus_verb": "Bylo patrné, že Marek s lístky něco provedl, ale nikdo nevěděl, co s nimi udělal. Petr nadnesl, že je Marek vyhrál."
+        }
+      }
+    },
+    {
+      "scenario_id": 115,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Lucie", "verb": "rozstříhala", "object": "plakát" },
+        "distractor_bank": {
+          "focus_object": "Ten plakát byl vytištěný na velmi tenkém papíře.",
+          "focus_subject": "Lucie měla dnes ve vlasech zapíchnutou modrou sponku.",
+          "focus_verb": "Rozstříhání papírových archů je v této dílně běžné."
+        },
+        "utterance": "Marek se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Na stole ležely kousky papíru a ukázalo se, že Lucie sice něco rozstříhala, ale nikdo nevěděl, o co šlo. Martin poznamenal, že Lucie rozstříhala fotku.",
+          "focus_subject": "V koši byly zbytky papíru a bylo jasné, že ten plakát někdo rozstříhal, ale nikdo nevěděl, kdo ho rozstříhal. Martin poznamenal, že ho rozstříhala Jana.",
+          "focus_verb": "Bylo zřejmé, že Lucie s plakátem něco provedla, ale nikdo nevěděl, co s ním přesně udělala. Martin poznamenal, že ho Lucie srolovala."
+        }
+      }
+    },
+    {
+      "scenario_id": 116,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Filip", "verb": "upustil", "object": "talíř" },
+        "distractor_bank": {
+          "focus_object": "Ten talíř měl po celém okraji jemný modrý vzor.",
+          "focus_subject": "Filip si dnes ráno do práce vzal svoje nové boty.",
+          "focus_verb": "Upuštění křehkých věcí na podlahu je vždycky nepříjemné."
+        },
+        "utterance": "Eva se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "Z kuchyně se ozval hluk a ukázalo se, že Filip sice něco upustil, ale nikdo nevěděl, o co se jednalo. Klára prohodila, že Filip upustil sklenici.",
+          "focus_subject": "Na zemi ležely střepy a bylo jasné, že ten talíř někdo upustil, ale nikdo nevěděl, kdo ho upustil. Klára prohodila, že ho upustil David.",
+          "focus_verb": "Ukázalo se, že Filip s talířem něco provedl, ale nikdo nevěděl, co s ním udělal. Klára prohodila, že ho Filip odložil."
+        }
+      }
+    },
+    {
+      "scenario_id": 117,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Veronika", "verb": "smazala", "object": "zprávu" },
+        "distractor_bank": {
+          "focus_object": "Tato zpráva byla v aplikaci označená jako nepřečtená.",
+          "focus_subject": "Veronika měla dnes na krku jemný zlatý řetízek.",
+          "focus_verb": "Mazání nepotřebných dat bývá v tomto telefonu snadné."
+        },
+        "utterance": "Filip se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Z historie chatu vyšlo najevo, že Veronika sice něco smazala, ale nikdo nevěděl, o co přesně šlo. Ondřej podotkl, že Veronika smazala fotku.",
+          "focus_subject": "Konverzace byla neúplná a bylo jasné, že tu zprávu někdo smazal, ale nikdo nevěděl, kdo ji smazal. Ondřej podotkl, že ji smazal Michal.",
+          "focus_verb": "Ukázalo se, že Veronika se zprávou něco provedla, ale nikdo nevěděl, co s ní přesně udělala. Ondřej podotkl, že ji Veronika přečetla."
+        }
+      }
+    },
+    {
+      "scenario_id": 118,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Tomáš", "verb": "namazal", "object": "panty" },
+        "distractor_bank": {
+          "focus_object": "Tyto panty byly vyrobené z masivní nerezové oceli.",
+          "focus_subject": "Tomáš měl dnes na sobě jednoduché šedé tričko.",
+          "focus_verb": "Mazání kovových součástek se provádí jednou za rok."
+        },
+        "utterance": "Lucie se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "Dveře se už pohybovaly lehce a ukázalo se, že Tomáš sice něco namazal, ale nikdo nevěděl, o co šlo. Eva uvedla, že Tomáš namazal zámek.",
+          "focus_subject": "Vrzání ustalo a bylo zřejmé, že ty panty někdo namazal, ale nikdo nevěděl, kdo to byl. Eva uvedla, že je namazal soused.",
+          "focus_verb": "Bylo patrné, že Tomáš s panty něco provedl, ale nikdo nevěděl, co s nimi udělal. Eva uvedla, že je Tomáš vyčistil."
+        }
+      }
+    },
+    {
+      "scenario_id": 119,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "David", "verb": "vypil", "object": "pivo" },
+        "distractor_bank": {
+          "focus_object": "To pivo bylo v hnědé skleněné lahvi bez etikety.",
+          "focus_subject": "David měl dnes na sobě svoje staré šedé tričko.",
+          "focus_verb": "Pití chlazených nápojů je v tomto horku osvěžující."
+        },
+        "utterance": "Marek se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "V lednici ubylo pití a ukázalo se, že David sice něco vypil, ale nikdo nevěděl, o co šlo. Jana nadnesla, že David vypil limonádu.",
+          "focus_subject": "Láhev byla prázdná a bylo jasné, že to pivo někdo vypil, ale nikdo nevěděl, kdo to byl. Jana nadnesla, že ho vypil Petr.",
+          "focus_verb": "Bylo patrné, že David s tím pivem něco provedl, ale nikdo nevěděl, co s ním udělal. Jana nadnesla, že ho David rozlil."
+        }
+      }
+    },
+    {
+      "scenario_id": 120,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Klára", "verb": "vyhodila", "object": "dopis" },
+        "distractor_bank": {
+          "focus_object": "Ten dopis byl v dosti silné papírové obálce.",
+          "focus_subject": "Klára měla dnes na sobě svoje nové stříbrné náušnice.",
+          "focus_verb": "Vyhazování starých papírů patří k běžnému úklidu."
+        },
+        "utterance": "Lucie namítla: „Ne,“",
+        "contexts": {
+          "focus_object": "Z koše vyčníval papír a ukázalo se, že Klára sice něco vyhodila, ale nikdo nevěděl, o co se jednalo. Lukáš poznamenal, že Klára vyhodila účtenku.",
+          "focus_subject": "Dopis zmizel a bylo jasné, že ten dopis někdo vyhodil, ale nikdo nevěděl, kdo to byl. Lukáš poznamenal, že ho vyhodil pošťák.",
+          "focus_verb": "Bylo patrné, že Klára s dopisem něco provedla, ale nikdo nevěděl, co s ním přesně udělala. Lukáš poznamenal, že ho Klára schovala."
+        }
+      }
+    },
+    {
+      "scenario_id": 121,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Martin", "verb": "otevřel", "object": "okno" },
+        "distractor_bank": {
+          "focus_object": "To okno mělo bílý plastový rám a novou kličku.",
+          "focus_subject": "Martin měl dnes na sobě svůj hnědý vlněný svetr.",
+          "focus_verb": "Otevírání oken je v této místnosti kvůli větrání nutné."
+        },
+        "utterance": "Jana se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "Do místnosti proudil vzduch a ukázalo se, že Martin sice něco otevřel, ale nikdo nevěděl, o co šlo. Eva uvedla, že Martin otevřel dveře.",
+          "focus_subject": "V pokoji se ochladilo a bylo jasné, že to okno někdo otevřel, ale nikdo nevěděl, kdo to byl. Eva uvedla, že ho otevřel Ondřej.",
+          "focus_verb": "Ukázalo se, že Martin s oknem něco provedl, ale nikdo nevěděl, co s ním udělal. Eva uvedla, že ho Martin umyl."
+        }
+      }
+    },
+    {
+      "scenario_id": 122,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Simona", "verb": "naskenovala", "object": "pas" },
+        "distractor_bank": {
+          "focus_object": "Ten pas měl na zadní straně drobný biometrický znak.",
+          "focus_subject": "Simona měla dnes na hlavě svoje staré brýle.",
+          "focus_verb": "Skenování dokumentů trvá v této kanceláři jen chvilku."
+        },
+        "utterance": "Tomáš poznamenal: „Ne,“",
+        "contexts": {
+          "focus_object": "V počítači se objevila nová kopie a ukázalo se, že Simona sice něco naskenovala, ale nikdo nevěděl, o co šlo. Filip podotkl, že Simona naskenovala průkazku.",
+          "focus_subject": "Digitální obraz dokladu byl hotov a bylo jasné, že ten pas někdo naskenoval, ale nikdo nevěděl, kdo to byl. Filip podotkl, že ho naskenovala sekretářka.",
+          "focus_verb": "Bylo patrné, že Simona s pasem něco provedla, ale nikdo nevěděl, co s ním udělala. Filip podotkl, že ho Simona vyfotila."
+        }
+      }
+    },
+    {
+      "scenario_id": 123,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Jiří", "verb": "podepsal", "object": "šek" },
+        "distractor_bank": {
+          "focus_object": "Ten šek byl vytištěný drobným písmem na žlutém papíře.",
+          "focus_subject": "Jiří měl dnes v kapse u saka svoji novou propisku.",
+          "focus_verb": "Podepisování finančních listin vyžaduje klid a soustředění."
+        },
+        "utterance": "Eva se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "Z evidence banky vyšlo najevo, že Jiří sice něco podepsal, ale nikdo nevěděl, o co přesně šlo. Hana řekla, že Jiří podepsal smlouvu.",
+          "focus_subject": "Doklad byl platný a bylo jasné, že ten šek někdo podepsal, ale nikdo nevěděl, kdo ho podepsal. Hana řekla, že ho podepsala účetní.",
+          "focus_verb": "Ukázalo se, že Jiří se šekem něco provedl, ale nikdo nevěděl, co s ním udělal. Hana řekla, že ho Jiří ztratil."
+        }
+      }
+    },
+    {
+      "scenario_id": 124,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Petr", "verb": "zamkl", "object": "trezor" },
+        "distractor_bank": {
+          "focus_object": "Ten trezor byl zabudovaný hluboko v kamenné zdi.",
+          "focus_subject": "Petr měl dnes na sobě svoji starou pracovní vestu.",
+          "focus_verb": "Zamykání cenností patří k povinnostem při uzavírání dílny."
+        },
+        "utterance": "Marek se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "V kanceláři nastal rozruch a ukázalo se, že Petr sice něco zamkl, ale nikdo nevěděl, o co šlo. Jana poznamenala, že Petr zamkl skříň.",
+          "focus_subject": "Dveře byly pevně zavřené a bylo jasné, že ten trezor někdo zamkl, ale nikdo nevěděl, kdo to byl. Jana poznamenala, že ho zamkl vedoucí.",
+          "focus_verb": "Bylo patrné, že Petr s trezorem něco provedl, ale nikdo nevěděl, co s ním přesně udělal. Jana poznamenala, že Petr ho jen zkontroloval."
+        }
+      }
+    },
+    {
+      "scenario_id": 125,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Alena", "verb": "umyla", "object": "auto" },
+        "distractor_bank": {
+          "focus_object": "To auto mělo sytě červenou barvu a stříbrná kola.",
+          "focus_subject": "Alena měla dnes vlasy stažené do pevného culíku.",
+          "focus_verb": "Umývání špinavých vozidel bývá v tomto počasí zbytečné."
+        },
+        "utterance": "Jiří se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Před domem stála čistá věc a ukázalo se, že Alena sice něco umyla, ale nikdo nevěděl, o co šlo. Lucie podotkla, že Alena umyla motorku.",
+          "focus_subject": "Karoserie se leskla a bylo jasné, že to auto někdo umyl, ale nikdo nevěděl, kdo to byl. Lucie podotkla, že ho umyl soused.",
+          "focus_verb": "Bylo zřejmé, že Alena s autem něco provedla, ale nikdo nevěděl, co s ním udělala. Lucie podotkla, že ho v garáži jen zaparkovala."
+        }
+      }
+    },
+    {
+      "scenario_id": 126,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Michal", "verb": "nalezl", "object": "peněženku" },
+        "distractor_bank": {
+          "focus_object": "Ta peněženka byla vyrobená z velmi měkké hnědé kůže.",
+          "focus_subject": "Michal si dnes k obědu koupil čerstvou bagetu.",
+          "focus_verb": "Nalézání ztracených věcí bývá v tomto chaosu výjimečné."
+        },
+        "utterance": "Eva se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "Ukázalo se, že Michal sice něco nalezl, ale nikdo nevěděl, o co přesně se jednalo. Ondřej nadnesl, že Michal nalezl klíče.",
+          "focus_subject": "Věc se objevila na stole a bylo jasné, že tu peněženku někdo nalezl, ale nikdo nevěděl, kdo to byl. Ondřej nadnesl, že ji nalezl uklízeč.",
+          "focus_verb": "Z hlášení vyšlo najevo, že Michal s peněženkou něco provedl, ale nikdo nevěděl, co s ní udělal. Ondřej nadnesl, že Michal tu peněženku ukradl."
+        }
+      }
+    },
+    {
+      "scenario_id": 127,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Petra", "verb": "roztrhala", "object": "fotku" },
+        "distractor_bank": {
+          "focus_object": "Ta fotka byla pořízená na loňské dovolené u moře.",
+          "focus_subject": "Petra měla dnes na krku jemný zlatý řetízek.",
+          "focus_verb": "Roztrhání starých snímků bývá v této rodině emotivní."
+        },
+        "utterance": "Filip se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "V koši byly kousky papíru a ukázalo se, že Petra sice něco roztrhala, ale nikdo nevěděl, o co šlo. Dana uvedla, že Petra roztrhala dopis.",
+          "focus_subject": "Snímek byl zničený a bylo patrné, že tu fotku někdo roztrhal, ale nikdo nevěděl, kdo ji roztrhal. Dana uvedla, že ji roztrhal Michal.",
+          "focus_verb": "Bylo zřejmé, že Petra s fotkou něco provedla, ale nikdo nevěděl, co s ní přesně udělala. Dana uvedla, že ji jen ohnula."
+        }
+      }
+    },
+    {
+      "scenario_id": 128,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Honza", "verb": "naskenoval", "object": "výkres" },
+        "distractor_bank": {
+          "focus_object": "Ten výkres byl nakreslený na velkém archu tvrdého papíru.",
+          "focus_subject": "Honza měl dnes na sobě jednoduché černé tričko.",
+          "focus_verb": "Skenování technických plánů zabere v kanceláři čas."
+        },
+        "utterance": "Lucie namítla: „Ne,“",
+        "contexts": {
+          "focus_object": "V počítači se objevil nový soubor a ukázalo se, že Honza sice něco naskenoval, ale nikdo nevěděl, o co šlo. David poznamenal, že Honza naskenoval smlouvu.",
+          "focus_subject": "Digitální kopie byla hotová a bylo jasné, že ten výkres někdo naskenoval, ale nikdo nevěděl, kdo to byl. David poznamenal, že ho naskenoval asistent.",
+          "focus_verb": "Bylo patrné, že Honza s výkresem něco provedl, ale nikdo nevěděl, co s ním udělal. David poznamenal, že Honza výkres překreslil."
+        }
+      }
+    },
+    {
+      "scenario_id": 129,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Vojta", "verb": "rozlil", "object": "čaj" },
+        "distractor_bank": {
+          "focus_object": "Ten čaj byl uvařený z čerstvých bylinek a voněl po mátě.",
+          "focus_subject": "Vojta měl dnes na sobě svoji oblíbenou modrou mikinu.",
+          "focus_verb": "Rozlití horkého nápoje na dřevěný stůl je vždycky nepříjemné."
+        },
+        "utterance": "Eva se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "Na stole byla louže a ukázalo se, že Vojta sice něco rozlil, ale nikdo nevěděl, o co přesně šlo. Petr nadnesl, že Vojta rozlil kávu.",
+          "focus_subject": "Šálek byl prázdný a bylo jasné, že ten čaj někdo rozlil, ale nikdo nevěděl, kdo to byl. Petr nadnesl, že ho rozlil Honza.",
+          "focus_verb": "Bylo patrné, že Vojta s čajem něco provedl, ale nikdo nevěděl, co s ním přesně udělal. Petr nadnesl, že ho vypil."
+        }
+      }
+    },
+    {
+      "scenario_id": 130,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Klára", "verb": "vynesla", "object": "odpadky" },
+        "distractor_bank": {
+          "focus_object": "Ty odpadky byly v černém igelitovém pytli se zatahovací šňůrkou.",
+          "focus_subject": "Klára měla dnes ve vlasech barevnou látkovou čelenku.",
+          "focus_verb": "Vynášení koše patří v této domácnosti k pravidelným pracím."
+        },
+        "utterance": "Pavel namítl: „Ne,“",
+        "contexts": {
+          "focus_object": "Kuchyň byla uklizená a ukázalo se, že Klára sice něco vynesla, ale nikdo nevěděl, o co šlo. David řekl, že Klára vynesla papír.",
+          "focus_subject": "Odpadky zmizely a bylo jasné, že ty odpadky někdo vynesl, ale nikdo nevěděl, kdo to byl. David řekl, že je vynesla Martina.",
+          "focus_verb": "Bylo zřejmé, že Klára s těmi odpadky něco provedla, ale nikdo nevěděl, co s nimi udělala. David řekl, že Klára je jenom vytřídila."
+        }
+      }
+    },
+    {
+      "scenario_id": 131,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Ondřej", "verb": "smazal", "object": "soubor" },
+        "distractor_bank": {
+          "focus_object": "Tento soubor obsahoval důležitá data z loňského roku.",
+          "focus_subject": "Ondřej měl dnes na stole velký hrnek horké kávy.",
+          "focus_verb": "Mazání nepotřebných dat bývá v tomto systému nevratné."
+        },
+        "utterance": "Lucie se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "Z historie změn vyšlo najevo, že Ondřej sice něco smazal, ale nikdo nevěděl, o co přesně šlo. Filip poznamenal, že Ondřej smazal tabulku.",
+          "focus_subject": "Soubor zmizel a bylo jasné, že ho někdo smazal, ale nikdo nevěděl, kdo to byl. Filip poznamenal, že ho smazala asistentka.",
+          "focus_verb": "Ukázalo se, že Ondřej se souborem něco provedl, ale nikdo nevěděl, co s ním přesně udělal. Filip poznamenal, že ho Ondřej přejmenoval."
+        }
+      }
+    },
+    {
+      "scenario_id": 132,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Jana", "verb": "vyleštila", "object": "zrcadlo" },
+        "distractor_bank": {
+          "focus_object": "To zrcadlo bylo zasazené v masivním stříbrném rámu.",
+          "focus_subject": "Jana si dnes ráno do práce vzala svoje nové boty.",
+          "focus_verb": "Leštění skleněných ploch vyžaduje v tomto domě čas."
+        },
+        "utterance": "Tomáš se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Koupelna prokoukla a ukázalo se, že Jana sice něco vyleštila, ale nikdo nevěděl, o co šlo. Marek uvedl, že Jana vyleštila umyvadlo.",
+          "focus_subject": "Zrcadlo se lesklo a bylo jasné, že to zrcadlo někdo vyleštil, ale nikdo nevěděl, kdo to byl. Marek uvedl, že ho vyleštil uklízeč.",
+          "focus_verb": "Bylo patrné, že Jana se zrcadlem něco provedla, ale nikdo nevěděl, co s ním udělala. Marek uvedl, že ho umyla."
+        }
+      }
+    },
+    {
+      "scenario_id": 133,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Filip", "verb": "ztratil", "object": "průkaz" },
+        "distractor_bank": {
+          "focus_object": "Ten průkaz měl v horním rohu drobný barevný škrábanec.",
+          "focus_subject": "Filip si dnes ráno ke svačině koupil čerstvé jablko.",
+          "focus_verb": "Ztrácení osobních dokladů je v tomto chaosu celkem běžné."
+        },
+        "utterance": "Eva namítla: „Ne,“",
+        "contexts": {
+          "focus_object": "Vyšlo najevo, že Filip sice něco ztratil, ale nikdo nevěděl, o co přesně šlo. Radim podotkl, že Filip ztratil peněženku.",
+          "focus_subject": "Průkaz nebyl k nalezení a bylo jasné, že ten průkaz někdo ztratil, ale nikdo nevěděl, kdo to byl. Radim podotkl, že ho ztratil Petr.",
+          "focus_verb": "Ukázalo se, že Filip s průkazem něco provedl, ale nikdo nevěděl, co s ním přesně udělal. Radim podotkl, že ho Filip odložil."
+        }
+      }
+    },
+    {
+      "scenario_id": 134,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Martina", "verb": "vyfotila", "object": "hrad" },
+        "distractor_bank": {
+          "focus_object": "Ten hrad byl postavený na vysoké skále nad řekou.",
+          "focus_subject": "Martina měla dnes ve vlasech barevnou gumičku.",
+          "focus_verb": "Fotografování historických památek zabere v tomto městě čas."
+        },
+        "utterance": "Pavel se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "U památky bylo živo a ukázalo se, že Martina sice něco vyfotila, ale nikdo nevěděl, o co přesně šlo. Petr nadnesl, že Martina vyfotila zámek.",
+          "focus_subject": "Snímek budovy byl hotový a bylo jasné, že ten hrad někdo vyfotil, ale nikdo nevěděl, kdo to byl. Petr nadnesl, že ho vyfotil Honza.",
+          "focus_verb": "Bylo patrné, že Martina s tím hradem něco provedla, ale nikdo nevěděl, co s ním přesně udělala. Petr nadnesl, že ho nakreslila."
+        }
+      }
+    },
+    {
+      "scenario_id": 135,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Lukáš", "verb": "namazal", "object": "chleba" },
+        "distractor_bank": {
+          "focus_object": "Ten chleba byl upečený ze žitné mouky a posypaný kmínem.",
+          "focus_subject": "Lukáš měl dnes na sobě svoje staré šedé tričko.",
+          "focus_verb": "Příprava rychlé svačiny bývá v této kuchyni rutina."
+        },
+        "utterance": "Jana namítla: „Ne,“",
+        "contexts": {
+          "focus_object": "V kuchyni se ukázalo, že Lukáš sice něco namazal, ale nikdo nevěděl, o co se jednalo. Marek uvedl, že namazal rohlík.",
+          "focus_subject": "Svačina byla hotová a bylo jasné, že ten chleba někdo namazal, ale nikdo nevěděl, kdo to byl. Marek uvedl, že ho namazal Filip.",
+          "focus_verb": "Bylo zřejmé, že Lukáš s tím chlebem něco provedl, ale nikdo nevěděl, co s ním přesně udělal. Marek uvedl, že Lukáš ho nakrájel."
+        }
+      }
+    },
+    {
+      "scenario_id": 136,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Simona", "verb": "nalezla", "object": "mobil" },
+        "distractor_bank": {
+          "focus_object": "Ten mobil měl na displeji několik drobných škrábanců.",
+          "focus_subject": "Simona měla dnes na krku jemný zlatý řetízek.",
+          "focus_verb": "Nalézání ztracených věcí bývá v tomto parku výjimečné."
+        },
+        "utterance": "Eva se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "V trávě se něco zalesklo a vyšlo najevo, že Simona sice něco nalezla, ale nikdo nevěděl, o co šlo. David poznamenal, že Simona nalezla tablet.",
+          "focus_subject": "Ztracená věc se objevila a bylo jasné, že ten mobil někdo nalezl, ale nikdo nevěděl, kdo to byl. David poznamenal, že ho nalezl Filip.",
+          "focus_verb": "Bylo patrné, že Simona s tím mobilem něco provedla, ale nikdo nevěděl, co s ním udělala. David poznamenal, že ho Simona koupila."
+        }
+      }
+    },
+    {
+      "scenario_id": 137,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Ondřej", "verb": "rozbil", "object": "vázu" },
+        "distractor_bank": {
+          "focus_object": "Tato váza byla vyrobená z velmi tenkého čirého skla.",
+          "focus_subject": "Ondřej si dnes k obědu koupil čerstvou bagetu.",
+          "focus_verb": "Rozbíjení drahých předmětů bývá v této domácnosti k vzteku."
+        },
+        "utterance": "Lucie se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "Z chodby byl slyšet hluk a ukázalo se, že Ondřej sice něco rozbil, ale nikdo nevěděl, o co šlo. Martina podotkla, že rozbil sklenici.",
+          "focus_subject": "Na zemi ležely střepy a bylo jasné, že tu vázu někdo rozbil, ale nikdo nevěděl, kdo to byl. Martina podotkla, že ji rozbila Jana.",
+          "focus_verb": "Bylo zřejmé, že Ondřej s tou vázou něco provedl, ale nikdo nevěděl, co s ní udělal. Martina podotkla, že Ondřej ji posunul."
+        }
+      }
+    },
+    {
+      "scenario_id": 138,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Tereza", "verb": "schovala", "object": "peněženku" },
+        "distractor_bank": {
+          "focus_object": "Ta peněženka byla vyrobená z velmi měkké černé kůže.",
+          "focus_subject": "Tereza měla dnes na sobě svoji oblíbenou modrou sukni.",
+          "focus_verb": "Schovávání cenných věcí bývá v tomto domě preventivní."
+        },
+        "utterance": "Filip se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Ukázalo se, že Tereza sice něco schovala, ale nikdo nevěděl, o co přesně šlo. Lucie prohodila, že Tereza schovala kabelku.",
+          "focus_subject": "Věc nebyla k nalezení a bylo jasné, že tu peněženku někdo schoval, ale nikdo nevěděl, kdo to byl. Lucie prohodila, že ji schovala Hana.",
+          "focus_verb": "Bylo patrné, že Tereza s tou peněženkou něco provedla, ale nikdo nevěděl, co s ní udělala. Lucie prohodila, že ji Tereza ztratila."
+        }
+      }
+    },
+    {
+      "scenario_id": 139,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Jana", "verb": "vypila", "object": "mléko" },
+        "distractor_bank": {
+          "focus_object": "Toto mléko bylo koupené v malém bioobchodě na rohu.",
+          "focus_subject": "Jana si dnes ráno ke čtení vzala svoje nové brýle.",
+          "focus_verb": "Pití čerstvých nápojů patří k ranním rituálům v této rodině."
+        },
+        "utterance": "Marek se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "V lednici ubylo pití a ukázalo se, že Jana sice něco vypila, ale nikdo nevěděl, o co šlo. David nadnesl, že Jana vypila džus.",
+          "focus_subject": "Mléko zmizelo a bylo jasné, že ho někdo vypil, ale nikdo nevěděl, kdo to byl. David nadnesl, že ho vypil Martin.",
+          "focus_verb": "Bylo patrné, že Jana s mlékem něco provedla, ale nikdo nevěděl, co s ním přesně udělala. David nadnesl, že ho rozlila."
+        }
+      }
+    },
+    {
+      "scenario_id": 140,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Michal", "verb": "zamkl", "object": "branku" },
+        "distractor_bank": {
+          "focus_object": "Ta branka byla vyrobená z masivního černého kovu.",
+          "focus_subject": "Michal měl dnes na sobě svoji starou pracovní vestu.",
+          "focus_verb": "Zamykání všech vchodů je v tomto areálu povinné."
+        },
+        "utterance": "Lucie namítla: „Ne,“",
+        "contexts": {
+          "focus_object": "Ukázalo se, že Michal sice něco zamkl, ale nikdo nevěděl, o co přesně se jednalo. Radim poznamenal, že zamkl garáž.",
+          "focus_subject": "Branka byla pevně zavřená a bylo jasné, že tu branku někdo zamkl, ale nikdo nevěděl, kdo to byl. Radim poznamenal, že ji zamkl správce.",
+          "focus_verb": "Bylo zřejmé, že Michal s brankou něco provedl, ale nikdo nevěděl, co s ní udělal. Radim poznamenal, že Michal tu branku prohlížel."
+        }
+      }
+    },
+    {
+      "scenario_id": 141,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Tereza", "verb": "smazala", "object": "fotku" },
+        "distractor_bank": {
+          "focus_object": "Ta fotka byla pořízená na loňské dovolené u moře.",
+          "focus_subject": "Tereza měla dnes na krku jemný zlatý řetízek.",
+          "focus_verb": "Mazání nepotřebných dat bývá v tomto telefonu snadné."
+        },
+        "utterance": "Filip se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "V galerii ubylo dat a vyšlo najevo, že Tereza sice něco smazala, ale nikdo nevěděl, o co šlo. Ondřej podotkl, že Tereza smazala zprávu.",
+          "focus_subject": "Fotka zmizela a bylo patrné, že ji někdo smazal, ale nikdo nevěděl, kdo to byl. Ondřej podotkl, že ji smazal Lukáš.",
+          "focus_verb": "Bylo jasné, že Tereza s fotkou něco provedla, ale nikdo nevěděl, co s ní přesně udělala. Ondřej podotkl, že ji upravila."
+        }
+      }
+    },
+    {
+      "scenario_id": 142,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Petr", "verb": "rozbil", "object": "sklenici" },
+        "distractor_bank": {
+          "focus_object": "Tato sklenice byla vyrobená z velmi tenkého broušeného skla.",
+          "focus_subject": "Petr si dnes k obědu koupil čerstvou bagetu.",
+          "focus_verb": "Rozbíjení křehkých věcí bývá v této domácnosti k vzteku."
+        },
+        "utterance": "Eva se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "Z kuchyně byl slyšet hluk a ukázalo se, že Petr sice něco rozbil, ale nikdo nevěděl, o co se jednalo. Klára řekla, že Petr rozbil talíř.",
+          "focus_subject": "Na zemi ležely střepy a bylo jasné, že tu sklenici někdo rozbil, ale nikdo nevěděl, kdo to byl. Klára řekla, že ji rozbil Honza.",
+          "focus_verb": "Bylo patrné, že Petr se sklenicí něco provedl, ale nikdo nevěděl, co s ní udělal. Klára řekla, že ji umyl."
+        }
+      }
+    },
+    {
+      "scenario_id": 143,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Eva", "verb": "nalezla", "object": "klíče" },
+        "distractor_bank": {
+          "focus_object": "Tyto klíče byly pověšené na velkém kovovém kroužku.",
+          "focus_subject": "Eva měla dnes na sobě svoji oblíbenou modrou sukni.",
+          "focus_verb": "Nalézání ztracených předmětů bývá v tomto domě výjimečné."
+        },
+        "utterance": "Tomáš namítl: „Ne,“",
+        "contexts": {
+          "focus_object": "Ukázalo se, že Eva sice něco nalezla, ale nikdo nevěděl, o co přesně šlo. Martin nadnesl, že Eva nalezla mobil.",
+          "focus_subject": "Klíče ležely na stole a bylo jasné, že je někdo nalezl, ale nikdo nevěděl, kdo to byl. Martin nadnesl, že je nalezla Hana.",
+          "focus_verb": "Bylo zřejmé, že Eva s klíči něco provedla, ale nikdo nevěděl, co s nimi přesně udělala. Martin nadnesl, že Eva klíče ztratila."
+        }
+      }
+    },
+    {
+      "scenario_id": 144,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Petr", "verb": "smazal", "object": "zprávu" },
+        "distractor_bank": {
+          "focus_object": "Tato zpráva byla v aplikaci označená jako velmi důležitá.",
+          "focus_subject": "Petr měl dnes na sobě jednoduché černé tričko.",
+          "focus_verb": "Mazání nepotřebných dat bývá v tomto telefonu snadné."
+        },
+        "utterance": "Lucie se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "Z historie chatu vyšlo najevo, že Petr sice něco smazal, ale nikdo nevěděl, o co přesně šlo. Jana prohodila, že Petr smazal fotku.",
+          "focus_subject": "Konverzace byla neúplná a bylo jasné, že tu zprávu někdo smazal, ale nikdo nevěděl, kdo to byl. Jana prohodila, že ji smazala Martina.",
+          "focus_verb": "Ukázalo se, že Petr se zprávou něco provedl, ale nikdo nevěděl, co s ní přesně udělal. Jana prohodila, že ji přečetl."
+        }
+      }
+    },
+    {
+      "scenario_id": 145,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Alena", "verb": "koupila", "object": "kytici" },
+        "distractor_bank": {
+          "focus_object": "Tato kytice byla uvázaná z bílých růží a drobných fialek.",
+          "focus_subject": "Alena měla dnes na sobě svoje nové letní šaty.",
+          "focus_verb": "Nakupování čerstvých květin patří k jejím oblíbeným zvykům."
+        },
+        "utterance": "Marek namítl: „Ne,“",
+        "contexts": {
+          "focus_object": "Na stole ležela věc v balicím papíře a ukázalo se, že Alena sice něco koupila, ale nikdo nevěděl, o co šlo. Martin poznamenal, že Alena koupila knihu.",
+          "focus_subject": "Ve váze stála dekorace a bylo jasné, že tu kytici někdo koupil, ale nikdo nevěděl, kdo to byl. Martin poznamenal, že ji koupila Jana.",
+          "focus_verb": "Bylo patrné, že Alena s kyticí něco provedla, ale nikdo nevěděl, co s ní udělala. Martin poznamenal, že ji Alena našla."
+        }
+      }
+    },
+    {
+      "scenario_id": 146,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Marek", "verb": "otevřel", "object": "dopis" },
+        "distractor_bank": {
+          "focus_object": "Ten dopis byl v dosti silné a neprůhledné papírové obálce.",
+          "focus_subject": "Marek si dnes ráno ke čtení vzal svoje nové brýle.",
+          "focus_verb": "Otevírání pošty probíhá v této kanceláři vždycky ráno."
+        },
+        "utterance": "Eva se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "Ukázalo se, že Marek sice něco otevřel, ale nikdo nevěděl, o co přesně šlo. Filip nadnesl, že Marek otevřel balík.",
+          "focus_subject": "Obálka byla porušená a bylo jasné, že ten dopis někdo otevřel, ale nikdo nevěděl, kdo to byl. Filip nadnesl, že ho otevřel Honza.",
+          "focus_verb": "Bylo patrné, že Marek s dopisem něco provedl, ale nikdo nevěděl, co s ním přesně udělal. Filip nadnesl, že ho Marek podepsal."
+        }
+      }
+    },
+    {
+      "scenario_id": 147,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Klára", "verb": "umyla", "object": "hrnek" },
+        "distractor_bank": {
+          "focus_object": "Ten hrnek měl po celém okraji drobný modrý vzor.",
+          "focus_subject": "Klára měla dnes na sobě svoji oblíbenou bílou halenu.",
+          "focus_verb": "Umývání použitého nádobí je v této kuchyni pravidlem."
+        },
+        "utterance": "Tomáš se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Kuchyň byla uklizená a ukázalo se, že Klára sice něco umyla, ale nikdo nevěděl, o co šlo. Ondřej promluvil a řekl, že Klára umyla talíř.",
+          "focus_subject": "Na polici stál čistý kus nádobí a bylo jasné, že ten hrnek někdo umyl, ale nikdo nevěděl, kdo to byl. Ondřej promluvil a řekl, že ho umyl Petr.",
+          "focus_verb": "Bylo zřejmé, že Klára s hrnkem něco provedla, ale nikdo nevěděl, co s ním udělala. Ondřej promluvil a řekl, že ho Klára rozbila."
+        }
+      }
+    },
+    {
+      "scenario_id": 148,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Honza", "verb": "ztratil", "object": "peněženku" },
+        "distractor_bank": {
+          "focus_object": "Ta peněženka byla vyrobená z velmi měkké hnědé kůže.",
+          "focus_subject": "Honza si dnes ráno ke svačině koupil čerstvé jablko.",
+          "focus_verb": "Ztrácení cenných věcí je v tomto chaosu celkem běžné."
+        },
+        "utterance": "Jana namítla: „Ne,“",
+        "contexts": {
+          "focus_object": "V šatně nastal rozruch a vyšlo najevo, že Honza sice něco ztratil, ale nikdo nevěděl, o co přesně šlo. Martina podotkla, že Honza ztratil klíče.",
+          "focus_subject": "Věc nebyla k nalezení a bylo jasné, že tu peněženku někdo ztratil, ale nikdo nevěděl, kdo ji ztratil. Martina podotkla, že ji ztratila Lucie.",
+          "focus_verb": "Ukázalo se, že Honza s peněženkou něco provedl, ale nikdo nevěděl, co s ní udělal. Martina podotkla, že ji Honza zapomněl."
+        }
+      }
+    },
+    {
+      "scenario_id": 149,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Filip", "verb": "rozbil", "object": "zrcadlo" },
+        "distractor_bank": {
+          "focus_object": "To zrcadlo mělo po celém obvodu zdobený mosazný rám.",
+          "focus_subject": "Filip měl dnes na sobě svoji oblíbenou šedou mikinu.",
+          "focus_verb": "Rozbíjení skleněných ploch bývá v tomto domě k vzteku."
+        },
+        "utterance": "Pavel se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "V koupelně byl slyšet hluk a ukázalo se, že Filip sice něco rozbil, ale nikdo nevěděl, o co přesně šlo. David nadnesl, že Filip rozbil okno.",
+          "focus_subject": "Na zemi ležely střepy a bylo jasné, že to zrcadlo někdo rozbil, ale nikdo nevěděl, kdo to byl. David nadnesl, že ho rozbil Lukáš.",
+          "focus_verb": "Ukázalo se, že Filip se zrcadlem něco provedl, ale nikdo nevěděl, co s ním přesně udělal. David nadnesl, že Filip ho vyleštil."
+        }
+      }
+    },
+    {
+      "scenario_id": 150,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Monika", "verb": "sbalila", "object": "kufr" },
+        "distractor_bank": {
+          "focus_object": "Ten kufr měl na boku čtyři malá černá kolečka.",
+          "focus_subject": "Monika měla dnes na krku barevný hedvábný šátek.",
+          "focus_verb": "Balení zavazadel na cestu bývá v této rodině rychlé."
+        },
+        "utterance": "Jana namítla: „Ne,“",
+        "contexts": {
+          "focus_object": "U dveří stála připravená věc a ukázalo se, že Monika sice něco sbalila, ale nikdo nevěděl, o co šlo. Petr řekl, že Monika sbalila batoh.",
+          "focus_subject": "Zavazadlo bylo nachystané a bylo zřejmé, že ten kufr někdo sbalil, ale nikdo nevěděl, kdo to byl. Petr řekl, že ho sbalila Hana.",
+          "focus_verb": "Bylo patrné, že Monika s kufrem něco provedla, ale nikdo nevěděl, co s ním přesně udělala. Petr řekl, že Monika kufr vybalila."
+        }
+      }
+    },
+    {
+      "scenario_id": 151,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Michal", "verb": "zaplatil", "object": "pokutu" },
+        "distractor_bank": {
+          "focus_object": "Tato pokuta byla vystavená za špatné parkování v centru.",
+          "focus_subject": "Michal měl dnes na ruce svoje staré digitální hodinky.",
+          "focus_verb": "Placení úředních poplatků probíhá v této budově elektronicky."
+        },
+        "utterance": "Eva se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "Z výpisu z účtu vyšlo najevo, že Michal sice něco zaplatil, ale nikdo nevěděl, o co se jednalo. Martin podotkl, že Michal zaplatil účet.",
+          "focus_subject": "Položka v systému byla vyrovnaná a bylo jasné, že tu pokutu někdo zaplatil, ale nikdo nevěděl, kdo to byl. Martin podotkl, že ji zaplatil řidič.",
+          "focus_verb": "Ukázalo se, že Michal s pokutou něco provedl, ale nikdo nevěděl, co s ní přesně udělal. Martin podotkl, že Michal ji roztrhal."
+        }
+      }
+    },
+    {
+      "scenario_id": 152,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Jana", "verb": "zametla", "object": "chodbu" },
+        "distractor_bank": {
+          "focus_object": "Ta chodba byla dlážděná starými kamennými dlaždicemi.",
+          "focus_subject": "Jana měla dnes na sobě svoji pracovní zástěru.",
+          "focus_verb": "Zametání společných prostor probíhá v tomto domě denně."
+        },
+        "utterance": "Tomáš namítl: „Ne,“",
+        "contexts": {
+          "focus_object": "Dům prokoukl a ukázalo se, že Jana sice něco zametla, ale nikdo nevěděl, o co šlo. Lukáš nadnesl, že Jana zametla schody.",
+          "focus_subject": "Na zemi nebyl žádný prach a bylo jasné, že tu chodbu někdo zametl, ale nikdo nevěděl, kdo to byl. Lukáš nadnesl, že ji zametla uklízečka.",
+          "focus_verb": "Bylo patrné, že Jana s chodbou něco provedla, ale nikdo nevěděl, co s ní přesně udělala. Lukáš nadnesl, že ji Jana vytřela."
+        }
+      }
+    },
+    {
+      "scenario_id": 153,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Tomáš", "verb": "opravil", "object": "kliku" },
+        "distractor_bank": {
+          "focus_object": "Tato klika byla vyrobená z masivní pochromované oceli.",
+          "focus_subject": "Tomáš měl dnes u pasu zavěšené svoje těžké nářadí.",
+          "focus_verb": "Opravování drobností v bytě vyžaduje velkou trpělivost."
+        },
+        "utterance": "Lucie se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "Dveře už šly zase zavřít a ukázalo se, že Tomáš sice něco opravil, ale nikdo nevěděl, o co šlo. Marek uvedl, že Tomáš opravil zámek.",
+          "focus_subject": "Bylo zřejmé, že tu kliku někdo opravil, ale nikdo nevěděl, kdo to byl. Marek uvedl, že ji opravil soused.",
+          "focus_verb": "Bylo patrné, že Tomáš s klikou něco provedl, ale nikdo nevěděl, co s ní přesně udělal. Marek uvedl, že Tomáš ji vyměnil."
+        }
+      }
+    },
+    {
+      "scenario_id": 154,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Petr", "verb": "vylil", "object": "polévku" },
+        "distractor_bank": {
+          "focus_object": "Tato polévka byla servírovaná v hlubokém bílém talíři.",
+          "focus_subject": "Petr měl dnes na sobě svoje nové pruhované tričko.",
+          "focus_verb": "Vaření teplých pokrmů vyžaduje v této kuchyni pozornost."
+        },
+        "utterance": "Marek se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Na stole byla skvrna a ukázalo se, že Petr sice něco vylil, ale nikdo nevěděl, o co šlo. Jana poznamenala, že Petr vylil čaj.",
+          "focus_subject": "Talíř byl prázdný a bylo jasné, že tu polévku někdo vylil, ale nikdo nevěděl, kdo to byl. Jana poznamenala, že ji vylila Lucie.",
+          "focus_verb": "Bylo patrné, že Petr s polévkou něco provedl, ale nikdo nevěděl, co s ní přesně udělal. Jana poznamenala, že Petr ji snědl."
+        }
+      }
+    },
+    {
+      "scenario_id": 155,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Martina", "verb": "smazala", "object": "tabulku" },
+        "distractor_bank": {
+          "focus_object": "Tato tabulka obsahovala kompletní přehled loňských výdajů.",
+          "focus_subject": "Martina měla dnes ve vlasech barevnou látkovou gumičku.",
+          "focus_verb": "Práce s digitálními daty vyžaduje v této kanceláři klid."
+        },
+        "utterance": "Jiří namítl: „Ne,“",
+        "contexts": {
+          "focus_object": "Z historie úprav vyšlo najevo, že Martina sice něco smazala, ale nikdo nevěděl, o co přesně šlo. Lucie nadnesla, že Martina smazala graf.",
+          "focus_subject": "Soubor zmizel a bylo jasné, že tu tabulku někdo smazal, ale nikdo nevěděl, kdo to byl. Lucie nadnesla, že ji smazal technik.",
+          "focus_verb": "Ukázalo se, že Martina s tabulkou něco provedla, ale nikdo nevěděl, co s ní přesně udělala. Lucie nadnesla, že ji Martina vytiskla."
+        }
+      }
+    },
+    {
+      "scenario_id": 156,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Ondřej", "verb": "našel", "object": "klíče" },
+        "distractor_bank": {
+          "focus_object": "Tyto klíče byly pověšené na starém mosazném kroužku.",
+          "focus_subject": "Ondřej si dnes k obědu koupil velkou obloženou bagetu.",
+          "focus_verb": "Hledání zapadlých věcí bývá v tomto domě dosti únavné."
+        },
+        "utterance": "Eva se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "V obývacím pokoji se ukázalo, že Ondřej sice něco našel, ale nikdo nevěděl, o co se jednalo. Filip uvedl, že Ondřej našel mobil.",
+          "focus_subject": "Ztracená věc se objevila na stole a bylo jasné, že ty klíče někdo našel, ale nikdo nevěděl, kdo to byl. Filip uvedl, že je našel správce.",
+          "focus_verb": "Bylo patrné, že Ondřej s těmi klíči něco provedl, ale nikdo nevěděl, co s nimi udělal. Filip uvedl, že je Ondřej ztratil."
+        }
+      }
+    },
+    {
+      "scenario_id": 157,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Klára", "verb": "vynesla", "object": "krabice" },
+        "distractor_bank": {
+          "focus_object": "Tyto krabice byly vyrobené z pevného recyklovaného kartonu.",
+          "focus_subject": "Klára měla dnes na krku svůj oblíbený stříbrný řetízek.",
+          "focus_verb": "Třídění nepotřebných obalů probíhá v tomto domě v pátek."
+        },
+        "utterance": "Tomáš namítl: „Ne,“",
+        "contexts": {
+          "focus_object": "V chodbě bylo prázdno a ukázalo se, že Klára sice něco vynesla, ale nikdo nevěděl, o co šlo. Eva prohodila, že Klára vynesla pytle.",
+          "focus_subject": "Kontejner byl plný a bylo jasné, že ty krabice někdo vynesl, ale nikdo nevěděl, kdo to byl. Eva prohodila, že je vynesl asistent.",
+          "focus_verb": "Bylo patrné, že Klára s krabicemi něco provedla, ale nikdo nevěděl, co s nimi přesně udělala. Eva prohodila, že je přinesla."
+        }
+      }
+    },
+    {
+      "scenario_id": 158,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Lukáš", "verb": "vypnul", "object": "rádio" },
+        "distractor_bank": {
+          "focus_object": "Toto rádio mělo dosti zastaralý vzhled a jednu anténu.",
+          "focus_subject": "Lukáš měl dnes na sobě svoje tmavé manšestrové kalhoty.",
+          "focus_verb": "Vypínání přístrojů patří k úspoře energie v celém bytě."
+        },
+        "utterance": "Lucie se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "V pokoji nastalo ticho a ukázalo se, že Lukáš sice něco vypnul, ale nikdo nevěděl, o co přesně šlo. David řekl, že Lukáš vypnul televizi.",
+          "focus_subject": "Hudba přestala hrát a bylo zřejmé, že to rádio někdo vypnul, ale nikdo nevěděl, kdo ho vypnul. David řekl, že ho vypnula Jana.",
+          "focus_verb": "Bylo patrné, že Lukáš s rádiem něco provedl, ale nikdo nevěděl, co s ním přesně udělal. David řekl, že ho Lukáš přeladil."
+        }
+      }
+    },
+    {
+      "scenario_id": 159,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Simona", "verb": "otevřela", "object": "konzervu" },
+        "distractor_bank": {
+          "focus_object": "Tato konzerva byla vyrobená z dosti silného plechu.",
+          "focus_subject": "Simona měla dnes na očích svoje staré brýle.",
+          "focus_verb": "Příprava rychlého jídla bývá v této kuchyni běžná."
+        },
+        "utterance": "Marek se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "V kuchyni se ukázalo, že Simona sice něco otevřela, ale nikdo nevěděl, o co šlo. Petr poznamenal, že Simona otevřela krabici.",
+          "focus_subject": "Konzerva byla nachystaná a bylo jasné, že ji někdo otevřel, ale nikdo nevěděl, kdo to byl. Petr poznamenal, že ji otevřel Honza.",
+          "focus_verb": "Bylo patrné, že Simona s konzervou něco provedla, ale nikdo nevěděl, co s ní přesně udělala. Petr poznamenal, že ji vyhodila."
+        }
+      }
+    },
+    {
+      "scenario_id": 160,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "David", "verb": "opravil", "object": "vypínač" },
+        "distractor_bank": {
+          "focus_object": "Tento vypínač byl vyrobený z bílého odolného plastu.",
+          "focus_subject": "David měl dnes na sobě svoji starou pracovní vestu.",
+          "focus_verb": "Opravování elektrických prvků má v tomhle domě svá pravidla."
+        },
+        "utterance": "Lucie se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "Světlo už fungovalo a ukázalo se, že David sice něco opravil, ale nikdo nevěděl, o co šlo. Lukáš uvedl, že David opravil zásuvku.",
+          "focus_subject": "Bylo jasné, že ten vypínač někdo opravil, ale nikdo nevěděl, kdo to byl. Lukáš uvedl, že ho opravil elektrikář.",
+          "focus_verb": "Bylo patrné, že David s vypínačem něco provedl, ale nikdo nevěděl, co s ním přesně udělal. Lukáš uvedl, že David ho vyměnil."
+        }
+      }
+    },
+    {
+      "scenario_id": 161,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Martina", "verb": "umyla", "object": "podlahu" },
+        "distractor_bank": {
+          "focus_object": "Tato podlaha byla dlážděná tmavě hnědými dlaždicemi.",
+          "focus_subject": "Martina měla dnes vlasy stažené do pevného culíku.",
+          "focus_verb": "Pravidelný úklid společných prostor probíhá vždy v pátek."
+        },
+        "utterance": "Jiří se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "V chodbě bylo uklizeno a ukázalo se, že Martina sice něco umyla, ale nikdo nevěděl, o co šlo. Jana prohodila, že Martina umyla okno.",
+          "focus_subject": "Povrch se leskl a bylo zřejmé, že tu podlahu někdo umyl, ale nikdo nevěděl, kdo ji umyl. Jana prohodila, že ji umyla asistentka.",
+          "focus_verb": "Bylo patrné, že Martina s podlahou něco provedla, ale nikdo nevěděl, co s ní přesně udělala. Jana prohodila, že ji Martina zametla."
+        }
+      }
+    },
+    {
+      "scenario_id": 162,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Honza", "verb": "přinesl", "object": "židli" },
+        "distractor_bank": {
+          "focus_object": "Tato židle byla vyrobená z masivního dubového dřeva.",
+          "focus_subject": "Honza měl dnes na sobě jednoduché modré tričko.",
+          "focus_verb": "Stěhování těžkého nábytku vyžaduje v tomhle bytě pomoc."
+        },
+        "utterance": "Eva namítla: „Ne,“",
+        "contexts": {
+          "focus_object": "V pokoji přibyl kus nábytku a ukázalo se, že Honza sice něco přinesl, ale nikdo nevěděl, o co šlo. Petr řekl, že Honza přinesl stůl.",
+          "focus_subject": "U stolu bylo nové místo a bylo jasné, že tu židli někdo přinesl, ale nikdo nevěděl, kdo to byl. Petr řekl, že ji přinesl Lukáš.",
+          "focus_verb": "Bylo zřejmé, že Honza s židlí něco provedl, ale nikdo nevěděl, co s ní přesně udělal. Petr řekl, že Honza tu židli odnesl."
+        }
+      }
+    },
+    {
+      "scenario_id": 163,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Veronika", "verb": "podepsala", "object": "fakturu" },
+        "distractor_bank": {
+          "focus_object": "Tato faktura byla vytištěná na recyklovaném papíře.",
+          "focus_subject": "Veronika měla dnes na krku jemný zlatý řetízek.",
+          "focus_verb": "Vyřizování úřední pošty patří k ranní rutině v kanceláři."
+        },
+        "utterance": "Tomáš se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "Z evidence vyšlo najevo, že Veronika sice něco podepsala, ale nikdo nevěděl, o co šlo. Klára nadnesla, že Veronika podepsala smlouvu.",
+          "focus_subject": "Doklad byl platný a bylo jasné, že tu fakturu někdo podepsal, ale nikdo nevěděl, kdo to byl. Klára nadnesla, že ji podepsala účetní.",
+          "focus_verb": "Bylo patrné, že Veronika s fakturou něco provedla, ale nikdo nevěděl, co s ní udělala. Klára nadnesla, že ji Veronika smazala."
+        }
+      }
+    },
+    {
+      "scenario_id": 164,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Marek", "verb": "zapojil", "object": "tiskárnu" },
+        "distractor_bank": {
+          "focus_object": "Tato tiskárna byla vybavená velkým dotykovým displejem.",
+          "focus_subject": "Marek si dnes v kanceláři zapomněl svůj telefon.",
+          "focus_verb": "Zapojování hardwaru má v téhle firmě pevná pravidla."
+        },
+        "utterance": "Pavel se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "V kanceláři se něco změnilo a ukázalo se, že Marek sice něco zapojil, ale nikdo nevěděl, o co šlo. David nadnesl, že Marek zapojil monitor.",
+          "focus_subject": "Zařízení začalo fungovat a bylo jasné, že tu tiskárnu někdo zapojil, ale nikdo nevěděl, kdo to byl. David nadnesl, že ji zapojil technik.",
+          "focus_verb": "Bylo patrné, že Marek s tiskárnou něco provedl, ale nikdo nevěděl, co s ní přesně udělal. David nadnesl, že Marek ji rozbil."
+        }
+      }
+    },
+    {
+      "scenario_id": 165,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Hana", "verb": "vymazala", "object": "nahrávku" },
+        "distractor_bank": {
+          "focus_object": "Tato nahrávka byla pořízená na včerejší důležité poradě.",
+          "focus_subject": "Hana měla dnes na sobě svoji oblíbenou modrou sukni.",
+          "focus_verb": "Mazání zvukových záznamů bývá v tomto systému nevratné."
+        },
+        "utterance": "Lucie namítla: „Ne,“",
+        "contexts": {
+          "focus_object": "Z paměti ubylo dat a vyšlo najevo, že Hana sice něco vymazala, ale nikdo nevěděl, o co šlo. Petr prohodil, že vymazala fotku.",
+          "focus_subject": "Záznam zmizel a bylo jasné, že tu nahrávku někdo vymazal, ale nikdo nevěděl, kdo to byl. Petr prohodil, že ji vymazala asistentka.",
+          "focus_verb": "Ukázalo se, že Hana s nahrávkou něco provedla, ale nikdo nevěděl, co s ní udělala. Petr prohodil, že tu nahrávku přejmenovala."
+        }
+      }
+    },
+    {
+      "scenario_id": 166,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Simona", "verb": "otevřela", "object": "balík" },
+        "distractor_bank": {
+          "focus_object": "Ten balík byl dosti těžký a převázaný silným provázkem.",
+          "focus_subject": "Simona měla dnes na krku jemný zlatý řetízek.",
+          "focus_verb": "Otevírání velkých zásilek vyžaduje v téhle dílně prostor."
+        },
+        "utterance": "Jiří namítl: „Ne,“",
+        "contexts": {
+          "focus_object": "V chodbě ležel rozbalený kus pošty a ukázalo se, že Simona sice něco otevřela, ale nikdo nevěděl, o co šlo. Klára nadnesla, že otevřela obálku.",
+          "focus_subject": "Pečeť byla porušená a bylo jasné, že ten balík někdo otevřel, ale nikdo nevěděl, kdo to byl. Klára nadnesla, že ho otevřel kurýr.",
+          "focus_verb": "Ukázalo se, že Simona s balíkem něco provedla, ale nikdo nevěděl, co s ním přesně udělala. Klára nadnesla, že Simona ten balík zvážila."
+        }
+      }
+    },
+    {
+      "scenario_id": 167,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Vojta", "verb": "ztratil", "object": "klíčenku" },
+        "distractor_bank": {
+          "focus_object": "Tato klíčenka měla na sobě malý barevný přívěsek.",
+          "focus_subject": "Vojta měl dnes na sobě svoje staré šedé tričko.",
+          "focus_verb": "Ztrácení drobných předmětů bývá v tomto chaosu běžné."
+        },
+        "utterance": "Jana se ohradila: „Ne,“",
+        "contexts": {
+          "focus_object": "V pokoji nastal rozruch a vyšlo najevo, že Vojta sice něco ztratil, ale nikdo nevěděl, o co přesně šlo. Lukáš uvedl, že Vojta ztratil telefon.",
+          "focus_subject": "Věc nebyla k nalezení a bylo patrné, že tu klíčenku někdo ztratil, ale nikdo nevěděl, kdo to byl. Lukáš uvedl, že ji ztratil kamarád.",
+          "focus_verb": "Bylo zřejmé, že Vojta s klíčenkou něco provedl, ale nikdo nevěděl, co s ní udělal. Lukáš uvedl, že Vojta ji si ji připnul na batoh.    "
+        }
+      }
+    },
+    {
+      "scenario_id": 168,
+      "cue": "correction",
+      "seed": {
+        "base_proposition": { "subject": "Simona", "verb": "umyla", "object": "okno" },
+        "distractor_bank": {
+          "focus_object": "Toto okno mělo velký bílý rám a bylo z něj vidět do zahrady.",
+          "focus_subject": "Simona měla dnes na sobě svoje oblíbené modré šaty.",
+          "focus_verb": "Umývání prosklených ploch patří k velkému jarnímu úklidu."
+        },
+        "utterance": "Pavel se ohradil: „Ne,“",
+        "contexts": {
+          "focus_object": "V pokoji bylo více světla a ukázalo se, že Simona sice něco umyla, ale nikdo nevěděl, o co šlo. Petr nadnesl, že Simona umyla zrcadlo.",
+          "focus_subject": "Sklo se lesklo a bylo jasné, že to okno někdo umyl, ale nikdo nevěděl, kdo to byl. Petr nadnesl, že ho umyla uklízečka.",
+          "focus_verb": "Bylo patrné, že Simona s oknem něco provedla, ale nikdo nevěděl, co s ním přesně udělala. Petr nadnesl, že ho jenom otevřela."
+        }
+      }
+    }
+  ]

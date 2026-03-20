@@ -1,0 +1,387 @@
+[
+    {
+      "id": 34,
+      "question_X": "Do you like jazz music?",
+      "answer_Y": "I think I should have been born in the Jazz Age.",
+      "question_X_cz": "Máš rád jazz?",
+      "answer_Y_cz": "Mám pocit, že jsem se měl narodit v éře jazzu."
+    },
+    {
+      "id": 65,
+      "question_X": "Have you heard Taylor Swift's new song?",
+      "answer_Y": "I listened to it yesterday.",
+      "question_X_cz": "Slyšel jsi novou písničku od Taylor Swift?",
+      "answer_Y_cz": "Včera jsem si ji poslechl."
+    },
+    {
+      "id": 88,
+      "question_X": "Have you been to a concert this month?",
+      "answer_Y": "I went to one last night.",
+      "question_X_cz": "Byl jsi tenhle měsíc na nějakém koncertě?",
+      "answer_Y_cz": "Včera večer jsem na jednom byl."
+    },
+    {
+      "id": 156,
+      "question_X": "Would you want to go to see Garth Brooks tomorrow?",
+      "answer_Y": "that would bencie",
+      "question_X_cz": "Chtěl bys jít zítra na Gartha Brookse?",
+      "answer_Y_cz": "To by bylo fajn."
+    },
+    {
+      "id": 158,
+      "question_X": "Do you still play guitar?",
+      "answer_Y": "I ended up selling my guitar to pay for textbooks.",
+      "question_X_cz": "Hraješ ještě na kytaru?",
+      "answer_Y_cz": "Nakonec jsem ji prodal, abych měl na učebnice."
+    },
+    {
+      "id": 170,
+      "question_X": "Do you like heavier music?",
+      "answer_Y": "I am not a fan",
+      "question_X_cz": "Máš rád tvrdší hudbu?",
+      "answer_Y_cz": "Zrovna fanoušek nejsem."
+    },
+    {
+      "id": 182,
+      "question_X": "Are you a fan of pop music?",
+      "answer_Y": "I definitely am",
+      "question_X_cz": "Fandíš popu?",
+      "answer_Y_cz": "To rozhodně."
+    },
+    {
+      "id": 199,
+      "question_X": "Do you listen to Country music?",
+      "answer_Y": "Not at all.",
+      "question_X_cz": "Posloucháš country?",
+      "answer_Y_cz": "Vůbec ne."
+    },
+    {
+      "id": 206,
+      "question_X": "Do you listen to classical music?",
+      "answer_Y": "I'm not a fan",
+      "question_X_cz": "Posloucháš vážnou hudbu?",
+      "answer_Y_cz": "Moc jí nefandím."
+    },
+    {
+      "id": 230,
+      "question_X": "Can it have a heavy bass?",
+      "answer_Y": "I love the thud thud of music.",
+      "question_X_cz": "Může to mít výrazné basy?",
+      "answer_Y_cz": "Miluju, když ta hudba pořádně duní."
+    },
+    {
+      "id": 251,
+      "question_X": "Have you heard about the new outdoor music festival?",
+      "answer_Y": "I haven't heard a thing",
+      "question_X_cz": "Slyšela jsi o tom novém venkovním hudebním festivalu?",
+      "answer_Y_cz": "O ničem nevím."
+    },
+    {
+      "id": 268,
+      "question_X": "Did you listen to the new Taylor Swift album?",
+      "answer_Y": "I'm not a fan of her",
+      "question_X_cz": "Poslouchal jsi to nové album od Taylor Swift?",
+      "answer_Y_cz": "Zrovna jí nefandím."
+    },
+    {
+      "id": 269,
+      "question_X": "Do you have any formal musical training?",
+      "answer_Y": "I went to London College of Music.",
+      "question_X_cz": "Máš nějaké hudební vzdělání?",
+      "answer_Y_cz": "Studoval jsem na London College of Music."
+    },
+    {
+      "id": 270,
+      "question_X": "Did you hear about that popular band  coming to town?",
+      "answer_Y": "I haven't seen anything.",
+      "question_X_cz": "Slyšel jsi o té slavné kapele, co má přijet k nám do města?",
+      "answer_Y_cz": "Zatím jsem nic nezaregistroval."
+    },
+    {
+      "id": 300,
+      "question_X": "Is live music something you enjoy?",
+      "answer_Y": "I love concerts.",
+      "question_X_cz": "Baví tě živá hudba?",
+      "answer_Y_cz": "Koncerty miluju."
+    },
+    {
+      "id": 321,
+      "question_X": "Do you like reggaeton music?",
+      "answer_Y": "It gives me a headache.",
+      "question_X_cz": "Máš rád reggaeton?",
+      "answer_Y_cz": "Bolí mě z něj hlava."
+    },
+    {
+      "id": 343,
+      "question_X": "Have you ever been to a rock concert?",
+      "answer_Y": "I go to one once a week.",
+      "question_X_cz": "Byl jsi někdy na rockovém koncertě?",
+      "answer_Y_cz": "Chodím na ně jednou týdně."
+    },
+    {
+      "id": 354,
+      "question_X": "Have you gone to a concert recently?",
+      "answer_Y": "I think the last one was around 5 years ago.",
+      "question_X_cz": "Byl jsi v poslední době na nějakém koncertě?",
+      "answer_Y_cz": "Myslím, že naposledy tak před pěti lety."
+    },
+    {
+      "id": 358,
+      "question_X": "Have you been to a concert recently?",
+      "answer_Y": "Laurie Anderson was fantastic.",
+      "question_X_cz": "Byla jsi v poslední době na nějakém koncertě?",
+      "answer_Y_cz": "Laurie Anderson byla fantastická."
+    },
+    {
+      "id": 435,
+      "question_X": "Are you into EDM?",
+      "answer_Y": "It's not my favorite.",
+      "question_X_cz": "Baví tě EDM?",
+      "answer_Y_cz": "Zrovna moje nejoblíbenější to není."
+    },
+    {
+      "id": 448,
+      "question_X": "Were you young when you first went to a concert?",
+      "answer_Y": "I went to Rick Springfield when I was 12.",
+      "question_X_cz": "Byl jsi mladý, když jsi šel poprvé na koncert?",
+      "answer_Y_cz": "V dvanácti jsem šel na Ricka Springfielda."
+    },
+    {
+      "id": 482,
+      "question_X": "Are you into dancing?",
+      "answer_Y": "I love to dance",
+      "question_X_cz": "Baví tě tanec?",
+      "answer_Y_cz": "Tancuju moc ráda."
+    },
+    {
+      "id": 497,
+      "question_X": "Do you like blues?",
+      "answer_Y": "I find blues relaxing.",
+      "question_X_cz": "Máš rád blues?",
+      "answer_Y_cz": "Blues mě uklidňuje."
+    },
+    {
+      "id": 506,
+      "question_X": "Does rock interest you at all?",
+      "answer_Y": "Rock is all I listen to!",
+      "question_X_cz": "Zajímá tě vůbec rock?",
+      "answer_Y_cz": "Rock je to jediné, co poslouchám!"
+    },
+    {
+      "id": 515,
+      "question_X": "Do you go to concerts a lot?",
+      "answer_Y": "I've never been to one.",
+      "question_X_cz": "Chodíš na koncerty často?",
+      "answer_Y_cz": "Nikdy jsem na žádném nebyl."
+    },
+    {
+      "id": 517,
+      "question_X": "You like high pitch songs?",
+      "answer_Y": "They irritate me.",
+      "question_X_cz": "Máš ráda písničky ve vysokých tóninách?",
+      "answer_Y_cz": "Docela mě dráždí."
+    },
+    {
+      "id": 523,
+      "question_X": "Have you been to South America?",
+      "answer_Y": "We went to Brazil last year.",
+      "question_X_cz": "Byl jsi někdy v Jižní Americe?",
+      "answer_Y_cz": "Loni jsme byli v Brazílii."
+    },
+    {
+      "id": 526,
+      "question_X": "Are you into going to festivals?",
+      "answer_Y": "Festivals are too crowded for me.",
+      "question_X_cz": "Baví tě jezdit na festivaly?",
+      "answer_Y_cz": "Na festivalech je na mě moc lidí."
+    },
+    {
+      "id": 533,
+      "question_X": "Have you ever been to a live rock gig?",
+      "answer_Y": "I went to a Taylor Swift concert once.",
+      "question_X_cz": "Byl jsi někdy na živém rockovém koncertě?",
+      "answer_Y_cz": "Jednou jsem byl na Taylor Swift."
+    },
+    {
+      "id": 545,
+      "question_X": "Have you been to the reggae fest here?",
+      "answer_Y": "I've been a couple of times.",
+      "question_X_cz": "Byla jsi už na tom zdejším reggae festivalu?",
+      "answer_Y_cz": "Párkrát jsem tam byla."
+    },
+    {
+      "id": 568,
+      "question_X": "Are you into jazz?",
+      "answer_Y": "I'm not not into jazz music.",
+      "question_X_cz": "Baví tě jazz?",
+      "answer_Y_cz": "Ne že by mě jazz nebavil."
+    },
+    {
+      "id": 574,
+      "question_X": "Do you have a favourite instrument?",
+      "answer_Y": "I love the drums.",
+      "question_X_cz": "Máš nějaký oblíbený nástroj?",
+      "answer_Y_cz": "Miluju bicí."
+    },
+    {
+      "id": 581,
+      "question_X": "Have you been to an orchestra concert?",
+      "answer_Y": "I haven't yet",
+      "question_X_cz": "Byl jsi už někdy na orchestrálním koncertě?",
+      "answer_Y_cz": "Zatím ještě ne."
+    },
+    {
+      "id": 583,
+      "question_X": "Do you play any musical instruments?",
+      "answer_Y": "I play many",
+      "question_X_cz": "Hraješ na nějaké hudební nástroje?",
+      "answer_Y_cz": "Hraju na několik."
+    },
+    {
+      "id": 584,
+      "question_X": "Do you listen to music when you work out?",
+      "answer_Y": "I can;t workout without music.",
+      "question_X_cz": "Posloucháš při cvičení hudbu?",
+      "answer_Y_cz": "Bez hudby si cvičení nedovedu představit."
+    },
+    {
+      "id": 626,
+      "question_X": "Would you go to a metal show?",
+      "answer_Y": "I think the energy at a metal show would be crazy cool.",
+      "question_X_cz": "Zašel bys na metalový koncert?",
+      "answer_Y_cz": "Myslím, že ta energie na metalovém koncertě by byla naprosto skvělá."
+    },
+    {
+      "id": 654,
+      "question_X": "Have you been to ACL Festival?",
+      "answer_Y": "I plan to go for the first time this year.",
+      "question_X_cz": "Už jsi byla na festivalu ACL?",
+      "answer_Y_cz": "Letos se tam chystám poprvé."
+    },
+    {
+      "id": 660,
+      "question_X": "Do you like pop music?",
+      "answer_Y": "I especially enjoyed Taylor Swift's new album.",
+      "question_X_cz": "Máš rád pop?",
+      "answer_Y_cz": "Hlavně to nové album od Taylor Swift se mi fakt líbilo."
+    },
+    {
+      "id": 676,
+      "question_X": "Have you heard the new Drake album yet?",
+      "answer_Y": "I haven't heard it yet",
+      "question_X_cz": "Už jsi slyšel to nové album od Drakea?",
+      "answer_Y_cz": "Zatím ještě ne."
+    },
+    {
+      "id": 679,
+      "question_X": "Do you sing at karaoke bars?",
+      "answer_Y": "No one will get me to sing in front of a crowd.",
+      "question_X_cz": "Zpíváš v karaoke barech?",
+      "answer_Y_cz": "Nikdo mě nedonutí zpívat před lidmi."
+    },
+    {
+      "id": 704,
+      "question_X": "Are you a fan of Hip Hop?",
+      "answer_Y": "I really dislike it.",
+      "question_X_cz": "Fandíš hip hopu?",
+      "answer_Y_cz": "Vážně ho nemusím."
+    },
+    {
+      "id": 707,
+      "question_X": "Would you like to go to a classical concert?",
+      "answer_Y": "I think i would",
+      "question_X_cz": "Chtěla bys zajít na koncert vážné hudby?",
+      "answer_Y_cz": "Myslím, že ano."
+    },
+    {
+      "id": 743,
+      "question_X": "Are you into Gwen Stefani's music?",
+      "answer_Y": "I haven't listened to her.",
+      "question_X_cz": "Baví tě hudba od Gwen Stefani?",
+      "answer_Y_cz": "Zatím jsem ji neposlouchal."
+    },
+    {
+      "id": 795,
+      "question_X": "Have you played an instrument before?",
+      "answer_Y": "I played the flute in school.",
+      "question_X_cz": "Hrála jsi už někdy na nějaký nástroj?",
+      "answer_Y_cz": "Ve škole jsem hrála na flétnu."
+    },
+    {
+      "id": 796,
+      "question_X": "Can you sing?",
+      "answer_Y": "I can't carry a tune.",
+      "question_X_cz": "Umíš zpívat?",
+      "answer_Y_cz": "Neudržím tón."
+    },
+    {
+      "id": 800,
+      "question_X": "Did you dance at the event?",
+      "answer_Y": "I couldn't stop, the music was hot.",
+      "question_X_cz": "Tančil jsi na té akci?",
+      "answer_Y_cz": "Nemohl jsem přestat, ta hudba byla skvělá."
+    },
+    {
+      "id": 818,
+      "question_X": "Do you like Rnb?",
+      "answer_Y": "I prefer something more uptempo.",
+      "question_X_cz": "Máš ráda R&B?",
+      "answer_Y_cz": "Dávám přednost něčemu v rychlejším tempu."
+    },
+    {
+      "id": 824,
+      "question_X": "Have you ever seen a live band play?",
+      "answer_Y": "I have a while ago",
+      "question_X_cz": "Viděl jsi už někdy hrát kapelu naživo?",
+      "answer_Y_cz": "Před nějakou dobou ano."
+    },
+    {
+      "id": 839,
+      "question_X": "Do you have a favorite singer?",
+      "answer_Y": "I like all sorts of artists.",
+      "question_X_cz": "Máš nějakého oblíbeného zpěváka?",
+      "answer_Y_cz": "Mám ráda nejrůznější umělce."
+    },
+    {
+      "id": 857,
+      "question_X": "Have you been to the 360 amphitheater?",
+      "answer_Y": "Several times, actually.",
+      "question_X_cz": "Byl jsi v amfiteátru 360?",
+      "answer_Y_cz": "Vlastně hned několikrát."
+    },
+    {
+      "id": 866,
+      "question_X": "Do you want to listen to screamo?",
+      "answer_Y": "I'd prefer not.",
+      "question_X_cz": "Chceš si poslechnout screamo?",
+      "answer_Y_cz": "Radši ani ne."
+    },
+    {
+      "id": 885,
+      "question_X": "Do you like French cuisine?",
+      "answer_Y": "It's a little fancy for my taste.",
+      "question_X_cz": "Máš ráda francouzskou kuchyni?",
+      "answer_Y_cz": "Na můj vkus je to trochu moc nóbl."
+    },
+    {
+      "id": 904,
+      "question_X": "Have you ever been to a live rock gig?",
+      "answer_Y": "I go to a rock gig at least once a month.",
+      "question_X_cz": "Byl jsi někdy na živém rockovém koncertě?",
+      "answer_Y_cz": "Chodím na rockové koncerty aspoň jednou za měsíc."
+    },
+    {
+      "id": 909,
+      "question_X": "Have you gone to any good concerts lately?",
+      "answer_Y": "I can't say I have.",
+      "question_X_cz": "Byla jsi v poslední době na nějakém dobrém koncertě?",
+      "answer_Y_cz": "To se zrovna říct nedá."
+    },
+    {
+      "id": 979,
+      "question_X": "Are you into Rock and Roll?",
+      "answer_Y": "I listen to it each weekend.",
+      "question_X_cz": "Baví tě rokenrol?",
+      "answer_Y_cz": "Poslouchám ho každý víkend."
+    }
+  ]

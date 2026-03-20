@@ -1,0 +1,552 @@
+[
+    {
+      "id": 3,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Chtěl byste se ve volném čase dostat na čerstvý vzduch?",
+      "answer_Y_cz": "Zoufale se potřebuju dostat ven z města.",
+      "direct_answer_pos": "Ano, chtěl bych se dostat na čerstvý vzduch.",
+      "direct_answer_neg": "Ne, nechtěl bych se dostat na čerstvý vzduch.",
+      "distractor_lexical": "Zoufale jsem včera hledal klíče od auta.",
+      "distractor_associative": "Čerstvý vzduch prospívá lidskému zdraví."
+    },
+    {
+      "id": 12,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Baví tě hrát nějaké sporty?",
+      "answer_Y_cz": "Basketbal je super zábava.",
+      "direct_answer_pos": "Ano, baví mě hrát sporty.",
+      "direct_answer_neg": "Ne, nebaví mě hrát sporty.",
+      "distractor_lexical": "Basketbal se včera v televizi vůbec nehrál.",
+      "distractor_associative": "Sportovní vybavení bývá v obchodech drahé."
+    },
+    {
+      "id": 18,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Máš rád nějaké sporty?",
+      "answer_Y_cz": "Tenis se hraje skvěle.",
+      "direct_answer_pos": "Ano, mám rád sporty.",
+      "direct_answer_neg": "Ne, nemám rád sporty.",
+      "distractor_lexical": "Tenis včera v televizi hrozně pískali.",
+      "distractor_associative": "Tenisové rakety se vyrábějí z grafitu."
+    },
+    {
+      "id": 21,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Máte ráda umění?",
+      "answer_Y_cz": "Chození do muzeí umění je moje nejoblíbenější zábava.",
+      "direct_answer_pos": "Ano, mám ráda umění.",
+      "direct_answer_neg": "Ne, nemám ráda umění.",
+      "distractor_lexical": "Chození po městě je v tomhle horku únavné.",
+      "distractor_associative": "Muzea mívají v pondělí často zavřeno."
+    },
+    {
+      "id": 24,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Máš rád sporty?",
+      "answer_Y_cz": "Hraju tenis každý víkend.",
+      "direct_answer_pos": "Ano, mám rád sporty.",
+      "direct_answer_neg": "Ne, nemám rád sporty.",
+      "distractor_lexical": "Hraju v tomhle novém filmu hlavní roli.",
+      "distractor_associative": "Víkendy jsou časem pro zasloužený odpočinek."
+    },
+    {
+      "id": 57,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Byl jsi už někdy na bowlingu?",
+      "answer_Y_cz": "Před lety, a od té doby jsem tam nebyl.",
+      "direct_answer_pos": "Ano, byl jsem na bowlingu.",
+      "direct_answer_neg": "Ne, nikdy jsem na bowlingu nebyl.",
+      "distractor_lexical": "Před lety jsem v tomhle velkém domě bydlel.",
+      "distractor_associative": "Bowlingové dráhy bývají v pátek večer plné."
+    },
+    {
+      "id": 61,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Jsi rád venku?",
+      "answer_Y_cz": "Venku je mi líp.",
+      "direct_answer_pos": "Ano, jsem rád venku.",
+      "direct_answer_neg": "Ne, nejsem rád venku.",
+      "distractor_lexical": "Venku je v noci už hrozná zima.",
+      "distractor_associative": "Příroda nabízí lidem mnoho různých aktivit."
+    },
+    {
+      "id": 79,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Hraješ o víkendech golf?",
+      "answer_Y_cz": "Zařekl jsem se, že golf nikdy hrát nebudu.",
+      "direct_answer_pos": "Ano, hraju golf.",
+      "direct_answer_neg": "Ne, nehraju golf.",
+      "distractor_lexical": "Zařekl jsem se, že už nebudu pít kávu.",
+      "distractor_associative": "Golfové hole se nosí ve speciálním bagu."
+    },
+    {
+      "id": 116,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Tvoříte ráda něco kreativního?",
+      "answer_Y_cz": "Ráda kreslím.",
+      "direct_answer_pos": "Ano, tvořím ráda.",
+      "direct_answer_neg": "Ne, netvořím ráda.",
+      "distractor_lexical": "Ráda bych v pondělí ráno vymalovala kuchyň.",
+      "distractor_associative": "Kreslení tužkou rozvíjí dětskou fantazii."
+    },
+    {
+      "id": 130,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Jsi v nějakém víkendovém sportovním týmu?",
+      "answer_Y_cz": "Hraju městskou volejbalovou ligu.",
+      "direct_answer_pos": "Ano, jsem v týmu.",
+      "direct_answer_neg": "Ne, nejsem v týmu.",
+      "distractor_lexical": "Hraju v téhle kapele na bicí teprve krátce.",
+      "distractor_associative": "Volejbal se hraje rukama přes vysokou síť."
+    },
+    {
+      "id": 135,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Baví tě ruční práce?",
+      "answer_Y_cz": "Je to moje nejoblíbenější činnost.",
+      "direct_answer_pos": "Ano, baví mě.",
+      "direct_answer_neg": "Ne, nebaví mě.",
+      "distractor_lexical": "Je to v téhle naší lednici hrozně prázdné.",
+      "distractor_associative": "Ruční práce vyžadují velkou trpělivost."
+    },
+    {
+      "id": 152,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Máš nějaké domácí mazlíčky?",
+      "answer_Y_cz": "Moje kočka zrovna oslavila rok.",
+      "direct_answer_pos": "Ano, mám mazlíčky.",
+      "direct_answer_neg": "Ne, nemám mazlíčky.",
+      "distractor_lexical": "Moje stará tiskárna včera přestala tisknout.",
+      "distractor_associative": "Kočky se průměrně dožívají patnácti let."
+    },
+    {
+      "id": 172,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Táhlo tě to vždycky ven do přírody?",
+      "answer_Y_cz": "Mám to radši než být zavřený doma.",
+      "direct_answer_pos": "Ano, táhlo.",
+      "direct_answer_neg": "Ne, netáhlo.",
+      "distractor_lexical": "Mám v tašce schované ty včerejší noviny.",
+      "distractor_associative": "Příroda je v zimních měsících dost studená."
+    },
+    {
+      "id": 196,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Už jste byl v té nové restauraci?",
+      "answer_Y_cz": "V poslední době jsem měl hrozně moc práce.",
+      "direct_answer_pos": "Ano, byl jsem.",
+      "direct_answer_neg": "Ne, nebyl jsem.",
+      "distractor_lexical": "V poslední řadě v kině se sedí nejlépe.",
+      "distractor_associative": "Restaurace mívají v neděli večer plno."
+    },
+    {
+      "id": 203,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Jdeš dneska večer na ten středoškolský fotbal?",
+      "answer_Y_cz": "To bych radši dělal cokoli jiného.",
+      "direct_answer_pos": "Ano, jdu.",
+      "direct_answer_neg": "Ne, nejdu.",
+      "distractor_lexical": "To v téhle naší mapě vůbec není vidět.",
+      "distractor_associative": "Fotbalové stadiony jsou v noci osvětlené."
+    },
+    {
+      "id": 212,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Chceš se s někým seznámit?",
+      "answer_Y_cz": "Jsem spokojený o samotě.",
+      "direct_answer_pos": "Ano, chci.",
+      "direct_answer_neg": "Ne, nechci.",
+      "distractor_lexical": "Jsem v pondělí v práci až do večera.",
+      "distractor_associative": "Seznamky jsou v České republice populární."
+    },
+    {
+      "id": 234,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Hraješ o víkendech fotbal?",
+      "answer_Y_cz": "S tím už jsem seknul.",
+      "direct_answer_pos": "Ano, hraju.",
+      "direct_answer_neg": "Ne, nehraju.",
+      "distractor_lexical": "S tátou jsem včera posekal celou zahradu.",
+      "distractor_associative": "Fotbalové kopačky mají na podrážce kolíky."
+    },
+    {
+      "id": 237,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Sleduješ místní sportovní týmy?",
+      "answer_Y_cz": "Mám jeden tým, kterému fandím.",
+      "direct_answer_pos": "Ano, sleduju.",
+      "direct_answer_neg": "Ne, nesleduju.",
+      "distractor_lexical": "Mám v bytě hromadu starých papírových krabic.",
+      "distractor_associative": "Sportovní kluby mají své věrné fanoušky."
+    },
+    {
+      "id": 238,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Půjdete v tom vánočním průvodu?",
+      "answer_Y_cz": "Vůbec to nemám v plánu.",
+      "direct_answer_pos": "Ano, půjdeme.",
+      "direct_answer_neg": "Ne, nepůjdeme.",
+      "distractor_lexical": "Vůbec v té mapě nemůžu najít naše muzeum.",
+      "distractor_associative": "Vánoční trhy bývají v prosinci plné lidí."
+    },
+    {
+      "id": 253,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Odpočíváš o víkendech raději?",
+      "answer_Y_cz": "Víkendy mám nabité aktivitami.",
+      "direct_answer_pos": "Ano, odpočívám.",
+      "direct_answer_neg": "Ne, neodpočívám.",
+      "distractor_lexical": "Víkendy v tomhle městě jsou dost hlučné.",
+      "distractor_associative": "Aktivní odpočinek je pro zdraví velmi prospěšný."
+    },
+    {
+      "id": 256,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Máš tento víkend čas?",
+      "answer_Y_cz": "Mám celý víkend plno.",
+      "direct_answer_pos": "Ano, mám.",
+      "direct_answer_neg": "Ne, nemám.",
+      "distractor_lexical": "Mám v autě schovaný ten svůj deštník.",
+      "distractor_associative": "Čas je o víkendech pro většinu lidí vzácný."
+    },
+    {
+      "id": 265,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Randíš teď s někým?",
+      "answer_Y_cz": "Jsem už několik let ženatý.",
+      "direct_answer_pos": "Ano, randím.",
+      "direct_answer_neg": "Ne, nerandím.",
+      "distractor_lexical": "Jsem v pondělí v práci obvykle jako první.",
+      "distractor_associative": "Svatby se konají nejčastěji v letních měsících."
+    },
+    {
+      "id": 295,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Chodíš rád do kina?",
+      "answer_Y_cz": "Je to jeden z mých koníčků.",
+      "direct_answer_pos": "Ano, chodím rád.",
+      "direct_answer_neg": "Ne, nechodím rád.",
+      "distractor_lexical": "Je to v téhle naší lednici hrozně prázdné.",
+      "distractor_associative": "Filmové novinky vycházejí v kinech každý týden."
+    },
+    {
+      "id": 298,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Umíš plavat?",
+      "answer_Y_cz": "Plavu jako ryba.",
+      "direct_answer_pos": "Ano, umím plavat.",
+      "direct_answer_neg": "Ne, neumím plavat.",
+      "distractor_lexical": "Plavu v tom novém zadání od svého šéfa.",
+      "distractor_associative": "Ryby mají v našich rybnících dostatek vody."
+    },
+    {
+      "id": 311,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Vyhradíte si o víkendu čas jen pro sebe?",
+      "answer_Y_cz": "Je to pro mě důležité.",
+      "direct_answer_pos": "Ano, vyhradím.",
+      "direct_answer_neg": "Ne, nevyhradím.",
+      "distractor_lexical": "Je to v téhle naší ulici v noci dost rušné.",
+      "distractor_associative": "Psychohygiena pomáhá lidem lépe zvládat stres."
+    },
+    {
+      "id": 313,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Zajímáš se o umění a kulturu?",
+      "answer_Y_cz": "Docela mě to zajímá.",
+      "direct_answer_pos": "Ano, zajímám.",
+      "direct_answer_neg": "Ne, nezajímám.",
+      "distractor_lexical": "Docela často si v metru čtu ranní zprávy.",
+      "distractor_associative": "Kulturní akce se konají hlavně v centru měst."
+    },
+    {
+      "id": 318,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Baví vás divadlo?",
+      "answer_Y_cz": "Miluju živá představení.",
+      "direct_answer_pos": "Ano, baví.",
+      "direct_answer_neg": "Ne, nebaví.",
+      "distractor_lexical": "Miluju, když v naší kuchyni voní káva.",
+      "distractor_associative": "Divadla mívají přes prázdniny letní pauzu."
+    },
+    {
+      "id": 366,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Byl byste ochotný dělat dobrovolníka?",
+      "answer_Y_cz": "To je hrozný nápad.",
+      "direct_answer_pos": "Ano, byl.",
+      "direct_answer_neg": "Ne, nebyl.",
+      "distractor_lexical": "To v téhle mapě vůbec není zakreslené.",
+      "distractor_associative": "Dobrovolnictví pomáhá mnoha neziskovkám."
+    },
+    {
+      "id": 369,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Nezašel bys na drink?",
+      "answer_Y_cz": "Pojďme do tvého oblíbeného baru.",
+      "direct_answer_pos": "Ano, zašel.",
+      "direct_answer_neg": "Ne, nezašel.",
+      "distractor_lexical": "Pojďme si v našem novém bytě vymalovat.",
+      "distractor_associative": "Bary nabízejí zákazníkům různé koktejly."
+    },
+    {
+      "id": 377,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Chystáš se o víkendu pařit?",
+      "answer_Y_cz": "Plánuju vyrazit ven každý večer.",
+      "direct_answer_pos": "Ano, chystám.",
+      "direct_answer_neg": "Ne, nechystám.",
+      "distractor_lexical": "Plánuju v pondělí ráno opravdu včas vstát.",
+      "distractor_associative": "Večírky bývají o víkendech někdy velmi dlouhé."
+    },
+    {
+      "id": 387,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Běháš rád?",
+      "answer_Y_cz": "Nemůžu s běháním přestat.",
+      "direct_answer_pos": "Ano, běhám rád.",
+      "direct_answer_neg": "Ne, neběhám rád.",
+      "distractor_lexical": "Nemůžu v téhle mapě vůbec najít lékárnu.",
+      "distractor_associative": "Běžecké boty mají mít odpruženou podrážku."
+    },
+    {
+      "id": 409,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Máš o víkendech hodně volného času?",
+      "answer_Y_cz": "Děti mě zaměstnávají naplno.",
+      "direct_answer_pos": "Ano, mám hodně času.",
+      "direct_answer_neg": "Ne, nemám moc času.",
+      "distractor_lexical": "Děti si včera na hřišti zapomněly svůj míč.",
+      "distractor_associative": "Volný čas je pro řadu rodičů velký luxus."
+    },
+    {
+      "id": 430,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Fandíš horolezectví?",
+      "answer_Y_cz": "Mám radši plavání.",
+      "direct_answer_pos": "Ano, fandím.",
+      "direct_answer_neg": "Ne, nefandím.",
+      "distractor_lexical": "Mám v kapse klíče od té naší garáže.",
+      "distractor_associative": "Plavecké bazény bývají v zimě vnitřní."
+    },
+    {
+      "id": 438,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Piješ rád?",
+      "answer_Y_cz": "O víkendu si většinou nějaký koktejl dám.",
+      "direct_answer_pos": "Ano, piju rád.",
+      "direct_answer_neg": "Ne, nepiju rád.",
+      "distractor_lexical": "O víkendu si v obchodě koupím nové boty.",
+      "distractor_associative": "Koktejly se obvykle míchají v šejkru."
+    },
+    {
+      "id": 451,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Baví tě být venku?",
+      "answer_Y_cz": "Hrozně rád chodím na túry a lyžuju.",
+      "direct_answer_pos": "Ano, baví mě to.",
+      "direct_answer_neg": "Ne, nebaví mě to.",
+      "distractor_lexical": "Hrozně moc v téhle budově svítí ty lampy.",
+      "distractor_associative": "Lyžování vyžaduje v horách dostatek sněhu."
+    },
+    {
+      "id": 480,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Byl jsi v centru v některém z muzeí?",
+      "answer_Y_cz": "Mám členství v muzeu umění.",
+      "direct_answer_pos": "Ano, byl jsem.",
+      "direct_answer_neg": "Ne, nebyl jsem.",
+      "distractor_lexical": "Mám v autě schované ty svoje nové mapy.",
+      "distractor_associative": "Muzea vystavují vzácné historické artefakty."
+    },
+    {
+      "id": 494,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Baví tě ruční práce?",
+      "answer_Y_cz": "Často pletu.",
+      "direct_answer_pos": "Ano, baví mě.",
+      "direct_answer_neg": "Ne, nebaví mě.",
+      "distractor_lexical": "Často si v metru zapomínám své rukavice.",
+      "distractor_associative": "Pletací vlna se prodává v barevných klubíčkách."
+    },
+    {
+      "id": 561,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Baví tě karaoke?",
+      "answer_Y_cz": "Přijde mi to strašně trapné.",
+      "direct_answer_pos": "Ano, baví.",
+      "direct_answer_neg": "Ne, nebaví.",
+      "distractor_lexical": "Přijde mi včera domů ten balík s nářadím.",
+      "distractor_associative": "Karaoke bary mají pro hosty velké obrazovky."
+    },
+    {
+      "id": 580,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Budeš se v sobotu účastnit nějakých sportovních aktivit?",
+      "answer_Y_cz": "Na ten den mám naplánované čištění kanálků u zubaře.",
+      "direct_answer_pos": "Ano, budu.",
+      "direct_answer_neg": "Ne, nebudu.",
+      "distractor_lexical": "Na ten včerejší dlouhý výlet v lese vzpomínám.",
+      "distractor_associative": "Zubní lékaři mívají v sobotu většinou zavřeno."
+    },
+    {
+      "id": 602,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Máš rád Alamo Draft House?",
+      "answer_Y_cz": "Chodím tam pravidelně.",
+      "direct_answer_pos": "Ano, mám rád.",
+      "direct_answer_neg": "Ne, nemám rád.",
+      "distractor_lexical": "Chodím v pondělí do nové práce vždy pěšky.",
+      "distractor_associative": "Kina nabízejí divákům občerstvení k filmu."
+    },
+    {
+      "id": 603,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Chodíš někdy na túry?",
+      "answer_Y_cz": "Jednou nebo dvakrát jsem byl.",
+      "direct_answer_pos": "Ano, chodím.",
+      "direct_answer_neg": "Ne, nechodím.",
+      "distractor_lexical": "Jednou v noci u nás doma hrozně foukalo.",
+      "distractor_associative": "Pohorky účinně chrání kotníky v terénu."
+    },
+    {
+      "id": 621,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Je nakupování tvoje parketa?",
+      "answer_Y_cz": "Mám radši aktivity, co jsou zadarmo.",
+      "direct_answer_pos": "Ano, je.",
+      "direct_answer_neg": "Ne, není.",
+      "distractor_lexical": "Mám v šatníku hromadu svých zimních bund.",
+      "distractor_associative": "Slevy v obchodech lákají o víkendu hodně lidí."
+    },
+    {
+      "id": 646,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Plaveš rád?",
+      "answer_Y_cz": "Chodím plavat každý týden.",
+      "direct_answer_pos": "Ano, plavu rád.",
+      "direct_answer_neg": "Ne, neplavu rád.",
+      "distractor_lexical": "Chodím si včera pro ty lístky na vlak.",
+      "distractor_associative": "Chlorovaná voda může někdy dráždit oči."
+    },
+    {
+      "id": 722,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Baví tě turistika?",
+      "answer_Y_cz": "Té jsem nikdy nepřišel na chuť.",
+      "direct_answer_pos": "Ano, baví mě to.",
+      "direct_answer_neg": "Ne, nebaví mě to.",
+      "distractor_lexical": "Té včerejší mapě v mobilu vůbec nevěřím.",
+      "distractor_associative": "Turistika patří k českým národním sportům."
+    },
+    {
+      "id": 723,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Nechceš jít se mnou o víkendu na farmářské trhy?",
+      "answer_Y_cz": "Potřebuju koupit cibuli.",
+      "direct_answer_pos": "Ano, chci jít.",
+      "direct_answer_neg": "Ne, nechci jít.",
+      "distractor_lexical": "Potřebuju v novém bytě brzy opravit světlo.",
+      "distractor_associative": "Farmářské trhy nabízejí čerstvé lokální produkty."
+    },
+    {
+      "id": 727,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Máte ráda galerie a muzea?",
+      "answer_Y_cz": "Lepší sobotu si ani nedokážu představit.",
+      "direct_answer_pos": "Ano, mám ráda.",
+      "direct_answer_neg": "Ne, nemám ráda.",
+      "distractor_lexical": "Lepší cestu k metru jsem včera nenašel.",
+      "distractor_associative": "Galerie mívají během víkendů často plno."
+    },
+    {
+      "id": 732,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Chtěl byste být venku?",
+      "answer_Y_cz": "Venku jsem hrozně rád.",
+      "direct_answer_pos": "Ano, chtěl.",
+      "direct_answer_neg": "Ne, nechtěl.",
+      "distractor_lexical": "Venku je v noci v téhle ulici hrozná tma.",
+      "distractor_associative": "Počasí výrazně ovlivňuje víkendové plány."
+    },
+    {
+      "id": 733,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Jste rád na vodě?",
+      "answer_Y_cz": "Mám strach, že se utopím.",
+      "direct_answer_pos": "Ano, jsem.",
+      "direct_answer_neg": "Ne, nejsem.",
+      "distractor_lexical": "Mám v autě schovanou tu tvoji mapu.",
+      "distractor_associative": "Vodní sporty vyžadují nošení plavacích vest."
+    },
+    {
+      "id": 757,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Chodíváš do místního baru?",
+      "answer_Y_cz": "Každý víkend.",
+      "direct_answer_pos": "Ano, chodím.",
+      "direct_answer_neg": "Ne, nechodím.",
+      "distractor_lexical": "Každý týden u nás v ulici troubí auta.",
+      "distractor_associative": "Bary bývají v noci obvykle docela hlučné."
+    },
+    {
+      "id": 759,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Máš rád vědomostní kvízy?",
+      "answer_Y_cz": "Jsem šampion v pub kvízech.",
+      "direct_answer_pos": "Ano, mám rád.",
+      "direct_answer_neg": "Ne, nemám rád.",
+      "distractor_lexical": "Jsem v pondělí v nové práci jako první.",
+      "distractor_associative": "Vědomostní soutěže pomáhají trénovat paměť."
+    },
+    {
+      "id": 781,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Baví vás outdoorové aktivity?",
+      "answer_Y_cz": "Miluju, když mi vítr fouká do tváře a slunce hřeje do zad.",
+      "direct_answer_pos": "Ano, baví.",
+      "direct_answer_neg": "Ne, nebaví.",
+      "distractor_lexical": "Miluju, když v kuchyni voní čerstvá káva.",
+      "distractor_associative": "Termoprádlo je důležité při větrném počasí."
+    },
+    {
+      "id": 790,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Byl jsi někdy na kajaku?",
+      "answer_Y_cz": "Jezdil jsem na kajaku ve Švédsku.",
+      "direct_answer_pos": "Ano, byl.",
+      "direct_answer_neg": "Ne, nebyl.",
+      "distractor_lexical": "Jezdil jsem včera v centru New Yorku metrem.",
+      "distractor_associative": "Kajaky se vyrábějí z pevného polyethylenu."
+    },
+    {
+      "id": 803,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Plánujete mít nabitý víkend?",
+      "answer_Y_cz": "Spíš takový klidnější.",
+      "direct_answer_pos": "Ano, plánuju.",
+      "direct_answer_neg": "Ne, neplánuju.",
+      "distractor_lexical": "Spíš si v pondělí v práci déle pospím.",
+      "distractor_associative": "Klidný víkend pomáhá člověku načerpat síly."
+    },
+    {
+      "id": 805,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Viděl jsi ten nový film podle Stephena Kinga?",
+      "answer_Y_cz": "Druhá kapitola To byl jeden z nejlepších filmů, co jsem v poslední době viděl.",
+      "direct_answer_pos": "Ano, viděl.",
+      "direct_answer_neg": "Ne, neviděl.",
+      "distractor_lexical": "Druhá strana téhle mapy je hrozně nečitelná.",
+      "distractor_associative": "Stephen King vydává ročně hned několik knih."
+    },
+    {
+      "id": 821,
+      "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+      "question_X_cz": "Baví tě venkovní aktivity?",
+      "answer_Y_cz": "Miluju procházky po louce.",
+      "direct_answer_pos": "Ano, baví mě.",
+      "direct_answer_neg": "Ne, nebaví mě.",
+      "distractor_lexical": "Miluju, když v noci v lese houká sova.",
+      "distractor_associative": "Luční kvítí rozkvétá nejčastěji v květnu."
+    }
+  ]

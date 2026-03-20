@@ -1,0 +1,1403 @@
+[
+    {
+      "id": "presupposition-change-of-state-1",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Novináři se opakovaně snaží telefonicky kontaktovat Miloše Vančuru kvůli otázkám kolem jeho podnikání a vztahů se společníkem.",
+      "utterance": "Mluvčí: Poté už s novináři odmítal mluvit úplně a přestal brát telefon.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Miloš Vančura předtím bral telefon (zvedal hovory / komunikoval po telefonu).",
+        "presupposition_paraphrased": "Miloš Vančura dříve telefonní hovory přijímal.",
+        "DistractorNegation": "Miloš Vančura předtím telefon nikdy po telefonu nekomunikoval.",
+        "DistractorLexicalEdit": "Miloš Vančura předtím bral telefon jen své ženě.",
+        "DistractorAssociative0": "Miloš Vančura si později změnil telefonní číslo."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-2",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Aktivista komentuje vládní rozhodnutí ohledně zřízení genderové kliniky a reakce komunity na toto opatření.",
+      "utterance": "Mluvčí: Byli jsme frustrovaní, protože to bylo zrovna v době, kdy Světová zdravotnická organizace přestala označovat transsexualitu jako duševní poruchu.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Světová zdravotnická organizace předtím označovala transsexualitu jako duševní poruchu.",
+        "presupposition_paraphrased": "Světová zdravotnická organizace dříve vedla transsexualitu jako duševní poruchu.",
+        "DistractorNegation": "Světová zdravotnická organizace transsexualitu nikdy neoznačovala jako duševní poruchu.",
+        "DistractorLexicalEdit": "Světová zdravotnická organizace předtím označovala homosexualitu jako duševní poruchu.",
+        "DistractorAssociative0": "Rozhodnutí vyvolalo v komunitě veřejné oslavy."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-3",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Vypravěč se ocitá v kritickém stavu a obrací se na kouzelníka, který v paláci provádí pokusy s léky.",
+      "utterance": "Vypravěč: Kouzelník se přestal smát, poklekl ke mně a mezi zuby mi vsypal bílý prášek.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Kouzelník se předtím smál.",
+        "presupposition_paraphrased": "Kouzelník se předtím smál.",
+        "DistractorNegation": "Kouzelník se předtím nikdy nesmál.",
+        "DistractorLexicalEdit": "Kouzelník se předtím mračil.",
+        "DistractorAssociative0": "Kouzelník měl na prstech několik prstenů."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-4",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "V rozhovoru se mluvčí vyjadřuje k vládním opatřením a k politickým reakcím na aktuální situaci.",
+      "utterance": "Mluvčí: Teď by asi bylo vhodné, kdyby z toho politici přestali dělat politický problém.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Podle mluvčího z toho politici dělají politický problém.",
+        "presupposition_paraphrased": "Mluvčí se domnívá, že politici z této záležitosti vytvářejí politický problém.",
+        "DistractorNegation": "Podle mluvčího z toho politici nikdy nedělali politický problém.",
+        "DistractorLexicalEdit": "Podle mluvčího z toho politici dělají ekonomický problém.",
+        "DistractorAssociative0": "Mluvčí očekává, že se kvůli tomu svolá mimořádná schůze vlády."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-5",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Dušek v rozhovoru přemýšlí o tom, jak se v čase mění témata, která ho osobně zajímají.",
+      "utterance": "Dušek: Ale za sebe musím říct, že pro mě už pak přestalo být zajímavé, jak se takzvaně společnost vyrovnala s komunismem.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Pro Duška bylo dříve zajímavé, jak se společnost vyrovnala s komunismem.",
+        "presupposition_paraphrased": "Duška dříve téma společenského vyrovnání se s komunismem poutalo.",
+        "DistractorNegation": "Pro Duška nikdy nebylo zajímavé, jak se takzvaně společnost vyrovnala s komunismem.",
+        "DistractorLexicalEdit": "Pro Duška bylo dříve zajímavé, jak se společnost vyrovnala s kapitalismem.",
+        "DistractorAssociative0": "Dušek v rozhovoru mluví i o svých cestách do zahraničí."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-6",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Vydavatel Soukup řeší fungování své mediální skupiny a změny v portfoliu titulů.",
+      "utterance": "Mluvčí: V loňském roce přestal Soukup vydávat časopis Instinkt.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Soukup dříve vydával časopis Instinkt.",
+        "presupposition_paraphrased": "Soukup v minulosti časopis Instinkt publikoval.",
+        "DistractorNegation": "Soukup časopis Instinkt nikdy nevydával.",
+        "DistractorLexicalEdit": "Soukup dříve vydával časopis Reflex.",
+        "DistractorAssociative0": "Soukupovo vydavatelství se chystalo změnit sídlo."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-7",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Paní Miloslava opakovaně řeší se synem Janem vrácení peněz a snaží se s ním domluvit mimo soud.",
+      "utterance": "Mluvčí: Když jí pak přestal zvedat i telefony a odpovídat na zprávy, paní Miloslavě nezbylo než se se svým nárokem obrátit na soud.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Jan jí předtím zvedal telefony a odpovídal na zprávy.",
+        "presupposition_paraphrased": "Jan s ní dříve telefonicky komunikoval a reagoval na její zprávy.",
+        "DistractorNegation": "Jan jí předtím nikdy nezvedal telefony ani neodpovídal na zprávy.",
+        "DistractorLexicalEdit": "Jan jí předtím zvedal telefony a odpovídal na dopisy.",
+        "DistractorAssociative0": "Paní Miloslava uvažovala o mediaci."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-8",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "V horských oblastech se zhoršuje počasí a lidé jsou varováni před silným větrem.",
+      "utterance": "Novinář: Kvůli sílícímu větru přestala jezdit včera v horním úseku lanovka na Sněžku.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Lanovka na Sněžku v horním úseku předtím jezdila.",
+        "presupposition_paraphrased": "Lanová dráha na Sněžku byla v horní části dříve v provozu.",
+        "DistractorNegation": "Lanovka na Sněžku v horním úseku předtím nikdy nejezdila.",
+        "DistractorLexicalEdit": "Lanovka na Sněžku v dolním úseku předtím jezdila.",
+        "DistractorAssociative0": "U stanice čekala skupina turistů."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-9",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Vypravěčka popisuje dlouhodobé zdravotní potíže, které jí narušují běžný den a omezují její fungování v práci i ve volném čase.",
+      "utterance": "Vypravěčka: V práci jsem se vyhýbala dlouhým schůzkám a přestala chodit na společenské akce.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Vypravěčka dříve chodila na společenské akce.",
+        "presupposition_paraphrased": "Vypravěčka se v minulosti účastnila společenských událostí.",
+        "DistractorNegation": "Vypravěčka nikdy nechodila na společenské akce.",
+        "DistractorLexicalEdit": "Vypravěčka dříve chodila na sportovní akce.",
+        "DistractorAssociative0": "Zdravotní potíže ji omezovaly i při cestování."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-10",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Příbuzná ve Stockholmu objeví muže po dlouhé době izolace a případ se dostává do médií.",
+      "utterance": "Novinář: Švédský list Expressen napsal, že syn zadržené ženy přestal ve 12 letech navštěvovat školu.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Syn zadržené ženy předtím navštěvoval školu.",
+        "presupposition_paraphrased": "Syn oné zadržené ženy do školy dříve docházel.",
+        "DistractorNegation": "Syn zadržené ženy nikdy nenavštěvoval školu.",
+        "DistractorLexicalEdit": "Syn zadržené ženy předtím navštěvoval školku.",
+        "DistractorAssociative0": "Ve dvanácti letech se začal učit hrát na kytaru."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-11",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "V opatství panuje napětí, opat spěchá vpřed a ostatní sledují, co se děje kolem.",
+      "utterance": "Mluvčí: Eadulf si všiml, že venku přestalo sněžit, a třebaže bylo stále větrno, vítr nebyl už tak silný jako předtím.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Předtím venku sněžilo.",
+        "presupposition_paraphrased": "V předchozí chvíli padal venku sníh.",
+        "DistractorNegation": "Předtím venku nikdy nesněžilo.",
+        "DistractorLexicalEdit": "Předtím venku pršelo.",
+        "DistractorAssociative0": "Na okně se srážela pára."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-12",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Mluvčí A se ptá Mluvčí B na požadavek jejího partnera a radí jí, jak se rozhodnout.",
+      "utterance": "Mluvčí A: „Ale přitom chce, abys přestala pracovat?“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí A předpokládá, že Mluvčí B předtím pracovala.",
+        "presupposition_paraphrased": "Mluvčí A vychází z toho, že Mluvčí B měla dříve zaměstnání.",
+        "DistractorNegation": "Mluvčí A předpokládá, že Mluvčí B nikdy nepracovala.",
+        "DistractorLexicalEdit": "Mluvčí A předpokládá, že Mluvčí B předtím studovala.",
+        "DistractorAssociative0": "Partner Mluvčí B trvá na společném stěhování."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-13",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Uprostřed přestřelky se poručík na chvíli zastaví, aby mohl pokračovat dál.",
+      "utterance": "Mluvčí: Poručík přestal střílet, aby mohl vložit do své zbraně nový zásobník, a netušil, že na něj míří jeden Tuareg z pětadvaceti metrů.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Poručík předtím střílel.",
+        "presupposition_paraphrased": "Poručík předtím pálil ze zbraně.",
+        "DistractorNegation": "Poručík předtím nikdy nestřílel.",
+        "DistractorLexicalEdit": "Poručík předtím střílel do vzduchu.",
+        "DistractorAssociative0": "Tuareg měl dalekohled."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-14",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Žena sedí u stolu v pracovně a rozptýleně drží v ruce smlouvu.",
+      "utterance": "Mluvčí: Přestala předstírat práci, zvedla se od stolu a začala přecházet po pracovně.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Předtím předstírala práci.",
+        "presupposition_paraphrased": "Dříve činnost u stolu jen simulovala.",
+        "DistractorNegation": "Předtím nikdy nepředstírala práci.",
+        "DistractorLexicalEdit": "Předtím předstírala spánek.",
+        "DistractorAssociative0": "V pracovně byla rozsvícená jen lampička."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-15",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Mluvčí popisuje, jak dva blízcí lidé spolu po vypjaté situaci.",
+      "utterance": "Mluvčí: Když konečně přestala plakat, položila si hlavu na jeho paži.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Předtím plakala.",
+        "presupposition_paraphrased": "Před malou chvílí ještě ronila slzy.",
+        "DistractorNegation": "Předtím nikdy neplakala.",
+        "DistractorLexicalEdit": "Předtím se smála.",
+        "DistractorAssociative0": "Na stole stála prázdná sklenice."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-16",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Mluvčí popisuje, jak se muž v tichém rozhovoru soustředí na slova ženy a jak v něm postupně mizí napětí.",
+      "utterance": "Mluvčí: Slyšel v hlavě jen Elivenina slova a uvěřil jim natolik, že se nadobro přestal bát smrti.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Předtím se muž bál smrti.",
+        "presupposition_paraphrased": "Muž měl dříve ze smrti strach.",
+        "DistractorNegation": "Předtím se muž smrti nikdy nebál.",
+        "DistractorLexicalEdit": "Předtím se muž bál samoty.",
+        "DistractorAssociative0": "Muž měl u pasu dýku."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-17",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "V rozhovoru o nebezpečném úkolu princezna mluví klidně a odhodlaně.",
+      "utterance": "Princezna: „Už dávno jsem se přestala bát svého poslání...“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Princezna se předtím bála svého poslání.",
+        "presupposition_paraphrased": "Princezna měla dříve ze svého úkolu obavy.",
+        "DistractorNegation": "Princezna se svého poslání nikdy nebála.",
+        "DistractorLexicalEdit": "Princezna se předtím bála svého rozhodnutí.",
+        "DistractorAssociative0": "Princezna nosí amulet jako ochranu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-18",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Rosamunda a Drťa spolu mluví o tom, co čeká nováčky.",
+      "utterance": "Rosamunda: „Drťa se přestal houpat na trámu.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Podle Rosamundy se Drťa předtím houpal na trámu.",
+        "presupposition_paraphrased": "Podle Rosamundy se Drťa předtím na trámu pohupoval.",
+        "DistractorNegation": "Podle Rosamundy se Drťa na trámu nikdy nehoupal.",
+        "DistractorLexicalEdit": "Podle Rosamundy se Drťa předtím houpal na laně.",
+        "DistractorAssociative0": "Drťa měl špinavé boty."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-19",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Dva blízcí lidé plánují oslavy a jeden z nich se snaží druhého uklidnit.",
+      "utterance": "Mluvčí A: „Myslím, že je načase, aby sis o mě přestala dělat starosti.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Podle mluvčího A si mluvčí B o něj předtím dělala starosti.",
+        "presupposition_paraphrased": "Mluvčí A se domnívá, že mluvčí B o něj měla dříve obavy.",
+        "DistractorNegation": "Podle mluvčího A si mluvčí B o něj nikdy nedělala starosti.",
+        "DistractorLexicalEdit": "Podle mluvčího A si mluvčí B předtím dělala starosti o sebe.",
+        "DistractorAssociative0": "Mluvčí B zrovna balila dárky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-20",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Kassandra a Nelil spolu mluví v zajetí o tom, co od nich jejich věznitelé budou chtít.",
+      "utterance": "Nelil: „Vědí, že to jejich hnusné syrové maso nejím. Už dávno mi ho přestali nutit.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Podle Nelila mu to syrové maso předtím nutili.",
+        "presupposition_paraphrased": "Nelil tvrdí, že ho dříve k pojídání syrového masa nutili.",
+        "DistractorNegation": "Podle Nelila mu to syrové maso nikdy nenutili.",
+        "DistractorLexicalEdit": "Podle Nelila mu předtím nutili vařené maso.",
+        "DistractorAssociative0": "Věznitelé jim občas nosili chleba."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "přestat"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-21",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "V klášteře se po napjaté události řeší chování opata Cilda.",
+      "utterance": "Mluvčí: Od toho dne, myslím, se začal chovat poněkud přemrštěně.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Opat Cild se předtím nechoval poněkud přemrštěně.",
+        "presupposition_paraphrased": "Předtím se opat Cild neprojevoval tak výstředně.",
+        "DistractorNegation": "Opat Cild se předtím choval poněkud přemrštěně.",
+        "DistractorLexicalEdit": "Opat Cild se potom nechoval poněkud přemrštěně.",
+        "DistractorAssociative0": "Opat Cild začal chodit k psychologovi."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-22",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Dva lidé se domlouvají na plánu kolem večírku a jeden z nich druhému ostře udílí pokyny.",
+      "utterance": "Mluvčí A: „Konečně jsi začal myslet.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Podle Mluvčího A Mluvčí B dřív nemyslel.",
+        "presupposition_paraphrased": "Mluvčí A se domnívá, že mluvčí B v předchozí době neuvažoval logicky.",
+        "DistractorNegation": "Podle Mluvčího A Mluvčí B dřív myslel.",
+        "DistractorLexicalEdit": "Podle Mluvčího A Mluvčí B dřív nemluvil.",
+        "DistractorAssociative0": "Mluvčí A už má připravený seznam hostů."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-23",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "V odlehlé oblasti se místní obyvatelé snaží získat výhodu na úkor cestujících a obchodníků.",
+      "utterance": "Mluvčí: Také začali olupovat cizince, vybírat poplatky za ochranu ode všech, kteří procházeli jejich územím, a drancovat výpravy obchodníků a cestovatelů.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Místní obyvatelé předtím neolupovali cizince.",
+        "presupposition_paraphrased": "Dříve místní lidé cizince neokrádali.",
+        "DistractorNegation": "Místní obyvatelé předtím olupovali cizince.",
+        "DistractorLexicalEdit": "Místní obyvatelé předtím nepouštěli cizince přes své území.",
+        "DistractorAssociative0": "Místní obyvatelé začali v noci stavět zátarasy na cestách."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-24",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "U jezera se kolem karavany postupně shromažďují lidé se zvířaty a rodinami.",
+      "utterance": "Mluvčí: Začali se objevovat Tuaregové se svými velbloudy a rodinami a stavěli kolem jezera tábor.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Tuaregové se předtím neobjevovali.",
+        "presupposition_paraphrased": "Předtím nebyli žádní Tuaregové v dohledu.",
+        "DistractorNegation": "Tuaregové se předtím objevovali.",
+        "DistractorLexicalEdit": "Tuaregové se potom neobjevovali.",
+        "DistractorAssociative0": "Karavana u jezera zůstala přes noc."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-25",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Členové výpravy provádějí měření v terénu a postupně si uvědomují problém s plánovanou trasou.",
+      "utterance": "Mluvčí: Po několika dnech začalo být Émilu Beringerovi jasné, že vádí je pro trasu Transsaharské železnice nevhodné.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Émilu Beringerovi to předtím nebylo jasné.",
+        "presupposition_paraphrased": "Émil Beringer si dříve nevhodnost trasy neuvědomoval.",
+        "DistractorNegation": "Émilu Beringerovi to předtím bylo jasné.",
+        "DistractorLexicalEdit": "Émilu Beringerovi je úplně jedno, co je s trasou.",
+        "DistractorAssociative0": "Émil Beringer si začal dělat podrobné poznámky do deníku."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-26",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Mluvčí zvažuje tvrzení, že nechuť plýtvat jakýmkoli proteinem kolonie se datuje od našich nejranějších začátků.",
+      "utterance": "Mluvčí: Začal jsem o tom pochybovat.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí dřív nepochyboval o tom, že nechuť plýtvat jakýmkoli proteinem kolonie se datuje od našich nejranějších začátků.",
+        "presupposition_paraphrased": "Mluvčí byl dříve přesvědčen, že snaha neplýtvat proteiny kolonie sahá až k jejím počátkům.",
+        "DistractorNegation": "Mluvčí dřív pochyboval, že to sahá až k počátkům kolonie.",
+        "DistractorLexicalEdit": "Mluvčí tež nepochybuje o tom, že to sahá až k počátkům kolonie.",
+        "DistractorAssociative0": "Mluvčí o tom četl ve starých záznamech kolonie."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-27",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "V rozhovoru si muž zpětně vyčítá vlastní rozhodnutí po sérii úspěchů.",
+      "utterance": "Mluvčí: Po všech úspěších jsem začal být lehkomyslný.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Podle mluvčího dřív nebyl lehkomyslný.",
+        "presupposition_paraphrased": "Mluvčí má za to, že se v minulosti choval zodpovědněji.",
+        "DistractorNegation": "Podle mluvčího dřív byl lehkomyslný.",
+        "DistractorLexicalEdit": "Podle mluvčího teď není lehkomyslný.",
+        "DistractorAssociative0": "Po úspěších se kolem něj objevili noví lidé."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-28",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Mluvčí popisuje, jak dva muži se přou o postup a jeden z nich začne mít obavy z možných následků.",
+      "utterance": "Mluvčí: Peruge začal cítit komplikace.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Peruge dřív necítil komplikace.",
+        "presupposition_paraphrased": "Peruge dřív žádné potíže nevnímal.",
+        "DistractorNegation": "Peruge dřív cítil komplikace.",
+        "DistractorLexicalEdit": "Peruge teď necítil komplikace.",
+        "DistractorAssociative0": "Peruge si nervózně mnul ruce."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-29",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Skupina přátel sleduje na obloze zvláštní světelný bod a snaží se pochopit, co to je.",
+      "utterance": "Mluvčí: Hvězda náhle klesla a konečně začala být proti vycházejícímu slunci pořádně vidět.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Hvězda dřív nebyla proti vycházejícímu slunci pořádně vidět.",
+        "presupposition_paraphrased": "Předtím nebylo možné hvězdu na ranní obloze jasně rozeznat.",
+        "DistractorNegation": "Hvězda dřív byla proti vycházejícímu slunci pořádně vidět.",
+        "DistractorLexicalEdit": "Satelit dřív nebyl proti vycházejícímu slunci pořádně vidět.",
+        "DistractorAssociative0": "Jeden z přátel si myslel, že je to letadlo."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-30",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Skupina sedláků se ocitne v nebezpečné situaci, když se k nim blíží cizí postavy.",
+      "utterance": "Muži začali být nervózní, zvlášť když se blížil i neznámý čaroděj a obrovští vlci.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Podle mluvčího muži dřív nebyli nervózní.",
+        "presupposition_paraphrased": "Mluvčí se domnívá, že dotyční muži byli předtím v klidu.",
+        "DistractorNegation": "Podle mluvčího muži dřív byli nervózní.",
+        "DistractorLexicalEdit": "Podle mluvčího muži teď nebyli nervózní.",
+        "DistractorAssociative0": "Sedláci se drželi pohromadě."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-31",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Mluvčí vysvětluje, že se ve škole rozhodlo používat střední rod a jak na to reagoval učitel češtiny.",
+      "utterance": "Mluvčí: Učitel to začal akceptovat v testech i domácích úkolech, což bylo velmi milé.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Učitel to dřív neakceptoval v testech ani domácích úkolech.",
+        "presupposition_paraphrased": "Dříve učitel tuto praxi neschvaloval.",
+        "DistractorNegation": "Učitel to dřív akceptoval v testech i domácích úkolech.",
+        "DistractorLexicalEdit": "Učitel to teď neakceptoval v testech ani domácích úkolech.",
+        "DistractorAssociative0": "Učitel si kvůli tomu koupil novou učebnici češtiny."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-32",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Dva mladí lidé se snaží vyhnout konfliktu doma a postupně volí taktiku, která jim to má usnadnit.",
+      "utterance": "Mluvčí: Od té doby jsme s Toničkou začali lhát.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí a Tonička dřív nelhali.",
+        "presupposition_paraphrased": "Mluvčí s Toničkou v dřívější době mluvili pravdu.",
+        "DistractorNegation": "Mluvčí a Tonička dřív lhali.",
+        "DistractorLexicalEdit": "Mluvčí a Tonička od té doby nelhali.",
+        "DistractorAssociative0": "Tonička si začala psát poznámky do diáře."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-33",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Mluvčí vysvětluje, že ho lidé často oslovují hlavně kvůli práci na kriminálkách.",
+      "utterance": "Mluvčí: Trochu mi to začalo vadit, a proto producentům a televizím nabízím vlastní náměty.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Podle mluvčího mu to, že ho lidé oslovují hlavně kvůli kriminálkám, dřív nevadilo.",
+        "presupposition_paraphrased": "Podle mluvčího mu to, že ho lidé oslovují hlavně kvůli kriminálkám, dřív nevadilo.",
+        "DistractorNegation": "Podle mluvčího mu to, že ho lidé oslovují hlavně kvůli kriminálkám, dřív vadilo.",
+        "DistractorLexicalEdit": "Podle mluvčího mu to teď nevadí, že ho lidé oslovují hlavně kvůli kriminálkám.",
+        "DistractorAssociative0": "Mluvčí dostával nabídky hlavně od menších televizí."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-34",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Vědec vysvětluje, jak se výzkum částic posunul k náročnějším experimentům.",
+      "utterance": "Vědec: Proto se začaly stavět urychlovače.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Urychlovače se dřív nestavěly.",
+        "presupposition_paraphrased": "V minulosti k výstavbě urychlovačů nedocházelo.",
+        "DistractorNegation": "Urychlovače se dřív stavěly.",
+        "DistractorLexicalEdit": "Urychlovače se teď nestaví.",
+        "DistractorAssociative0": "Výzkum se přesouval do velkých mezinárodních týmů."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-35",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Odborník kritizuje personální vývoj ve veřejném zdravotnictví a popisuje, jak se změnily nároky na zaměstnance.",
+      "utterance": "Na mnoho míst začali být dokonce přijímáni pracovníci bez zdravotnického vzdělání.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Pracovníci bez zdravotnického vzdělání dřív nebyli na mnoho míst přijímáni.",
+        "presupposition_paraphrased": "Dříve se nestávalo, že by se na mnoho míst dostali lidé bez zdravotnické kvalifikace.",
+        "DistractorNegation": "Pracovníci bez zdravotnického vzdělání dřív byli na mnoho míst přijímáni.",
+        "DistractorLexicalEdit": "Pracovníci bez zdravotnického vzdělání teď nebyli na mnoho míst přijímáni.",
+        "DistractorAssociative0": "Úřednická zkouška trvala několik hodin."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-36",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Mluvčí popisuje, jak ékařka podala pacientovi sedativa.",
+      "utterance": "Mluvčí: Ten si toho všiml a začal být agresivní a vzpouzet se.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Pacient dřív nebyl agresivní a nevzpouzel se.",
+        "presupposition_paraphrased": "Před touto událostí se pacient nechoval útočně ani nekladl odpor.",
+        "DistractorNegation": "Pacient dřív byl agresivní a vzpouzel se.",
+        "DistractorLexicalEdit": "Pacient teď nebyl agresivní a nevzpouzel se.",
+        "DistractorAssociative0": "Lékařka zavolala posily."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-37",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Investor chystá nový projekt na místě bývalých budov v blízkosti vlakového nádraží.",
+      "utterance": "Mluvčí: Už tam investor začal odstraňovat původní objekty.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Investor tam dřív neodstraňoval původní objekty.",
+        "presupposition_paraphrased": "Investor tam dřív neodstraňoval původní objekty.",
+        "DistractorNegation": "Investor tam už dřív odstraňoval původní objekty.",
+        "DistractorLexicalEdit": "Investor tam dřív neodstraňoval původní objekty na stavbě silnice.",
+        "DistractorAssociative0": "Projekt počítal s výstavbou bytů."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-38",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Tvůrci seriálu vysvětlují, jak přišli na námět a s kým ho pak konzultovali.",
+      "utterance": "Mluvčí: A tak jsme začali přemýšlet o tématu kyberšikany.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí a ostatní dřív nepřemýšleli o tématu kyberšikany.",
+        "presupposition_paraphrased": "Do té chvíle mluvčí se svými kolegy nepřemýšleli o tématu kyberšikany.",
+        "DistractorNegation": "Mluvčí a ostatní už od začátku přemýšleli o tématu kyberšikany.",
+        "DistractorLexicalEdit": "Mluvčí a ostatní dřív nepřemýšleli o tématu reklamních kampaní.",
+        "DistractorAssociative0": "Námět konzultovali s odborníky na školy."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-39",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Mluvčí popisuje, jak se mu postupně zhoršoval zdravotní stav a přidávaly se nové příznaky.",
+      "utterance": "Mluvčí: V ten moment jsem si začal uvědomovat, že mám COVID.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí si dřív neuvědomoval, že má COVID.",
+        "presupposition_paraphrased": "Mluvčí do té chvíle nevěděl, že je nakažen covidem.",
+        "DistractorNegation": "Mluvčí si už dřív uvědomoval, že má COVID.",
+        "DistractorLexicalEdit": "Mluvčí si teď neuvědomuje, že má COVID.",
+        "DistractorAssociative0": "Mluvčí si udělal test."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-40",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Bartoš vysvětluje, jak se změnil jejich přístup k úpravám aut pro lidi na vozíku.",
+      "utterance": "Bartoš: My jsme ale začali stavět univerzální automobily.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Bartoš a ostatní dřív nestavěli univerzální automobily.",
+        "presupposition_paraphrased": "Bartoš a ostatní dřív nestavěli univerzální automobily.",
+        "DistractorNegation": "Bartoš a ostatní už dávno staví univerzální automobily.",
+        "DistractorLexicalEdit": "Bartoš a ostatní teď nestaví univerzální automobily.",
+        "DistractorAssociative0": "Auta upravovali hlavně pro jednu konkrétní značku."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query"
+      },
+      "meta_special": {
+        "trigger": "začít"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-41",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Svědek líčí, jak se skupina zachovala v kritické situaci.",
+      "utterance": "Svědek: Celá tlupa odešla z tábora, aniž by se s umírající ženou alespoň rozloučili.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Celá tlupa byla předtím v táboře.",
+        "presupposition_paraphrased": "Před svým odchodem se celá skupina nacházela v táboře.",
+        "DistractorNegation": "Celá tlupa předtím v táboře nikdy nebyla.",
+        "DistractorLexicalEdit": "Celá tlupa byla předtím v lese.",
+        "DistractorAssociative0": "Všichni měli na zádech batohy."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-42",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Sestra popisuje setkání s holčičkou po večerní modlitbě.",
+      "utterance": "Sestra: Počkala si na mě, když jsem vycházela z kostela.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí byla předtím v kostele.",
+        "presupposition_paraphrased": "Mluvčí se před chvílí nacházela uvnitř kostelní budovy.",
+        "DistractorNegation": "Mluvčí předtím v kostele nikdy nebyla.",
+        "DistractorLexicalEdit": "Mluvčí byla předtím na faře.",
+        "DistractorAssociative0": "Holčička měla na sobě bílý šátek."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-43",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Král chce zůstay s poslem o samotě.",
+      "utterance": "Král dal pokyn a všichni jeho služebníci odešli z místnosti.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Všichni služebníci krále byli předtím v místnosti.",
+        "presupposition_paraphrased": "Všichni královi sloužící se dříve nacházeli v tomto sále.",
+        "DistractorNegation": "Všichni služebníci krále předtím v místnosti nikdy nebyli.",
+        "DistractorLexicalEdit": "Všichni služebníci krále byli předtím na chodbě.",
+        "DistractorAssociative0": "Posel držel v ruce zapečetěný list."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-44",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Vypravěč popisuje přesun Lewise na základě doporučení ministra války.",
+      "utterance": "Vypravěč: S osobním doporučením ministra války Henryho Derborna odjel z Washingtonu do Harper’s Ferry s federálním skladištěm zbraní a velkým arzenálem.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Lewis byl předtím ve Washingtonu.",
+        "presupposition_paraphrased": "Lewis se před svou cestou nacházel ve Washingtonu.",
+        "DistractorNegation": "Lewis předtím ve Washingtonu nikdy nebyl.",
+        "DistractorLexicalEdit": "Lewis byl předtím v New Yorku.",
+        "DistractorAssociative0": "Cestou se zastavil na přenocování."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-45",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Vypravěč vzpomíná na okamžik, kdy po jízdní zkoušce vyrazil na koni do krajiny.",
+      "utterance": "Vypravěč: Vzpřímený a pyšný jsem vyjel ze dvora na svém spolehlivém oři.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí byl předtím na dvoře.",
+        "presupposition_paraphrased": "Mluvčí se v předchozím okamžiku vyskytoval na dvoře.",
+        "DistractorNegation": "Mluvčí předtím na dvoře nikdy nebyl.",
+        "DistractorLexicalEdit": "Mluvčí byl předtím ve stáji.",
+        "DistractorAssociative0": "Oř se neklidně ošíval."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-46",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Vypravěč stručně líčí, jak se mu změnil život a jakou si našel práci.",
+      "utterance": "Vypravěč: Když jsem odešel z armády, našel jsem si také práci, velice dobrou práci jako novinář.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí byl předtím v armádě.",
+        "presupposition_paraphrased": "Vypravěč dříve sloužil v armádních složkách.",
+        "DistractorNegation": "Mluvčí předtím v armádě nikdy nesloužil.",
+        "DistractorLexicalEdit": "Mluvčí byl předtím u námořnictva.",
+        "DistractorAssociative0": "Práci získal díky doporučení."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-47",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Svědek popisuje paniku na lodi, když někdo náhle vyběhl ven a začal křičet.",
+      "utterance": "Svědek: Jednoho dne vyběhl ze záchoda Kevin McClory (pomocník štábu, pozdější filmový producent) s vytřeštěnýma očima a kalhotami u kotníků a křičel: „Černá mamba! Černá mamba!“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Kevin McClory byl předtím na záchodě.",
+        "presupposition_paraphrased": "Kevin McClory se předtím nacházel v prostorách toalet.",
+        "DistractorNegation": "Kevin McClory předtím na záchodě nikdy nebyl.",
+        "DistractorLexicalEdit": "Kevin McClory byl předtím v kuchyni.",
+        "DistractorAssociative0": "Členové štábu se na chvíli zarazili."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": "tento den?"
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-48",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Vypravěč popisuje, jak Mahnken v naléhavé situaci vyrazil pro pomoc.",
+      "utterance": "Vypravěč: Mahnken vyběhl ze školy přímo k ženě, která pracovala jako zdravotní sestra.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mahnken byl předtím ve škole.",
+        "presupposition_paraphrased": "Mahnken se před svým vyběhnutím nacházel v budově školy.",
+        "DistractorNegation": "Mahnken předtím ve škole nikdy nebyl.",
+        "DistractorLexicalEdit": "Mahnken byl předtím v nemocnici.",
+        "DistractorAssociative0": "Zdravotní sestra si zrovna myla ruce."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-49",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Vypravěč líčí začátek expedice flotily pod Morardovým velením.",
+      "utterance": "Vypravěč: Na moře se flotila pod Morardovým velením vydala z Brestu v srpnu.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Flotila pod Morardovým velením byla předtím v Brestu.",
+        "presupposition_paraphrased": "Morardovo loďstvo se před vyplutím na moře zdržovalo v Brestu.",
+        "DistractorNegation": "Flotila pod Morardovým velením předtím v Brestu nikdy nebyla.",
+        "DistractorLexicalEdit": "Flotila pod Morardovým velením byla předtím v Toulonu.",
+        "DistractorAssociative0": "Vyplutí doprovázely slavnostní salvy."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-50",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Vypravěč líčí začátek plavby lodi Roma.",
+      "utterance": "Vypravěč: Roma vyplula z Jakarty za rozbřesku.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Roma byla předtím v Jakartě.",
+        "presupposition_paraphrased": "Plavidlo Roma kotvilo před svým vyplutím v Jakartě.",
+        "DistractorNegation": "Roma předtím v Jakartě nebyla.",
+        "DistractorLexicalEdit": "Roma byla předtím v Surabaji.",
+        "DistractorAssociative0": "Na palubě voněla čerstvá káva."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-51",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "V rozhovoru mluvčí vysvětluje, proč se po rodinných změnách rozhodl vrátit domů.",
+      "utterance": "Mluvčí: Dcera odešla z Itálie do Anglie, já se rozvedl, a tak jsem usoudil, že je načase se vrátit.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Dcera mluvčího byla předtím v Itálii.",
+        "presupposition_paraphrased": "Mluvčího dcera v předchozím období žila v Itálii.",
+        "DistractorNegation": "Dcera mluvčího předtím v Itálii nikdy nebyla.",
+        "DistractorLexicalEdit": "Dcera mluvčího byla předtím ve Francii.",
+        "DistractorAssociative0": "Dcera si v Anglii našla novou práci."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-52",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "V policejní zprávě se popisuje zásah u ozbrojeného muže po vyjednávání.",
+      "utterance": "Autor: Muž nakonec zbraně odložil a vyšel z bytu ven.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Muž byl předtím v bytě.",
+        "presupposition_paraphrased": "Dotyčný muž se předtím nacházel uvnitř bytu.",
+        "DistractorNegation": "Muž předtím v bytě nikdy nebyl.",
+        "DistractorLexicalEdit": "Muž byl předtím ve sklepě.",
+        "DistractorAssociative0": "Po vyjednávání působil viditelně unaveně."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-53",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "V tiskovém sdělení městské policie se popisuje zásah u podezřelého jednání na veřejném místě.",
+      "utterance": "Jiřina Ernestová: „Dotyčný na výzvu vyšel z toalety a po prokázání totožnosti strážnici uvedl, že toaletu ucpal větším množstvím bankovek, které se snažil spláchnout, když na nich objevil červenou barvu,“ líčila Jiřina Ernestová z tiskového oddělení městské policie.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Dotyčný byl předtím v toaletě.",
+        "presupposition_paraphrased": "Podezřelý se v předchozím okamžiku nacházel v prostorách WC.",
+        "DistractorNegation": "Dotyčný předtím na toaletě nikdy nebyl.",
+        "DistractorLexicalEdit": "Dotyčný byl předtím v kabince převlékárny.",
+        "DistractorAssociative0": "Na místě byla i uklízečka."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-54",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Žena popisuje průběh nemoci a situaci v nejbližší rodině.",
+      "utterance": "Její manžel a děti odešli z testů s negativním výsledkem.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Manžel a děti té ženy byli předtím na testech.",
+        "presupposition_paraphrased": "Rodina dotyčné ženy v předchozí chvíli absolvovala testy.",
+        "DistractorNegation": "Manžel a děti té ženy předtím na testech nikdy nebyli.",
+        "DistractorLexicalEdit": "Manžel a děti té ženy byli předtím na očkování.",
+        "DistractorAssociative0": "Výsledky dostali do několika minut."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-55",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Ve sportovní zprávě se připomíná velký přestup známého fotbalisty.",
+      "utterance": "Novinář: Když v létě 2018 odešel z Realu Madrid do Juventusu Cristiano Ronaldo, považovalo se to zpětně za oboustrannou chybu, portugalský kanonýr nenaplnil očekávání a ambice.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Cristiano Ronaldo byl předtím v Realu Madrid.",
+        "presupposition_paraphrased": "Cristiano Ronaldo v minulosti hájil barvy Realu Madrid.",
+        "DistractorNegation": "Cristiano Ronaldo předtím v Realu Madrid nikdy nepůsobil.",
+        "DistractorLexicalEdit": "Cristiano Ronaldo byl předtím v Manchesteru United.",
+        "DistractorAssociative0": "Juventus mu nabídnul mimořádně vysoký plat."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": "common knowledge"
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-56",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Vypravěč popisuje tajnou operaci spojenou s předáním důležitého materiálu domácímu odboji.",
+      "utterance": "Vypravěč: Spojení Prahy s Londýnem tehdy viselo prakticky na jediné vysílačce, a proto v noci odletěl z Anglie letoun s kurýrem, který by předal domácímu odboji další vysílačku s krystaly a příslušenstvím, nový šifrovací klíč a také poselství ministra národní obrany exilové vlády generála Sergěje Ingra.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Letoun byl předtím v Anglii.",
+        "presupposition_paraphrased": "Letoun se předtím nacházel na území Anglie.",
+        "DistractorNegation": "Letoun předtím v Anglii nikdy nebyl.",
+        "DistractorLexicalEdit": "Letoun byl předtím v Portugalsku.",
+        "DistractorAssociative0": "Kurýr měl u sebe zapečetěné pouzdro."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": "revise"
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-57",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Po skončení závodu se účastníci chystají na slavnostní vyhlášení.",
+      "utterance": "Autor: Žokej Jakub Kocman vyběhl z vážnice na slavnostní vyhlášení Velké pardubické.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Žokej Jakub Kocman byl předtím ve vážnici.",
+        "presupposition_paraphrased": "Jakub Kocman se předtím zdržoval v prostorách vážnice.",
+        "DistractorNegation": "Žokej Jakub Kocman předtím ve vážnici nikdy nebyl.",
+        "DistractorLexicalEdit": "Žokej Jakub Kocman byl předtím v Praze.",
+        "DistractorAssociative0": "Na vyhlášení čekali novináři."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": "common knowledge"
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-58",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Novinář představuje kariérní změnu veřejně známého ekonoma po odchodu z vysoké funkce.",
+      "utterance": "Novinář: Bývalý viceguvernér Tomáš Nidetzký před rokem odešel z vedení České národní banky a po povinné přestávce před ním nyní stojí nová výzva.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Tomáš Nidetzký byl předtím ve vedení České národní banky.",
+        "presupposition_paraphrased": "Tomáš Nidetzký v minulosti zastával funkci v čele České národní banky.",
+        "DistractorNegation": "Tomáš Nidetzký předtím ve vedení České národní banky nikdy nepůsobil.",
+        "DistractorLexicalEdit": "Tomáš Nidetzký byl předtím ve vedení ministerstva financí.",
+        "DistractorAssociative0": "Nidetzký se zaměřil na poradenství."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": "common knowledge"
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-59",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Zástupce armády popisuje zahájení mise, která má pomoci s dopravou humanitární pomoci.",
+      "utterance": "Autor: V noci na neděli vyplula od břehů USA nákladní loď americké armády General Frank S. Besson.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Nákladní loď americké armády General Frank S. Besson byla předtím u břehů USA.",
+        "presupposition_paraphrased": "Americké nákladní plavidlo General Frank S. Besson dříve kotvilo u pobřeží Spojených států.",
+        "DistractorNegation": "Nákladní loď americké armády General Frank S. Besson předtím u břehů USA nikdy nebyla.",
+        "DistractorLexicalEdit": "Nákladní loď americké armády General Frank S. Besson byla předtím u břehů Kanady.",
+        "DistractorAssociative0": "Na palubě byla početná posádka."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": "common knowledge"
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    },
+    {
+      "id": "presupposition-change-of-state-60",
+      "phenomenon": "presupposition",
+      "category": "change-of-state",
+      "context": "Vypravěč líčí dramatickou situaci ve městě, když lidé v panice reagují na nečekanou událost.",
+      "utterance": "Vypravěč: Maminka vyšla z domu nás hledat: a chvíli hleděla na ten zoufalý dav a potom sama se dala do pláče.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Maminka mluvčího byla předtím v domě.",
+        "presupposition_paraphrased": "Vypravěčova matka se v předchozím okamžiku nacházela uvnitř domu.",
+        "DistractorNegation": "Maminka mluvčího předtím v domě nikdy nebyla.",
+        "DistractorLexicalEdit": "Maminka mluvčího byla předtím v obchodě.",
+        "DistractorAssociative0": "Maminka měla na sobě zástěru."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "departure"
+      }
+    }
+  ]

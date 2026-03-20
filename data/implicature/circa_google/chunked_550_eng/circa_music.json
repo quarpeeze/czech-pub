@@ -1,0 +1,277 @@
+[
+  {
+    "id": 34,
+    "question_X": "Do you like jazz music?",
+    "answer_Y": "I think I should have been born in the Jazz Age."
+  },
+  {
+    "id": 65,
+    "question_X": "Have you heard Taylor Swift's new song?",
+    "answer_Y": "I listened to it yesterday."
+  },
+  {
+    "id": 88,
+    "question_X": "Have you been to a concert this month?",
+    "answer_Y": "I went to one last night."
+  },
+  {
+    "id": 156,
+    "question_X": "Would you want to go to see Garth Brooks tomorrow?",
+    "answer_Y": "that would bencie"
+  },
+  {
+    "id": 158,
+    "question_X": "Do you still play guitar?",
+    "answer_Y": "I ended up selling my guitar to pay for textbooks."
+  },
+  {
+    "id": 170,
+    "question_X": "Do you like heavier music?",
+    "answer_Y": "I am not a fan"
+  },
+  {
+    "id": 182,
+    "question_X": "Are you a fan of pop music?",
+    "answer_Y": "I definitely am"
+  },
+  {
+    "id": 199,
+    "question_X": "Do you listen to Country music?",
+    "answer_Y": "Not at all."
+  },
+  {
+    "id": 206,
+    "question_X": "Do you listen to classical music?",
+    "answer_Y": "I'm not a fan"
+  },
+  {
+    "id": 230,
+    "question_X": "Can it have a heavy bass?",
+    "answer_Y": "I love the thud thud of music."
+  },
+  {
+    "id": 251,
+    "question_X": "Have you heard about the new outdoor music festival?",
+    "answer_Y": "I haven't heard a thing"
+  },
+  {
+    "id": 268,
+    "question_X": "Did you listen to the new Taylor Swift album?",
+    "answer_Y": "I'm not a fan of her"
+  },
+  {
+    "id": 269,
+    "question_X": "Do you have any formal musical training?",
+    "answer_Y": "I went to London College of Music."
+  },
+  {
+    "id": 270,
+    "question_X": "Did you hear about that popular band  coming to town?",
+    "answer_Y": "I haven't seen anything."
+  },
+  {
+    "id": 300,
+    "question_X": "Is live music something you enjoy?",
+    "answer_Y": "I love concerts."
+  },
+  {
+    "id": 321,
+    "question_X": "Do you like reggaeton music?",
+    "answer_Y": "It gives me a headache."
+  },
+  {
+    "id": 343,
+    "question_X": "Have you ever been to a rock concert?",
+    "answer_Y": "I go to one once a week."
+  },
+  {
+    "id": 354,
+    "question_X": "Have you gone to a concert recently?",
+    "answer_Y": "I think the last one was around 5 years ago."
+  },
+  {
+    "id": 358,
+    "question_X": "Have you been to a concert recently?",
+    "answer_Y": "Laurie Anderson was fantastic."
+  },
+  {
+    "id": 435,
+    "question_X": "Are you into EDM?",
+    "answer_Y": "It's not my favorite."
+  },
+  {
+    "id": 448,
+    "question_X": "Were you young when you first went to a concert?",
+    "answer_Y": "I went to Rick Springfield when I was 12."
+  },
+  {
+    "id": 482,
+    "question_X": "Are you into dancing?",
+    "answer_Y": "I love to dance"
+  },
+  {
+    "id": 497,
+    "question_X": "Do you like blues?",
+    "answer_Y": "I find blues relaxing."
+  },
+  {
+    "id": 506,
+    "question_X": "Does rock interest you at all?",
+    "answer_Y": "Rock is all I listen to!"
+  },
+  {
+    "id": 515,
+    "question_X": "Do you go to concerts a lot?",
+    "answer_Y": "I've never been to one."
+  },
+  {
+    "id": 517,
+    "question_X": "You like high pitch songs?",
+    "answer_Y": "They irritate me."
+  },
+  {
+    "id": 523,
+    "question_X": "Have you been to South America?",
+    "answer_Y": "We went to Brazil last year."
+  },
+  {
+    "id": 526,
+    "question_X": "Are you into going to festivals?",
+    "answer_Y": "Festivals are too crowded for me."
+  },
+  {
+    "id": 533,
+    "question_X": "Have you ever been to a live rock gig?",
+    "answer_Y": "I went to a Taylor Swift concert once."
+  },
+  {
+    "id": 545,
+    "question_X": "Have you been to the reggae fest here?",
+    "answer_Y": "I've been a couple of times."
+  },
+  {
+    "id": 568,
+    "question_X": "Are you into jazz?",
+    "answer_Y": "I'm not not into jazz music."
+  },
+  {
+    "id": 574,
+    "question_X": "Do you have a favourite instrument?",
+    "answer_Y": "I love the drums."
+  },
+  {
+    "id": 581,
+    "question_X": "Have you been to an orchestra concert?",
+    "answer_Y": "I haven't yet"
+  },
+  {
+    "id": 583,
+    "question_X": "Do you play any musical instruments?",
+    "answer_Y": "I play many"
+  },
+  {
+    "id": 584,
+    "question_X": "Do you listen to music when you work out?",
+    "answer_Y": "I can;t workout without music."
+  },
+  {
+    "id": 626,
+    "question_X": "Would you go to a metal show?",
+    "answer_Y": "I think the energy at a metal show would be crazy cool."
+  },
+  {
+    "id": 654,
+    "question_X": "Have you been to ACL Festival?",
+    "answer_Y": "I plan to go for the first time this year."
+  },
+  {
+    "id": 660,
+    "question_X": "Do you like pop music?",
+    "answer_Y": "I especially enjoyed Taylor Swift's new album."
+  },
+  {
+    "id": 676,
+    "question_X": "Have you heard the new Drake album yet?",
+    "answer_Y": "I haven't heard it yet"
+  },
+  {
+    "id": 679,
+    "question_X": "Do you sing at karaoke bars?",
+    "answer_Y": "No one will get me to sing in front of a crowd."
+  },
+  {
+    "id": 704,
+    "question_X": "Are you a fan of Hip Hop?",
+    "answer_Y": "I really dislike it."
+  },
+  {
+    "id": 707,
+    "question_X": "Would you like to go to a classical concert?",
+    "answer_Y": "I think i would"
+  },
+  {
+    "id": 743,
+    "question_X": "Are you into Gwen Stefani's music?",
+    "answer_Y": "I haven't listened to her."
+  },
+  {
+    "id": 795,
+    "question_X": "Have you played an instrument before?",
+    "answer_Y": "I played the flute in school."
+  },
+  {
+    "id": 796,
+    "question_X": "Can you sing?",
+    "answer_Y": "I can't carry a tune."
+  },
+  {
+    "id": 800,
+    "question_X": "Did you dance at the event?",
+    "answer_Y": "I couldn't stop, the music was hot."
+  },
+  {
+    "id": 818,
+    "question_X": "Do you like Rnb?",
+    "answer_Y": "I prefer something more uptempo."
+  },
+  {
+    "id": 824,
+    "question_X": "Have you ever seen a live band play?",
+    "answer_Y": "I have a while ago"
+  },
+  {
+    "id": 839,
+    "question_X": "Do you have a favorite singer?",
+    "answer_Y": "I like all sorts of artists."
+  },
+  {
+    "id": 857,
+    "question_X": "Have you been to the 360 amphitheater?",
+    "answer_Y": "Several times, actually."
+  },
+  {
+    "id": 866,
+    "question_X": "Do you want to listen to screamo?",
+    "answer_Y": "I'd prefer not."
+  },
+  {
+    "id": 885,
+    "question_X": "Do you like French cuisine?",
+    "answer_Y": "It's a little fancy for my taste."
+  },
+  {
+    "id": 904,
+    "question_X": "Have you ever been to a live rock gig?",
+    "answer_Y": "I go to a rock gig at least once a month."
+  },
+  {
+    "id": 909,
+    "question_X": "Have you gone to any good concerts lately?",
+    "answer_Y": "I can't say I have."
+  },
+  {
+    "id": 979,
+    "question_X": "Are you into Rock and Roll?",
+    "answer_Y": "I listen to it each weekend."
+  }
+]

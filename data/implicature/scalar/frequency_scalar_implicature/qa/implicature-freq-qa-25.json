@@ -1,0 +1,577 @@
+[
+    {
+      "id": "implicature-scalar-freq-qa-1",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Mluvčí B vysvětluje své netradiční metody poznávání lidí skrze jejich osobní věci.",
+      "utterance": "A: „To se vždycky díváte lidem do odpadků?“ B: „No, někdy.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že se mluvčí B vždycky dívá lidem do odpadků.",
+        "implicature_paraphrased": "Mluvčí B se lidem do odpadků nedívá pokaždé.",
+        "DistractorNegation": "Mluvčí B se lidem do odpadků dívá vždycky.",
+        "DistractorLexicalEdit": "Mluvčí B si občas prohlíží cizí poštovní schránky.",
+        "DistractorAssociative0": "Odpadky často prozradí něco o zvycích domácnosti."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-2",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Rozhovor o vnitřním rozpoložení a prožívání pocitů štěstí mezi mluvčím A a mluvčím B.",
+      "utterance": "A: „Jsi vždycky šťastná?“ B: „Někdy ano.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že je mluvčí B vždycky šťastná.",
+        "implicature_paraphrased": "Mluvčí B není šťastná pořád.",
+        "DistractorNegation": "Mluvčí B je vždycky šťastná.",
+        "DistractorLexicalEdit": "Mluvčí B bývá někdy unavená po práci.",
+        "DistractorAssociative0": "Pocity štěstí se během dne mohou rychle měnit."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-3",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Mluvčí A se vyptává mluvčího B na jeho každodenní aktivity při hraní.",
+      "utterance": "A: „To si vždycky hraješ sama?“ B: „Někdy.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že si mluvčí B vždycky hraje sama.",
+        "implicature_paraphrased": "Mluvčí B si nehraje sama pokaždé.",
+        "DistractorNegation": "Mluvčí B si vždycky hraje sama.",
+        "DistractorLexicalEdit": "Mluvčí B si někdy hraje venku na zahradě.",
+        "DistractorAssociative0": "Děti si často střídají samostatnou hru a společnost ostatních."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-4",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Rozhovor mezi mluvčím A a mluvčím B ohledně jeho chování na společenském setkání.",
+      "utterance": "A: „To jste vždy takový?“ B: „Někdy.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že je mluvčí B vždy takový.",
+        "implicature_paraphrased": "Mluvčí B takový není vždycky.",
+        "DistractorNegation": "Mluvčí B je vždy takový.",
+        "DistractorLexicalEdit": "Mluvčí B bývá na společenských setkáních formálně oblečený.",
+        "DistractorAssociative0": "Na večírcích lidé často působí jinak než doma."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-5",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Diskuze o docházce a pravidelnosti fungování amatérského sportovního týmu, jehož členy jsou mluvčí A a mluvčí B.",
+      "utterance": "A: „Vždy hrajete spolu?“ B: „Někdy. A někdy je nás deset, někdy čtyřicet.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že mluvčí B vždy hrají spolu.",
+        "implicature_paraphrased": "Nehrají spolu pokaždé.",
+        "DistractorNegation": "Mluvčí B vždy hrají spolu.",
+        "DistractorLexicalEdit": "Tým se někdy rozdělí do menších skupin.",
+        "DistractorAssociative0": "Počet hráčů se u amatérských týmů často mění."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-6",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Mluvčí A se na policejní stanici informuje u mluvčího B o úspěšnosti pátrání po ukradeném majetku.",
+      "utterance": "A: „Najdete ukradená auta vždycky?“ B: „Někdy.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že mluvčí B vždycky najdou ukradená auta.",
+        "implicature_paraphrased": "Mluvčí B nenajdou ukradená auta pokaždé.",
+        "DistractorNegation": "Mluvčí B vždycky najdou ukradená auta.",
+        "DistractorLexicalEdit": "Mluvčí B často najdou opuštěná jízdní kola.",
+        "DistractorAssociative0": "Pátrání po ukradených autech bývá časově náročné."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-7",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Diskuze mluvčího A a mluvčího B o profesním přístupu a zvládání různých rolí v pracovním prostředí.",
+      "utterance": "A: „Vždycky?“ B: „Někdy ano.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že je mluvčí B vždycky přísný.",
+        "implicature_paraphrased": "Mluvčí B není vždycky přísný.",
+        "DistractorNegation": "Mluvčí B je vždycky přísný.",
+        "DistractorLexicalEdit": "Mluvčí B bývá při poradách hodně stručný.",
+        "DistractorAssociative0": "V práci lidé často střídají přísnost a vstřícnost."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-8",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Mluvčí A a mluvčí B jsou v napjaté situaci a komentují chování a vtipkování třetí osoby.",
+      "utterance": "A: „To je vždycky tak vtipná?“ B: „Někdy.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že je dotyčná osoba vždycky tak vtipná.",
+        "implicature_paraphrased": "Dotyčná osoba není vždycky tak vtipná.",
+        "DistractorNegation": "Dotyčná osoba je vždycky tak vtipná.",
+        "DistractorLexicalEdit": "Dotyčná osoba umí dobře napodobovat známé herce.",
+        "DistractorAssociative0": "Na společenských akcích lidé často přehánějí své historky."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-9",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Mluvčí A a mluvčí B na společenské akci rozebírají výstřelky známé osobnosti.",
+      "utterance": "A: „Je vždy takový?“ B: „No, někdy jo.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že je sledovaná osobnost vždy taková.",
+        "implicature_paraphrased": "Sledovaná osobnost není vždycky taková.",
+        "DistractorNegation": "Sledovaná osobnost je vždy taková.",
+        "DistractorLexicalEdit": "Sledovaná osobnost bývá na veřejnosti velmi hlučná.",
+        "DistractorAssociative0": "Známé osobnosti se v různých situacích chovají odlišně."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-10",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Rozhovor mluvčího A a mluvčího B o povaze a tichém vystupování jejich kolegy.",
+      "utterance": "A: „Je vždycky takhle tichý?“ B: „Někdy.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že je sledovaná osoba vždycky takhle tichá.",
+        "implicature_paraphrased": "Sledovaná osoba nebývá vždycky takhle tichá.",
+        "DistractorNegation": "Sledovaná osoba je vždycky takhle tichá.",
+        "DistractorLexicalEdit": "Sledovaná osoba mluví nahlas jen mezi blízkými přáteli.",
+        "DistractorAssociative0": "Tichí lidé někdy působí uzavřeněji, než ve skutečnosti jsou."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-11",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Mluvčí A a mluvčí B se baví o atmosféře a bizarních situacích v nemocničním prostředí.",
+      "utterance": "A: „Je v nemocnici vždycky taková sranda?“ B: „Někdy.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že je v nemocnici vždycky taková sranda.",
+        "implicature_paraphrased": "V nemocnici nebývá taková sranda pořád.",
+        "DistractorNegation": "V nemocnici je vždycky taková sranda.",
+        "DistractorLexicalEdit": "V nemocnici se občas slaví narozeniny pacientů.",
+        "DistractorAssociative0": "Nemocniční prostředí může na různé lidi působit různě."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-12",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Prudká hádka mezi mluvčím A a mluvčím B o jejich vzájemném chování a ubližování druhým.",
+      "utterance": "A: „Vždycky lidem ubližuješ?“ B: „Občas se to stane.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že mluvčí B vždycky lidem ubližuje.",
+        "implicature_paraphrased": "Mluvčí B lidem neubližuje pokaždé.",
+        "DistractorNegation": "Mluvčí B vždycky lidem ubližuje.",
+        "DistractorLexicalEdit": "Mluvčí B někdy rozbije věci ve vzteku.",
+        "DistractorAssociative0": "V hádkách lidé často řeknou víc, než chtějí."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-13",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Mluvčí A a mluvčí B na moři rozebírají nebezpečí a strach spojený s jejich prací.",
+      "utterance": "A: „Vždycky je to takovýhle?“ B: „Někdy.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že je to vždycky takovéhle.",
+        "implicature_paraphrased": "Není to vždycky takovéhle.",
+        "DistractorNegation": "Je to vždycky takovéhle.",
+        "DistractorLexicalEdit": "Práce na moři bývá někdy klidná a rutinní.",
+        "DistractorAssociative0": "Podmínky na moři se mohou rychle změnit."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-14",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Mluvčí B předvádí rodině kouzelnické triky a vtipkuje s mluvčím A o ukrytých předmětech.",
+      "utterance": "A: „Vždycky nosíte peníze v nose?“ B: „Občas.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že mluvčí B vždycky nosí peníze v nose.",
+        "implicature_paraphrased": "Mluvčí B nenosí peníze v nose pokaždé.",
+        "DistractorNegation": "Mluvčí B vždycky nosí peníze v nose.",
+        "DistractorLexicalEdit": "Mluvčí B občas schovává drobné v rukávu.",
+        "DistractorAssociative0": "Kouzelníci rádi ukrývají malé předměty na nečekaných místech."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-15",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Nečekané setkání mluvčího A a mluvčího B a hodnocení aktuálního stylu oblékání.",
+      "utterance": "A: „Vždycky chodíš takhle oblečená?“ B: „Někdy.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že mluvčí B vždycky chodí takhle oblečená.",
+        "implicature_paraphrased": "Mluvčí B nechodí vždycky takhle oblečená.",
+        "DistractorNegation": "Mluvčí B vždycky chodí takhle oblečená.",
+        "DistractorLexicalEdit": "Mluvčí B si někdy bere formálnější kabát.",
+        "DistractorAssociative0": "Lidé si oblečení obvykle volí podle příležitosti."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-16",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Mluvčí A a mluvčí B se dohadují o typickém způsobu vyjadřování mluvčího B.",
+      "utterance": "A: „Bože, vždycky musíš omílat ty svoje žvásty?“ B: „Občas ano.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že mluvčí B vždycky musí omílat své žvásty.",
+        "implicature_paraphrased": "Mluvčí B své žvásty neomílá pořád.",
+        "DistractorNegation": "Mluvčí B vždycky musí omílat své žvásty.",
+        "DistractorLexicalEdit": "Mluvčí B někdy mluví o úplně jiných věcech.",
+        "DistractorAssociative0": "V hádkách se staré výčitky často vracejí."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-17",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Mluvčí B u dveří bytu vysvětluje mluvčí A své strategie při seznamování.",
+      "utterance": "A: „Zkoušíš to vždycky?“ B: „No, někdy.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že mluvčí B to zkouší vždycky.",
+        "implicature_paraphrased": "Mluvčí B to nezkouší pokaždé.",
+        "DistractorNegation": "Mluvčí B to zkouší vždycky.",
+        "DistractorLexicalEdit": "Mluvčí B občas mění taktiku podle situace.",
+        "DistractorAssociative0": "Seznamování bývá plné pokusů a omylů."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-18",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Mluvčí A se po pohřbu své příbuzné ptá mluvčího B na jeho přístup k pacientům a projev soucitu.",
+      "utterance": "A: „Vždy chodíte na pohřby svých pacientů?“ B: „Někdy ano.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že mluvčí B vždy chodí na pohřby svých pacientů.",
+        "implicature_paraphrased": "Mluvčí B nechodí na pohřby svých pacientů pokaždé.",
+        "DistractorNegation": "Mluvčí B vždy chodí na pohřby svých pacientů.",
+        "DistractorLexicalEdit": "Mluvčí B někdy posílá pozůstalým jen dopis.",
+        "DistractorAssociative0": "Lékaři si k pacientům vytvářejí různě silný vztah."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-19",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Mluvčí B vysvětluje své obvyklé trasy při cestování do kanceláře.",
+      "utterance": "A: „Vždy jezdíte do kanceláře ze západu?“ B: „Tak, občas.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že mluvčí B vždy jezdí do kanceláře ze západu.",
+        "implicature_paraphrased": "Mluvčí B nejezdí do kanceláře vždycky ze západu.",
+        "DistractorNegation": "Mluvčí B vždy jezdí do kanceláře ze západu.",
+        "DistractorLexicalEdit": "Mluvčí B někdy jezdí do kanceláře přes centrum.",
+        "DistractorAssociative0": "Cesta do práce často závisí na dopravě a počasí."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-20",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Mluvčí A a mluvčí B v parku hodnotí kvalitu jídla a život bez domova.",
+      "utterance": "A: „Vždycky tak dobré jídlo?“ B: „No jo, někdy jo.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že je tam jídlo vždycky tak dobré.",
+        "implicature_paraphrased": "Jídlo tam není vždycky tak dobré.",
+        "DistractorNegation": "Je tam jídlo vždycky tak dobré.",
+        "DistractorLexicalEdit": "Tam někdy podávají jen studené občerstvení.",
+        "DistractorAssociative0": "Kvalita jídla se může měnit podle kuchaře."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-21",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Mluvčí A vyslýchá mluvčí B v rámci pátrání po zmizelé osobě.",
+      "utterance": "A: „Vždycky jdete spát, když ho jde vyvenčit?“ B: „Někdy jo.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že mluvčí B jde vždycky spát, když ho jde dotyčný vyvenčit.",
+        "implicature_paraphrased": "Mluvčí B nejde spát pokaždé, když ho jde dotyčný vyvenčit.",
+        "DistractorNegation": "Mluvčí B jde vždycky spát, když ho jde dotyčný vyvenčit.",
+        "DistractorLexicalEdit": "Mluvčí B někdy zůstane vzhůru a čeká na jeho návrat.",
+        "DistractorAssociative0": "Péče o zvíře často naruší večerní režim."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-22",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Rozhovor u mytí nádobí o tom, jak často mluvčí B pomáhá s domácími pracemi.",
+      "utterance": "A: „Takhle pomáháš vždycky?“ B: „Někdy.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že mluvčí B pomáhá vždycky.",
+        "implicature_paraphrased": "Mluvčí B takhle nepomáhá pokaždé.",
+        "DistractorNegation": "Mluvčí B takhle pomáhá vždycky.",
+        "DistractorLexicalEdit": "Mluvčí B občas pomáhá jen s nádobím.",
+        "DistractorAssociative0": "Domácí práce se mezi lidi obvykle dělí nerovnoměrně."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-23",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Mluvčí B a mluvčí A spolu tráví večer a mluvčí A si všimne zbraně mluvčího B.",
+      "utterance": "A: „To chodíte na rande vždycky ozbrojený?“ B: „Občas.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že mluvčí B chodí na rande vždycky ozbrojený.",
+        "implicature_paraphrased": "Mluvčí B nechodí na rande vždycky ozbrojený.",
+        "DistractorNegation": "Mluvčí B chodí na rande vždycky ozbrojený.",
+        "DistractorLexicalEdit": "Mluvčí B nosí na schůzky někdy kožené rukavice.",
+        "DistractorAssociative0": "Na schůzky si lidé berou věci, které jim dodávají jistotu."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-24",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Mluvčí A a mluvčí B vedou časně ráno v baru konverzaci o svých zvycích a kladení otázek.",
+      "utterance": "B: „Vždycky máš tolik otázek?“ A: „Někdy.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že mluvčí A má vždycky tolik otázek.",
+        "implicature_paraphrased": "Mluvčí A nemá vždycky tolik otázek.",
+        "DistractorNegation": "Mluvčí A má vždycky tolik otázek.",
+        "DistractorLexicalEdit": "Mluvčí A někdy jen mlčky poslouchá.",
+        "DistractorAssociative0": "Po ránu bývají lidé zvědavější nebo podrážděnější."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-qa-25",
+      "phenomenon": "implicature",
+      "category": "scalar-freq",
+      "context": "Mluvčí A se setkává s mluvčím B a komentuje volbu obuvi.",
+      "utterance": "A: „Vždy nosíte podpatky?“ B: „Někdy.“",
+      "question": "",
+      "options": {
+        "implicature_true": "Neplatí, že mluvčí B vždy nosí podpatky.",
+        "implicature_paraphrased": "Mluvčí B nenosí vždycky podpatky.",
+        "DistractorNegation": "Mluvčí B vždy nosí podpatky.",
+        "DistractorLexicalEdit": "Mluvčí B si někdy bere tenisky.",
+        "DistractorAssociative0": "Výběr bot často závisí na programu dne."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "qa",
+        "note": "additional"
+      },
+      "meta_special": {
+        "subtype": "qa"
+      }
+    }
+  ]

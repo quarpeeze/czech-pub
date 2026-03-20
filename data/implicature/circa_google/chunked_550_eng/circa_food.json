@@ -1,0 +1,277 @@
+[
+  {
+    "id": 1,
+    "question_X": "Are you a fan of Korean food?",
+    "answer_Y": "I wouldn't say so"
+  },
+  {
+    "id": 6,
+    "question_X": "Do you enjoy foreign cuisine?",
+    "answer_Y": "I like many cuisines."
+  },
+  {
+    "id": 9,
+    "question_X": "Have you had pizza recently",
+    "answer_Y": "My husband ordered some last night."
+  },
+  {
+    "id": 15,
+    "question_X": "Do you like beer with your Pizza?",
+    "answer_Y": "That is very gross."
+  },
+  {
+    "id": 27,
+    "question_X": "Have you got an allergy to nuts?",
+    "answer_Y": "I'm not allergic to anything."
+  },
+  {
+    "id": 32,
+    "question_X": "Are you still on a Paleo diet?",
+    "answer_Y": "I have started on the Keto diet."
+  },
+  {
+    "id": 68,
+    "question_X": "Do you eat seafood?",
+    "answer_Y": "I love catching my own fish and cooking it."
+  },
+  {
+    "id": 71,
+    "question_X": "Would you prefer a locally owned restaurant?",
+    "answer_Y": "I never really dine at restaurant chains."
+  },
+  {
+    "id": 82,
+    "question_X": "Are you on a budget?",
+    "answer_Y": "I would be at the minute"
+  },
+  {
+    "id": 87,
+    "question_X": "Hey since the weather has gotten colder did you want to grab some potato soup?",
+    "answer_Y": "that would be good"
+  },
+  {
+    "id": 100,
+    "question_X": "did you enjoy the sushi bar?",
+    "answer_Y": "I want to eat there more often."
+  },
+  {
+    "id": 111,
+    "question_X": "Do you like buffets?",
+    "answer_Y": "I always want all-you-can-eat."
+  },
+  {
+    "id": 138,
+    "question_X": "Do you like vegan food?",
+    "answer_Y": "I always feel good about plant based."
+  },
+  {
+    "id": 151,
+    "question_X": "Do you mind seafood?",
+    "answer_Y": "I'm in the mood for crab legs."
+  },
+  {
+    "id": 154,
+    "question_X": "Do you like eating fast food?",
+    "answer_Y": "I do not eat fast food."
+  },
+  {
+    "id": 259,
+    "question_X": "Are you into trying new foods?",
+    "answer_Y": "I love trying new cuisines."
+  },
+  {
+    "id": 305,
+    "question_X": "Do you like ethnic food?",
+    "answer_Y": "I like anything from another country."
+  },
+  {
+    "id": 312,
+    "question_X": "Have you eaten Oven Fired Pizza?",
+    "answer_Y": "I had some when I visited New York."
+  },
+  {
+    "id": 325,
+    "question_X": "Do you enjoy eating spicy food?",
+    "answer_Y": "It upsets my stomach."
+  },
+  {
+    "id": 327,
+    "question_X": "Have you ever had allergies to food?",
+    "answer_Y": "I only have allergies to bee stings."
+  },
+  {
+    "id": 342,
+    "question_X": "Do you like to eat spicy food ?",
+    "answer_Y": "I'd prefer not to"
+  },
+  {
+    "id": 353,
+    "question_X": "Do you want a place close to home?",
+    "answer_Y": "I don't want to go out."
+  },
+  {
+    "id": 398,
+    "question_X": "Would you eat fish?",
+    "answer_Y": "I'm a vegetarian."
+  },
+  {
+    "id": 411,
+    "question_X": "Do you have a high budget?",
+    "answer_Y": "I'm trying to cut back on my spending."
+  },
+  {
+    "id": 414,
+    "question_X": "Are you in the mood for ramen?",
+    "answer_Y": "I'd rather have hotpot."
+  },
+  {
+    "id": 488,
+    "question_X": "Do you spend a lot on food?",
+    "answer_Y": "We do eat out a lot."
+  },
+  {
+    "id": 496,
+    "question_X": "Do you like rice?",
+    "answer_Y": "I eat rice with nearly every meal!"
+  },
+  {
+    "id": 500,
+    "question_X": "Do you drink alcohol?",
+    "answer_Y": "I do love a glass of beer."
+  },
+  {
+    "id": 505,
+    "question_X": "Have you tried the new Thai restaurant at the Galleria?",
+    "answer_Y": "I visited it last night."
+  },
+  {
+    "id": 511,
+    "question_X": "Does Italian food appeal to you?",
+    "answer_Y": "Lasagna's my favorite food."
+  },
+  {
+    "id": 520,
+    "question_X": "Do you like family style restaurants?",
+    "answer_Y": "Family restaurants have the best food."
+  },
+  {
+    "id": 521,
+    "question_X": "Do you want to go grab a Brooklyn style pizza?",
+    "answer_Y": "that would be good"
+  },
+  {
+    "id": 529,
+    "question_X": "Are you okay with spicy food?",
+    "answer_Y": "I'd rather not eat spicy food."
+  },
+  {
+    "id": 607,
+    "question_X": "Are you a fan of foreign food?",
+    "answer_Y": "I can't think of any I haven't enjoyed."
+  },
+  {
+    "id": 620,
+    "question_X": "Are you a vegetarian ?",
+    "answer_Y": "That's laughable."
+  },
+  {
+    "id": 632,
+    "question_X": "Can you eat any type of food?",
+    "answer_Y": "I am a pescatarian."
+  },
+  {
+    "id": 651,
+    "question_X": "Do you spend a lot on food?",
+    "answer_Y": "With four kids I do."
+  },
+  {
+    "id": 657,
+    "question_X": "Are you allergic to garlic?",
+    "answer_Y": "I'm only allergic to wheat."
+  },
+  {
+    "id": 669,
+    "question_X": "Are you lactose intolerant",
+    "answer_Y": "I can eat anything,"
+  },
+  {
+    "id": 708,
+    "question_X": "Do you like red meat?",
+    "answer_Y": "I only eat white meat."
+  },
+  {
+    "id": 709,
+    "question_X": "Do you have kids?",
+    "answer_Y": "I just have the one"
+  },
+  {
+    "id": 764,
+    "question_X": "Do you often eat out in restaurants?",
+    "answer_Y": "I try to get out once a week."
+  },
+  {
+    "id": 788,
+    "question_X": "Did you enjoy the all you can eat food variety we had last week?",
+    "answer_Y": "It was great!"
+  },
+  {
+    "id": 792,
+    "question_X": "Are you into spicy foods?",
+    "answer_Y": "I have never been able to tolerate hot dishes."
+  },
+  {
+    "id": 801,
+    "question_X": "Have you ever try Mexican food?",
+    "answer_Y": "Several times."
+  },
+  {
+    "id": 802,
+    "question_X": "Are you into trying a mom and pop burger place near me?",
+    "answer_Y": "I'd prefer something a little less casual."
+  },
+  {
+    "id": 819,
+    "question_X": "Are you eating on a budget?",
+    "answer_Y": "I'm trying to cut back on how much I spend eating out."
+  },
+  {
+    "id": 836,
+    "question_X": "Do you like biryani?",
+    "answer_Y": "I don't eat rice."
+  },
+  {
+    "id": 852,
+    "question_X": "Do you like fish?",
+    "answer_Y": "I'm allergic to fish."
+  },
+  {
+    "id": 871,
+    "question_X": "Do you like fish?",
+    "answer_Y": "I'm a pescatarian."
+  },
+  {
+    "id": 880,
+    "question_X": "Before we go any further I have to know, do you like lasagna?",
+    "answer_Y": "I make lasagna all the time."
+  },
+  {
+    "id": 883,
+    "question_X": "Do you eat meat?",
+    "answer_Y": "I am a hunter."
+  },
+  {
+    "id": 896,
+    "question_X": "Are you eating on a budget?",
+    "answer_Y": "We're trying to."
+  },
+  {
+    "id": 913,
+    "question_X": "Do you like Italian food?",
+    "answer_Y": "It is my favourite"
+  },
+  {
+    "id": 932,
+    "question_X": "Have you tried Asian food before?",
+    "answer_Y": "I went to a Japanese steakhouse last week."
+  }
+]

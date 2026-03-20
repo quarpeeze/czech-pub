@@ -1,0 +1,1502 @@
+[
+    {
+      "id": "presupposition-accusative-1",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "V rozhovoru vyšetřovatel vysvětluje šlechtici pozadí sporu kolem hraběte de Peyrac.",
+      "utterance": "Desgrez: „Je skutečně pravda, že jako první hraběte de Peyrac obvinil z čarodějnictví toulouský arcibiskup.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Toulouský arcibiskup považuje čarodějnictví za nepřijatelné.",
+        "presupposition_paraphrased": "Toulouský arcibiskup považuje čarodějnictví za nepřijatelné.",
+        "DistractorNegation": "Toulouský arcibiskup nepovažuje čarodějnictví za nic špatného.",
+        "DistractorLexicalEdit": "Toulouský arcibiskup považuje alchymii za nepřijatelnou.",
+        "DistractorAssociative0": "Hrabě de Peyrac byl ve své době velmi bohatým a vlivným šlechticem."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-2",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluvčí popisuje událost z minulosti a zvláštní následky, které to pro ni mělo.",
+      "utterance": "Mluvčí: „Jeden z našich konfidentů mě obvinil z vynášení informací a zaklel mě, abych mluvila všemi řečmi najednou.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Jeden z jejich konfidentů považuje vynášení informací za nepřijatelné.",
+        "presupposition_paraphrased": "Jeden z jejich konfidentů považuje vynášení informací za špatné.",
+        "DistractorNegation": "Jeden z jejich konfidentů považuje vynášení informací za zcela přijatelné jednání.",
+        "DistractorLexicalEdit": "Jeden z jejich konfidentů považuje krádež majetku za nepřijatelnou.",
+        "DistractorAssociative0": "Mluvčí po tomto incidentu začala mluvit několika cizími jazyky současně."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-3",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Vyprávění popisuje rodinné napětí a starý konflikt mezi dvěma muži.",
+      "utterance": "Mluvčí: Elliott ho obvinil, že okrádal Jonathana, který byl snadnou kořistí.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Elliott považuje okrádání Jonathana za nepřijatelné.",
+        "presupposition_paraphrased": "Elliott považuje okrádání Jonathana za nepřijatelné.",
+        "DistractorNegation": "Elliott nepovažuje okrádání Jonathana za morálně problematické.",
+        "DistractorLexicalEdit": "Elliott považuje urážení Jonathana za nepřijatelné.",
+        "DistractorAssociative0": "Jonathan byl v rodině známý svou přílišnou důvěřivostí vůči cizím lidem."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-4",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Muž po komplimentu znejistí a vybaví si dřívější výtku od slečny Doveové.",
+      "utterance": "Mluvčí: Za odměnu spatřil, jak její obličej okamžitě mění výraz, a vzpomněl si, že ho obviňovala z neupřímnosti.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Slečna Doveová považuje neupřímnost za nepřijatelnou.",
+        "presupposition_paraphrased": "Slečna Doveová má za to, že neupřímnost je špatná.",
+        "DistractorNegation": "Slečna Doveová považuje neupřímnost za užitečnou a přijatelnou vlastnost.",
+        "DistractorLexicalEdit": "Slečna Doveová považuje lenost za nepřijatelnou.",
+        "DistractorAssociative0": "Slečna Doveová se v té chvíli na mluvčího jen mlčky a zklamaně dívala."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-5",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Laurence vzpomíná na rozhovor o problémech v pluku a o tom, koho kdo hodnotil.",
+      "utterance": "Mluvčí: Laurence si vzpomněl, že Byers obvinil z nezkušenosti Brabournea samotného.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Byers považuje Brabourneovu nezkušenost za nepřijatelnou.",
+        "presupposition_paraphrased": "Byers považuje Brabourneovu nezkušenost za nepřijatelnou.",
+        "DistractorNegation": "Byers nepovažuje Brabourneovu nezkušenost za žádnou překážku nebo chybu.",
+        "DistractorLexicalEdit": "Byers považuje Brabourneovu aroganci za nepřijatelnou.",
+        "DistractorAssociative0": "Brabourne sloužil u pluku teprve několik měsíců a teprve se zaučoval."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-6",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Pikulski vysvětluje biskupovi, co se děje v jedné vesnici a proč se na ně obracejí.",
+      "utterance": "Pikulski: „Ve vesnici Lanckoruň talmudisté ztloukli své heretiky, obvinili je z adamitství a uvalili na ně klatbu.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Talmudisté považují adamitství za nepřijatelné.",
+        "presupposition_paraphrased": "Talmudisté mají za to, že adamitství je nepřijatelné.",
+        "DistractorNegation": "Talmudisté považují adamitství za naprosto legitimní a správný směr.",
+        "DistractorLexicalEdit": "Talmudisté považují tělesnou práci za nepřijatelnou.",
+        "DistractorAssociative0": "Vesnice Lanckoruň byla v té době centrem mnoha náboženských nepokojů."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-7",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Vyprávění popisuje aféru na škole a spor mezi učitelem a studentkou.",
+      "utterance": "Mluvčí: Obvinil však Klaudii ze lhaní – tvrdil, že to ona se ho pokoušela svést a on ji odmítl.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Učitel považuje lhaní za nepřijatelné.",
+        "presupposition_paraphrased": "Učitel považuje lhaní za nepřijatelné.",
+        "DistractorNegation": "Učitel nepovažuje lhaní za nic, co by bylo potřeba kritizovat nebo trestat.",
+        "DistractorLexicalEdit": "Učitel považuje hloupost za nepřijatelnou.",
+        "DistractorAssociative0": "Klaudie byla jednou z nejlepších studentek v celém maturitním ročníku."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-8",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Okeoma líčí incident na silnici, kdy ho zastavil strážný.",
+      "utterance": "Okeoma: „Předevčírem jsem si vyšel v civilních šatech ven a na silnici mě zastavil strážný a obvinil mě z dezerce.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Strážný považuje dezerci za nepřijatelnou.",
+        "presupposition_paraphrased": "Strážný má za to, že dezerce je nepřijatelná.",
+        "DistractorNegation": "Strážný považuje dezerci za pochopitelné a zcela přijatelné rozhodnutí vojáka.",
+        "DistractorLexicalEdit": "Strážný považuje krádež za nepřijatelnou.",
+        "DistractorAssociative0": "Strážný měl na sobě starou uniformu a v ruce držel nabitou pušku."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-9",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Vyprávění popisuje reakci lidí v Mosfilmu na předložený scénář.",
+      "utterance": "Mluvčí: V Mosfilmu scénář ztrhali, obvinili z neaktuálnosti – „ze zpátečnictví, návratu k měšťácké romanci a neplodného parazitismu“.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Osoby z Mosfilmu, které zmiňuje mluvčí, považují neaktuálnost, zpátečnictví, návrat k měšťácké romanci a neplodný parazitismus za nepřijatelné.",
+        "presupposition_paraphrased": "Osoby z Mosfilmu, které zmiňuje mluvčí, považují neaktuálnost, zpátečnictví, návrat k měšťácké romanci a neplodný parazitismus za nepřijatelné.",
+        "DistractorNegation": "Osoby z Mosfilmu považují zpátečnictví a měšťáckou romanci za ideální umělecké směry.",
+        "DistractorLexicalEdit": "Osoby z Mosfilmu považují přílišnou brutalitu scénáře za nepřijatelnou.",
+        "DistractorAssociative0": "Scénář byl autorem přepracováván několikrát, ale v Mosfilmu opět neuspěl."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-10",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluvčí popisuje spor s Janem Čulíkem o veřejný text a jeho interpretaci.",
+      "utterance": "Mluvčí: Obvinil mě z levičáctví a svoji odpověď zakončil větou: „Tak nevím – asi máte mít právo vyjadřovat své scestné názory, udělejme k tomu diskusi.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Jan Čulík považuje levičáctví za nepřijatelné.",
+        "presupposition_paraphrased": "Jan Čulík si myslí, že levičáctví je špatné.",
+        "DistractorNegation": "Jan Čulík považuje levičáctví za naprosto správný a přijatelný politický postoj.",
+        "DistractorLexicalEdit": "Jan Čulík považuje rasismus za nepřijatelný.",
+        "DistractorAssociative0": "Diskuse o textu pak pokračovala na internetových stránkách po několik dní."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-11",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Řeší se diplomatické spory mezi Běloruskem a Litvou.",
+      "utterance": "Mluvčí: Horní komora parlamentu obvinila Litvu z porušení mezinárodního práva kvůli uznání Svjatlany Cichanouské jako lídryně.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Horní komora parlamentu považuje porušení mezinárodního práva za nepřijatelné.",
+        "presupposition_paraphrased": "Horní komora parlamentu považuje porušení mezinárodního práva za nepřijatelné.",
+        "DistractorNegation": "Horní komora parlamentu nepovažuje porušení mezinárodního práva za žádný problém.",
+        "DistractorLexicalEdit": "Horní komora parlamentu považuje rozpoutání války za nepřijatelné.",
+        "DistractorAssociative0": "Litva byla jednou z prvních zemí, které oficiálně uznaly opoziční lídryni."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-12",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "V kauze kolem městských bytů se popisuje postup vyšetřování.",
+      "utterance": "Mluvčí: Policistu Machalu Generální inspekce bezpečnostních sborů (GIBS) letos na jaře obvinila z pokusu kauzu zmanipulovat.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Generální inspekce bezpečnostních sborů považuje pokus kauzu zmanipulovat za nepřijatelný.",
+        "presupposition_paraphrased": "Generální inspekce bezpečnostních sborů má za to, že pokus zmanipulovat kauzu je nepřijatelný.",
+        "DistractorNegation": "Generální inspekce bezpečnostních sborů považuje manipulaci kauz za běžnou a přijatelnou praxi.",
+        "DistractorLexicalEdit": "Generální inspekce bezpečnostních sborů považuje nečinnost policie za nepřijatelnou.",
+        "DistractorAssociative0": "Policista Machala u sboru sloužil přes dvacet let a dříve neměl žádné kázeňské problémy."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-13",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Bulharsko řeší případ dvou ruských diplomatů.",
+      "utterance": "Mluvčí: Stalo se tak poté, co je prokurátoři obvinili ze špionáže.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Prokurátoři považují špionáž za nepřijatelnou.",
+        "presupposition_paraphrased": "Prokurátoři považují špionáž za nepřijatelnou.",
+        "DistractorNegation": "Prokurátoři považují špionáž za zcela legitimní a přijatelný způsob práce diplomatů.",
+        "DistractorLexicalEdit": "Prokurátoři považují pašování za nepřijatelné.",
+        "DistractorAssociative0": "Ruská strana na obvinění svých diplomatů reagovala okamžitým oficiálním protestem."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-14",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Policie zasahovala v obchodě a prověřuje roli několika osob v nastalé situaci.",
+      "utterance": "Mluvčí: 29letou ženu obvinila policie z loupeže, 27letého muže z ublížení na zdraví a výtržnictví a 37letého muže z výtržnictví.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Policie považuje loupež za nepřijatelnou.",
+        "presupposition_paraphrased": "Policie považuje loupež za nepřijatelnou.",
+        "DistractorNegation": "Policie nepovažuje loupež za nic, co by bylo v rozporu se zákonem nebo nepřijatelné.",
+        "DistractorLexicalEdit": "Policie považuje šikanu ve školách za nepřijatelnou.",
+        "DistractorAssociative0": "K incidentu došlo v nákupním centru těsně před jeho zavírací dobou."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-15",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "V Náchodě se řeší vztahy mezi vedením nemocnice a místním zastupitelem Janem Birkem.",
+      "utterance": "Mluvčí: Obvinil je z bossingu a šikany podřízených kvůli přijetí daru.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Starosta Jan Birke považuje bossing a šikanu podřízených za nepřijatelné.",
+        "presupposition_paraphrased": "Starosta Jan Birke považuje bossing a šikanu podřízených za nepřijatelné.",
+        "DistractorNegation": "Starosta Jan Birke považuje bossing a šikanu podřízených za zcela normální styl vedení.",
+        "DistractorLexicalEdit": "Starosta Jan Birke považuje špatné hospodaření za nepřijatelné.",
+        "DistractorAssociative0": "Vedení nemocnice veškerá obvinění starosty odmítlo jako naprosto nepodložená."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-16",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluvčí se věnuje situaci v soukromém životě tenisty Zvereva.",
+      "utterance": "Mluvčí: V akci Zvereva obvinila jeho bývalá přítelkyně z týrání.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Zverevova bývalá přítelkyně považuje týrání za nepřijatelné.",
+        "presupposition_paraphrased": "Zverevova bývalá přítelkyně má za to, že týrání je nepřijatelné.",
+        "DistractorNegation": "Zverevova bývalá přítelkyně nepovažuje týrání za nic, co by bylo morálně nepřijatelné.",
+        "DistractorLexicalEdit": "Zverevova bývalá přítelkyně považuje nevěru za nepřijatelnou.",
+        "DistractorAssociative0": "Tenista Zverev se v té době připravoval na důležitý turnaj v Londýně."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-17",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Představitelé EU hodnotí aktuální postoj Turecka v otázce migrace.",
+      "utterance": "Mluvčí: Brusel obvinil zemi půlměsíce z vydírání.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Brusel považuje vydírání za nepřijatelné.",
+        "presupposition_paraphrased": "Brusel považuje vydírání za nepřijatelné.",
+        "DistractorNegation": "Brusel nepovažuje vydírání v mezinárodní politice za nic špatného nebo nepřípustného.",
+        "DistractorLexicalEdit": "Brusel považuje korupci za nepřijatelnou.",
+        "DistractorAssociative0": "Vztahy mezi Evropskou unií a Tureckem byly v posledních měsících velmi napjaté."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-18",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "V debatě o datech k epidemii se mluvčí dostal do sporu s ministrem zdravotnictví.",
+      "utterance": "Mluvčí: …pan ministr nás obvinil z rozšiřování poplašných zpráv.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Pan ministr považuje rozšiřování poplašných zpráv za nepřijatelné.",
+        "presupposition_paraphrased": "Pan ministr považuje rozšiřování poplašných zpráv za nepřijatelné.",
+        "DistractorNegation": "Pan ministr považuje rozšiřování poplašných zpráv za prospěšnou a přijatelnou věc.",
+        "DistractorLexicalEdit": "Pan ministr považuje únik tajných informací za nepřijatelný.",
+        "DistractorAssociative0": "Spor mezi mluvčím a ministrem sledovala média v přímém přenosu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-19",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Po rozhovoru v americké televizi se rozběhla kritika britské královské rodiny.",
+      "utterance": "Mluvčí: Meghan v rozhovoru obvinila britskou královskou rodinu z rasismu …",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Meghan považuje rasismus za nepřijatelný.",
+        "presupposition_paraphrased": "Meghan považuje rasismus za nepřijatelný.",
+        "DistractorNegation": "Meghan nepovažuje projevy rasismu za něco morálně nepřípustného nebo špatného.",
+        "DistractorLexicalEdit": "Meghan považuje lakomství za nepřijatelné.",
+        "DistractorAssociative0": "Rozhovor s Oprah Winfreyovou vyvolal vlnu emocí po celém světě."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-20",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Po útoku na Kapitol zazněla v Kongresu ostrá obvinění vůči Trumpovi.",
+      "utterance": "Mluvčí: Liz Cheneyová ve včerejší řeči obvinila z násilností Trumpa.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Liz Cheneyová považuje násilnosti za nepřijatelné.",
+        "presupposition_paraphrased": "Liz Cheneyová má za to, že násilnosti jsou nepřijatelné.",
+        "DistractorNegation": "Liz Cheneyová nepovažuje násilnosti v politickém boji za nic nepřijatelného.",
+        "DistractorLexicalEdit": "Liz Cheneyová považuje aroganci za nepřijatelnou.",
+        "DistractorAssociative0": "Liz Cheneyová patří k nejvýraznějším republikánským kritičkám bývalého prezidenta."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-21",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "V prostředí náboženských sporů se vyostřuje konflikt mezi různými proudy.",
+      "utterance": "Mluvčí: Přes útoky tradicionalistů, kteří v Násirově Egyptě na přelomu padesátých a šedesátých let Šaltúta obvinili ze zrady autentického islámu a vytváření nepřípustných inovací, i přes horoucí peklo, které mu v téže době slibovali Muslimští bratří, tehdy vesměs zavření do pouštních internačních táborů, se Šaltút pustil do revize dosavadních výkladů, ačkoli riskoval výtky",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Tradicionalisté považovali zradu autentického islámu a vytváření nepřípustných inovací za nepřijatelné.",
+        "presupposition_paraphrased": "Tradicionalisté považovali zradu autentického islámu a vytváření nepřípustných inovací za nepřijatelné.",
+        "DistractorNegation": "Tradicionalisté považovali zradu autentického islámu a inovace za velmi žádoucí.",
+        "DistractorLexicalEdit": "Tradicionalisté považovali gramotnost žen za nepřijatelnou.",
+        "DistractorAssociative0": "Egypt v té době procházel obdobím hlubokých společenských a politických reforem."
+      },
+      "meta_general": {
+        "corpus": "SYN2020",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-22",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "V komunitě panuje strach a lidé hledají viníka neštěstí.",
+      "utterance": "Mluvčí: Rodinný pastor obvinil devítiletého chlapce z čarodějnictví, a tak mu otec nalil do krku kyselinu, aby z něj ďábla vyhnal.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Rodinný pastor považoval čarodějnictví za nepřijatelné.",
+        "presupposition_paraphrased": "Rodinný pastor považoval čarodějnictví za nepřijatelné.",
+        "DistractorNegation": "Rodinný pastor považoval čarodějnictví za zcela neškodnou a přijatelnou věc.",
+        "DistractorLexicalEdit": "Rodinný pastor považoval neposlušnost za nepřijatelnou.",
+        "DistractorAssociative0": "Tento tragický incident vyvolal v místní komunitě obrovskou vlnu zděšení."
+      },
+      "meta_general": {
+        "corpus": "SYN2020",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-23",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluvčí popisuje Hamanovo veřejné vystoupení v prostředí tehdejší Persie.",
+      "utterance": "Mluvčí: Proto ve své řeči pokračoval a obvinil Židy ze vzpurnosti.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Haman považoval vzpurnost Židů za nepřijatelnou.",
+        "presupposition_paraphrased": "Haman považoval vzpurnost Židů za nepřijatelnou.",
+        "DistractorNegation": "Haman považoval vzpurnost Židů za naprosto legitimní projev jejich vůle.",
+        "DistractorLexicalEdit": "Haman považoval chudobu Židů za nepřijatelnou.",
+        "DistractorAssociative0": "Hamanova řeč byla pronesena před shromážděným lidem na hlavním náměstí."
+      },
+      "meta_general": {
+        "corpus": "SYN2020",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-24",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "V popisu politického soupeření se objevuje hodnotící napadení osobní motivace vládce.",
+      "utterance": "Mluvčí: Jeho nepřítel Kilič Arslan z Konye ho obviňoval z přetvářky, třebaže mohl těžko zpochybnit jeho úzkostlivé dodržování náboženských povinností.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Kilič Arslan považoval přetvářku vládce za nepřijatelnou.",
+        "presupposition_paraphrased": "Kilič Arslan považoval přetvářku vládce za nepřijatelnou.",
+        "DistractorNegation": "Kilič Arslan považoval přetvářku vládce za velmi chytrou a přijatelnou politiku.",
+        "DistractorLexicalEdit": "Kilič Arslan považoval krutost vládce za nepřijatelnou.",
+        "DistractorAssociative0": "Kilič Arslan usiloval o oslabení vlivu svého soupeře všemi dostupnými prostředky."
+      },
+      "meta_general": {
+        "corpus": "SYN2020",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-25",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "V rámci vnitřního sporu se jedna frakce ostře vymezuje vůči jinému aktérovi.",
+      "utterance": "Mluvčí: Rozhodnutí však nebylo jednomyslné a vůdce núrovců se vrátil se svými vojáky do Damašku, kde obvinil Saladina ze zrady a prospěchářství.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Vůdce núrovců považoval zradu a prospěchářství za nepřijatelné.",
+        "presupposition_paraphrased": "Vůdce núrovců považoval zradu a prospěchářství za nepřijatelné.",
+        "DistractorNegation": "Vůdce núrovců nepovažoval zradu ani prospěchářství za žádné morální pochybení.",
+        "DistractorLexicalEdit": "Vůdce núrovců považoval lenost za nepřijatelnou.",
+        "DistractorAssociative0": "Saladin se v té době snažil sjednotit různé muslimské frakce pod své vedení."
+      },
+      "meta_general": {
+        "corpus": "SYN2020",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-26",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "V politickém vyjednávání se hledá odpovědnost za zhoršení vztahů.",
+      "utterance": "Mluvčí: Sultán, obležený na svém hradě, obvinil z rozdmýchání nepřátelství svého syna a dovolil Němcům, aby se zásobili čerstvými potravinami a soumary za tržní ceny.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Sultán považoval rozdmýchání nepřátelství za nepřijatelné.",
+        "presupposition_paraphrased": "Sultán považoval rozdmýchání nepřátelství za nepřijatelné.",
+        "DistractorNegation": "Sultán považoval rozdmýchání nepřátelství ze strany svého syna za správný krok.",
+        "DistractorLexicalEdit": "Sultán považoval plýtvání zásobami za nepřijatelné.",
+        "DistractorAssociative0": "Obležení hradu trvalo několik týdnů a zásoby potravin se rychle tenčily."
+      },
+      "meta_general": {
+        "corpus": "SYN2020",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-27",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluvčí popisuje Zolův článek.",
+      "utterance": "Mluvčí: Romanopisec Émile Zola zareagoval na Esterhazyho propuštění svým bouřlivým článkem „J’Accuse!“ uveřejněným v Clemenceauvě listu L’Aurore, v němž armádu a ministerstvo války obvinil ze zavádění veřejnosti a překrucování spravedlnosti.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Émile Zola považoval zavádění veřejnosti a překrucování spravedlnosti za nepřijatelné.",
+        "presupposition_paraphrased": "Émile Zola považoval zavádění veřejnosti a překrucování spravedlnosti za nepřijatelné.",
+        "DistractorNegation": "Émile Zola nepovažoval zavádění veřejnosti armádou za nic morálně problematického.",
+        "DistractorLexicalEdit": "Émile Zola považoval neschopnost generálů za nepřijatelnou.",
+        "DistractorAssociative0": "Článek vyvolal v tehdejší francouzské společnosti obrovský skandál a politickou krizi."
+      },
+      "meta_general": {
+        "corpus": "SYN2020",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-28",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "V líčení vojenského tažení se objevuje kritika povahy velení.",
+      "utterance": "Mluvčí: Generál, kterého Maxmilián Bavorský, jemuž se tolikerá opatrnost příčila, později obvinil z ustrašenosti, si ve skutečnosti získal v průběhu posledních bojů flanderské války solidní pověst ztřeštěného odvážlivce.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Maxmilián Bavorský považoval ustrašenost generála za nepřijatelnou.",
+        "presupposition_paraphrased": "Maxmilián Bavorský považoval ustrašenost generála za nepřijatelnou.",
+        "DistractorNegation": "Maxmilián Bavorský nepovažoval ustrašenost u svých generálů za žádnou chybu.",
+        "DistractorLexicalEdit": "Maxmilián Bavorský považoval lakomství generála za nepřijatelné.",
+        "DistractorAssociative0": "Flanderská válka byla sérií vleklých a velmi vyčerpávajících vojenských konfliktů."
+      },
+      "meta_general": {
+        "corpus": "SYN2020",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-29",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "V popisu přesunu vojsk se řeší příčiny zdržení a odpovědnost velitelů.",
+      "utterance": "Mluvčí: Bavorské prameny, které byly vždy hotovy poukazovat na energii a pohotovost nejjasnějšího vévody, obviňovaly Buquoye z malodušnosti, ale velice rozhořčená zpráva, kterou císařský generál poslal po vítězství Ferdinandovi, dává na srozuměnou, že pochod oddílů byl o dva dny zdržen nutností přepravovat obrovská vévodova zavazadla.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Bavorské prameny považovaly malodušnost Buquoye za nepřijatelnou.",
+        "presupposition_paraphrased": "Bavorské prameny považovaly malodušnost Buquoye za nepřijatelnou.",
+        "DistractorNegation": "Bavorské prameny nepovažovaly malodušnost u vojevůdců za nic problematického.",
+        "DistractorLexicalEdit": "Bavorské prameny považovaly nezkušenost Buquoye za nepřijatelnou.",
+        "DistractorAssociative0": "Císařský generál si ve své zprávě stěžoval na logistické obtíže celého přesunu."
+      },
+      "meta_general": {
+        "corpus": "SYN2020",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-30",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "V regionální krizi se státy vzájemně napadají kvůli bezpečnostním hrozbám.",
+      "utterance": "Mluvčí: Po atentátu na Mubáraka v Etiopii 26. června 1995 Egypt obvinil Súdán z ukrývání spiklenců.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Egypt považoval ukrývání spiklenců za nepřijatelné.",
+        "presupposition_paraphrased": "Egypt považoval ukrývání spiklenců za nepřijatelné.",
+        "DistractorNegation": "Egypt nepovažoval ukrývání spiklenců za nic, co by bylo v rozporu s mezinárodními vztahy.",
+        "DistractorLexicalEdit": "Egypt považoval zbrojení Súdánu za nepřijatelné.",
+        "DistractorAssociative0": "Atentát na prezidenta Mubáraka vedl k dlouhodobému zhoršení vztahů mezi oběma zeměmi."
+      },
+      "meta_general": {
+        "corpus": "SYN2020",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "normative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-31",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluvčí popisuje tíživý zážitek a obvinění, které proti ní někdo vznesl.",
+      "utterance": "Mluvčí: Tíživé bylo i to, že mě obvinila ze znásilnění.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Ta žena se domnívá, že mluvčí spáchala znásilnění.",
+        "presupposition_paraphrased": "Ta žena se domnívá, že mluvčí spáchala znásilnění.",
+        "DistractorNegation": "Ta žena si nemyslí, že mluvčí spáchala znásilnění.",
+        "DistractorLexicalEdit": "Ta žena se domnívá, že mluvčí spáchala loupežné přepadení.",
+        "DistractorAssociative0": "Mluvčí v té době pracovala jako dobrovolnice v místním krizovém centru."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-32",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluvčí vysvětluje, proč odmítá určité jednání, které mu někdo přisoudil.",
+      "utterance": "Mluvčí: „...ale Turulek mě obvinil z hraní si na boha.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Turulek se domnívá, že si mluvčí hraje na boha.",
+        "presupposition_paraphrased": "Turulek se domnívá, že si mluvčí hraje na boha.",
+        "DistractorNegation": "Turulek nevidí v jednání mluvčího žádnou snahu o hraní si na boha.",
+        "DistractorLexicalEdit": "Turulek připisuje mluvčímu úmyslné zanedbání loveckých povinností.",
+        "DistractorAssociative0": "Turulek a mluvčí mají dlouhodobě napjaté vzájemné vztahy."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-33",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluví se o tom, jak lidé reagují na krále a jeho okolí.",
+      "utterance": "Mluvčí: „Vlastně ho měli vždycky rádi a obviňovali z potíží Gavestona.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mezi některými lidmi se mělo za to, že on způsobil potíže Gavestona.",
+        "presupposition_paraphrased": "Mezi některými lidmi se mělo za to, že král způsobil potíže Gavestona.",
+        "DistractorNegation": "Mezi lidmi nepanovalo přesvědčení, že by Gavestonovy potíže způsobil král.",
+        "DistractorLexicalEdit": "Mezi některými lidmi se mělo za to, že král finančně podporoval Gavestona.",
+        "DistractorAssociative0": "Gaveston dříve působil jako králův osobní rádce a správce pokladnice."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": "reference_unclear"
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-34",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Sisle mluví s ženou, která se mu snaží vyhrožovat, a on reaguje na její tvrzení.",
+      "utterance": "Sisle: „Obvinila jste mě z vraždy.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Ta žena se domnívá, že Sisle spáchal vraždu.",
+        "presupposition_paraphrased": "Ta žena si myslí, že Sisle spáchal vraždu.",
+        "DistractorNegation": "Ta žena je přesvědčená o Sisleho nevině v případu vraždy.",
+        "DistractorLexicalEdit": "Ta žena si myslí, že Sisle spáchal vlastizradu.",
+        "DistractorAssociative0": "Sisle se snaží zachovat klid, i když mu žena přímo vyhrožuje."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-35",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluví se o Berntovi a o tom, co se kolem něj objevuje ve vyšetřovacích spisech.",
+      "utterance": "Mluvčí: Velké množství žen ho obvinilo z týrání a napadení a přinejmenším stejně skličující jako historie jeho života byla skutečnost, že za to nikdy nebyl odsouzen.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mezi mnoha ženami se mělo za to, že Bernt týral a napadal ženy.",
+        "presupposition_paraphrased": "Mezi mnoha ženami se mělo za to, že Bernt týral a napadal ženy.",
+        "DistractorNegation": "Dotčené ženy nevěřily tomu, že by se Bernt dopustil týrání nebo napadení.",
+        "DistractorLexicalEdit": "Mezi mnoha ženami se mělo za to, že Bernt kradl jejich úspory.",
+        "DistractorAssociative0": "Bernt se dříve profesionálně věnoval boxu a trénoval v místním klubu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-36",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Vypravěč popisuje politické dění kolem Panamy a kroky USA vůči Noriegovi.",
+      "utterance": "Mluvčí: Noriegu obvinili z dodávání drog do USA.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Ti, kdo Noriegu obvinili, se domnívali, že Noriega dodával drogy do USA.",
+        "presupposition_paraphrased": "Obviňující byli přesvědčeni, že Noriega posílal drogy do USA.",
+        "DistractorNegation": "Ti, kdo Noriegu obvinili, si nemysleli, že by se Noriega podílel na obchodu s drogami.",
+        "DistractorLexicalEdit": "Ti, kdo Noriegu obvinili, se domnívali, že Noriega nelegálně prodával zbraně do USA.",
+        "DistractorAssociative0": "Noriega dříve působil jako vojenský diktátor a udržoval blízké vztahy s tajnými službami."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": "common knowledge"
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-37",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluví se o článku, který popisuje trestní případ kolem Abrahama Relese.",
+      "utterance": "Mluvčí: Když prokuratura loni obvinila Abrahama Relese z účasti na několika vraždách, netušila, jaký úlovek jí spadne do klína.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Prokuratura je přesvědčena, že Abraham Reles se podílel na několika vraždách.",
+        "presupposition_paraphrased": "Prokuratura je přesvědčena, že Abraham Reles se podílel na několika vraždách.",
+        "DistractorNegation": "Prokuratura nepředpokládala, že by Abraham Reles měl s vraždami cokoli společného.",
+        "DistractorLexicalEdit": "Prokuratura je přesvědčena, že Abraham Reles vedl ilegální hernu.",
+        "DistractorAssociative0": "Abraham Reles začal s vyšetřovateli spolupracovat výměnou za nižší trest."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-38",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Chlapec vysvětluje Eadulfovi, co se v opatství říká o smrti jednoho z bratří.",
+      "utterance": "Mluvčí: Opat Cild obvinil ze smrti bratra Botulfa jejich vůdce, a řekl, že ho potrestá.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Opat Cild se domnívá, že jejich vůdce zabil bratra Botulfa.",
+        "presupposition_paraphrased": "Opat Cild si myslí, že jejich vůdce zabil bratra Botulfa.",
+        "DistractorNegation": "Opat Cild se nedomnívá, že by jejich vůdce nesl odpovědnost za smrt bratra Botulfa.",
+        "DistractorLexicalEdit": "Opat Cild si myslí, že jejich vůdce ukradl církevní relikvie.",
+        "DistractorAssociative0": "Zpráva o smrti bratra Botulfa vyvolala v opatství velký rozruch."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-39",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluvčí popisuje, jaké zprávy se o ní začaly šířit.",
+      "utterance": "Mluvčí: Objevily se taky nějaké pomatené zprávy, které mě obviňovaly z vlastizrady, ze spiknutí s nepřáteli, z toho, že sem zvu mimozemské šílence, kteří mají za lubem jen to, že zlikvidují lidskou rasu a přivodí smrt našich dětí.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mezi některými lidmi se mělo za to, že mluvčí spáchala vlastizradu a spiknutí s nepřáteli.",
+        "presupposition_paraphrased": "Mezi některými lidmi se mělo za to, že mluvčí spáchala vlastizradu a spiknutí s nepřáteli.",
+        "DistractorNegation": "Nikdo z šiřitelů zpráv nevěřil tomu, že by se mluvčí dopustila vlastizrady.",
+        "DistractorLexicalEdit": "Mezi některými lidmi se mělo za to, že mluvčí zpronevěřila státní peníze.",
+        "DistractorAssociative0": "Zveřejněné zprávy byly plné neuvěřitelných a naprosto fantastických teorií."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-40",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "V místnosti plné napětí generálové sledují, jak Hitler zachází s těmi, kdo mu odporují.",
+      "utterance": "Mluvčí: Vlastně už dal uvěznit dva generály, které obvinil ze zbabělosti při vykonávání jeho rozkazů.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Hitler je přesvědčen, že ti dva generálové byli zbabělí při vykonávání jeho rozkazů.",
+        "presupposition_paraphrased": "Hitler si myslí, že ti dva generálové byli zbabělí při vykonávání jeho rozkazů.",
+        "DistractorNegation": "Hitler nepovažoval chování obou generálů při plnění rozkazů za zbabělé.",
+        "DistractorLexicalEdit": "Hitler si myslí, že ti dva generálové připravovali státní převrat.",
+        "DistractorAssociative0": "Ostatní generálové v místnosti sledovali Hitlerův výstup s velkými obavami o svou vlastní budoucnost."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-41",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluvčí popisuje vyhrocený spor v hospodě a reakce místních.",
+      "utterance": "Mluvčí: Ten chlap ho pak přímo přede všemi obvinil ze lži.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Ten muž se domnívá, že mluvčí lhal.",
+        "presupposition_paraphrased": "Ten muž je přesvědčen, že mluvčí lhal.",
+        "DistractorNegation": "Ten muž neviděl v slovech mluvčího žádnou lež.",
+        "DistractorLexicalEdit": "Ten muž se domnívá, že mluvčí kradl v hostinci peníze.",
+        "DistractorAssociative0": "V hospodě v tu chvíli nastalo naprosté ticho a všichni hosté se otočili směrem k jejich stolu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-42",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Po incidentu v domě se vyšetřovatel vyptává na okolnosti a dřívější spory.",
+      "utterance": "Mluvčí: Starý pán ji před měsícem obvinil z krádeže rodinných šperků.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Starý pán se domnívá, že ta žena ukradla rodinné šperky.",
+        "presupposition_paraphrased": "Starý pán je přesvědčen, že ta žena ukradla rodinné šperky.",
+        "DistractorNegation": "Starý pán nikoho z krádeže šperků nepodezříval.",
+        "DistractorLexicalEdit": "Starý pán se domnívá, že ta žena poškodila rodinný nábytek.",
+        "DistractorAssociative0": "Rodinné šperky byly uloženy v masivním dřevěném sejfu v ložnici v horním patře domu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-43",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "V hádce mezi dvěma sousedy o hranici pozemku padla nečekaná slova.",
+      "utterance": "Mluvčí: Soused mě obvinil ze schválnosti, když jsem tam tu zeď postavil.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Soused se domnívá, že mluvčí postavil tu zeď ze schválnosti.",
+        "presupposition_paraphrased": "Soused je přesvědčen, že mluvčí tu zeď postavil jen proto, aby mu uškodil.",
+        "DistractorNegation": "Soused nepovažoval stavbu zdi za projev schválnosti.",
+        "DistractorLexicalEdit": "Soused se domnívá, že mluvčí postavil tu zeď na špatném místě.",
+        "DistractorAssociative0": "Zeď byla postavena z masivních kamenných bloků, které sousedovi bránily ve výhledu do údolí."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-44",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluvčí v rodinném kruhu vzpomíná na nepříjemné období po rozchodu rodičů.",
+      "utterance": "Mluvčí: Matka mě tehdy obviňovala ze sobectví.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Matka se domnívala, že mluvčí je sobecký.",
+        "presupposition_paraphrased": "Matka byla přesvědčena o sobectví mluvčího.",
+        "DistractorNegation": "Matka v mluvčím neviděla žádné sobecké sklony.",
+        "DistractorLexicalEdit": "Matka se domnívala, že mluvčí je nezodpovědný.",
+        "DistractorAssociative0": "Matka po rozchodu s otcem často trpěla pocity osamělosti a mluvila o své minulosti."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-45",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "V rozhovoru o nepovedené obchodní dohodě se hledá viník situace.",
+      "utterance": "Mluvčí: Můj společník mě obvinil z nekompetentnosti.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Společník se domnívá, že mluvčí je nekompetentní.",
+        "presupposition_paraphrased": "Společník je přesvědčen o nekompetentnosti mluvčího.",
+        "DistractorNegation": "Společník mluvčího nepovažoval za nekompetentního člověka.",
+        "DistractorLexicalEdit": "Společník se domnívá, že mluvčí je podvodník.",
+        "DistractorAssociative0": "Dohoda s novým klientem byla pro budoucnost jejich společné firmy naprosto zásadní."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-46",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluvčí popisuje atmosféru strachu a udávání během temného historického období.",
+      "utterance": "Mluvčí: Lidé se tam obviňovali z čehokoli.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Lidé se tam domnívali, že druzí spáchali nějaké špatné činy.",
+        "presupposition_paraphrased": "Panovalo tam přesvědčení, že ostatní jsou vinni různými prohřešky.",
+        "DistractorNegation": "Lidé si o svých sousedech nemysleli nic špatného.",
+        "DistractorLexicalEdit": "Lidé se tam domnívali, že druzí mají velké úspory v bance.",
+        "DistractorAssociative0": "Mnoho lidí bylo v té době zatčeno bez jakéhokoli skutečného důkazu jen na základě udání."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-47",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "V napjatém politickém období se v tisku objevila ostrá slova vůči opozičnímu lídrovi.",
+      "utterance": "Mluvčí: Noviny ho obviňovaly ze spolčení s cizí mocí.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "V novinách se mělo za to, že ten muž se spolčil s cizí mocí.",
+        "presupposition_paraphrased": "Redaktoři novin byli přesvědčeni o jeho spolčení s cizí mocí.",
+        "DistractorNegation": "Noviny nepřisuzovaly tomu muži žádné vazby na cizí moc.",
+        "DistractorLexicalEdit": "Noviny ho obviňovaly ze zneužití státních financí.",
+        "DistractorAssociative0": "Opoziční lídr se krátce po zveřejnění těchto zpráv rozhodl pro tiskové prohlášení."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-48",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluvčí líčí svůj spor se zaměstnavatelem a následný odchod z firmy.",
+      "utterance": "Mluvčí: Šéf mě obvinil z úniku citlivých dat konkurentům.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Šéf se domnívá, že mluvčí vynesl citlivá data ke konkurenci.",
+        "presupposition_paraphrased": "Šéf je přesvědčen o tom, že mluvčí poskytl data konkurenci.",
+        "DistractorNegation": "Šéf nepodezříval mluvčího z úniku dat konkurentům.",
+        "DistractorLexicalEdit": "Šéf se domnívá, že mluvčí falšoval docházku v evidenci.",
+        "DistractorAssociative0": "Vztahy ve firmě se po tomto incidentu pro všechny zaměstnance velmi zhoršily."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-49",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "V rozhovoru o nevydařeném vztahu mluvčí shrnuje nejčastější výtky svého partnera.",
+      "utterance": "Mluvčí: Neustále mě obviňoval z nedostatku zájmu o jeho rodinu.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Partner se domníval, že mluvčí projevuje málo zájmu o jeho rodinu.",
+        "presupposition_paraphrased": "Partner byl přesvědčen o mluvčího nezájmu vůči své rodině.",
+        "DistractorNegation": "Partner v mluvčím neviděl žádný nedostatek zájmu o svou rodinu.",
+        "DistractorLexicalEdit": "Partner se domníval, že mluvčí má nedostatek času na svou práci.",
+        "DistractorAssociative0": "Mluvčí se s partnerovou rodinou přitom setkával pravidelně během všech svátků."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-50",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Po prohraném soudním sporu se mluvčí vyjadřuje k dřívějšímu napadení své cti.",
+      "utterance": "Mluvčí: Obvinila mě z podvodu při uzavírání kupní smlouvy.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Ta žena se domnívá, že mluvčí spáchal při uzavírání smlouvy podvod.",
+        "presupposition_paraphrased": "Ta žena je přesvědčena o mluvčího podvodném jednání u kupní smlouvy.",
+        "DistractorNegation": "Ta žena nevěřila, že by se mluvčí při uzavírání smlouvy dopustil podvodu.",
+        "DistractorLexicalEdit": "Ta žena se domnívá, že mluvčí spáchal při uzavírání smlouvy chybu.",
+        "DistractorAssociative0": "Kupní smlouva na pozemek byla přitom notářsky ověřena už před několika lety."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-51",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "V rozboru příčin ekonomického poklesu se autoři textu zaměřují na roli tehdejší vlády.",
+      "utterance": "Mluvčí: Opozice obviňovala vládu z nečinnosti v době narůstající inflace.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Opozice se domnívala, že vláda je v době narůstající inflace nečinná.",
+        "presupposition_paraphrased": "Opozice byla přesvědčena o nečinnosti vlády během inflace.",
+        "DistractorNegation": "Opozice nepovažovala tehdejší postoj vlády za projev nečinnosti.",
+        "DistractorLexicalEdit": "Opozice se domnívala, že vláda je v době narůstající inflace příliš aktivní.",
+        "DistractorAssociative0": "Inflace v té době dosahovala rekordních hodnot a citelně zasahovala všechny domácnosti."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-52",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Komentátor hodnotí vyhrocenou předvolební kampaň a útoky mezi kandidáty.",
+      "utterance": "Mluvčí: V jedné z debat kandidát A obvinil svého soka ze lži ohledně financování jeho nadace.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Kandidát A se domnívá, že jeho sok v otázce nadace lhal.",
+        "presupposition_paraphrased": "Kandidát A je přesvědčen, že jeho sok lhal o financování nadace.",
+        "DistractorNegation": "Kandidát A nepodezříval svého soka ze lhaní o financích nadace.",
+        "DistractorLexicalEdit": "Kandidát A se domnívá, že jeho sok v otázce nadace chyboval.",
+        "DistractorAssociative0": "Debata kandidátů probíhala v hlavním vysílacím čase a sledovaly ji statisíce diváků."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-53",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluvčí popisuje událost v práci, která vedla k hlubokému narušení důvěry v týmu.",
+      "utterance": "Mluvčí: Kolega mě obvinil z neférového jednání při rozdělování bonusů.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Kolega se domnívá, že mluvčí jednal neférově.",
+        "presupposition_paraphrased": "Kolega je přesvědčen o neférovém jednání mluvčího.",
+        "DistractorNegation": "Kolega nepovažoval jednání mluvčího při dělení bonusů za neférové.",
+        "DistractorLexicalEdit": "Kolega se domnívá, že mluvčí jednal pomalu při rozdělování bonusů.",
+        "DistractorAssociative0": "Bonusy byly rozdělovány na základě výsledků práce celého týmu za poslední čtvrtletí."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-54",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluví se o reakci obyvatel na kroky místního starosty ohledně výstavby nové silnice.",
+      "utterance": "Mluvčí: Lidé v obci starostu obviňovali z korupce.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Obyvatelé se domnívali, že starosta jednal korupčně.",
+        "presupposition_paraphrased": "Mezi lidmi v obci panovalo přesvědčení o starostově korupci.",
+        "DistractorNegation": "Lidé v obci nevěřili tomu, že by starosta bral v souvislosti se silnicí úplatky.",
+        "DistractorLexicalEdit": "Lidé v obci starostu obviňovali z neústupnosti.",
+        "DistractorAssociative0": "Starosta se k celému projektu vyjádřil až na mimořádném zasedání obecní rady."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-55",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Po prohraném finále se v médiích začala hledat odpovědnost za neúspěch týmu.",
+      "utterance": "Mluvčí: Fanoušci obviňovali trenéra ze špatně zvolené taktiky pro klíčový zápas.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Fanoušci se domnívali, že trenér zvolil špatnou taktiku.",
+        "presupposition_paraphrased": "Příznivci týmu byli přesvědčeni o trenérově taktické chybě.",
+        "DistractorNegation": "Fanoušci nepovažovali trenérovu taktiku v klíčovém zápase za chybnou.",
+        "DistractorLexicalEdit": "Fanoušci obviňovali trenéra ze špatně zvolené stravy pro klíčový zápas.",
+        "DistractorAssociative0": "Klíčový zápas skončil těsnou prohrou o jediný gól v samotném závěru utkání."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-56",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluvčí rozebírá soudní proces a důkazní materiály v kauze zpronevěry.",
+      "utterance": "Mluvčí: Státní zástupce ji obvinil z falšování účetních dokladů.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Státní zástupce se domnívá, že ta žena falšovala účetní doklady.",
+        "presupposition_paraphrased": "Státní zástupce je přesvědčen o jejím podílu na falšování účetnictví.",
+        "DistractorNegation": "Státní zástupce nepodezříval tu ženu z falšování účetních dokladů.",
+        "DistractorLexicalEdit": "Státní zástupce ji obvinil ze ztráty účetních dokladů.",
+        "DistractorAssociative0": "Účetní doklady byly uloženy v archivu firmy a byly podrobně zkoumány znalci."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-57",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "V odborném textu o historii se autoři zamýšlejí nad důvody pádu významné osobnosti.",
+      "utterance": "Mluvčí: Současníci ho obviňovali z pýchy, která ho nakonec dovedla k záhubě.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Lidé té doby se domnívali, že ten muž byl pyšný.",
+        "presupposition_paraphrased": "Jeho současníci byli přesvědčeni o jeho pýše.",
+        "DistractorNegation": "Současníci v povaze toho muže neviděli žádné stopy pýchy.",
+        "DistractorLexicalEdit": "Současníci ho obviňovali z chudoby, která ho nakonec dovedla k záhubě.",
+        "DistractorAssociative0": "Tato historická osobnost zastávala v dřívějších letech velmi vysoký státní úřad."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-58",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluvčí v rozhovoru s psychologem vzpomíná na své vztahy s bývalými učiteli.",
+      "utterance": "Mluvčí: Učitel češtiny mě tehdy obvinil z neúcty k tradicím.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Učitel se domníval, že mluvčí projevuje neúctu k tradicím.",
+        "presupposition_paraphrased": "Učitel byl přesvědčen o mluvčího neúctě vůči tradicím.",
+        "DistractorNegation": "Učitel neviděl v chování mluvčího žádnou neúctu k tradicím.",
+        "DistractorLexicalEdit": "Učitel češtiny mě tehdy obvinil z neznalosti tradic.",
+        "DistractorAssociative0": "Učitel češtiny v té době vyžadoval od všech svých studentů naprostou kázeň."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-59",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mluví se o vyšetřování úmrtí mladé ženy a roli detektiva v celém případu.",
+      "utterance": "Mluvčí: Vyšetřovatel Kurdiovský se domníval, že podezřelý muž zavraždil Albu Placherovou.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Vyšetřovatel Kurdiovský se domníval, že podezřelý muž zavraždil Albu Placherovou.",
+        "presupposition_paraphrased": "Vyšetřovatel Kurdiovský se domníval, že podezřelý muž zavraždil Albu Placherovou.",
+        "DistractorNegation": "Vyšetřovatel Kurdiovský nepodezříval předváděného muže ze spáchání vraždy Alby Placherové.",
+        "DistractorLexicalEdit": "Vyšetřovatel Kurdiovský se domníval, že podezřelý muž vyloupil byt Alby Placherové.",
+        "DistractorAssociative0": "Vyšetřování vraždy mladé ženy bylo v té době ostře sledováno všemi místními médii."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    },
+    {
+      "id": "presupposition-accusative-60",
+      "phenomenon": "presupposition",
+      "category": "accusative",
+      "context": "Mezi českými husity se často probírá Zikmund a jeho role v tehdejších událostech.",
+      "utterance": "Mluvčí: Mimo to jej čeští husité obviňovali z podílu na smrti M. Jana Husa v Kostnici a již tehdy se objevovalo přesvědčení, že jako odpůrce pravé víry nemá na trůn nárok.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Čeští husité se domnívali, že Zikmund měl podíl na smrti M. Jana Husa v Kostnici.",
+        "presupposition_paraphrased": "Čeští husité se domnívali, že Zikmund měl podíl na smrti M. Jana Husa v Kostnici.",
+        "DistractorNegation": "Čeští husité nevěřili tomu, že by Zikmund nesl vinu za smrt Jana Husa.",
+        "DistractorLexicalEdit": "Čeští husité jej obviňovali z podílu na smrti M. Jeronýma Pražského.",
+        "DistractorAssociative0": "Postava krále Zikmunda byla v husitské tradici vnímána jako zosobnění zla a zrady."
+      },
+      "meta_general": {
+        "corpus": "SYN2020",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "obvinit",
+        "subtype": "attributative"
+      }
+    }
+  ]

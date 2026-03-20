@@ -1,0 +1,552 @@
+[
+    {
+      "id": 34,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Máš rád jazz?",
+      "answer_Y_cz": "Mám pocit, že jsem se měl narodit v éře jazzu.",
+      "direct_answer_pos": "Ano, mám rád jazz.",
+      "direct_answer_neg": "Ne, nemám rád jazz.",
+      "distractor_lexical": "Mám pocit, že jazzové bicí jsou v téhle nahrávce moc potichu.",
+      "distractor_associative": "Jazzové kluby mívají specifickou komorní atmosféru."
+    },
+    {
+      "id": 65,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Slyšel jsi novou písničku od Taylor Swift?",
+      "answer_Y_cz": "Včera jsem si ji poslechl.",
+      "direct_answer_pos": "Ano, slyšel jsem ji.",
+      "direct_answer_neg": "Ne, neslyšel jsem ji.",
+      "distractor_lexical": "Včera jsem si v rádiu poslechl zprávy o počasí.",
+      "distractor_associative": "Popové hvězdy dnes často vydávají singly bez ohlášení."
+    },
+    {
+      "id": 88,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Byl jsi tenhle měsíc na nějakém koncertě?",
+      "answer_Y_cz": "Včera večer jsem na jednom byl.",
+      "direct_answer_pos": "Ano, byl jsem na koncertě.",
+      "direct_answer_neg": "Ne, nebyl jsem na žádném koncertě.",
+      "distractor_lexical": "Včera večer jsem na jednom plakátu viděl pozvánku na festival.",
+      "distractor_associative": "Ceny vstupenek na velké koncerty se stále zvyšují."
+    },
+    {
+      "id": 156,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Chtěl bys jít zítra na Gartha Brookse?",
+      "answer_Y_cz": "To by bylo fajn.",
+      "direct_answer_pos": "Ano, chtěl bych jít.",
+      "direct_answer_neg": "Ne, nechtěl bych jít.",
+      "distractor_lexical": "To by bylo nové album countryové hudby.",
+      "distractor_associative": "Garth Brooks patří k nejprodávanějším umělcům v historii."
+    },
+    {
+      "id": 158,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Hraješ ještě na kytaru?",
+      "answer_Y_cz": "Nakonec jsem ji prodal, abych měl na učebnice.",
+      "direct_answer_pos": "Ano, hraju.",
+      "direct_answer_neg": "Ne, už nehraju.",
+      "distractor_lexical": "Nakonec jsem ji včera v hudebninách dlouho ladil.",
+      "distractor_associative": "Kytara je jedním z nejčastějších nástrojů v domácnostech."
+    },
+    {
+      "id": 170,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Máš rád tvrdší hudbu?",
+      "answer_Y_cz": "Zrovna fanoušek nejsem.",
+      "direct_answer_pos": "Ano, mám rád tvrdší hudbu.",
+      "direct_answer_neg": "Ne, nemám rád tvrdší hudbu.",
+      "distractor_lexical": "Zrovna fanoušek v tomhle zesilovači hrozně hučí.",
+      "distractor_associative": "Metalové koncerty jsou známé vysokou úrovní hlasitosti."
+    },
+    {
+      "id": 182,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Fandíš popu?",
+      "answer_Y_cz": "To rozhodně.",
+      "direct_answer_pos": "Ano, fandím popu.",
+      "direct_answer_neg": "Ne, nefandím popu.",
+      "distractor_lexical": "To rozhodně není popová kapela, kterou znám.",
+      "distractor_associative": "Popová hudba dominuje žebříčkům nejhranějších skladeb."
+    },
+    {
+      "id": 199,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Posloucháš country?",
+      "answer_Y_cz": "Vůbec ne.",
+      "direct_answer_pos": "Ano, poslouchám country.",
+      "direct_answer_neg": "Ne, neposlouchám country.",
+      "distractor_lexical": "Vůbec jsem si tu country desku nestihl prolistovat.",
+      "distractor_associative": "Country hudba má své kořeny v lidové hudbě USA."
+    },
+    {
+      "id": 206,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Posloucháš vážnou hudbu?",
+      "answer_Y_cz": "Moc jí nefandím.",
+      "direct_answer_pos": "Ano, poslouchám ji.",
+      "direct_answer_neg": "Ne, neposlouchám ji.",
+      "distractor_lexical": "Moc vážnou tvář ten dirigent včera v televizi neměl.",
+      "distractor_associative": "Vážná hudba se dnes často propojuje s moderními žánry."
+    },
+    {
+      "id": 230,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Může to mít výrazné basy?",
+      "answer_Y_cz": "Miluju, když ta hudba pořádně duní.",
+      "direct_answer_pos": "Ano, může.",
+      "direct_answer_neg": "Ne, nemůže.",
+      "distractor_lexical": "Miluju, když ta hudba v rádiu končí zprávami.",
+      "distractor_associative": "Basy jsou základem rytmické sekce většiny skladeb."
+    },
+    {
+      "id": 251,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Slyšela jsi o tom novém venkovním hudebním festivalu?",
+      "answer_Y_cz": "O ničem nevím.",
+      "direct_answer_pos": "Ano, slyšela jsem o něm.",
+      "direct_answer_neg": "Ne, neslyšela jsem o něm.",
+      "distractor_lexical": "O ničem jiném než o hudbě se včera v šatně nemluvilo.",
+      "distractor_associative": "Letní festivaly lákají návštěvníky na kombinaci hudby a kempování."
+    },
+    {
+      "id": 268,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Poslouchal jsi to nové album od Taylor Swift?",
+      "answer_Y_cz": "Zrovna jí nefandím.",
+      "direct_answer_pos": "Ano, poslouchal jsem ho.",
+      "direct_answer_neg": "Ne, neposlouchal jsem ho.",
+      "distractor_lexical": "Zrovna jí do té hudební školy přišla nová kytara.",
+      "distractor_associative": "Taylor Swift patří k nejvlivnějším umělcům současnosti."
+    },
+    {
+      "id": 269,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Máš nějaké hudební vzdělání?",
+      "answer_Y_cz": "Studoval jsem na London College of Music.",
+      "direct_answer_pos": "Ano, mám hudební vzdělání.",
+      "direct_answer_neg": "Ne, nemám žádné hudební vzdělání.",
+      "distractor_lexical": "Studoval jsem včera hudební historii z jedné staré knihy.",
+      "distractor_associative": "Konzervatoře připravují studenty na dráhu profesionálních hudebníků."
+    },
+    {
+      "id": 270,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Slyšel jsi o té slavné kapele, co má přijet k nám do města?",
+      "answer_Y_cz": "Zatím jsem nic nezaregistroval.",
+      "direct_answer_pos": "Ano, slyšel jsem o ní.",
+      "direct_answer_neg": "Ne, neslyšel jsem o ní.",
+      "distractor_lexical": "Zatím jsem si tu slavnou nahrávku v obchodě nekoupil.",
+      "distractor_associative": "Turné světových kapel bývají vyprodaná během několika minut."
+    },
+    {
+      "id": 300,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Baví tě živá hudba?",
+      "answer_Y_cz": "Koncerty miluju.",
+      "direct_answer_pos": "Ano, baví mě živá hudba.",
+      "direct_answer_neg": "Ne, nebaví mě živá hudba.",
+      "distractor_lexical": "Koncerty v televizi jsou obvykle hrozně nudné.",
+      "distractor_associative": "Kvalita ozvučení sálu zásadně ovlivňuje zážitek z koncertu."
+    },
+    {
+      "id": 321,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Máš rád reggaeton?",
+      "answer_Y_cz": "Bolí mě z něj hlava.",
+      "direct_answer_pos": "Ano, mám ho rád.",
+      "direct_answer_neg": "Ne, nemám ho rád.",
+      "distractor_lexical": "Bolí mě uši, když je v tomhle klubu hudba moc nahlas.",
+      "distractor_associative": "Reggaeton je žánr s kořeny v portorické hudební scéně."
+    },
+    {
+      "id": 343,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Byl jsi někdy na rockovém koncertě?",
+      "answer_Y_cz": "Chodím na ně jednou týdně.",
+      "direct_answer_pos": "Ano, byl jsem.",
+      "direct_answer_neg": "Ne, nikdy jsem nebyl.",
+      "distractor_lexical": "Chodím si pro ty rockové časopisy k sousedovi.",
+      "distractor_associative": "Rocková hudba se vyznačuje důrazem na kytarová sóla."
+    },
+    {
+      "id": 354,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Byl jsi v poslední době na nějakém koncertě?",
+      "answer_Y_cz": "Myslím, že naposledy tak před pěti lety.",
+      "direct_answer_pos": "Ano, byl jsem.",
+      "direct_answer_neg": "Ne, nebyl jsem.",
+      "distractor_lexical": "Myslím, že před pěti lety jsem dostal své první rádio.",
+      "distractor_associative": "Koncertní šňůry jsou pro hudebníky hlavním zdrojem příjmů."
+    },
+    {
+      "id": 358,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Byla jsi v poslední době na nějakém koncertě?",
+      "answer_Y_cz": "Laurie Anderson byla fantastická.",
+      "direct_answer_pos": "Ano, byla jsem.",
+      "direct_answer_neg": "Ne, nebyla jsem.",
+      "distractor_lexical": "Laurie Anderson má včera v televizi nový hudební dokument.",
+      "distractor_associative": "Avantgardní hudba často využívá netradiční nástroje."
+    },
+    {
+      "id": 435,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Baví tě EDM?",
+      "answer_Y_cz": "Zrovna moje nejoblíbenější to není.",
+      "direct_answer_pos": "Ano, baví mě.",
+      "direct_answer_neg": "Ne, nebaví mě.",
+      "distractor_lexical": "Zrovna moje stará sluchátka včera úplně přestala hrát.",
+      "distractor_associative": "Elektronická taneční hudba se hraje hlavně ve velkých klubech."
+    },
+    {
+      "id": 448,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Byl jsi mladý, když jsi šel poprvé na koncert?",
+      "answer_Y_cz": "V dvanácti jsem šel na Ricka Springfielda.",
+      "direct_answer_pos": "Ano, byl jsem mladý.",
+      "direct_answer_neg": "Ne, nebyl jsem mladý.",
+      "distractor_lexical": "V dvanácti jsem si v pokoji pořád dokola pouštěl gramofon.",
+      "distractor_associative": "První návštěva koncertu bývá pro děti silným zážitkem."
+    },
+    {
+      "id": 482,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Baví tě tanec?",
+      "answer_Y_cz": "Tancuju moc ráda.",
+      "direct_answer_pos": "Ano, baví mě tanec.",
+      "direct_answer_neg": "Ne, nebaví mě tanec.",
+      "distractor_lexical": "Tancuju jenom tehdy, když v rádiu hrají zprávy.",
+      "distractor_associative": "Tanec a hudba tvoří v mnoha kulturách neoddělitelný celek."
+    },
+    {
+      "id": 497,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Máš rád blues?",
+      "answer_Y_cz": "Blues mě uklidňuje.",
+      "direct_answer_pos": "Ano, mám rád blues.",
+      "direct_answer_neg": "Ne, nemám rád blues.",
+      "distractor_lexical": "Blues se v naší ulici ozývá z každého druhého auta.",
+      "distractor_associative": "Bluesové harmonie jsou základem pro mnoho moderních žánrů."
+    },
+    {
+      "id": 506,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Zajímá tě vůbec rock?",
+      "answer_Y_cz": "Rock je to jediné, co poslouchám!",
+      "direct_answer_pos": "Ano, zajímá mě rock.",
+      "direct_answer_neg": "Ne, nezajímá mě rock.",
+      "distractor_lexical": "Rock je v téhle staré jeskyni slyšet ze všech stran.",
+      "distractor_associative": "Rocková hudba prošla od 50. let mnoha stylovými proměnami."
+    },
+    {
+      "id": 515,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Chodíš na koncerty často?",
+      "answer_Y_cz": "Nikdy jsem na žádném nebyl.",
+      "direct_answer_pos": "Ano, chodím často.",
+      "direct_answer_neg": "Ne, nechodím vůbec.",
+      "distractor_lexical": "Nikdy jsem v hudebninách nekupoval nic jiného než struny.",
+      "distractor_associative": "Pravidelná návštěva koncertů je pro milovníky hudby nutností."
+    },
+    {
+      "id": 517,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Máš ráda písničky ve vysokých tóninách?",
+      "answer_Y_cz": "Docela mě dráždí.",
+      "direct_answer_pos": "Ano, mám je ráda.",
+      "direct_answer_neg": "Ne, nemám je ráda.",
+      "distractor_lexical": "Docela mě včera v tom nahrávacím studiu bolel zub.",
+      "distractor_associative": "Vysoké hlasové polohy jsou typické pro operní sopranistky."
+    },
+    {
+      "id": 523,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Byl jsi někdy v Jižní Americe?",
+      "answer_Y_cz": "Loni jsme byli v Brazílii.",
+      "direct_answer_pos": "Ano, byl jsem.",
+      "direct_answer_neg": "Ne, nebyl jsem.",
+      "distractor_lexical": "Loni jsme byli v jednom obchodě s hudebními nástroji.",
+      "distractor_associative": "Brazílie je známá svými rytmy samby a bossa novy."
+    },
+    {
+      "id": 526,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Baví tě jezdit na festivaly?",
+      "answer_Y_cz": "Na festivalech je na mě moc lidí.",
+      "direct_answer_pos": "Ano, baví mě to.",
+      "direct_answer_neg": "Ne, nebaví mě to.",
+      "distractor_lexical": "Na festivalech se mi včera v televizi líbily jenom ty kostýmy.",
+      "distractor_associative": "Hudební festivaly často trvají několik dní v kuse."
+    },
+    {
+      "id": 533,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Byl jsi někdy na živém rockovém koncertě?",
+      "answer_Y_cz": "Jednou jsem byl na Taylor Swift.",
+      "direct_answer_pos": "Ano, byl jsem.",
+      "direct_answer_neg": "Ne, nikdy jsem nebyl.",
+      "distractor_lexical": "Jednou jsem byl v rádiu, když tam dělali rozhovor s kytaristou.",
+      "distractor_associative": "Živá vystoupení nabízejí jiný zážitek než studiové nahrávky."
+    },
+    {
+      "id": 545,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Byla jsi už na tom zdejším reggae festivalu?",
+      "answer_Y_cz": "Párkrát jsem tam byla.",
+      "direct_answer_pos": "Ano, byla jsem.",
+      "direct_answer_neg": "Ne, nebyla jsem.",
+      "distractor_lexical": "Párkrát jsem tam včera v hudebninách viděla slevy na bubny.",
+      "distractor_associative": "Reggae hudba je úzce spjata s kulturou Jamajky."
+    },
+    {
+      "id": 568,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Baví tě jazz?",
+      "answer_Y_cz": "Ne že by mě jazz nebavil.",
+      "direct_answer_pos": "Ano, baví mě jazz.",
+      "direct_answer_neg": "Ne, nebaví mě jazz.",
+      "distractor_lexical": "Ne že by ta jazzová trubka včera nefungovala správně.",
+      "distractor_associative": "Improvizace je jedním ze základních stavebních kamenů jazzu."
+    },
+    {
+      "id": 574,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Máš nějaký oblíbený nástroj?",
+      "answer_Y_cz": "Miluju bicí.",
+      "direct_answer_pos": "Ano, mám.",
+      "direct_answer_neg": "Ne, nemám.",
+      "distractor_lexical": "Miluju, když bicí v té písni vůbec neslyším.",
+      "distractor_associative": "Bicí souprava se skládá z mnoha různých činelů a bubnů."
+    },
+    {
+      "id": 581,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Byl jsi už někdy na orchestrálním koncertě?",
+      "answer_Y_cz": "Zatím ještě ne.",
+      "direct_answer_pos": "Ano, byl jsem.",
+      "direct_answer_neg": "Ne, ještě jsem nebyl.",
+      "distractor_lexical": "Zatím ještě v tomhle sále nepřeladili to velké křídlo.",
+      "distractor_associative": "Symfonické orchestry mívají i více než sto stálých členů."
+    },
+    {
+      "id": 583,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Hraju na nějaké hudební nástroje?",
+      "answer_Y_cz": "Hraju na několik.",
+      "direct_answer_pos": "Ano, hraju.",
+      "direct_answer_neg": "Ne, nehraju na žádný.",
+      "distractor_lexical": "Hraju v téhle kapele na nervy našemu basákovi.",
+      "distractor_associative": "Ovládnutí hudebního nástroje vyžaduje roky intenzivního tréninku."
+    },
+    {
+      "id": 584,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Posloucháš při cvičení hudbu?",
+      "answer_Y_cz": "Bez hudby si cvičení nedovedu představit.",
+      "direct_answer_pos": "Ano, poslouchám.",
+      "direct_answer_neg": "Ne, neposlouchám.",
+      "distractor_lexical": "Bez hudby v téhle posilovně je včera hrozné ticho.",
+      "distractor_associative": "Rytmická hudba může pomoci udržet tempo při sportovním výkonu."
+    },
+    {
+      "id": 626,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Zašel bys na metalový koncert?",
+      "answer_Y_cz": "Myslím, že ta energie na metalovém koncertě by byla naprosto skvělá.",
+      "direct_answer_pos": "Ano, zašel bych.",
+      "direct_answer_neg": "Ne, nezašel bych.",
+      "distractor_lexical": "Myslím, že ta kytara na tomhle metalovém plakátu je rozbitá.",
+      "distractor_associative": "Metalová komunita je známá svou věrností konkrétním podžánrům."
+    },
+    {
+      "id": 654,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Už jsi byla na festivalu ACL?",
+      "answer_Y_cz": "Letos se tam chystám poprvé.",
+      "direct_answer_pos": "Ano, už jsem tam byla.",
+      "direct_answer_neg": "Ne, ještě jsem tam nebyla.",
+      "distractor_lexical": "Letos se tam v tom hudebním klubu včera v noci moc netančilo.",
+      "distractor_associative": "Austin City Limits je jeden z největších hudebních festivalů v USA."
+    },
+    {
+      "id": 660,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Máš rád pop?",
+      "answer_Y_cz": "Hlavně to nové album od Taylor Swift se mi fakt líbilo.",
+      "direct_answer_pos": "Ano, mám rád pop.",
+      "direct_answer_neg": "Ne, nemám rád pop.",
+      "distractor_lexical": "Hlavně to nové album v tomhle obchodě stojí hrozně moc peněz.",
+      "distractor_associative": "Popové nahrávky jsou optimalizovány pro poslech v rádiu."
+    },
+    {
+      "id": 676,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Už jsi slyšel to nové album od Drakea?",
+      "answer_Y_cz": "Zatím ještě ne.",
+      "direct_answer_pos": "Ano, slyšel jsem ho.",
+      "direct_answer_neg": "Ne, neslyšel jsem ho.",
+      "distractor_lexical": "Zatím ještě v tomhle CD přehrávači nefunguje tlačítko play.",
+      "distractor_associative": "Hip hopoví umělci dnes často vydávají alba na streamovacích službách."
+    },
+    {
+      "id": 679,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Zpíváš v karaoke barech?",
+      "answer_Y_cz": "Nikdy mě nedonutí zpívat před lidmi.",
+      "direct_answer_pos": "Ano, zpívám.",
+      "direct_answer_neg": "Ne, nezpívám.",
+      "distractor_lexical": "Nikdy mě v tomhle baru nenabídli žádný hudební podkres k pití.",
+      "distractor_associative": "Karaoke bary jsou oblíbené pro teambuildingy a večírky."
+    },
+    {
+      "id": 704,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Fandíš hip hopu?",
+      "answer_Y_cz": "Vážně ho nemusím.",
+      "direct_answer_pos": "Ano, fandím mu.",
+      "direct_answer_neg": "Ne, nefandím mu.",
+      "distractor_lexical": "Vážně jsem včera v rádiu žádný hip hop neslyšel.",
+      "distractor_associative": "Kultura hip hopu zahrnuje kromě hudby i rap, tanec a graffiti."
+    },
+    {
+      "id": 707,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Chtěla bys zajít na koncert vážné hudby?",
+      "answer_Y_cz": "Myslím, že ano.",
+      "direct_answer_pos": "Ano, chtěla bych.",
+      "direct_answer_neg": "Ne, nechtěla bych.",
+      "distractor_lexical": "Myslím, že zítra v tomhle sále hraje úplně jiná kapela.",
+      "distractor_associative": "Koncertní síně mívají přísnější pravidla pro společenský oděv."
+    },
+    {
+      "id": 743,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Baví tě hudba od Gwen Stefani?",
+      "answer_Y_cz": "Zatím jsem ji neposlouchal.",
+      "direct_answer_pos": "Ano, baví mě.",
+      "direct_answer_neg": "Ne, nebaví mě.",
+      "distractor_lexical": "Zatím jsem ji včera v tom obchodě s deskami vůbec neviděla.",
+      "distractor_associative": "Gwen Stefani se proslavila jako zpěvačka kapely No Doubt."
+    },
+    {
+      "id": 795,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Hrála jsi už někdy na nějaký nástroj?",
+      "answer_Y_cz": "Ve škole jsem hrála na flétnu.",
+      "direct_answer_pos": "Ano, hrála jsem.",
+      "direct_answer_neg": "Ne, nikdy jsem nehrála.",
+      "distractor_lexical": "Ve škole jsem včera slyšela z dálky hrát flétnu.",
+      "distractor_associative": "Flétna patří mezi dřevěné dechové nástroje s jasným zvukem."
+    },
+    {
+      "id": 796,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Umíš zpívat?",
+      "answer_Y_cz": "Neudržím tón.",
+      "direct_answer_pos": "Ano, umím.",
+      "direct_answer_neg": "Ne, neumím.",
+      "distractor_lexical": "Neudržím v téhle kapse ta stará sluchátka.",
+      "distractor_associative": "Zpěv vyžaduje správnou techniku dýchání a dobrou intonaci."
+    },
+    {
+      "id": 800,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Tančil jsi na té akci?",
+      "answer_Y_cz": "Nemohl jsem přestat, ta hudba byla skvělá.",
+      "direct_answer_pos": "Ano, tančil jsem.",
+      "direct_answer_neg": "Ne, netančil jsem.",
+      "distractor_lexical": "Nemohl jsem včera v rádiu tu skvělou píseň najít.",
+      "distractor_associative": "Taneční parkety bývají na akcích s DJem nejvytíženějším místem."
+    },
+    {
+      "id": 818,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Máš ráda R&B?",
+      "answer_Y_cz": "Dávám přednost něčemu v rychlejším tempu.",
+      "direct_answer_pos": "Ano, mám ráda R&B.",
+      "direct_answer_neg": "Ne, nemám ráda R&B.",
+      "distractor_lexical": "Dávám přednost nákupu lístků přes mobilní aplikaci.",
+      "distractor_associative": "R&B se vyvinulo z jazzu a gospelu v polovině 20. století."
+    },
+    {
+      "id": 824,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Viděl jsi už někdy hrát kapelu naživo?",
+      "answer_Y_cz": "Před nějakou dobou ano.",
+      "direct_answer_pos": "Ano, viděl.",
+      "direct_answer_neg": "Ne, neviděl.",
+      "distractor_lexical": "Před nějakou dobou v televizi žádná kapela nehrála.",
+      "distractor_associative": "Klubová scéna nabízí kontakt s kapelami na dosah ruky."
+    },
+    {
+      "id": 839,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Máš nějakého oblíbeného zpěváka?",
+      "answer_Y_cz": "Mám ráda nejrůznější umělce.",
+      "direct_answer_pos": "Ano, mám.",
+      "direct_answer_neg": "Ne, nemám.",
+      "distractor_lexical": "Mám ráda, když jsou v tomhle klubu umělci hezky nasvícení.",
+      "distractor_associative": "Sóloví zpěváci často spolupracují s různými hudebními producenty."
+    },
+    {
+      "id": 857,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Byl jsi v amfiteátru 360?",
+      "answer_Y_cz": "Vlastně hned několikrát.",
+      "direct_answer_pos": "Ano, byl jsem tam.",
+      "direct_answer_neg": "Ne, nebyl jsem tam.",
+      "distractor_lexical": "Vlastně jsem včera v tom amfiteátru zapomněl batoh.",
+      "distractor_associative": "Venkovní scény mají v letních měsících jedinečné kouzlo."
+    },
+    {
+      "id": 866,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Chceš si poslechnout screamo?",
+      "answer_Y_cz": "Radši ani ne.",
+      "direct_answer_pos": "Ano, chci.",
+      "direct_answer_neg": "Ne, nechci.",
+      "distractor_lexical": "Radši ani v tomhle klubu nehledej volné místo k sezení.",
+      "distractor_associative": "Screamo je subžánr emo hudby s intenzivním vokálním projevem."
+    },
+    {
+      "id": 885,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Máš ráda francouzskou hudbu?",
+      "answer_Y_cz": "Na můj vkus je to trochu moc nóbl.",
+      "direct_answer_pos": "Ano, mám ji ráda.",
+      "direct_answer_neg": "Ne, nemám ji ráda.",
+      "distractor_lexical": "Na můj vkus je v tomhle hudebním sále hrozné horko.",
+      "distractor_associative": "Francouzský šanson je známý svým důrazem na poetiku textu."
+    },
+    {
+      "id": 904,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Byl jsi někdy na živém rockovém koncertě?",
+      "answer_Y_cz": "Chodím na rockové koncerty aspoň jednou za měsíc.",
+      "direct_answer_pos": "Ano, byl jsem.",
+      "direct_answer_neg": "Ne, nikdy jsem nebyl.",
+      "distractor_lexical": "Chodím do téhle rockové prodejny včera koupit nový plakát.",
+      "distractor_associative": "Zážitek z rockového koncertu umocňuje světelná show a pyrotechnika."
+    },
+    {
+      "id": 909,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Byla jsi v poslední době na nějakém dobrém koncertě?",
+      "answer_Y_cz": "To se zrovna říct nedá.",
+      "direct_answer_pos": "Ano, byla jsem.",
+      "direct_answer_neg": "Ne, nebyla jsem.",
+      "distractor_lexical": "To se zrovna v tom rádiu včera žádná hudba nehrála.",
+      "distractor_associative": "Hudební kritici hodnotí výkony umělců v odborných magazínech."
+    },
+    {
+      "id": 979,
+      "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+      "question_X_cz": "Baví tě rokenrol?",
+      "answer_Y_cz": "Poslouchám ho každý víkend.",
+      "direct_answer_pos": "Ano, baví mě.",
+      "direct_answer_neg": "Ne, nebaví mě.",
+      "distractor_lexical": "Poslouchám včera v obchodě zprávy o nové hudební škole.",
+      "distractor_associative": "Rokenrol vznikl spojením rhythm and blues s country hudbou."
+    }
+  ]

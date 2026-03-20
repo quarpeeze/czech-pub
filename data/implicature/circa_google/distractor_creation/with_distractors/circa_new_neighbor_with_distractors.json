@@ -1,0 +1,552 @@
+[
+    {
+      "id": 28,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Grilujete rád?",
+      "answer_Y_cz": "Grilování úplně miluju.",
+      "direct_answer_pos": "Ano, griluju rád.",
+      "direct_answer_neg": "Ne, negriluju rád.",
+      "distractor_lexical": "Grilování včera v naší ulici hrozně kouřilo.",
+      "distractor_associative": "Zahrada je na grilování v létě skvělá."
+    },
+    {
+      "id": 42,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Už jste potkal ostatní sousedy?",
+      "answer_Y_cz": "S pár z nich už jsem se seznámil.",
+      "direct_answer_pos": "Ano, už jsem je potkal.",
+      "direct_answer_neg": "Ne, ještě jsem je nepotkal.",
+      "distractor_lexical": "S pár novými klíči mám v zámku pořád problémy.",
+      "distractor_associative": "Schránky na dopisy jsou hned u vchodu."
+    },
+    {
+      "id": 59,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Jste ve městě nový?",
+      "answer_Y_cz": "Zrovna jsem se přistěhoval.",
+      "direct_answer_pos": "Ano, jsem tu nový.",
+      "direct_answer_neg": "Ne, nejsem tu nový.",
+      "distractor_lexical": "Zrovna jsem včera hledal v chodbě zapomenutý deštník.",
+      "distractor_associative": "Městská karta usnadňuje cestování tramvají."
+    },
+    {
+      "id": 75,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Jste v tomto městě nový?",
+      "answer_Y_cz": "Bydlím tu celý svůj život.",
+      "direct_answer_pos": "Ano, jsem tu nový.",
+      "direct_answer_neg": "Ne, nejsem tu nový.",
+      "distractor_lexical": "Bydlím hned v tom domě, kde se včera rozbilo okno.",
+      "distractor_associative": "Místní znají historii čtvrti nejlépe."
+    },
+    {
+      "id": 96,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Nechcete zajít do parku?",
+      "answer_Y_cz": "Teď zrovna nemám čas.",
+      "direct_answer_pos": "Ano, chci zajít do parku.",
+      "direct_answer_neg": "Ne, nechci zajít do parku.",
+      "distractor_lexical": "Teď zrovna v parku kvetou vzácné stromy.",
+      "distractor_associative": "Lavičky v parcích bývají v létě obsazené."
+    },
+    {
+      "id": 99,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Máte děti?",
+      "answer_Y_cz": "Moje dcera zrovna oslavila šesté narozeniny.",
+      "direct_answer_pos": "Ano, mám děti.",
+      "direct_answer_neg": "Ne, nemám děti.",
+      "distractor_lexical": "Moje stará sekačka na trávu včera úplně zrezivěla.",
+      "distractor_associative": "Školní batohy se v srpnu hodně prodávají."
+    },
+    {
+      "id": 119,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Máte nějakého domácího mazlíčka?",
+      "answer_Y_cz": "Můj pes je můj nejlepší přítel.",
+      "direct_answer_pos": "Ano, mám mazlíčka.",
+      "direct_answer_neg": "Ne, nemám mazlíčka.",
+      "distractor_lexical": "Můj nový soused mi včera pomohl s těmi dveřmi.",
+      "distractor_associative": "Obojky se prodávají v různých barvách."
+    },
+    {
+      "id": 202,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Bydlíte v této čtvrti dlouho?",
+      "answer_Y_cz": "Několik sousedů si mě tu pamatuje ještě v plenkách.",
+      "direct_answer_pos": "Ano, bydlím tu dlouho.",
+      "direct_answer_neg": "Ne, nebydlím tu dlouho.",
+      "distractor_lexical": "Několik starých oken v našem domě je potřeba vyměnit.",
+      "distractor_associative": "Historické budovy vyžadují nákladnou údržbu."
+    },
+    {
+      "id": 214,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Byl jste v poslední době v kině?",
+      "answer_Y_cz": "Pár týdnů jsem tam nebyl.",
+      "direct_answer_pos": "Ano, byl jsem.",
+      "direct_answer_neg": "Ne, nebyl jsem.",
+      "distractor_lexical": "Pár prázdných krabic mám pořád v té garáži.",
+      "distractor_associative": "Online prodej lístků do kina šetří čas."
+    },
+    {
+      "id": 224,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Máte ráda horory?",
+      "answer_Y_cz": "Strašidelné filmy naprosto zbožňuju.",
+      "direct_answer_pos": "Ano, mám je ráda.",
+      "direct_answer_neg": "Ne, nemám je ráda.",
+      "distractor_lexical": "Strašidelné masky v tom obchodě nikoho nezajímaly.",
+      "distractor_associative": "Filmové recenze se dají číst i v novinách."
+    },
+    {
+      "id": 226,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Jak se vám tu u nás zatím líbí?",
+      "answer_Y_cz": "Myslím, že je to tu skvělé.",
+      "direct_answer_pos": "Ano, líbí.",
+      "direct_answer_neg": "Ne, nelíbí.",
+      "distractor_lexical": "Myslím, že zítra bude v naší ulici hrozný hluk.",
+      "distractor_associative": "Veřejná doprava v centrech měst bývá rychlá."
+    },
+    {
+      "id": 244,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Baví vás sekat trávník?",
+      "answer_Y_cz": "Je to pro mě takový zen.",
+      "direct_answer_pos": "Ano, baví.",
+      "direct_answer_neg": "Ne, nebaví.",
+      "distractor_lexical": "Je to v tomhle obchodě s nářadím špatně označené.",
+      "distractor_associative": "Zahradní hadice se v zimě musí vypustit."
+    },
+    {
+      "id": 246,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Pracujete někde poblíž?",
+      "answer_Y_cz": "Docela blízko.",
+      "direct_answer_pos": "Ano, pracuju poblíž.",
+      "direct_answer_neg": "Ne, nepracuju poblíž.",
+      "distractor_lexical": "Docela často v naší ulici včera blikaly lampy.",
+      "distractor_associative": "Kancelářské budovy mívají moderní fasády."
+    },
+    {
+      "id": 271,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Jsou pro vás sousedská setkání důležitá?",
+      "answer_Y_cz": "Většinou na ně nechodím.",
+      "direct_answer_pos": "Ano, jsou důležitá.",
+      "direct_answer_neg": "Ne, nejsou důležitá.",
+      "distractor_lexical": "Většinou si v nové pekárně na rohu dám jen kávu.",
+      "distractor_associative": "Jmenovky na zvoncích usnadňují doručování pošty."
+    },
+    {
+      "id": 275,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Líbí se vám tu u nás?",
+      "answer_Y_cz": "Zatím je to velmi příjemná zkušenost.",
+      "direct_answer_pos": "Ano, líbí.",
+      "direct_answer_neg": "Ne, nelíbí.",
+      "distractor_lexical": "Zatím v našem novém domě nemáme v kuchyni dlažbu.",
+      "distractor_associative": "Domovní řád určuje pravidla klidu v domě."
+    },
+    {
+      "id": 283,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Líbí se vám v této čtvrti?",
+      "answer_Y_cz": "Zatím to vypadá moc fajn.",
+      "direct_answer_pos": "Ano, líbí.",
+      "direct_answer_neg": "Ne, nelíbí.",
+      "distractor_lexical": "Zatím to v tom silném dešti na výlet nevypadá.",
+      "distractor_associative": "Třídění odpadu je v mnoha čtvrtích povinné."
+    },
+    {
+      "id": 310,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Cestujete rád?",
+      "answer_Y_cz": "Nikdy jsem nebyl za hranicemi Virginie.",
+      "direct_answer_pos": "Ano, cestuju rád.",
+      "direct_answer_neg": "Ne, necestuju rád.",
+      "distractor_lexical": "Nikdy jsem v naší nové ulici v noci neviděl sovu.",
+      "distractor_associative": "Pasy pro cesty do ciziny vydávají na úřadě."
+    },
+    {
+      "id": 315,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Máte rád rodinu nablízku ve městě?",
+      "answer_Y_cz": "Je fajn mít je kousek od sebe.",
+      "direct_answer_pos": "Ano, mám to rád.",
+      "direct_answer_neg": "Ne, nemám to rád.",
+      "distractor_lexical": "Je fajn mít v kuchyni tenhle nový kávovar.",
+      "distractor_associative": "Rodokmeny jsou zajímavým koníčkem."
+    },
+    {
+      "id": 345,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Pracujete tady ve městě?",
+      "answer_Y_cz": "Pracuju na městské střední škole.",
+      "direct_answer_pos": "Ano, pracuju ve městě.",
+      "direct_answer_neg": "Ne, nepracuju ve městě.",
+      "distractor_lexical": "Pracuju na té velké zahradě skoro každé pondělí.",
+      "distractor_associative": "Rekonstrukce škol probíhá obvykle v létě."
+    },
+    {
+      "id": 373,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Jste tu v okolí nový?",
+      "answer_Y_cz": "Bydlím tu odjakživa.",
+      "direct_answer_pos": "Ano, jsem tu nový.",
+      "direct_answer_neg": "Ne, nejsem tu nový.",
+      "distractor_lexical": "Bydlím hned v tom patře nad tou místní lékárnou.",
+      "distractor_associative": "Katastrální mapy jsou dostupné online."
+    },
+    {
+      "id": 376,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Znáte tu v okolí někoho?",
+      "answer_Y_cz": "Seznámil jsem se s pár kolegy z práce.",
+      "direct_answer_pos": "Ano, znám.",
+      "direct_answer_neg": "Ne, neznám.",
+      "distractor_lexical": "Seznámil jsem se včera s novým návodem na pračku.",
+      "distractor_associative": "Vizitky se dnes už tolik nepoužívají."
+    },
+    {
+      "id": 394,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Vadilo by vám, kdyby byla občas slyšet hudba?",
+      "answer_Y_cz": "Já ji poslouchám v jednom kuse.",
+      "direct_answer_pos": "Ano, vadilo.",
+      "direct_answer_neg": "Ne, nevadilo.",
+      "distractor_lexical": "Já v jednom kuse včera v obchodě hledal batoh.",
+      "distractor_associative": "Sluchátka umožňují poslech i v noci."
+    },
+    {
+      "id": 406,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Pocházíte z tohoto města?",
+      "answer_Y_cz": "Přistěhoval jsem se z venkova.",
+      "direct_answer_pos": "Ano, pocházím odsud.",
+      "direct_answer_neg": "Ne, nepocházím odsud.",
+      "distractor_lexical": "Přistěhoval jsem si k oknu tu svoji novou palmu.",
+      "distractor_associative": "Migrace obyvatel je v Evropě běžný jev."
+    },
+    {
+      "id": 436,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Přistěhoval jste se nedávno?",
+      "answer_Y_cz": "Zrovna minulý měsíc jsem si tu koupil dům.",
+      "direct_answer_pos": "Ano, přistěhoval.",
+      "direct_answer_neg": "Ne, nepřistěhoval.",
+      "distractor_lexical": "Zrovna minulý měsíc jsem si koupil nové boty.",
+      "distractor_associative": "Hypotéky mají vliv na trh s nemovitostmi."
+    },
+    {
+      "id": 461,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Máte ráda hudbu?",
+      "answer_Y_cz": "Hudbu naprosto miluju.",
+      "direct_answer_pos": "Ano, mám ráda hudbu.",
+      "direct_answer_neg": "Ne, nemám ráda hudbu.",
+      "distractor_lexical": "Hudbu včera v rádiu přehlušil silný déšť.",
+      "distractor_associative": "Klavíry se musí pravidelně ladit."
+    },
+    {
+      "id": 470,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Máte nějaká zvířata?",
+      "answer_Y_cz": "Svého psa i kočku mám rád úplně stejně.",
+      "direct_answer_pos": "Ano, mám zvířata.",
+      "direct_answer_neg": "Ne, nemám zvířata.",
+      "distractor_lexical": "Svého souseda jsem včera venku nikde nezahlédl.",
+      "distractor_associative": "Granule pro psy se prodávají ve velkých pytlích."
+    },
+    {
+      "id": 471,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Grilujete rád?",
+      "answer_Y_cz": "Jsem vegan.",
+      "direct_answer_pos": "Ano, griluju rád.",
+      "direct_answer_neg": "Ne, negriluju rád.",
+      "distractor_lexical": "Jsem hrozně unavený z toho ranního vstávání.",
+      "distractor_associative": "Zelenina na grilu chutná mnoha lidem."
+    },
+    {
+      "id": 476,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Máte hodně koníčků?",
+      "answer_Y_cz": "Raději se držím jedné věci, která mi jde.",
+      "direct_answer_pos": "Ano, mám jich hodně.",
+      "direct_answer_neg": "Ne, nemám jich hodně.",
+      "distractor_lexical": "Raději se v noci téhle cestě v lese vyhýbám.",
+      "distractor_associative": "Sbírání známek patří k tradičním zálibám."
+    },
+    {
+      "id": 510,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Koupil jste ten dvoupatrový viktoriánský dům?",
+      "answer_Y_cz": "Nevím, kdo ho koupil, ale já to nebyl.",
+      "direct_answer_pos": "Ano, koupil jsem ho.",
+      "direct_answer_neg": "Ne, nekoupil jsem ho.",
+      "distractor_lexical": "Nevím, kde mám ty svoje nové klíče od vrat.",
+      "distractor_associative": "Realitní inzeráty jsou plné fotek pokojů."
+    },
+    {
+      "id": 554,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Díváte se rád na filmy?",
+      "answer_Y_cz": "Často chodím do kina tady kousek.",
+      "direct_answer_pos": "Ano, dívám.",
+      "direct_answer_neg": "Ne, nedívám.",
+      "distractor_lexical": "Často v naší nové ložnici v noci hrozně větráme.",
+      "distractor_associative": "Dokumentární filmy bývají často poučné."
+    },
+    {
+      "id": 556,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Pocházíte z tohoto města?",
+      "answer_Y_cz": "Vyrostl jsem tady.",
+      "direct_answer_pos": "Ano, pocházím odsud.",
+      "direct_answer_neg": "Ne, nepocházím odsud.",
+      "distractor_lexical": "Vyrostl jsem o deset centimetrů za dva roky.",
+      "distractor_associative": "Mateřské školy bývají v centrech měst plné."
+    },
+    {
+      "id": 586,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Máte tu v okolí nějaké přátele?",
+      "answer_Y_cz": "Pár jich tu je.",
+      "direct_answer_pos": "Ano, mám.",
+      "direct_answer_neg": "Ne, nemám.",
+      "distractor_lexical": "Pár starých věcí jsem včera nechal u kontejneru.",
+      "distractor_associative": "Parkování u hřišť bývá o víkendu složité."
+    },
+    {
+      "id": 589,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Máte odsud odněkud rodinu?",
+      "answer_Y_cz": "Sourozenci bydlí kousek odsud.",
+      "direct_answer_pos": "Ano, mám odsud rodinu.",
+      "direct_answer_neg": "Ne, nemám odsud rodinu.",
+      "distractor_lexical": "Sourozenci včera sledovali v televizi starý film.",
+      "distractor_associative": "Jmeniny se v českých kalendářích slaví denně."
+    },
+    {
+      "id": 594,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Pracujete tady v okolí?",
+      "answer_Y_cz": "Pracuju docela kousek odsud.",
+      "direct_answer_pos": "Ano, pracuju.",
+      "direct_answer_neg": "Ne, nepracuju.",
+      "distractor_lexical": "Pracuju u nás v kuchyni na té velké večeři.",
+      "distractor_associative": "Kancelářské židle musí být hlavně pohodlné."
+    },
+    {
+      "id": 601,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Bydlíte tu už dlouho?",
+      "answer_Y_cz": "Jenom pár měsíců.",
+      "direct_answer_pos": "Ano, bydlím.",
+      "direct_answer_neg": "Ne, nebydlím tu dlouho.",
+      "distractor_lexical": "Jenom pár starých knih jsem včera prodal.",
+      "distractor_associative": "Nájemní smlouvy se podepisují u notáře."
+    },
+    {
+      "id": 610,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Přistěhoval jste se z jiného města?",
+      "answer_Y_cz": "Přistěhoval jsem se z vedlejšího města.",
+      "direct_answer_pos": "Ano, přistěhoval.",
+      "direct_answer_neg": "Ne, nepřistěhoval.",
+      "distractor_lexical": "Přistěhoval jsem k oknu v obýváku tu svoji palmu.",
+      "distractor_associative": "Jízdní řády autobusů jsou vyvěšené na sloupcích."
+    },
+    {
+      "id": 614,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Baví vás hudba?",
+      "answer_Y_cz": "Hraju na saxofon.",
+      "direct_answer_pos": "Ano, baví.",
+      "direct_answer_neg": "Ne, nebaví.",
+      "distractor_lexical": "Hraju v našem obývacím pokoji stolní tenis.",
+      "distractor_associative": "Hudební nauka se vyučuje v základních školách."
+    },
+    {
+      "id": 618,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Jste v Austinu nový?",
+      "answer_Y_cz": "Zrovna jsem se přistěhoval z Dallasu.",
+      "direct_answer_pos": "Ano, jsem tu nový.",
+      "direct_answer_neg": "Ne, nejsem tu nový.",
+      "distractor_lexical": "Zrovna jsem včera v kuchyni rozbil talíř.",
+      "distractor_associative": "Letiště v Texasu patří k těm největším."
+    },
+    {
+      "id": 622,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Nechtěla byste někdy přijít na večeři?",
+      "answer_Y_cz": "To zní moc hezky.",
+      "direct_answer_pos": "Ano, chtěla.",
+      "direct_answer_neg": "Ne, nechtěla.",
+      "distractor_lexical": "To zní v našem rozbitém rádiu u nás v kuchyni hrozně.",
+      "distractor_associative": "Prostírání na stůl bývá látkové nebo papírové."
+    },
+    {
+      "id": 639,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Jste u nás ve čtvrti noví?",
+      "answer_Y_cz": "Bydlíme tu už dva roky.",
+      "direct_answer_pos": "Ano, jsme tu noví.",
+      "direct_answer_neg": "Ne, nejsme tu noví.",
+      "distractor_lexical": "Bydlíme hned v tom prvním poschodí starého domu.",
+      "distractor_associative": "Poplatky za televizi se platí každý měsíc."
+    },
+    {
+      "id": 650,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Chodíte ráda na pláž?",
+      "answer_Y_cz": "Miluju pobyt venku v přírodě.",
+      "direct_answer_pos": "Ano, chodím ráda.",
+      "direct_answer_neg": "Ne, nechodím ráda.",
+      "distractor_lexical": "Miluju, když mi včera v ranní poště přišel balík.",
+      "distractor_associative": "Opalovací krémy chrání pokožku před sluncem."
+    },
+    {
+      "id": 661,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Přeložili vás kvůli práci?",
+      "answer_Y_cz": "Stěhoval jsem se, abych byl blíž rodině.",
+      "direct_answer_pos": "Ano, kvůli práci.",
+      "direct_answer_neg": "Ne, ne kvůli práci.",
+      "distractor_lexical": "Stěhoval jsem včera z té garáže ty krabice.",
+      "distractor_associative": "Rodinné oslavy bývají v létě často venku."
+    },
+    {
+      "id": 680,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Bydlíte v domě už dlouho?",
+      "answer_Y_cz": "Zatím asi měsíc.",
+      "direct_answer_pos": "Ano, bydlím.",
+      "direct_answer_neg": "Ne, nebydlím tu dlouho.",
+      "distractor_lexical": "Zatím v domě nemáme v kuchyni funkční sporák.",
+      "distractor_associative": "Malování pokojů se doporučuje jednou za pět let."
+    },
+    {
+      "id": 691,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Bydlí v této čtvrti nějaké mladé rodiny?",
+      "answer_Y_cz": "Mladých rodin je u nás ve čtvrti docela dost.",
+      "direct_answer_pos": "Ano, bydlí.",
+      "direct_answer_neg": "Ne, nebydlí.",
+      "distractor_lexical": "Mladých sazenic máme na balkoně v truhlících hromadu.",
+      "distractor_associative": "Prodej kočárků probíhá hlavně ve specializovaných obchodech."
+    },
+    {
+      "id": 702,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Byl jste v poslední době v kině?",
+      "answer_Y_cz": "Na filmu v kině jsem nebyl už celá léta.",
+      "direct_answer_pos": "Ano, byl jsem.",
+      "direct_answer_neg": "Ne, nebyl jsem.",
+      "distractor_lexical": "Na včerejším výletě v lese jsem byl úplně sám.",
+      "distractor_associative": "Popcorn se prodává v různých velikostech."
+    },
+    {
+      "id": 731,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Byl jste někdy v jiné zemi?",
+      "answer_Y_cz": "Navštívil jsem tři různé země.",
+      "direct_answer_pos": "Ano, byl jsem.",
+      "direct_answer_neg": "Ne, nebyl jsem.",
+      "distractor_lexical": "Navštívil jsem včera v obchodě oddělení s nábytkem.",
+      "distractor_associative": "Kurz eura se mění podle situace na trzích."
+    },
+    {
+      "id": 745,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Byl jste v této oblasti už dřív?",
+      "answer_Y_cz": "Jen když jsme si to tu byli obhlédnout.",
+      "direct_answer_pos": "Ano, byl jsem.",
+      "direct_answer_neg": "Ne, nebyl jsem.",
+      "distractor_lexical": "Jen když jsme včera v noci slyšeli venku houkat sovu.",
+      "distractor_associative": "Dalekohledy jsou užitečné při pozorování ptactva."
+    },
+    {
+      "id": 747,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Máte manželku nebo partnerku?",
+      "answer_Y_cz": "Se svou ženou jsem ženatý už pět let.",
+      "direct_answer_pos": "Ano, mám.",
+      "direct_answer_neg": "Ne, nemám.",
+      "distractor_lexical": "Se svou novou sekačkou jsem včera pracoval tři hodiny.",
+      "distractor_associative": "Zlatnictví nabízejí široký výběr snubních prstenů."
+    },
+    {
+      "id": 749,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Už jste dostal klíč od bazénu?",
+      "answer_Y_cz": "Budu si o něj muset říct.",
+      "direct_answer_pos": "Ano, dostal.",
+      "direct_answer_neg": "Ne, nedostal.",
+      "distractor_lexical": "Budu v našem novém obýváku v pondělí malovat stěny.",
+      "distractor_associative": "Chlor se používá k dezinfekci vody v nádržích."
+    },
+    {
+      "id": 782,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Už jste byli v centru?",
+      "answer_Y_cz": "Zatím jsme toho moc neprozkoumali.",
+      "direct_answer_pos": "Ano, byli.",
+      "direct_answer_neg": "Ne, nebyli.",
+      "distractor_lexical": "Zatím jsme v naší kuchyni včera jenom dlouho vařili.",
+      "distractor_associative": "Hlavní náměstí bývá srdcem historického jádra."
+    },
+    {
+      "id": 797,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Máte ráda umění?",
+      "answer_Y_cz": "Pracuju jako ilustrátorka.",
+      "direct_answer_pos": "Ano, mám ráda umění.",
+      "direct_answer_neg": "Ne, nemám ráda umění.",
+      "distractor_lexical": "Pracuju hned v tom novém obchodě s čerstvým ovocem.",
+      "distractor_associative": "Štětce se vyrábějí z přírodních i umělých vláken."
+    },
+    {
+      "id": 806,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Kouříte někdy?",
+      "answer_Y_cz": "Přestal jsem ještě předtím, než se narodil syn.",
+      "direct_answer_pos": "Ano, kouřím.",
+      "direct_answer_neg": "Ne, nekouřím.",
+      "distractor_lexical": "Přestal jsem včera odpoledne venku před domem zalévat trávu.",
+      "distractor_associative": "Popelníky se dřív nacházely v každé restauraci."
+    },
+    {
+      "id": 813,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Cestoval jste už mimo republiku?",
+      "answer_Y_cz": "Vlastním nemovitost v Mexiku.",
+      "direct_answer_pos": "Ano, cestoval.",
+      "direct_answer_neg": "Ne, necestoval.",
+      "distractor_lexical": "Vlastním v našem novém domě hromadu krabic.",
+      "distractor_associative": "Sombrera patří k tradičním symbolům mexické kultury."
+    },
+    {
+      "id": 816,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Zajímáte se o umění?",
+      "answer_Y_cz": "Vůbec nevím, co bych si v životě bez umělců a umění počala.",
+      "direct_answer_pos": "Ano, zajímám.",
+      "direct_answer_neg": "Ne, nezajímám.",
+      "distractor_lexical": "Vůbec v té naší nové lednici nemůžu najít včerejší mléko.",
+      "distractor_associative": "Vernisáže bývají doprovázené drobným občerstvením."
+    },
+    {
+      "id": 832,
+      "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+      "question_X_cz": "Máte nějaké děti?",
+      "answer_Y_cz": "S manželem čekáme, až si budeme moct dovolit vlastní bydlení.",
+      "direct_answer_pos": "Ano, mám děti.",
+      "direct_answer_neg": "Ne, nemám děti.",
+      "distractor_lexical": "S manželem jsme včera na terase v tichu pozorovali hvězdy.",
+      "distractor_associative": "Stavební spoření pomáhá lidem s financováním domů."
+    }
+  ]

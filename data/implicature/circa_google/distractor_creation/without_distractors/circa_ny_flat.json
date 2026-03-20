@@ -1,0 +1,332 @@
+[
+  {
+    "id": 2,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Budeš si do bytu brát nějaká zvířata?",
+    "answer_Y_cz": "Žádné mazlíčky nemám."
+  },
+  {
+    "id": 16,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Bereš si s sebou nějaká zvířata?",
+    "answer_Y_cz": "Vezmu si svého psa."
+  },
+  {
+    "id": 37,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Radila ses s partnerem nebo s rodiči?",
+    "answer_Y_cz": "S partnerem jsem nemluvila celou věčnost."
+  },
+  {
+    "id": 39,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Potřebuješ hodně místa?",
+    "answer_Y_cz": "Stačila by mi malá garsonka."
+  },
+  {
+    "id": 46,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Bydlel jsi už někdy v New Yorku?",
+    "answer_Y_cz": "Byl jsem tam jen na dovolené."
+  },
+  {
+    "id": 52,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Zjišťoval jsi si něco o čtvrtích, které tě zajímají?",
+    "answer_Y_cz": "Dost jsem toho hledal na internetu."
+  },
+  {
+    "id": 54,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Máš nějaké domácí mazlíčky?",
+    "answer_Y_cz": "Mám kočku."
+  },
+  {
+    "id": 92,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Musí to být přímo v centru?",
+    "answer_Y_cz": "Může to být i na okraji."
+  },
+  {
+    "id": 95,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Je to blízko stanice metra?",
+    "answer_Y_cz": "Je to hned v téhle ulici."
+  },
+  {
+    "id": 97,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Budeš ten byt s někým sdílet?",
+    "answer_Y_cz": "Těším se, až budu bydlet sám."
+  },
+  {
+    "id": 110,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Je to v bezpečné oblasti?",
+    "answer_Y_cz": "V téhle čtvrti k moc zločinům nedochází."
+  },
+  {
+    "id": 117,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Chceš bydlet v nějaké dostupnější části města?",
+    "answer_Y_cz": "Chtěla bych něco trochu levnějšího."
+  },
+  {
+    "id": 128,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Máš nějaký strop, kolik chceš platit?",
+    "answer_Y_cz": "Maximálně tři sta dolarů."
+  },
+  {
+    "id": 146,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Chtěl bys dům s vrátným?",
+    "answer_Y_cz": "To by bylo fajn."
+  },
+  {
+    "id": 175,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Uvažuješ o spolubydlících?",
+    "answer_Y_cz": "Peníze navíc budu potřebovat."
+  },
+  {
+    "id": 181,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Nevadí ti hluk velkoměsta?",
+    "answer_Y_cz": "To zvládnu."
+  },
+  {
+    "id": 188,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Máš rád prostorné byty?",
+    "answer_Y_cz": "Přijdou mi skvělé."
+  },
+  {
+    "id": 190,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Můžeš si dovolit tak vysoký nájem?",
+    "answer_Y_cz": "Mám dost hotovosti, abych nějakou dobu vydržel."
+  },
+  {
+    "id": 197,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Můžeš doložit potvrzení o příjmu?",
+    "answer_Y_cz": "Měl bys to zvládnout."
+  },
+  {
+    "id": 248,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Už jsi začal hledat?",
+    "answer_Y_cz": "Podívám se, až tam dorazíme."
+  },
+  {
+    "id": 255,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Můžeš doložit potvrzení o příjmu?",
+    "answer_Y_cz": "Zatím jsem tam nedostal práci."
+  },
+  {
+    "id": 263,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Budeš mít byt přímo ve městě?",
+    "answer_Y_cz": "Můžu si dovolit jen New Jersey."
+  },
+  {
+    "id": 290,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Máte děti?",
+    "answer_Y_cz": "Vzhledem k přelidnění jsem se vědomě rozhodla k tomu problému nepřispívat."
+  },
+  {
+    "id": 291,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Plánuješ chodit do práce pěšky?",
+    "answer_Y_cz": "Koupil jsem si kolo."
+  },
+  {
+    "id": 293,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Je New York tvoje jediná možnost?",
+    "answer_Y_cz": "Mají volné místo i v Bostonu."
+  },
+  {
+    "id": 294,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Díval ses, co se teď nabízí?",
+    "answer_Y_cz": "Trochu jsem na to koukal."
+  },
+  {
+    "id": 301,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Zjišťoval jsi si, jak dlouho ti potrvá cesta do práce z různých čtvrtí?",
+    "answer_Y_cz": "To si ještě musím spočítat."
+  },
+  {
+    "id": 326,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Bydlel jsi už někdy v New Yorku?",
+    "answer_Y_cz": "Bydlel jsem už ve třech různých čtvrtích."
+  },
+  {
+    "id": 329,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Chceš bydlet blízko zastávky metra?",
+    "answer_Y_cz": "To je samozřejmost."
+  },
+  {
+    "id": 341,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Uvažuješ o tom, že se do New Yorku přestěhuješ natrvalo?",
+    "answer_Y_cz": "Do důchodu tam být nechci."
+  },
+  {
+    "id": 357,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Nevadí ti dlouhé jízdy metrem?",
+    "answer_Y_cz": "V metru mám aspoň čas si víc číst."
+  },
+  {
+    "id": 361,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Máš v New Yorku nějaké přátele nebo rodinu?",
+    "answer_Y_cz": "Většina mých kamarádů tam bydlí."
+  },
+  {
+    "id": 364,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Má to dvě ložnice?",
+    "answer_Y_cz": "Je to garsonka."
+  },
+  {
+    "id": 367,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Nevadil by ti suterénní byt?",
+    "answer_Y_cz": "Potřebuju bydlet nad zemí."
+  },
+  {
+    "id": 379,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Nechceš zkusit obvolat nějaké realitní makléře?",
+    "answer_Y_cz": "To by mi pomohlo."
+  },
+  {
+    "id": 380,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Myslíš, že si v New Yorku najdeš práci?",
+    "answer_Y_cz": "Je to místo plné příležitostí."
+  },
+  {
+    "id": 386,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Chceš se stěhovat přímo do centra?",
+    "answer_Y_cz": "Manhattan je moje první volba."
+  },
+  {
+    "id": 426,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Můžeš si dovolit žít v New Yorku?",
+    "answer_Y_cz": "Potřebuju druhou práci."
+  },
+  {
+    "id": 453,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Budeš trávit Vánoce v Calgary?",
+    "answer_Y_cz": "Budu v Neapoli."
+  },
+  {
+    "id": 479,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Je to dobrá čtvrť?",
+    "answer_Y_cz": "Je to lepší adresa s nízkou kriminalitou."
+  },
+  {
+    "id": 527,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Už ses rozhodl, který chceš?",
+    "answer_Y_cz": "Jeden byt už jsem si vybral."
+  },
+  {
+    "id": 540,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Plánujete v tom bytě sami bydlet?",
+    "answer_Y_cz": "Ten byt je pro mě a pro manžela."
+  },
+  {
+    "id": 587,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Nabízíš tu požadovanou cenu?",
+    "answer_Y_cz": "Trochu méně."
+  },
+  {
+    "id": 591,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Máš teď hypotéku?",
+    "answer_Y_cz": "Loni jsem ji doplatil."
+  },
+  {
+    "id": 619,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Chtěla bys mít balkon?",
+    "answer_Y_cz": "To by bylo ideální."
+  },
+  {
+    "id": 642,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Můžeš se stěhovat už v dubnu?",
+    "answer_Y_cz": "Dřív než v červenci to nepůjde."
+  },
+  {
+    "id": 643,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Uvažuješ o stěhování v brzké době?",
+    "answer_Y_cz": "Co nejdřív to půjde."
+  },
+  {
+    "id": 656,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Už ses rozhodl, v jaké čtvrti chceš kupovat?",
+    "answer_Y_cz": "Pořád se ještě rozmýšlím."
+  },
+  {
+    "id": 685,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Nabízíš tu vyvolávací cenu?",
+    "answer_Y_cz": "Požádal jsem o slevu za nastěhování."
+  },
+  {
+    "id": 696,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Není to hrozně drahé?",
+    "answer_Y_cz": "Je to víc, než jsem si myslel."
+  },
+  {
+    "id": 710,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Budeš jezdit do práce autem?",
+    "answer_Y_cz": "To mám v plánu."
+  },
+  {
+    "id": 737,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Byl jsi někdy v New Yorku?",
+    "answer_Y_cz": "Tohle bude moje poprvé."
+  },
+  {
+    "id": 738,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Má ta čtvrť dobrou pověst?",
+    "answer_Y_cz": "Na všech stránkách, co jsem koukal, měla ta oblast skvělé hodnocení."
+  },
+  {
+    "id": 741,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Musí to být přímo ve městě?",
+    "answer_Y_cz": "To je v plánu."
+  },
+  {
+    "id": 750,
+    "context_cz": "Y právě řekl X, že uvažuje o koupi bytu v New Yorku.",
+    "question_X_cz": "Hledáš nějaký drahý byt?",
+    "answer_Y_cz": "Potřebuju spíš něco levnějšího."
+  }
+]

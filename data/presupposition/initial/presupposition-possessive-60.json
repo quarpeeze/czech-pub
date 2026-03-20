@@ -1,0 +1,1500 @@
+[
+    {
+      "id": "presupposition-possessive-1",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Novinář informuje o trestní kauze, která se týká Samera.",
+      "utterance": "Novinář: Stíháni jsou i Samerův bratr Omar a švagrová Fátima, původním jménem Kristýna.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Samer má bratra a švagrovou",
+        "DistractorNegation": "Samer nemá bratra ani švagrovou.",
+        "DistractorLexicalEdit": "Samer má bratra a tchyni.",
+        "DistractorAssociative0": "Kristýna je Samerovo původní jméno."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-2",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Novinář informuje o stanovisku ministra spravedlnosti USA k probíhajícímu vyšetřování.",
+      "utterance": "Novinář: Ministr spravedlnosti USA William Barr se nechystá jmenovat zvláštního vyšetřovatele v kauze údajných daňových úniků Bidenova syna Huntera, které vyšetřuje jeho resort.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Biden má syna",
+        "DistractorNegation": "Biden nemá syna.",
+        "DistractorLexicalEdit": "Biden má dceru.",
+        "DistractorAssociative0": "Hunter Biden je ministrem spravedlnosti USA."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-3",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Novinář shrnuje kariéru herce a připomíná okolnosti vzniku známého filmu.",
+      "utterance": "Novinář: Kirkův syn Michael Douglas později stál jako producent za vznikem filmu Miloše Formana podle stejné předlohy Kena Keseyho, hlavní roli ovšem už Kirk kvůli vyššímu věku hrát nemohl a nahradil jej Jack Nicholson.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Kirk má syna",
+        "DistractorNegation": "Kirk nemá syna.",
+        "DistractorLexicalEdit": "Kirk má dceru.",
+        "DistractorAssociative0": "Miloš Forman hrál hlavní roli ve filmu Kena Keseyho."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-4",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Sportovní novinář popisuje vyjednávání o přestupu hráče a roli jeho okolí.",
+      "utterance": "Novinář: Směr jednání však udával Raiola, který se spojil s Haalandovým otcem Alfem Ingem.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Haaland má otce",
+        "DistractorNegation": "Haaland nemá otce.",
+        "DistractorLexicalEdit": "Haaland má strýce.",
+        "DistractorAssociative0": "Alf Inge Haaland vyjednával o přestupu s Raiolovým otcem."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-5",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "V recenzi televizního díla autor stručně představuje postavy a obsazení.",
+      "utterance": "Autor: Schránčlivého Petra a jinde zamilovanou Annu doplňuje Anina přítelkyně na obrazovce Hedvika v podání Ivy Pazderkové.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Anna má přítelkyni",
+        "DistractorNegation": "Anna nemá přítelkyni.",
+        "DistractorLexicalEdit": "Anna má sestru.",
+        "DistractorAssociative0": "Iva Pazderková je Anina přítelkyně v reálném životě."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-6",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Komentátor rozebírá sporná obvinění a důvody, proč se veřejnost přiklání na různé strany.",
+      "utterance": "Komentátor: To, že Allen nebyl nikdy odsouzen (ba ani souzen) a že zároveň nyní již dávno dospělá Dylan a její matka Mia Farrowová na obviněních trvají a důrazně je v tom podporuje i Dylanin bratr Ronan Farrow, vytváří ukázkovou situaci tvrzení proti tvrzení.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Dylan má bratra",
+        "DistractorNegation": "Dylan nemá bratra.",
+        "DistractorLexicalEdit": "Dylan na sestru.",
+        "DistractorAssociative0": "Mia Farrowová byla odsouzena na základě tvrzení Ronana Farrowa."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-7",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Komentátor shrnuje indicie v jedné kauze a zmiňuje související vztahy mezi aktéry.",
+      "utterance": "Komentátor: Že si Grygárkova rodina pořídila v Janouškově sídle U Myšáka byt, že Grygárkův nadřízený Rampula po odchodu z funkce obratem zakotvil ve službách Ivo Rittiga, to vše jsou jen indicie.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Grygárek má nadřízeného",
+        "DistractorNegation": "Grygárek nemá nadřízeného.",
+        "DistractorLexicalEdit": "Grygárek má podřízeného.",
+        "DistractorAssociative0": "Ivo Rittig je Grygárkův přímý nadřízený v sídle U Myšáka."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-8",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Jde o kauzu úplatků a rodinných vazeb kolem španělské monarchie, která skončila soudním rozsudkem.",
+      "utterance": "Za braní úplatků byl nakonec odsouzen manžel Cristiny a králův zeť Inaki Urdangarin téměř k šesti letům vězení.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Zmíněný král má zetě",
+        "DistractorNegation": "Zmíněný král nemá zetě.",
+        "DistractorLexicalEdit": "Zmíněný král má švagra.",
+        "DistractorAssociative0": "Cristina byla odsouzena za braní úplatků královi."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-9",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Jde o spor o autorství a to, kdo skutečně vytvořil první verze známé loutky.",
+      "utterance": "Ale tím, kdo úplně prvního Spejbla vyřezal, je Augustinův strýc Karel Nosek.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Augustin má strýce",
+        "DistractorNegation": "Augustin nemá strýce.",
+        "DistractorLexicalEdit": "Augustin má tetu.",
+        "DistractorAssociative0": "Spejbl byl ve skutečnosti Augustinův strýc."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-10",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Vypravěč vzpomíná na rodinné zázemí a osoby, které ho od dětství ovlivňovaly.",
+      "utterance": "Vypravěč: Dědův strýc byl zase akademický malíř Alois Kalvoda.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Děda vypravěče měl strýce",
+        "DistractorNegation": "Děda vypravěče neměl strýce.",
+        "DistractorLexicalEdit": "Děda vypravěče měl bratra.",
+        "DistractorAssociative0": "Vypravěč byl akademickým malířem stejně jako děda."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-11",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Novinář popisuje případ kolem zásahu policie při zatýkání Chouviata.",
+      "utterance": "Novinář: Chouviatův otec řekl, že jeho syn povalený při zatýkání na zem volal, že nemůže dýchat – tedy stejná slova, která pronesl krátce před svou smrtí i Floyd.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Chouviat má otce",
+        "DistractorNegation": "Chouviat nemá otce.",
+        "DistractorLexicalEdit": "Chouviat má bratra.",
+        "DistractorAssociative0": "Floyd byl otcem Chouviata, který nemohl dýchat."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-12",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Novinář v článku popisuje situaci kolem Samera a jeho okolí.",
+      "utterance": "Novinář: Na mysli měl šest dětí svého staršího bratra, které Samerova manželka vychovává v Jordánsku.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Samer má manželku",
+        "DistractorNegation": "Samer nemá manželku.",
+        "DistractorLexicalEdit": "Samer má sestru.",
+        "DistractorAssociative0": "Samerův starší bratr vychovává šest dětí v Jordánsku."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": "revise"
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-13",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Novinář popisuje obnovu pomníku a událost spojenou s jeho znovuosazením.",
+      "utterance": "Novinář: Nové sklo osadil Huňát za přítomnosti Zuzany Marešové, která reprezentovala Wintonovy děti.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Winton má děti",
+        "DistractorNegation": "Winton nemá děti.",
+        "DistractorLexicalEdit": "Winton má vnuky.",
+        "DistractorAssociative0": "Winton osadil nové sklo společně s Huňátem."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-14",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "V rozhovoru Charlotte popisuje emotivní chvíle spojené s udělováním cen a Pavlovým úspěchem.",
+      "utterance": "Charlotte: Přišlo mi krásné, že nominaci proměnil právě, když jsme byli u Pavlových rodičů.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Pavel má rodiče",
+        "DistractorNegation": "Pavel nemá rodiče.",
+        "DistractorLexicalEdit": "Pavel má prarodiče.",
+        "DistractorAssociative0": "Pavlovi rodiče proměnili nominaci na cenu místo Charlotte."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-15",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Novinář popisuje vlastnické souvislosti kolem památkově chráněného domu.",
+      "utterance": "Novinář: Letošní rozpočet s revitalizací památkově chráněného domu, který obec koupila před sedmi lety od potomků spisovatelovy manželky, ale nepočítá.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Zmíněný spisovatel má manželku",
+        "DistractorNegation": "Zmíněný spisovatel nemá manželku.",
+        "DistractorLexicalEdit": "Zmíněný spisovatel má sestru.",
+        "DistractorAssociative0": "Spisovatelova manželka je autorkou letošního rozpočtu obce."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-16",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Reportér popisuje následky útoku v okolí zasaženého domu.",
+      "utterance": "Reportér: Aramův soused pár minut před jejím dopadem dům opustil a šel ven na vzduch.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Aram má souseda",
+        "DistractorNegation": "Aram nemá souseda.",
+        "DistractorLexicalEdit": "Aram má kolegu.",
+        "DistractorAssociative0": "Aram opustil dům svého souseda těsně před dopadem."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-17",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "V rozhovoru respondent vzpomíná na své pobyty v domě v Litovli.",
+      "utterance": "Respondent: Ano, bydlí tam sestřenice Zdena, míval jsem tam dříve dokonce jeden pokoj, kde původně spala Gustavova služka.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Zdena má syna",
+        "DistractorNegation": "Zdena nemá syna.",
+        "DistractorLexicalEdit": "Zdena má dceru.",
+        "DistractorAssociative0": "Gustavova služka si udělala byt v Litovli místo Zdenina syna."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-18",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "V článku o zahradě autor popisuje, jak lidé v okolí přikrmují lesní zvířata.",
+      "utterance": "Autor článku: Terezčiny děti jim tam nosí jablíčka a mrkev.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Tereza má děti",
+        "DistractorNegation": "Tereza nemá děti.",
+        "DistractorLexicalEdit": "Tereza má vnoučata.",
+        "DistractorAssociative0": "Lesní zvířata nosí Tereziným dětem jablíčka a mrkev."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-19",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Článek o chalupě popisuje zahradu a vybavení domu.",
+      "utterance": "Autor článku: Květiny jsou doménou Oldřichovy manželky a zdobí snad všechna zákoutí zahrady.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Oldřich má manželku",
+        "DistractorNegation": "Oldřich nemá manželku.",
+        "DistractorLexicalEdit": "Oldřich má snoubenku.",
+        "DistractorAssociative0": "Oldřichova manželka je majitelkou celé zahrady i chalupy."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-20",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Autor v textu popisuje podvod, při němž pachatelé opakovaně vylákali platby za údajnou zásilku.",
+      "utterance": "Autor: Zásilka ani voják ale nikdy nedorazili, žádosti o platby se opakovaly a Luciina babička jim opakovaně vyhověla.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Lucie má babičku",
+        "DistractorNegation": "Lucie nemá babičku.",
+        "DistractorLexicalEdit": "Lucie má tetu.",
+        "DistractorAssociative0": "Luciina babička poslala vojákovi balíček, který nikdy nedorazil."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-21",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "V textu se popisují okolnosti koupě domu v jedné obci a související dění mezi místními.",
+      "utterance": "Autor: Podle pamětníků získal dům pro svého syna Mirův otec Lajoš, když jej v roce 1986 odkoupil od dcery zemřelé neromské vesničanky.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mir má (nebo měl) otce",
+        "DistractorNegation": "Mir nemá (ani neměl) otce.",
+        "DistractorLexicalEdit": "Mir má (nebo měl) strýce.",
+        "DistractorAssociative0": "Mirův syn prodal dům dceři neromské vesničanky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-22",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Autor textu popisuje historické oděvy a odkazuje na zobrazení na reliéfech.",
+      "utterance": "Autor: Dobře patrný je např. na reliéfu Nabukadnezarova syna Nabonida.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Nabukadnezar má (nebo měl) syna",
+        "DistractorNegation": "Nabukadnezar nemá (ani neměl) syna.",
+        "DistractorLexicalEdit": "Nabukadnezar má (nebo měl) dceru.",
+        "DistractorAssociative0": "Nabonid vytvořil reliéf svého otce Nabukadnezara."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-23",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "V textu se popisuje řízené setkání mezi pozůstalými a pachatelem v rámci restorativního procesu.",
+      "utterance": "Autor: Při jednom takovém řízeném setkání v Kalifornii se sešli 41letá vdova Patty O’Reillyová, její sestra Mary a 49letý vězeň Mike Albertson, který si odpykával 14letý trest za zabití Pattyina manžela Dannyho.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Patty O’Reillyová má (nebo měla) manžela",
+        "DistractorNegation": "Patty O’Reillyová nemá (ani neměla) manžela.",
+        "DistractorLexicalEdit": "Patty O’Reillyová má (nebo měla) manželku.",
+        "DistractorAssociative0": "Danny zabil Mikea Albertsona před zraky Patty a Mary."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-24",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "V textu se popisuje změna na trůnu a vztahy mezi významnými postavami.",
+      "utterance": "Autor: Novým králem se však nestává Karel z Valois, ale his syn Filip, toho pořadí IV., nevlastní bratr Karlovy manželky Blanky.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Karel z Valois má (nebo měl) syna",
+        "DistractorNegation": "Karel z Valois nemá (ani neměl) syna.",
+        "DistractorLexicalEdit": "Karel z Valois má (nebo měl) dceru.",
+        "DistractorAssociative0": "Filip IV. je manželem Karlovy nevlastní sestry Blanky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-25",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Autor textu popisuje cestu do Říma a související korunovační obřady.",
+      "utterance": "Autor: Dovídáme se i o podrobnostech císařské korunovace čtvrté Karlovy manželky Alžběty (Elišky) Pomořanské.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Karel má (nebo měl) manželku",
+        "DistractorNegation": "Karel nemá (ani neměl) manželku.",
+        "DistractorLexicalEdit": "Karel má (nebo měl) snoubenku.",
+        "DistractorAssociative0": "Alžběta Pomořanská korunovala Karla císařem v Římě."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-26",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "V textu se převypravuje scéna z divadelní hry a popisuje plán jedné skupiny.",
+      "utterance": "Autor: Jeden z nich navrhne, aby si dary zavázali vládcovy syny (tedy protagonisty hry), kteří se prý pak za ně u otce přimluví.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Zmíněný vládce má syny",
+        "DistractorNegation": "Zmíněný vládce nemá syny.",
+        "DistractorLexicalEdit": "Zmíněný vládce má dcery.",
+        "DistractorAssociative0": "Vládce přinese dary svým synům, aby se u něj přimluvili."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-27",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "V textu se shrnuje děj hry a postup některých postav v napjaté situaci.",
+      "utterance": "Autor: Tutéž taktiku se stejným výsledkem zkouší sultánův rádce Alladinus na zbylé dva bratry.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Zmíněný sultán má rádce",
+        "DistractorNegation": "Zmíněný sultán nemá rádce.",
+        "DistractorLexicalEdit": "Zmíněný sultán má sluhu.",
+        "DistractorAssociative0": "Sultán zkouší Alladinovu taktiku na své vlastní bratry."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-28",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Vyprávění zachycuje napjatou situaci po nehodě a potřebu někoho kontaktovat.",
+      "utterance": "Teď ale věděl, že musí zavolat svému bratrovi, Nickovu otci, Joeovi Dellasegovi, a oznámit mu, co se stalo.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Nick má otce",
+        "DistractorNegation": "Nick nemá otce.",
+        "DistractorLexicalEdit": "Nick má strýce.",
+        "DistractorAssociative0": "Joe Dellasego je Nickův bratr a syn vypravěče."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-29",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "V textu se popisuje vyjednávání o průchodu územím a podmínky dohody mezi stranami.",
+      "utterance": "Autor: Po špatných zkušenostech s křižáky se král Koloman tentokrát zdráhal vydat k průchodu povolení, ale když obdržel mimo odměnu a příslib i jako rukojmí rodinu Gottfriedova bratra Balduina, nakonec souhlasil.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Gottfried má (nebo měl) bratra",
+        "DistractorNegation": "Gottfried nemá (ani neměl) bratra.",
+        "DistractorLexicalEdit": "Gottfried má (nebo měl) švagra.",
+        "DistractorAssociative0": "Balduin vydal krále Kolomana jako rukojmí Gottfriedově rodině."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-30",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Historický text líčí kolaps výpravy po nečekané smrti vladaře během tažení.",
+      "utterance": "Císařův syn Bedřich Švábský neměl dost energie, aby udržel zoufalé vojsko, které se cítilo vázané výhradně na císaře, pohromadě, a tak většina účastníků nastoupila z kylikijských a syrských přístavů cestu domů.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Zmíněný císař má (nebo měl) syna",
+        "DistractorNegation": "Zmíněný císař nemá (ani neměl) syna.",
+        "DistractorLexicalEdit": "Zmíněný císař má (nebo měl) dceru.",
+        "DistractorAssociative0": "Císař Bedřich Švábský nastoupil cestu domů z přístavu bez vojska."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-31",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "V textu se analyzuje konverzace a popisuje se, co v ní vyvolalo pobavené reakce.",
+      "utterance": "Autor: To, co Marošovy syny pobavilo, byla skutečnost, jakým způsobem a jak často se Maroš k takovému tématu v dané konverzaci vracel.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Maroš má syny",
+        "DistractorNegation": "Maroš nemá syny.",
+        "DistractorLexicalEdit": "Maroš má dcery.",
+        "DistractorAssociative0": "Marošovi synové se v konverzaci neustále vraceli k Marošovým tématům."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-32",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Vyprávění sleduje útěk od dvora a následné pátrání po zmizelém člověku.",
+      "utterance": "Když Thamarův otec, kterého mezitím hněv přešel, zjistí, že syn zmizel, dá ho hledat.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Thamar má (nebo měl) otce",
+        "DistractorNegation": "Thamar nemá (ani neměl) otce.",
+        "DistractorLexicalEdit": "Thamar má (nebo měl) bratra.",
+        "DistractorAssociative0": "Thamar dal hledat svého otce, který zmizel od dvora."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-33",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Autor textu komentuje literární situaci a popisuje doručení balíčku postavám.",
+      "utterance": "Autor: Posel jim přinese od matky balíček, v němž se nachází žíněné košile (Edmundova matka prý skutečně neustále nosila žíněnou košili a vedla k tomu i své děti).",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Edmund má (nebo měl) matku",
+        "DistractorNegation": "Edmund nemá (ani neměl) matku.",
+        "DistractorLexicalEdit": "Edmund má (nebo měl) babičku.",
+        "DistractorAssociative0": "Edmund přinesl své matce balíček se žíněnými košilemi."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-34",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "V textu se popisuje jednání městské rady o změnách ve smluvních podmínkách.",
+      "utterance": "Autor: Zařazení Haagovy manželky jako osoby, na kterou by přešel šestiletý pacht v případě Haagova úmrtí, bylo povoleno s vytknutím přísného dodržování smluvních podmínek.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Haag má (nebo měl) manželku",
+        "DistractorNegation": "Haag nemá (ani neměl) manželku.",
+        "DistractorLexicalEdit": "Haag má (nebo měl) snoubenku.",
+        "DistractorAssociative0": "Haagova manželka schválila přechod šestiletého pachtu na městskou radu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-35",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Autor textu vysvětluje důvody přesunu papežského dvora do Avignonu.",
+      "utterance": "Autor: V roce 1309 Klement V., rodilý Francouz, rozhodl přestěhovat papežský dvůr do Avignonu, měl k tomu dobré důvody. Politické poměry v Římě byly rozhárané a šlechtické rody mezi sebou válčily, kdežto francouzský král byl Klementův přítel.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Klement V. má (nebo měl) přítele",
+        "DistractorNegation": "Klement V. nemá (ani neměl) přítele.",
+        "DistractorLexicalEdit": "Klement V. má (nebo měl) spojence.",
+        "DistractorAssociative0": "Francouzský král rozhodl o přestěhování Klementova dvora do Říma."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-36",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "V textu se komentuje biblický příběh a upozorňuje se na detail v ději.",
+      "utterance": "Autor: Zajímavým detailem je, že všemu přihlíží Mojžíšova sestra, která faraonově dceři opatří jako kojnou pro dítě jeho vlastní matku.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mojžíš má (nebo měl) sestru",
+        "DistractorNegation": "Mojžíš nemá (ani neměl) sestru.",
+        "DistractorLexicalEdit": "Mojžíš má (nebo měl) bratra.",
+        "DistractorAssociative0": "Faraonova dcera je ve skutečnosti vlastní matkou Mojžíšovy sestry."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-37",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "V cestopisném vyprávění se popisuje rozhovor s místními na Kavkaze.",
+      "utterance": "Pak začali vyprávět, že dědeček z matčiny strany byl Stalinův bratr – to už je lepší, protože ačkoliv jsou v Gruzii na Stalina všichni hrdí, jeho synovce jsem ještě nepotkal.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Stalin má (nebo měl) bratra",
+        "DistractorNegation": "Stalin nemá (ani neměl) bratra.",
+        "DistractorLexicalEdit": "Stalin má (nebo měl) strýce.",
+        "DistractorAssociative0": "Stalinův bratr byl gruzínským dědečkem vypravěče."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": "may be failed"
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-38",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Vypravěč v historickém vyprávění shrnuje kariéru diplomata a jeho působení v Ženevě.",
+      "utterance": "Vypravěč: Nějakých osmnáct let zářné kariéry Matějova syna jako diplomata a mezinárodního státníka mu vyneslo obdiv nejen delegátů v Palais des Nations (Paláci národů) na severním břehu Ženevského jezera, ale celého světa.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Matěj má (nebo měl) syna",
+        "DistractorNegation": "Matěj nemá (ani neměl) syna.",
+        "DistractorLexicalEdit": "Matěj má (nebo měl) dceru.",
+        "DistractorAssociative0": "Matěj pracoval osmnáct let jako diplomat v Palais des Nations pro svého syna."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-39",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Vypravěč líčí válečnou zkušenost a popisuje reakci rodiny po násilném činu v okolí.",
+      "utterance": "Vypravěč: Chlapcův otec se vztekle díval na Poláky: Prišli nam pomagať bandity!",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Zmíněný chlapec má (nebo měl) otce",
+        "DistractorNegation": "Zmíněný chlapec nemá (ani neměl) otce.",
+        "DistractorLexicalEdit": "Zmíněný chlapec má (nebo měl) dědečka.",
+        "DistractorAssociative0": "Polští bandité přišli pomáhat chlapcovu otci v boji."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-40",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Mluvčí popisuje vojensko-politickou situaci a kroky významné postavy během konfliktu.",
+      "utterance": "Mluvčí: Saladinův bratr však vzpouru účinně potlačil a je nepravděpodobné, že by Saladin věřil, že jeho přítomnost je nutná.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Saladin měl bratra.",
+        "DistractorNegation": "Saladin nikdy neměl bratra.",
+        "DistractorLexicalEdit": "Saladin měl syna.",
+        "DistractorAssociative0": "Saladin potlačil vzpouru svého bratra, aby zajistil svou přítomnost."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova_literatura",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-41",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Ve vyprávění se vysvětluje situace na Trojánské stanici a práce na tajném projektu.",
+      "utterance": "Bellina dcera Edna sloužila právě teď na Trojánské stanici, kde pracovala na nové generaci hvězdoletů, „Lodí A“.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Bella má dceru",
+        "DistractorNegation": "Bella nemá dceru.",
+        "DistractorLexicalEdit": "Bella má syna.",
+        "DistractorAssociative0": "Trojánská stanice byla pojmenována po Bellině dceři Edně."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-42",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Ve vyprávění se v síni probírá rodinná minulost a vztahy několika lidí kolem Margaret.",
+      "utterance": "Warwickova manželka Jory byla u Joanny, když se Margaret narodila, a stala se její kmotrou.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Warwick má manželku",
+        "DistractorNegation": "Warwick nemá manželku.",
+        "DistractorLexicalEdit": "Warwick má snoubenku.",
+        "DistractorAssociative0": "Margaret se stala kmotrou Warwickovy manželky Jory."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-43",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "U večeře se probírají vztahy a to, kdo by se komu mohl líbit.",
+      "utterance": "„A co Florencina sestra Melánie?“ nadhodila, zatímco si Harry nakládal šunku na talíř.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Florencina má sestru",
+        "DistractorNegation": "Florencina nemá sestru.",
+        "DistractorLexicalEdit": "Florencina má neteř.",
+        "DistractorAssociative0": "Harry je bratrem Florenciny sestry Melánie."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-44",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "V refektáři po ostrých slovech znovu roste napětí a Eadulf nervózně sleduje reakce kolem sebe.",
+      "utterance": "„Zkrátka, tváří v tvář důkazu o racionálním příběhu Kristův bratr Donnchad zjistil, že nemůže už věřit tomu, co logika označuje za nemožné.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Kristus má bratra",
+        "DistractorNegation": "Kristus nemá bratra.",
+        "DistractorLexicalEdit": "Kristus má sestru.",
+        "DistractorAssociative0": "Eadulf je bratrem Krista a Donnchada v racionálním příběhu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-45",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Patrik je s Klausem v bytě a ve spěchu čekají na začátek televizních zpráv.",
+      "utterance": "Byt koneckonců platil prezidentův přítel Václav Petr — což Klaus Patrikovi občas rád připomněl.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Zmíněný prezident má přítele",
+        "DistractorNegation": "Zmíněný prezident nemá přítele.",
+        "DistractorLexicalEdit": "Zmíněný prezident má poradce.",
+        "DistractorAssociative0": "Klaus je prezidentův přítel, který platí Václavu Petrovi byt."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": "reference?"
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-46",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "V rodině se vysvětluje, proč je Eva považována za blízkou a jaké jsou vztahy mezi přítomnými.",
+      "utterance": "Eva teď patřila do rodiny – Jimmy byl Mayin bratr, a tudíž příbuzný.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Maya má bratra",
+        "DistractorNegation": "Maya nemá bratra.",
+        "DistractorLexicalEdit": "Maya má sestru.",
+        "DistractorAssociative0": "Jimmy je Evin bratr a Mayin vzdálený příbuzný."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-47",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Lloyd si vzpomněl na matčinu přítelkyni Maud a její rodinu v Berlíně.",
+      "utterance": "Lloyd si vzpomněl na matčinu přítelkyni Maud a její rodinu v Berlíně.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Lloydova matka má přítelkyni",
+        "DistractorNegation": "Lloydova matka nemá přítelkyni.",
+        "DistractorLexicalEdit": "Lloydova matka má sestru.",
+        "DistractorAssociative0": "Maud je Lloydova matka, která žije s rodinou v Berlíně."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-48",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Carla přijede do vily a hned po vstupu ji někdo ostře osloví otázkou.",
+      "utterance": "Sotva vešla dovnitř, Friedin otec Ludwig Franck na ni vykřikl: „Co ti povídali v tom dětském ústavu ve Wannsee?“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Frieda má otce",
+        "DistractorNegation": "Frieda nemá otce.",
+        "DistractorLexicalEdit": "Frieda má strýce.",
+        "DistractorAssociative0": "Frieda pracuje v dětském ústavu ve Wannsee pro Ludwiga Francka."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-49",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Někdo popisuje osudy známých a co dělají po změnách, které přinesla válka.",
+      "utterance": "„On už nemá provozovat lékařskou praxi. Eva Rothmannová odjela před válkou do Londýna a vzala si skotského vojáka. Rodiče se ovšem z Německa dostat nemůžou. Evin bratr Rudi vyráběl housle – zřejmě skvěle -, ale přišel o práci a teď opravuje hudební nástroje a ladí piana.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Eva má bratra",
+        "DistractorNegation": "Eva nemá bratra.",
+        "DistractorLexicalEdit": "Eva má sestru.",
+        "DistractorAssociative0": "Skotský voják je bratrem Evy Rothmannové a vyrábí housle v Londýně."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-50",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Vypravěčka ohleduplně sděluje Vanesse nepříjemnou novinu a Vanessa ji překvapí tím, co už dlouho ví.",
+      "utterance": "Ohleduplně jsem tu novinu sdělovala naší dceři Vanesse, když vtom z ní vypadlo, že o tátově přítelkyni ví už několik měsíců.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Vypravěčka má dceru",
+        "DistractorNegation": "Vypravěčka nemá dceru.",
+        "DistractorLexicalEdit": "Vypravěčka má syna.",
+        "DistractorAssociative0": "Táta je přítel Vanessy a vypravěčka o tom několik měsíců ví."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "True"
+      }
+    },
+    {
+      "id": "presupposition-possessive-51",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Vypravěč líčí historické události a střídání vládců po velké bitvě.",
+      "utterance": "Zavládla všeobecná radost, když Oswy, Oswaldův syn, který se stal po otcově smrti northumbrijským králem, Pendu u Winwaed Field porazil a zabil.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Oswald má (nebo měl) syna",
+        "DistractorNegation": "Oswald nemá (ani neměl) syna.",
+        "DistractorLexicalEdit": "Oswald má (nebo měl) dceru.",
+        "DistractorAssociative0": "Penda zabil Oswyho u Winwaed Field a stal se Oswaldovým synem."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-52",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Will si vybavuje rozhovor s Edvardem u svíčky o tom, kdo je právoplatný král.",
+      "utterance": "Tehdy mu vévodův syn přesně vylíčil, jak mnoho tato slova pro jeho otce znamenají.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Zmíněný vévoda má syna",
+        "DistractorNegation": "Zmíněný vévoda nemá syna.",
+        "DistractorLexicalEdit": "Zmíněný vévoda má bratra.",
+        "DistractorAssociative0": "Will je vévodův syn a Edvardův otec, který mluví o králi."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-53",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Postava plánuje, s kým si promluví, a řeší, co udělat s místem jménem Mir.",
+      "utterance": "Musíme něco provést s Mirem – s tím místem, kam odešla Myřina matka.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Myra má matku",
+        "DistractorNegation": "Myra nemá matku.",
+        "DistractorLexicalEdit": "Myra má sestru.",
+        "DistractorAssociative0": "Myra odešla na místo jménem Mir se svou matkou."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-54",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Vypravěč popisuje obří perlu, která vyvolala závist, válku a nakonec zmizela.",
+      "utterance": "Tato obří perla byla příčinou závisti a nakonec i hrozné války a posléze zmizela i s Phoebinými dcerami a rozsáhlou sbírkou liaféb, jaké byly kdy objeveny.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Phoebe má dcery",
+        "DistractorNegation": "Phoebe nemá dcery.",
+        "DistractorLexicalEdit": "Phoebe má syny.",
+        "DistractorAssociative0": "Phoebe objevila rozsáhlou sbírku liaféb uvnitř obří perly."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-55",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Isabella se vyptává Brianny na pohyb vojska a na to, co má král v úmyslu.",
+      "utterance": "„Královi bratři se svými vojáky odjeli dnes ráno,“ dodala Brianna.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Král má bratry",
+        "DistractorNegation": "Král nemá bratry.",
+        "DistractorLexicalEdit": "Král má syny.",
+        "DistractorAssociative0": "Brianna odjela dnes ráno s králem a jeho bratry k vojsku."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-56",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Wolf spěchá nocí na koni a při jízdě si vybavuje děsivou událost z minulosti.",
+      "utterance": "Wolf si cestou vybavoval, co se stalo lady Badlesmerové a Edmundově manželce, když se hrad Leeds musel vzdát, a cítil, jak v něm narůstá děs.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Edmund má manželku",
+        "DistractorNegation": "Edmund nemá manželku.",
+        "DistractorLexicalEdit": "Edmund má snoubenku.",
+        "DistractorAssociative0": "Lady Badlesmerová byla Edmundovou manželkou na hradě Leeds."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-57",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Lily přemýšlí o trestech a o tom, jak vězení může člověka zlomit.",
+      "utterance": "Lidé se ocitali ve vězení mnohdy kvůli penězům a majetku, a protože Lilyin manžel patřil do stejné kategorie, znepokojovalo ji to.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Lily má manžela",
+        "DistractorNegation": "Lily nemá manžela.",
+        "DistractorLexicalEdit": "Lily má snoubence.",
+        "DistractorAssociative0": "Lilyin manžel vlastní vězení pro lidi bez peněz a majetku."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-58",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Vypravěčka vzpomíná na dětství a na to, jak některé děti vyrůstaly bez pocitu bezpečí.",
+      "utterance": "Colleenin a Christopherův otec zmizel jednou provždy z povrchu země a ony ve skutečnosti nic necítily.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Colleen má otce",
+        "DistractorNegation": "Colleen nemá otce.",
+        "DistractorLexicalEdit": "Colleen má matku.",
+        "DistractorAssociative0": "Colleen a Christopher zmizeli z povrchu země společně se svým otcem."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": "it also presupposes they are brothers..."
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-59",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "Baronka žádá Emmu o pomoc s přípravami svatby a pak se na ni okouzlujícím způsobem usměje.",
+      "utterance": "Zmlkla a na rtech se jí objevil okouzlující úsměv, který Emmě znovu připomněl barončina bratra.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Zmíněná baronka má bratra",
+        "DistractorNegation": "Zmíněná baronka nemá bratra.",
+        "DistractorLexicalEdit": "Zmíněná baronka má sestru.",
+        "DistractorAssociative0": "Emma je barončiným bratrem, který připravuje svatbu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    },
+    {
+      "id": "presupposition-possessive-60",
+      "phenomenon": "presupposition",
+      "category": "possessive",
+      "context": "V bytě někdo zaklepe na dveře a Katěrina vysvětluje, kdo právě přišel.",
+      "utterance": "Katěrina: „Ach, málem jsem zapomněla! To je Konstantinova dcera.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Konstantin má dceru",
+        "DistractorNegation": "Konstantin nemá dceru.",
+        "DistractorLexicalEdit": "Konstantin má syna.",
+        "DistractorAssociative0": "Konstantin zaklepal na dveře a představil Katěrině svou dceru."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "category": "possessive",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "negation": "",
+        "has_apposition": "False"
+      }
+    }
+  ]

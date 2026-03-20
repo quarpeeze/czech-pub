@@ -1,0 +1,332 @@
+[
+  {
+    "id": 22,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Bydlí tvoje rodina pořád u nás ve čtvrti?",
+    "answer_Y_cz": "Přímo tady v ulici."
+  },
+  {
+    "id": 45,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Zůstal jsi v kontaktu s někým ze školy?",
+    "answer_Y_cz": "To teda vůbec."
+  },
+  {
+    "id": 58,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Žijí tvoje máma a táta ještě?",
+    "answer_Y_cz": "Jsem sirotek."
+  },
+  {
+    "id": 104,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Vzpomínáš na naši ulici v dobrém?",
+    "answer_Y_cz": "Bydlelo se mi tam moc dobře."
+  },
+  {
+    "id": 118,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Je ti divné mě zase vidět?",
+    "answer_Y_cz": "Je to zvláštní pocit."
+  },
+  {
+    "id": 127,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Bydlí tvoji rodiče pořád v domě, kde jste vyrůstali?",
+    "answer_Y_cz": "Loni se přestěhovali."
+  },
+  {
+    "id": 133,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Byl ses podívat na váš starý dům?",
+    "answer_Y_cz": "Viděl jsem, že ho zbourali."
+  },
+  {
+    "id": 136,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Hraješ pořád na klavír?",
+    "answer_Y_cz": "Stal se ze mě profesionál."
+  },
+  {
+    "id": 137,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Máš na později nějaké plány?",
+    "answer_Y_cz": "Mám úplně plno po celou dobu, co tu budu."
+  },
+  {
+    "id": 140,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Zůstala jsi v kontaktu s někým z našich dalších kamarádů?",
+    "answer_Y_cz": "S pár lidmi si píšu na internetu."
+  },
+  {
+    "id": 164,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Pracuješ tady někde poblíž?",
+    "answer_Y_cz": "Pracuju přímo v téhle budově."
+  },
+  {
+    "id": 165,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Je ti divné mě zase vidět?",
+    "answer_Y_cz": "Je to skvělý pocit tě znovu vidět."
+  },
+  {
+    "id": 195,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Peče tvoje máma pořád ty skvělé sušenky s čokoládou?",
+    "answer_Y_cz": "Založila si na to firmu."
+  },
+  {
+    "id": 200,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Daří se ti dobře?",
+    "answer_Y_cz": "Byl jsem hodně nemocný."
+  },
+  {
+    "id": 201,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Chceš si vyměnit čísla?",
+    "answer_Y_cz": "Hned si tady otevřu kontakty."
+  },
+  {
+    "id": 252,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Vídáš někoho z našich starých známých?",
+    "answer_Y_cz": "Zatím jsem nikoho jiného nepotkal."
+  },
+  {
+    "id": 257,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Bydlíš pořád ve stejném domě?",
+    "answer_Y_cz": "Tam, kde stál náš dům, jsou teď bytovky."
+  },
+  {
+    "id": 260,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Jsi pořád v kontaktu s ostatními sousedy?",
+    "answer_Y_cz": "S některými ano."
+  },
+  {
+    "id": 279,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Bydlíš pořád u rodičů?",
+    "answer_Y_cz": "Odstěhovali se."
+  },
+  {
+    "id": 335,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Už máš děti?",
+    "answer_Y_cz": "Momentálně jsem bezdětná."
+  },
+  {
+    "id": 337,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Bydlíš tady?",
+    "answer_Y_cz": "Jsem tu teprve pár měsíců."
+  },
+  {
+    "id": 351,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Můžu tě pozvat na skleničku?",
+    "answer_Y_cz": "Bránit ti v tom nebudu."
+  },
+  {
+    "id": 374,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Máš děti?",
+    "answer_Y_cz": "Moje dcera má pět let."
+  },
+  {
+    "id": 395,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Peče tvoje máma pořád ty skvělé sušenky s čokoládou?",
+    "answer_Y_cz": "To si piš!"
+  },
+  {
+    "id": 396,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Dostal jsi svou vysněnou práci?",
+    "answer_Y_cz": "Bohužel ne."
+  },
+  {
+    "id": 399,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Máš nějaké děti?",
+    "answer_Y_cz": "Zatím jsem bez závazků."
+  },
+  {
+    "id": 424,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Bydlíš teď ve městě?",
+    "answer_Y_cz": "Pořád musím dojíždět vlakem."
+  },
+  {
+    "id": 432,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Jsi nezadaný?",
+    "answer_Y_cz": "Už pár let jsem ženatý."
+  },
+  {
+    "id": 437,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Nechceš zajít na kafe a probrat, co je nového?",
+    "answer_Y_cz": "Myslím, že chvilku času mám."
+  },
+  {
+    "id": 452,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Pracuješ pořád jako právník?",
+    "answer_Y_cz": "Teď už jsem vedoucí partner."
+  },
+  {
+    "id": 465,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Vzal jsi si svou lásku ze střední?",
+    "answer_Y_cz": "Takový klikař jsem nebyl."
+  },
+  {
+    "id": 469,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Máš pořád rád McDonald?",
+    "answer_Y_cz": "S nezdravým jídlem jsem skončil."
+  },
+  {
+    "id": 475,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Máš na později nějaké plány?",
+    "answer_Y_cz": "Budu pomáhat s plánováním pohřbu."
+  },
+  {
+    "id": 477,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Je pravda, že ses loni vdala?",
+    "answer_Y_cz": "Můj snubní prstýnek je toho důkazem."
+  },
+  {
+    "id": 489,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Máš dům?",
+    "answer_Y_cz": "Bydlíme v bytě v devátém patře."
+  },
+  {
+    "id": 498,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Byl ses za poslední rok podívat v naší staré čtvrti?",
+    "answer_Y_cz": "Vlastně hned několikrát."
+  },
+  {
+    "id": 516,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Půjdeš v červnu na sraz ze střední?",
+    "answer_Y_cz": "Nemůžu, musím jít na svatbu."
+  },
+  {
+    "id": 532,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Chceš probrat, co je nového, u kafe?",
+    "answer_Y_cz": "Kafe si dám rád."
+  },
+  {
+    "id": 539,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Víš, co se stalo s Jimmym potom, co se odstěhoval?",
+    "answer_Y_cz": "Už roky jsem o něm neslyšel."
+  },
+  {
+    "id": 541,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Je to už šest let, co jsme se viděli naposled?",
+    "answer_Y_cz": "Je to přesně tak dlouho."
+  },
+  {
+    "id": 549,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Pamatuješ si na mě?",
+    "answer_Y_cz": "Na svoji nejlepší kamarádku bych nikdy nezapomněla."
+  },
+  {
+    "id": 606,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Zůstal jsi v kontaktu s někým ze školy?",
+    "answer_Y_cz": "O nikom jsem už roky neslyšel."
+  },
+  {
+    "id": 645,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Už máte nějaký pěkný dům?",
+    "answer_Y_cz": "Zrovna jsme jeden koupili kousek odsud."
+  },
+  {
+    "id": 649,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Pořád tě berou sci-fi filmy?",
+    "answer_Y_cz": "Už jim zrovna nefandím."
+  },
+  {
+    "id": 659,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Bydlel bys tam znovu, kdybys měl tu možnost?",
+    "answer_Y_cz": "Vůbec netoužím se tam vracet."
+  },
+  {
+    "id": 667,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Mluvila jsi s někým jiným z našeho dětství?",
+    "answer_Y_cz": "Už pěkných pár let ne."
+  },
+  {
+    "id": 675,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Jsi v kontaktu s někým z naší čtvrti?",
+    "answer_Y_cz": "S pár lidmi se aspoň jednou ročně vídám."
+  },
+  {
+    "id": 678,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Máš sourozence někde poblíž?",
+    "answer_Y_cz": "Jsou rozsetí všude možně."
+  },
+  {
+    "id": 695,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Líbí se ti, jak se to tady změnilo?",
+    "answer_Y_cz": "Stýská se mi po tom, jak to bylo dřív."
+  },
+  {
+    "id": 699,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Jíš tady často?",
+    "answer_Y_cz": "Myslím, že tu mám v rohu vlastní stůl."
+  },
+  {
+    "id": 700,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Chodil jsi na vejšku do ciziny?",
+    "answer_Y_cz": "Studoval jsem v Německu."
+  },
+  {
+    "id": 718,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Je pravda, že jsi adoptoval čtyři děti?",
+    "answer_Y_cz": "Mám jen jednoho syna."
+  },
+  {
+    "id": 725,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Ještě pořád umíš tu vtipnou věc s jazykem?",
+    "answer_Y_cz": "Je to v genech, takže to asi budu umět vždycky."
+  },
+  {
+    "id": 753,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Pořád tu bydlíš?",
+    "answer_Y_cz": "Jsem tu jen na návštěvě."
+  },
+  {
+    "id": 760,
+    "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "question_X_cz": "Jsi to fakt ty?",
+    "answer_Y_cz": "Jsem to já!"
+  }
+]

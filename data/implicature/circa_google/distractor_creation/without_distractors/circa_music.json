@@ -1,0 +1,332 @@
+[
+  {
+    "id": 34,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Máš rád jazz?",
+    "answer_Y_cz": "Mám pocit, že jsem se měl narodit v éře jazzu."
+  },
+  {
+    "id": 65,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Slyšel jsi novou písničku od Taylor Swift?",
+    "answer_Y_cz": "Včera jsem si ji poslechl."
+  },
+  {
+    "id": 88,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Byl jsi tenhle měsíc na nějakém koncertě?",
+    "answer_Y_cz": "Včera večer jsem na jednom byl."
+  },
+  {
+    "id": 156,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Chtěl bys jít zítra na Gartha Brookse?",
+    "answer_Y_cz": "To by bylo fajn."
+  },
+  {
+    "id": 158,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Hraješ ještě na kytaru?",
+    "answer_Y_cz": "Nakonec jsem ji prodal, abych měl na učebnice."
+  },
+  {
+    "id": 170,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Máš rád tvrdší hudbu?",
+    "answer_Y_cz": "Zrovna fanoušek nejsem."
+  },
+  {
+    "id": 182,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Fandíš popu?",
+    "answer_Y_cz": "To rozhodně."
+  },
+  {
+    "id": 199,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Posloucháš country?",
+    "answer_Y_cz": "Vůbec ne."
+  },
+  {
+    "id": 206,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Posloucháš vážnou hudbu?",
+    "answer_Y_cz": "Moc jí nefandím."
+  },
+  {
+    "id": 230,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Může to mít výrazné basy?",
+    "answer_Y_cz": "Miluju, když ta hudba pořádně duní."
+  },
+  {
+    "id": 251,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Slyšela jsi o tom novém venkovním hudebním festivalu?",
+    "answer_Y_cz": "O ničem nevím."
+  },
+  {
+    "id": 268,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Poslouchal jsi to nové album od Taylor Swift?",
+    "answer_Y_cz": "Zrovna jí nefandím."
+  },
+  {
+    "id": 269,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Máš nějaké hudební vzdělání?",
+    "answer_Y_cz": "Studoval jsem na London College of Music."
+  },
+  {
+    "id": 270,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Slyšel jsi o té slavné kapele, co má přijet k nám do města?",
+    "answer_Y_cz": "Zatím jsem nic nezaregistroval."
+  },
+  {
+    "id": 300,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Baví tě živá hudba?",
+    "answer_Y_cz": "Koncerty miluju."
+  },
+  {
+    "id": 321,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Máš rád reggaeton?",
+    "answer_Y_cz": "Bolí mě z něj hlava."
+  },
+  {
+    "id": 343,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Byl jsi někdy na rockovém koncertě?",
+    "answer_Y_cz": "Chodím na ně jednou týdně."
+  },
+  {
+    "id": 354,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Byl jsi v poslední době na nějakém koncertě?",
+    "answer_Y_cz": "Myslím, že naposledy tak před pěti lety."
+  },
+  {
+    "id": 358,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Byla jsi v poslední době na nějakém koncertě?",
+    "answer_Y_cz": "Laurie Anderson byla fantastická."
+  },
+  {
+    "id": 435,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Baví tě EDM?",
+    "answer_Y_cz": "Zrovna moje nejoblíbenější to není."
+  },
+  {
+    "id": 448,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Byl jsi mladý, když jsi šel poprvé na koncert?",
+    "answer_Y_cz": "V dvanácti jsem šel na Ricka Springfielda."
+  },
+  {
+    "id": 482,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Baví tě tanec?",
+    "answer_Y_cz": "Tancuju moc ráda."
+  },
+  {
+    "id": 497,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Máš rád blues?",
+    "answer_Y_cz": "Blues mě uklidňuje."
+  },
+  {
+    "id": 506,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Zajímá tě vůbec rock?",
+    "answer_Y_cz": "Rock je to jediné, co poslouchám!"
+  },
+  {
+    "id": 515,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Chodíš na koncerty často?",
+    "answer_Y_cz": "Nikdy jsem na žádném nebyl."
+  },
+  {
+    "id": 517,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Máš ráda písničky ve vysokých tóninách?",
+    "answer_Y_cz": "Docela mě dráždí."
+  },
+  {
+    "id": 523,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Byl jsi někdy v Jižní Americe?",
+    "answer_Y_cz": "Loni jsme byli v Brazílii."
+  },
+  {
+    "id": 526,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Baví tě jezdit na festivaly?",
+    "answer_Y_cz": "Na festivalech je na mě moc lidí."
+  },
+  {
+    "id": 533,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Byl jsi někdy na živém rockovém koncertě?",
+    "answer_Y_cz": "Jednou jsem byl na Taylor Swift."
+  },
+  {
+    "id": 545,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Byla jsi už na tom zdejším reggae festivalu?",
+    "answer_Y_cz": "Párkrát jsem tam byla."
+  },
+  {
+    "id": 568,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Baví tě jazz?",
+    "answer_Y_cz": "Ne že by mě jazz nebavil."
+  },
+  {
+    "id": 574,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Máš nějaký oblíbený nástroj?",
+    "answer_Y_cz": "Miluju bicí."
+  },
+  {
+    "id": 581,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Byl jsi už někdy na orchestrálním koncertě?",
+    "answer_Y_cz": "Zatím ještě ne."
+  },
+  {
+    "id": 583,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Hraješ na nějaké hudební nástroje?",
+    "answer_Y_cz": "Hraju na několik."
+  },
+  {
+    "id": 584,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Posloucháš při cvičení hudbu?",
+    "answer_Y_cz": "Bez hudby si cvičení nedovedu představit."
+  },
+  {
+    "id": 626,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Zašel bys na metalový koncert?",
+    "answer_Y_cz": "Myslím, že ta energie na metalovém koncertě by byla naprosto skvělá."
+  },
+  {
+    "id": 654,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Už jsi byla na festivalu ACL?",
+    "answer_Y_cz": "Letos se tam chystám poprvé."
+  },
+  {
+    "id": 660,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Máš rád pop?",
+    "answer_Y_cz": "Hlavně to nové album od Taylor Swift se mi fakt líbilo."
+  },
+  {
+    "id": 676,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Už jsi slyšel to nové album od Drakea?",
+    "answer_Y_cz": "Zatím ještě ne."
+  },
+  {
+    "id": 679,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Zpíváš v karaoke barech?",
+    "answer_Y_cz": "Nikdo mě nedonutí zpívat před lidmi."
+  },
+  {
+    "id": 704,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Fandíš hip hopu?",
+    "answer_Y_cz": "Vážně ho nemusím."
+  },
+  {
+    "id": 707,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Chtěla bys zajít na koncert vážné hudby?",
+    "answer_Y_cz": "Myslím, že ano."
+  },
+  {
+    "id": 743,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Baví tě hudba od Gwen Stefani?",
+    "answer_Y_cz": "Zatím jsem ji neposlouchal."
+  },
+  {
+    "id": 795,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Hrála jsi už někdy na nějaký nástroj?",
+    "answer_Y_cz": "Ve škole jsem hrála na flétnu."
+  },
+  {
+    "id": 796,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Umíš zpívat?",
+    "answer_Y_cz": "Neudržím tón."
+  },
+  {
+    "id": 800,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Tančil jsi na té akci?",
+    "answer_Y_cz": "Nemohl jsem přestat, ta hudba byla skvělá."
+  },
+  {
+    "id": 818,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Máš ráda R&B?",
+    "answer_Y_cz": "Dávám přednost něčemu v rychlejším tempu."
+  },
+  {
+    "id": 824,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Viděl jsi už někdy hrát kapelu naživo?",
+    "answer_Y_cz": "Před nějakou dobou ano."
+  },
+  {
+    "id": 839,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Máš nějakého oblíbeného zpěváka?",
+    "answer_Y_cz": "Mám ráda nejrůznější umělce."
+  },
+  {
+    "id": 857,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Byl jsi v amfiteátru 360?",
+    "answer_Y_cz": "Vlastně hned několikrát."
+  },
+  {
+    "id": 866,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Chceš si poslechnout screamo?",
+    "answer_Y_cz": "Radši ani ne."
+  },
+  {
+    "id": 885,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Máš ráda francouzskou kuchyni?",
+    "answer_Y_cz": "Na můj vkus je to trochu moc nóbl."
+  },
+  {
+    "id": 904,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Byl jsi někdy na živém rockovém koncertě?",
+    "answer_Y_cz": "Chodím na rockové koncerty aspoň jednou za měsíc."
+  },
+  {
+    "id": 909,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Byla jsi v poslední době na nějakém dobrém koncertě?",
+    "answer_Y_cz": "To se zrovna říct nedá."
+  },
+  {
+    "id": 979,
+    "context_cz": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "question_X_cz": "Baví tě rokenrol?",
+    "answer_Y_cz": "Poslouchám ho každý víkend."
+  }
+]

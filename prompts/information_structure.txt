@@ -1,0 +1,7 @@
+Vyber, co mluvčí v daném kontextu nejspíš řekl a jak to formuloval. Představ si, že větu říkáš nahlas.
+ 
+{context}
+{utterance}
+
+Možnosti:
+{options}

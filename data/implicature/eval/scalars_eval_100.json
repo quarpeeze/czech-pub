@@ -1,0 +1,3707 @@
+[
+  {
+    "id": "implicature-scalar-quant-qa-1",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Mluvčí cituje radikální názor z internetu a následně s kamarádem rozebírá, jak se věci ve skutečnosti mají.",
+    "utterance": "B: Nějaký chlap mi na sociální sítě napsal, že jsou všechny ženy lhářky. \nA: Všechny ženy?\nB: Fajn, řekněme, že některé jsou lhářky.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všechny ženy jsou lhářky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny ženy jsou lhářky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Některé lhářky mají na internetu víc profilů."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Uživatelé internetu se snaží lháře v diskusích nahlásit."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všechny ženy jsou prolhané."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-2",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Postavy v rozhovoru zkoumají předměty, které mají sloužit jako lapače špatné energie.",
+    "utterance": "A: To všechny chytají zlé sny? \nB: Některé ano.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všechny ty předměty chytají zlé sny."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny ty předměty chytají zlé sny."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Některé lapače jsou vyrobeny z plastu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Zlé sny se zahánějí pomocí vonných bylin."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všechny ty předměty lapají zlé sny."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-3",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Návštěvník psychiatrické léčebny se ptá na minulost a povahu tamních pacientů.",
+    "utterance": "A: Všichni pacienti spáchali nějaký zločin? \nB: Jo, někteří.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všichni pacienti spáchali nějaký zločin."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny pacienti spáchali nějaký zločin."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Některé pacienti v léčebně hrají šachy."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Návštěvníci léčebny procházejí detektorem kovu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všichni pacienti se dopustili nějakého zločinu."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-4",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Umělkyně ukazuje návštěvě své práce a fotografie lidí, se kterými tráví čas.",
+    "utterance": "A: Všichni jsou tvoji přátelé? \nB: Někteří z nich.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všichni lidé na fotografiích jsou přátelé umělkyně."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny lidé na fotografiích jsou přátelé umělkyně."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někteří přátelé vlastní galerii v centru."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Fotografie byly pořízeny v ateliéru."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všichni lidé na fotografiích jsou kamarádi umělkyně."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-5",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Starší muž provokuje mladší lidi otázkou na jejich závislost na moderních technologiích.",
+    "utterance": "A: Nejste vy mladí všichni šouplí na internetu? \nB: Myslím, že někteří.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všichni mladí lidé jsou šouplí na internetu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny mladí lidé jsou šouplí na internetu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někteří mladí na internetu hledají návody."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Starší lidé odmítají používat chytré telefony."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všichni mladí lidé jsou zavěšení na internetu."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-6",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Přátelé si prohlížejí autorovy povídky a skripty a mluví o tom, co už stihl napsat.",
+    "utterance": "A: Jsou všechny příběhy jako tento? \nB: Některé ano.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všechny autorovy příběhy jsou jako tento."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny autorovy příběhy jsou jako tento."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Některé příběhy jsou v modrých deskách."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Autor píše skripty výhradně v noci."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všechny autorovy povídky jsou jako tento."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-7",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Zákaznice restaurace se zajímá o výzdobu a původ obrazů vystavených na stěnách.",
+    "utterance": "A: Ty všechny obrazy na zdech jsou od místních umělců?\nB: Některé jsou od místních...",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všechny tyto obrazy na zdech jsou od místních umělců."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny tyto obrazy na zdech jsou od místních umělců."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Některé obrazy potřebují nový rám."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Každý obraz v restauraci je na prodej."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všechny tyto obrazy na stěnách jsou od místních umělců."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-8",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Nově příchozí se vyptává na vylidňování městečka, které má pověst „města duchů“.",
+    "utterance": "A: Všichni odešli? \nB: Někteří ano.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všichni obyvatelé města odešli."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všichni obyvatelé města odešli."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někteří obyvatelé pracují v kamenolomu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Město bylo opuštěno kvůli nedostatku vody."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všichni obyvatelé město opustili."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-9",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Redaktoři ověřují seznam kněží, o kterých hodlají publikovat kompromitující materiály.",
+    "utterance": "A: Vaše zdroje potvrdily všechny ty kněze? \nB: Některé.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všechny ty kněze zdroje redaktorů potvrdily."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny ty kněze zdroje redaktorů potvrdily."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Některé zdroje byly nalezeny v archivu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Informátoři dostali za svědectví peníze."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všechny ty kněze zdroje redaktorů verifikovaly."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-10",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Postavy se nacházejí v místnosti plné literatury a diskutují o tom, co už stihly přečíst.",
+    "utterance": "A: To si je četl všechny? \nB: Některé.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všechny ty knihy si mluvčí četl."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny ty knihy si mluvčí četl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Některé knihy mají poškozenou vazbu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Klasická literatura pomáhá chápat historii."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všechny ty knihy si mluvčí pročetl."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-11",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Mluvčí se podivuje nad povahou personálu v nemocničním zařízení.",
+    "utterance": "A: Takže všichni vaši lékaři jsou sladcí a laskaví? \nB: Vlastně, myslím, že někteří ano.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všichni lékaři v daném zařízení jsou sladcí a laskaví."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všichni lékaři v daném zařízení jsou sladcí a laskaví."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někteří lékaři nosí modré uniformy."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Pacienti si stěžují na kvalitu jídla."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všichni doktoři v daném zařízení jsou sladcí a laskaví."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-12",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Návštěvník si prohlíží sbírku historických zbraní a vyptává se na jejich původ.",
+    "utterance": "A: Tyhle všechny zbraně jsou z druhý světový? \nB: Některé z nich, ano.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všechny ty zbraně v místnosti jsou z druhé světové války."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny ty zbraně v místnosti jsou z druhé světové války."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Některé zbraně jsou natřeny olejem."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Artefakty z války se draze prodávají."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všechny ty zbraně v prostoru jsou z druhé světové války."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-13",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Dospělý se vyptává chlapce na to, kolik knih z poličky už zvládl přečíst.",
+    "utterance": "A: Přečetl jsi všechny ty knížky, Wilbure? \nB: Některé.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všechny ty knížky Wilbur přečetl."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny ty knížky Wilbur přečetl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Některé knížky mají ilustrace od malíře."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Wilbur dává přednost časopisům."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všechny ty knížky Wilbur pročetl."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-14",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Osoba se zajímá o vztah pana Yardleyho k fauně a o to, jak na něj zvířata reagují.",
+    "utterance": "A: Mají vás ráda všechna zvířata? \nB: Některá jistě.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všechna zvířata mají pana Yardleyho ráda."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechna zvířata mají pana Yardleyho ráda."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Některá zvířata spí v dřevěných boudách."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Divoká zvěř se lidem v kraji vyhýbá."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všechna zvířata mají pana Yardleyho v oblibě."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-15",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Emma řeší technický problém se svým zařízením, ze kterého jí nečekaně zmizely uložené soubory.",
+    "utterance": "A: Počkej, zmizely ti všechny fotky? \nB: Jo, některé.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všechny fotky Emmě zmizely."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny fotky Emmě zmizely."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Některé fotky jsou rozmazané kvůli světlu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Emma zapomněla soubory zálohovat."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všechny fotky se Emmě ztratily."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-16",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Skupina lidí se snaží shromáždit všechny členy týmu a kontroluje jejich počet.",
+    "utterance": "A: Kolik jich máme? Všechny? \nB: Jsou tady někteří.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všechny členy týmu tam mají."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny členy týmu tam mají."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někteří členové týmu mají na sobě promočené bundy."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Členové výpravy nosí povinné uniformy."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všechny členy týmu tam shromáždili."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-17",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Host se zajímá o to, zda v objektu trvale žijí všechny přítomné děti.",
+    "utterance": "A: Bydlíte všichni tady? \nB: Některé děti jsou tady pořád.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všechny děti v objektu bydlí."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny děti v objektu bydlí."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Některé děti mají zakázáno hrát si venku."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Objekt slouží jako internátní škola."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všechny děti v objektu žijí."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-18",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Carol probírá se svou společnicí pracovní nebo osobní nabídky, které jí přišly přes internet.",
+    "utterance": "A: Kontrolovala jsi všechny svoje odkazy? \nB: Myslím, že některé jo.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všechny svoje odkazy si Carol kontrolovala."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny svoje odkazy si Carol kontrolovala."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Některé odkazy vedou na recepty."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Internetové podvody jsou stále častější."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všechny svoje odkazy si Carol prověřovala."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-19",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Muž se podivuje nad zvyky návštěvníků společenských akcí v daném kraji.",
+    "utterance": "A: Všichni tu s sebou na akce vozí sudy s pivem? \nB: Někteří ano.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všichni tam s sebou na akce vozí sudy s pivem."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny tam s sebou na akce vozí sudy s pivem."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Některí návštěvníci nosí velké klobouky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Akce financuje místní pivovár."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všichni tam s sebou na události vozí sudy s pivem."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-20",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Muž v restauraci hovoří o skupině přátel z Texasu, se kterými přijel do New Yorku.",
+    "utterance": "A: Všichni muži? \nB: Několik mužů tam bylo.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všichni lidé v partě z Texasu byli muži."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všichni lidé v partě z Texasu byli muži."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Několik mužů mělo na sobě kovbojské klobouky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Letenky do New Yorku byly levné."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všichni lidé v partě z Texasu byli pánové."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-21",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Rotmistr prověřuje úroveň připravenosti a předchozího výcviku u nové vojenské jednotky.",
+    "utterance": "A: Maj všichni za sebou výcvik? \nB: No, někteří maj základy.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všichni vojáci v jednotce za sebou mají výcvik."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny vojáci v jednotce za sebou mají výcvik."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někteří vojáci umějí vařit v poli."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Rekruti dostanou výstroj po přísaze."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všichni vojáci v jednotce absolvovali výcvik."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-22",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Postavy v rozhovoru probírají uměleckou komunitu a malíře žijící v Barbizonu.",
+    "utterance": "A: Všichni malíři stále žijí v Barbizonu? \nB: Někteří.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všichni malíři stále žijí v Barbizonu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny malíři stále žijí v Barbizonu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někteří malíři používají drahé barvy."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Malíři se stěhují kvůli drahým nájmům."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všichni malíři nadále pobývají v Barbizonu."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-23",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Generál provádí inspekci vybavení a kontroluje, zda jsou vojáci vyzbrojeni noži pro boj zblízka.",
+    "utterance": "A: Mají všichni vaši vojáci nůž? \nB: Někteří z nich ano.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všichni generálovi vojáci mají nůž."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny generálovi vojáci mají nůž."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někteří vojáci nosí na opasku polní čutoru."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Nože jsou v moderní válce zastaralé."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všichni generálovi vojáci vlastní nůž."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-24",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Probíhá výslech ohledně nadpřirozeného zjevení a toho, kdo další mohl anděla spatřit.",
+    "utterance": "A: Viděli ho všichni přítomní? \nB: Někteří měli štěstí.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všichni přítomní toho anděla viděli."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny přítomní toho anděla viděli."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někteří přítomní měli u sebe zápisník."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Svědci se v popisu anděla rozcházejí."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všichni přítomní onoho anděla spatřili."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-qa-25",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Joe se vyptává doktora na jeho praxi a etiku nahrávání rozhovorů s lidmi v ordinaci.",
+    "utterance": "A: Nahráváte si všechny pacienty? \nB: Některé z nich.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Ne všechny své pacienty si doktor nahrává."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Všechny své pacienty si doktor nahrává."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Některé nahrávky jsou na starých kazetách."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Nahrávání bez souhlasu je nezákonné."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Ne všechny své pacienty si doktor zaznamenává."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-1",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Jedná se o mnicha, který hovoří o osudu skupiny misionářů po náboženském sporu.",
+    "utterance": "Mnich: Někteří z nich založili další středisko na pevnině, které se jmenuje Saské Maigh Eo.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mnich se nehlásí k tomu, že všichni z nich založili další středisko na pevnině."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mnich se hlásí k tomu, že všichni z nich na pevnině založili další středisko."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mnich se nehlásí k tomu, že všichni z nich na pevnině postavili kamenný most."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mnich se nehlásí k tomu, že všichni z nich dorazili na pevninu za úsvitu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mnich se nehlásí k tomu, že všichni z nich na pevnině založili další středisko."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-2",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Mluví se o chaosu a propukajícím šílenství v jednotce vojáků.",
+    "utterance": "Mluvčí: Někteří stříleli ze svých pušek a smáli se přitom jako imbecilové.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že všichni stříleli ze svých pušek a smáli se přitom jako imbecilové."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že všichni stříleli z pušek a zároveň se smáli jako imbecilové."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že všichni stříleli z pušek a přitom křičeli rozkazy."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že všichni měli na sobě promočené uniformy."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že všichni stříleli z pušek a zároveň se smáli jako imbecilové."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-3",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Mluví se o situaci na bojišti při kontrole zraněných po skončení bitvy.",
+    "utterance": "Mluvčí: Někteří ze zraněných byli stále ještě naživu.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že všichni ze zraněných byli stále ještě naživu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že všichni zranění byli ještě naživu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že všichni zranění byli pokrytí bahnem."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že všichni zranění leželi na nosítkách."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že všichni zranění byli ještě naživu."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-4",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Mluví se o sporech v křižáckém ležení ohledně dalšího postupu vojenské výpravy.",
+    "utterance": "Mluvčí: Někteří z křižáků chtěli pokračovat k Jeruzalému a oblehnout ho.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že všichni křižáci chtěli pokračovat k Jeruzalému a oblehnout ho."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že všichni křižáci chtěli pokračovat k Jeruzalému a oblehnout ho."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že všichni křižáci chtěli obrátit vojsko zpět k pobřeží."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že všichni křižáci měli na přilbách bílé kříže."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že všichni křižáci chtěli pokračovat k Jeruzalému a oblehnout ho."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-5",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Jedná se o Billyho, který vypráví o osudech synů náčelníka v dávné legendě.",
+    "utterance": "Billy: Někteří ze synů se stali válečníky jako Taha Aki.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Billy se nehlásí k tomu, že všichni ze synů se stali válečníky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Billy se hlásí k tomu, že ze všech synů se stali válečníci."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Billy se nehlásí k tomu, že ze všech synů se stali lovci."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Billy se nehlásí k tomu, že všichni synové nosili kožené náramky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Billy se nehlásí k tomu, že ze všech synů se stali válečníci."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-6",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Jedná se o Mirandu, která hodnotí postoje a drby starších dam ve vyšší společnosti.",
+    "utterance": "Miranda: Sdělili mi, že některé mamá ze společnosti mají dojem, že ke mně Turner chová romantické city.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Miranda se nehlásí k tomu, že všechny mamá ze společnosti mají dojem, že k ní Turner chová romantické city."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Miranda se hlásí k tomu, že všechny mamá ze společnosti mají pocit, že k ní Turner chová romantické city."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Miranda se nehlásí k tomu, že všechny mamá ze společnosti mají pocit, že je Turner příliš chudý."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Miranda se nehlásí k tomu, že všechny mamá ze společnosti nosí na plesech perly."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Miranda se nehlásí k tomu, že všechny mamá ze společnosti mají pocit, že k ní Turner chová romantické city."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-7",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Jedná se o Philippu, která vzpomíná na chování bohatých lidí během krize na stanici.",
+    "utterance": "Philippa: Někteří z těch boháčů ale pořádali večírky.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Philippa se nehlásí k tomu, že všichni z těch boháčů pořádali večírky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Philippa se hlásí k tomu, že všichni z těch boháčů pořádali večírky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Philippa se nehlásí k tomu, že všichni z těch boháčů rozdávali almužny."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Philippa se nehlásí k tomu, že všichni z těch boháčů přijeli na stanici vlastními auty."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Philippa se nehlásí k tomu, že všichni z těch boháčů pořádali večírky."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-8",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Jedná se o Miacha, který informuje bratra Eadulfa o přípravách mužů na stavbu pohřební hranice.",
+    "utterance": "Miach: Někteří z mých mužů už odešli s bratrem Berrihertem do hor, aby mu pomohli zbudovat pohřební hranici.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Miach se nehlásí k tomu, že všichni z jeho mužů už odešli s bratrem Berrihertem do hor."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Miach se hlásí k tomu, že všichni jeho muži už s bratrem Berrihertem odešli do hor."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Miach se nehlásí k tomu, že všichni jeho muži odnesli do hor zásoby obilí."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Miach se nehlásí k tomu, že všichni jeho muži měli u pasu krátké meče."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Miach se nehlásí k tomu, že všichni jeho muži už s bratrem Berrihertem odešli do hor."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-9",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Mluví se o situaci v kabině letadla po vniknutí ozbrojených únosců.",
+    "utterance": "Mluvčí: Někteří z únosců se zřejmě probojovali i do pilotní kabiny.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že všichni únosci se probojovali i do pilotní kabiny."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že se všichni únosci dostali i do pilotní kabiny."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že se všichni únosci dostali do zavazadlového prostoru."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že všichni únosci měli přes obličej tmavé šátky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že se všichni únosci dostali i do pilotní kabiny."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-10",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Mluví se o chování služebných, které během evakuace kradou cennosti.",
+    "utterance": "Mluvčí: Některé z nich strčily do kapsy nějaký ten klenot nebo zlatý řetěz.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že všechny z nich strčily do kapsy klenot nebo zlatý řetěz."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že si všechny do kapsy schovaly nějaký klenot nebo zlatý řetěz."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že si všechny do kapsy schovaly stříbrnou lžíci."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že všechny měly na sobě zástěry se skvrnami od popela."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že si všechny do kapsy schovaly nějaký klenot nebo zlatý řetěz."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-11",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Mluví se o ambicích a projevech víry určité skupiny věřících.",
+    "utterance": "Mluvčí: Někteří z ambicióznějších věřících stavěli kostely a památníky.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že všichni z ambicióznějších věřících stavěli kostely a památníky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že všichni ambicióznější věřící stavěli kostely a památníky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že všichni ambicióznější věřící psali náboženské traktáty."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že všichni ambicióznější věřící nosili tmavé roucho."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že všichni ambicióznější věřící stavěli kostely a památníky."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-12",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Mluví se o osudu a úmrtnosti zajatců během jejich mučení.",
+    "utterance": "Mluvčí: Některé z obětí zemřely okamžitě.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že všechny oběti zemřely okamžitě."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že všechny oběti zemřely okamžitě."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že všechny oběti křičely bolestí."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že v šechny oběti ležely na kamenné podlaze."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že všechny oběti zemřely okamžitě."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-13",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Mluví se o reakci obyvatel na noční rozruch u vily.",
+    "utterance": "Mluvčí: Někteří však vyhlédli z oken, aby zjistili, co je příčinou onoho rozruchu ve vile.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že všichni vyhlédli z oken."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že všichni vykoukli z oken."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že všichni otevřeli dveře na ulici."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že všichni drželi v rukou svíčky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že všichni vykoukli z oken."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-14",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Jedná se o Anjine, která mluví o rozdělení úkolů v rámci městské stráže.",
+    "utterance": "Anjine: Někteří muži z městské stráže slouží v lodních posádkách.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Anjine se nehlásí k tomu, že všichni muži z městské stráže slouží v lodních posádkách."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Anjine se hlásí k tomu, že všichni muži z městské stráže slouží na lodích."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Anjine se nehlásí k tomu, že všichni muži z městské stráže hlídají tržiště."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Anjine se nehlásí k tomu, že všichni muži z městské stráže nosí modré pláště."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Anjine se nehlásí k tomu, že všichni muži z městské stráže slouží na lodích."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-15",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Mluví se o potížích dvořanů při náročné cestě pouští.",
+    "utterance": "Mluvčí: Někteří z dvořanů si stěžovali na nepohodlí cesty.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že všichni dvořané si stěžovali na nepohodlí cesty."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že si všichni dvořané stěžovali na nepohodlí při cestě."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že všichni dvořané žádali zastávku."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že všichni dvořané cestovali na bílých koních."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že si všichni dvořané stěžovali na nepohodlí při cestě."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-16",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Jedná se o Speakmana, který reaguje na instinktivní odpor lidí ke kolečkovému křeslu.",
+    "utterance": "Speakman: Některé lidi odpuzuje.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Speakman se nehlásí k tomu, že všechny lidi odpuzuje."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Speakman se hlásí k tomu, že odpuzuje všechny lidi."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Speakman se nehlásí k tomu, že odpuzuje všechny lidi svým hlasitým smíchem."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Speakman se nehlásí k tomu, že všechny lidi zaujalo jeho kolečkové křeslo."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Speakman se nehlásí k tomu, že odpuzuje všechny lidi."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-17",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Jedná se o Kassandru, která se obává netvorů pronikajících do věží.",
+    "utterance": "Kassandra: Situace venku musela být opravdu zlá, když už se někteří netvoři dostali i do věží.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Kassandra se nehlásí k tomu, že se všichni netvoři dostali i do věží."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Kassandra se hlásí k tomu, že se všichni netvoři dostali až do věží."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Kassandra se nehlásí k tomu, že se všichni netvoři dostali až na hradby."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Kassandra se nehlásí k tomu, že všichni netvoři vydávali pronikavý křik."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Kassandra se nehlásí k tomu, že se všichni netvoři dostali až do věží."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-18",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Mluví se o problémech a obavách lidí v důsledku rušení dopravních spojů.",
+    "utterance": "Mluvčí: Některým lidem to však působí potíže a bojí se, že přijdou o práci.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že všem lidem to působí potíže."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že to všem lidem působí potíže."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že to všem lidem zvyšuje výplatu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že všichni lidé do práce jezdí autobusem."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že to všem lidem působí potíže."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-19",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Mluví se o nabídkách a aktivitách gastronomických podniků v době svátku zamilovaných.",
+    "utterance": "Mluvčí: Některé restaurace nabízejí i speciální valentýnské menu.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že všechny restaurace nabízejí speciální valentýnské menu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že speciální valentýnské menu nabízejí všechny restaurace."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že polední menu nabízejí všechny restaurace."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že všechny restaurace zdobí výlohy červenými srdci."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že speciální valentýnské menu nabízejí všechny restaurace."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-20",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Mluví se o náladách mezi dělníky po příjezdu výpravy do přístavu.",
+    "utterance": "Mluvčí: Někteří z dělníků se už nemohli dočkat, až vstoupí na svatou půdu.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že všichni z dělníků se nemohli dočkat."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že se všichni dělníci už nemohli dočkat."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že se všichni dělníci báli vystoupit na břeh."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že všichni dělníci měli promočené boty."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že se všichni dělníci už nemohli dočkat."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-21",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Mluví se o časové náročnosti diagnostického rozhovoru v rámci lékařské psychologie.",
+    "utterance": "Mluvčí: U některých pacientů trvá rozhovor i déle.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že u všech pacientů trvá rozhovor i déle."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že rozhovor trvá déle u všech pacientů."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že rozhovor u všech pacientů začíná přesně v osm hodin."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že všichni pacienti čekají před ambulancí."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že rozhovor trvá déle u všech pacientů."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-22",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Mluví se o různých odborných přístupech ke sdělování diagnózy nemocnému.",
+    "utterance": "Mluvčí: Někteří autoři však doporučují opak.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že všichni autoři doporučují opak."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že všichni autoři doporučují opak."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že všichni autoři doporučují podrobné testování."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že všichni autoři publikovali své texty v zahraničí."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že všichni autoři doporučují opak."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-23",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Jedná se o mluvčího, který komentuje význam týmové spolupráce ve vrcholovém sportu.",
+    "utterance": "Mluvčí: Zdůrazňují to i někteří experti v Česku.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že to zdůrazňují všichni experti v Česku."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že to zdůrazňují všichni experti v Česku."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že to všichni experti v Česku popírají."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že všichni experti v Česku pravidelně vystupují v televizi."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že to zdůrazňují všichni experti v Česku."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-24",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Mluví se o postojích majitelů továren vůči jejich podřízeným v historickém kontextu.",
+    "utterance": "Mluvčí: Někteří průmyslníci podlehli pokušení ovlivňovat smýšlení svých zaměstnanců.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že všichni průmyslníci podlehli pokušení ovlivňovat smýšlení svých zaměstnanců."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že všichni průmyslníci podlehli pokušení ovlivňovat myšlení svých zaměstnanců."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že všichni průmyslníci zvyšovali svým zaměstnancům mzdy."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že všichni průmyslníci nosili drahé cylindry."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že všichni průmyslníci podlehli pokušení ovlivňovat myšlení svých zaměstnanců."
+    }
+  },
+  {
+    "id": "implicature-scalar-quant-declarative-25",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Mluví se o vizuálních doplňcích lidí na společenském setkání pro osoby s poruchou autistického spektra.",
+    "utterance": "Mluvčí: Některým účastníkům se na batohu pohupuje měkký chlupatý přívěsek na klíče.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že všem účastníkům se na batohu pohupuje měkký chlupatý přívěsek na klíče."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že se všem účastníkům na batohu pohupuje měkký chlupatý přívěsek."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že se všem účastníkům na batohu houpe reflexní páska."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že všichni účastníci přišli na setkání s doprovodem rodičů."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že se všem účastníkům na batohu pohupuje měkký chlupatý přívěsek."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-1",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Mluvčí B vysvětluje své netradiční metody poznávání lidí skrze jejich osobní věci.",
+    "utterance": "A: „To se vždycky díváte lidem do odpadků?“ B: „No, někdy.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že se mluvčí B vždycky dívá lidem do odpadků."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí B se lidem do odpadků dívá vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí B si občas prohlíží cizí poštovní schránky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Odpadky často prozradí něco o zvycích domácnosti."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Mluvčí B se lidem do odpadků nedívá pokaždé."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-2",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Rozhovor o vnitřním rozpoložení a prožívání pocitů štěstí mezi mluvčím A a mluvčím B.",
+    "utterance": "A: „Jsi vždycky šťastná?“ B: „Někdy ano.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že je mluvčí B vždycky šťastná."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí B je vždycky šťastná."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí B bývá někdy unavená po práci."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Pocity štěstí se během dne mohou rychle měnit."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Mluvčí B není šťastná pořád."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-3",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Mluvčí A se vyptává mluvčího B na jeho každodenní aktivity při hraní.",
+    "utterance": "A: „To si vždycky hraješ sama?“ B: „Někdy.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že si mluvčí B vždycky hraje sama."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí B si vždycky hraje sama."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí B si někdy hraje venku na zahradě."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Děti si často střídají samostatnou hru a společnost ostatních."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Mluvčí B si nehraje sama pokaždé."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-4",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Rozhovor mezi mluvčím A a mluvčím B ohledně jeho chování na společenském setkání.",
+    "utterance": "A: „To jste vždy takový?“ B: „Někdy.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že je mluvčí B vždy takový."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí B je vždy takový."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí B bývá na společenských setkáních formálně oblečený."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Na večírcích lidé často působí jinak než doma."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Mluvčí B takový není vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-5",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Diskuze o docházce a pravidelnosti fungování amatérského sportovního týmu, jehož členy jsou mluvčí A a mluvčí B.",
+    "utterance": "A: „Vždy hrajete spolu?“ B: „Někdy. A někdy je nás deset, někdy čtyřicet.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že mluvčí B vždy hrají spolu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí B vždy hrají spolu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Tým se někdy rozdělí do menších skupin."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Počet hráčů se u amatérských týmů často mění."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Nehrají spolu pokaždé."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-6",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Mluvčí A se na policejní stanici informuje u mluvčího B o úspěšnosti pátrání po ukradeném majetku.",
+    "utterance": "A: „Najdete ukradená auta vždycky?“ B: „Někdy.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že mluvčí B vždycky najdou ukradená auta."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí B vždycky najdou ukradená auta."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí B často najdou opuštěná jízdní kola."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Pátrání po ukradených autech bývá časově náročné."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Mluvčí B nenajdou ukradená auta pokaždé."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-7",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Diskuze mluvčího A a mluvčího B o profesním přístupu a zvládání různých rolí v pracovním prostředí.",
+    "utterance": "A: „Vždycky?“ B: „Někdy ano.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že je mluvčí B vždycky přísný."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí B je vždycky přísný."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí B bývá při poradách hodně stručný."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "V práci lidé často střídají přísnost a vstřícnost."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Mluvčí B není vždycky přísný."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-8",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Mluvčí A a mluvčí B jsou v napjaté situaci a komentují chování a vtipkování třetí osoby.",
+    "utterance": "A: „To je vždycky tak vtipná?“ B: „Někdy.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že je dotyčná osoba vždycky tak vtipná."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Dotyčná osoba je vždycky tak vtipná."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Dotyčná osoba umí dobře napodobovat známé herce."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Na společenských akcích lidé často přehánějí své historky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Dotyčná osoba není vždycky tak vtipná."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-9",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Mluvčí A a mluvčí B na společenské akci rozebírají výstřelky známé osobnosti.",
+    "utterance": "A: „Je vždy takový?“ B: „No, někdy jo.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že je sledovaná osobnost vždy taková."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Sledovaná osobnost je vždy taková."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Sledovaná osobnost bývá na veřejnosti velmi hlučná."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Známé osobnosti se v různých situacích chovají odlišně."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Sledovaná osobnost není vždycky taková."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-10",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Rozhovor mluvčího A a mluvčího B o povaze a tichém vystupování jejich kolegy.",
+    "utterance": "A: „Je vždycky takhle tichý?“ B: „Někdy.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že je sledovaná osoba vždycky takhle tichá."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Sledovaná osoba je vždycky takhle tichá."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Sledovaná osoba mluví nahlas jen mezi blízkými přáteli."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Tichí lidé někdy působí uzavřeněji, než ve skutečnosti jsou."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Sledovaná osoba nebývá vždycky takhle tichá."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-11",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Mluvčí A a mluvčí B se baví o atmosféře a bizarních situacích v nemocničním prostředí.",
+    "utterance": "A: „Je v nemocnici vždycky taková sranda?“ B: „Někdy.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že je v nemocnici vždycky taková sranda."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "V nemocnici je vždycky taková sranda."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "V nemocnici se občas slaví narozeniny pacientů."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Nemocniční prostředí může na různé lidi působit různě."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "V nemocnici nebývá taková sranda pořád."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-12",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Prudká hádka mezi mluvčím A a mluvčím B o jejich vzájemném chování a ubližování druhým.",
+    "utterance": "A: „Vždycky lidem ubližuješ?“ B: „Občas se to stane.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že mluvčí B vždycky lidem ubližuje."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí B vždycky lidem ubližuje."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí B někdy rozbije věci ve vzteku."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "V hádkách lidé často řeknou víc, než chtějí."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Mluvčí B lidem neubližuje pokaždé."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-13",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Mluvčí A a mluvčí B na moři rozebírají nebezpečí a strach spojený s jejich prací.",
+    "utterance": "A: „Vždycky je to takovýhle?“ B: „Někdy.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že je to vždycky takovéhle."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Je to vždycky takovéhle."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Práce na moři bývá někdy klidná a rutinní."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Podmínky na moři se mohou rychle změnit."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Není to vždycky takovéhle."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-14",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Mluvčí B předvádí rodině kouzelnické triky a vtipkuje s mluvčím A o ukrytých předmětech.",
+    "utterance": "A: „Vždycky nosíte peníze v nose?“ B: „Občas.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že mluvčí B vždycky nosí peníze v nose."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí B vždycky nosí peníze v nose."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí B občas schovává drobné v rukávu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Kouzelníci rádi ukrývají malé předměty na nečekaných místech."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Mluvčí B nenosí peníze v nose pokaždé."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-15",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Nečekané setkání mluvčího A a mluvčího B a hodnocení aktuálního stylu oblékání.",
+    "utterance": "A: „Vždycky chodíš takhle oblečená?“ B: „Někdy.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že mluvčí B vždycky chodí takhle oblečená."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí B vždycky chodí takhle oblečená."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí B si někdy bere formálnější kabát."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Lidé si oblečení obvykle volí podle příležitosti."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Mluvčí B nechodí vždycky takhle oblečená."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-16",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Mluvčí A a mluvčí B se dohadují o typickém způsobu vyjadřování mluvčího B.",
+    "utterance": "A: „Bože, vždycky musíš omílat ty svoje žvásty?“ B: „Občas ano.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že mluvčí B vždycky musí omílat své žvásty."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí B vždycky musí omílat své žvásty."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí B někdy mluví o úplně jiných věcech."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "V hádkách se staré výčitky často vracejí."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Mluvčí B své žvásty neomílá pořád."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-17",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Mluvčí B u dveří bytu vysvětluje mluvčí A své strategie při seznamování.",
+    "utterance": "A: „Zkoušíš to vždycky?“ B: „No, někdy.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že mluvčí B to zkouší vždycky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí B to zkouší vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí B občas mění taktiku podle situace."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Seznamování bývá plné pokusů a omylů."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Mluvčí B to nezkouší pokaždé."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-18",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Mluvčí A se po pohřbu své příbuzné ptá mluvčího B na jeho přístup k pacientům a projev soucitu.",
+    "utterance": "A: „Vždy chodíte na pohřby svých pacientů?“ B: „Někdy ano.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že mluvčí B vždy chodí na pohřby svých pacientů."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí B vždy chodí na pohřby svých pacientů."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí B někdy posílá pozůstalým jen dopis."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Lékaři si k pacientům vytvářejí různě silný vztah."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Mluvčí B nechodí na pohřby svých pacientů pokaždé."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-19",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Mluvčí B vysvětluje své obvyklé trasy při cestování do kanceláře.",
+    "utterance": "A: „Vždy jezdíte do kanceláře ze západu?“ B: „Tak, občas.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že mluvčí B vždy jezdí do kanceláře ze západu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí B vždy jezdí do kanceláře ze západu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí B někdy jezdí do kanceláře přes centrum."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Cesta do práce často závisí na dopravě a počasí."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Mluvčí B nejezdí do kanceláře vždycky ze západu."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-20",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Mluvčí A a mluvčí B v parku hodnotí kvalitu jídla a život bez domova.",
+    "utterance": "A: „Vždycky tak dobré jídlo?“ B: „No jo, někdy jo.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že je tam jídlo vždycky tak dobré."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Je tam jídlo vždycky tak dobré."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Tam někdy podávají jen studené občerstvení."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Kvalita jídla se může měnit podle kuchaře."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Jídlo tam není vždycky tak dobré."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-21",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Mluvčí A vyslýchá mluvčí B v rámci pátrání po zmizelé osobě.",
+    "utterance": "A: „Vždycky jdete spát, když ho jde vyvenčit?“ B: „Někdy jo.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že mluvčí B jde vždycky spát, když ho jde dotyčný vyvenčit."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí B jde vždycky spát, když ho jde dotyčný vyvenčit."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí B někdy zůstane vzhůru a čeká na jeho návrat."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Péče o zvíře často naruší večerní režim."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Mluvčí B nejde spát pokaždé, když ho jde dotyčný vyvenčit."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-22",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Rozhovor u mytí nádobí o tom, jak často mluvčí B pomáhá s domácími pracemi.",
+    "utterance": "A: „Takhle pomáháš vždycky?“ B: „Někdy.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že mluvčí B pomáhá vždycky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí B takhle pomáhá vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí B občas pomáhá jen s nádobím."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Domácí práce se mezi lidi obvykle dělí nerovnoměrně."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Mluvčí B takhle nepomáhá pokaždé."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-23",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Mluvčí B a mluvčí A spolu tráví večer a mluvčí A si všimne zbraně mluvčího B.",
+    "utterance": "A: „To chodíte na rande vždycky ozbrojený?“ B: „Občas.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že mluvčí B chodí na rande vždycky ozbrojený."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí B chodí na rande vždycky ozbrojený."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí B nosí na schůzky někdy kožené rukavice."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Na schůzky si lidé berou věci, které jim dodávají jistotu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Mluvčí B nechodí na rande vždycky ozbrojený."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-24",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Mluvčí A a mluvčí B vedou časně ráno v baru konverzaci o svých zvycích a kladení otázek.",
+    "utterance": "B: „Vždycky máš tolik otázek?“ A: „Někdy.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že mluvčí A má vždycky tolik otázek."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí A má vždycky tolik otázek."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí A někdy jen mlčky poslouchá."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Po ránu bývají lidé zvědavější nebo podrážděnější."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "implicature_paraphrased": "Mluvčí A nemá vždycky tolik otázek."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-qa-25",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-freq",
+    "context": "Mluvčí A se setkává s mluvčím B a komentuje volbu obuvi.",
+    "utterance": "A: „Vždy nosíte podpatky?“ B: „Někdy.“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Neplatí, že mluvčí B vždy nosí podpatky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí B vždy nosí podpatky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí B si někdy bere tenisky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Výběr bot často závisí na programu dne."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa",
+      "note": "additional",
+      "implicature_paraphrased": "Mluvčí B nenosí vždycky podpatky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-1",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Mluví se o povaze psa a jeho projevech tvrdohlavosti.",
+    "utterance": "Mluvčí: Je to milé zvíře, občas je ale pěkně tvrdohlavý.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že je ten pes vždycky tvrdohlavý."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že je ten pes tvrdohlavý vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že ten pes poslouchá na slovo vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že ten pes spí v předsíni vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že je ten pes tvrdohlavý vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-2",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Mluví se o komunikaci mezi členy smečky a o její roli při společném jednání.",
+    "utterance": "Mluvčí: Někdy je to užitečné, když se potřebujeme zkoordinovat.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že je to vždycky užitečné pro koordinaci členů smečky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že je to ke koordinaci smečky užitečné vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že je to pro lov zvěře užitečné vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že se smečka pohybuje lesem vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že je to ke koordinaci smečky užitečné vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-3",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Mluví se o potížích s porozuměním mluvenému slovu v místnosti se špatnou akustikou.",
+    "utterance": "Mluvčí: Byl v civilu, ale ty jejich civily vždycky čímsi prozrazují uniformu, takže jsem mu občas nerozuměl.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že mluvčí dotyčnému muži vždycky nerozuměl."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že tomu muži nerozuměl vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že toho muže poznal na první pohled vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že ten muž nosil kabát vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že tomu muži nerozuměl vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-4",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Jedná se o Willa, který popisuje zkušenosti a postřehy získané během nočních hlídek.",
+    "utterance": "Will: Občas mívám službu v noci, stejně jako Richard, a to uslyšíš a zahlédneš věci.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Will se nehlásí k tomu, že má službu v noci pokaždé."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že má noční službu vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že má službu s Richardem vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že při službě vídá lišky vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že má noční službu vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-5",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Mluví se o přirozenosti konfliktů a hádek v milostných vztazích.",
+    "utterance": "Mluvčí: Všichni milenci se občas hádají.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že se všichni milenci hádají vždycky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že se všichni milenci hádají vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že si všichni milenci odpouštějí vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že si všichni milenci píšou dopisy vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že se všichni milenci hádají vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-6",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Jedná se o mluvčího, který se snaží omluvit a vysvětlit, co se právě stalo.",
+    "utterance": "Mluvčí: To se mi občas stává.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že se mluvčímu daná věc stává vždycky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že se mu to stává vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že se mu to stává po ránu vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že si po tom sedá ke stolu vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že se mu to stává vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-7",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Mluví se o neobvyklých zvycích a chování jednoho z členů klubu starých mládenců.",
+    "utterance": "Mluvčí: Občas hází po lidech ovesné vločky, když se mu uzdá, ale jinak je naprosto pohodový.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že ten člen klubu hází po lidech ovesné vločky pokaždé."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že ten člen klubu hází po lidech ovesné vločky vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že ten člen klubu rozdává lidem ovesné vločky vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že ten člen klubu nosí kostkované sako vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že ten člen klubu hází po lidech ovesné vločky vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-8",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Mluví se o sebehodnocení mladé ženy a jejím postoji k okolnímu světu.",
+    "utterance": "Mluvčí: Ano, občas bývám cynická.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že je cynická vždycky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že je cynická vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že je ironická vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že mluví šeptem vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že je cynická vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-9",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Mluví se o chaotické povaze manžela a zmatcích, které v rodině vyvolává.",
+    "utterance": "Mluvčí: Můj manžel občas dělá tohuvabohu, ale to mu nesmíš mít za zlé.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že její manžel dělá zmatky pokaždé."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že její manžel dělá zmatky vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že její manžel rozbíjí nádobí vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že její manžel chodí pozdě domů vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že její manžel dělá zmatky vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-10",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Bernhard hovoří o své schopnosti vidět a vnímat přítomnost blízké osoby.",
+    "utterance": "Bernhard: Já ji i občas vidím.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Bernhard se nehlásí k tomu, že dotyčnou osobu vidí vždycky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že tu dotyčnou vídá vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že s tou dotyčnou mluví vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že ta dotyčná stojí u okna vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že tu dotyčnou vídá vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-11",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Mluví se o speciálních položkách v jídelním lístku a jejich cenové výhodnosti.",
+    "utterance": "Mluvčí: Ale občas nabízí specialitu dne.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že podnik nabízí specialitu dne pokaždé."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že podnik nabízí specialitu dne vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že podnik nabízí dezert zdarma vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že podnik hraje tichou hudbu vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že podnik nabízí specialitu dne vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-12",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Mluví se o udržování kontaktu mezi přáteli prostřednictvím návštěv nebo hovorů.",
+    "utterance": "Mluvčí: Stačí, když se jenom občas zastavíš, nebo mi prostě zavoláš.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že by po tom muži vyžadovala, aby se u ní zastavoval pokaždé."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že se u ní ten muž zastavuje vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že jí ten muž píše dopisy vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že ten muž přináší květiny vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že se u ní ten muž zastavuje vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-13",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Mluví se o násilných střetech a masakrech v dějinách tradičního válčení.",
+    "utterance": "Mluvčí: Tradiční válčení občas přeruší masakr, při kterém dojde k obklíčení a vyhlazení většiny nebo celé populace.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že válčení přeruší masakr pokaždé."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že tradiční válčení přeruší masakr vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že tradiční válčení ukončí příměří vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že po bitvě prší vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že tradiční válčení přeruší masakr vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-14",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Mluví se o zdravotních problémech známého herce a jeho dýchacích potížích.",
+    "utterance": "Mluvčí: Občas ho zlobí srdíčko nebo zradí plíce.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že toho herce zlobí srdce pokaždé."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že toho herce zlobí srdce vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že ten actor kašle vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že ten actor zůstává doma vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že toho herce zlobí srdce vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-15",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Mluví se o údržbě pražských památek a jejich očistě od nečistot.",
+    "utterance": "Mluvčí: I sochy občas potřebují umýt záda!",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že sochy potřebují umýt záda vždycky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že sochy potřebují umýt záda vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že sochy potřebují opravit podstavec vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že kolem soch krouží holubi vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že sochy potřebují umýt záda vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-16",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Mluvčí vzpomíná na své mládí a na čas strávený doma v rodinném kruhu.",
+    "utterance": "Mluvčí: Doma jsem byl opravdu jenom občas.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že byl doma vždycky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že byl doma vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že býval doma s rodiči vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že doma sedával u okna vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "note": "strong upper-bound-negation",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že byl doma vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-17",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Mluvčí vzpomíná na školní docházku a pomoc spolužačky při hodinách.",
+    "utterance": "Mluvčí: Dokonce jsem od ní občas opisoval.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že od té spolužačky opisoval pokaždé."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že od té spolužačky opisoval vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že od té spolužačky přebíral sešity vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že ta spolužačka seděla vedle něj vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že od té spolužačky opisoval vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-18",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Mylord se vyptává mladé ženy, zda ji naplňuje studium akciových obchodů a investic, kterému se musí na přání svého okolí věnovat.",
+    "utterance": "Mladá žena: „No ano, občas. Je to svým způsobem fascinující, víte?“",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mladá žena se nehlásí k tomu, že by ji studium akciových obchodů bavilo vždycky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že ji studium akciových obchodů baví vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že ji studium akciových obchodů uklidňuje vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že si při studiu dělá poznámky vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že ji studium akciových obchodů baví vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-19",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Dívka přemýšlí o návštěvě své babičky u kardiologa a všímá si rytmu vlastního srdce, když večer sama leží v posteli.",
+    "utterance": "Dívka: Myslím, že mám taky bušení srdce, někdy.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Dívka se nehlásí k tomu, že by měla bušení srdce vždycky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že má bušení srdce vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že má závrať vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že si večer sahá na zápěstí vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že má bušení srdce vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-20",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Hospodský v rozhovoru s Václavem odpovídá na otázku, zda k němu do podniku chodívá pan Gomboč.",
+    "utterance": "Hospodský: Jo, občas. Sedává u tamtoho stolu pod obrazem ostrova Santorini.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Hospodský se nehlásí k tomu, že by tam pan Gomboč chodil pokaždé."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že tam pan Gomboč chodí vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že si tam pan Gomboč dává polévku vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že pan Gomboč sedí u dveří vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že tam pan Gomboč chodí vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-21",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Jozífek popisuje, jak vnímá doteky své maminky, když ho hladí nebo mu dává pohlavek.",
+    "utterance": "Jozífek: Mně se to cítí docela dobře, občas.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Jozífek se nehlásí k tomu, že by se u maminčina pohlazení cítil dobře pokaždé."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že se při maminčině pohlazení cítí dobře vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že se při maminčině pohlazení směje vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že maminka zpívá ukolébavku vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že se při maminčině pohlazení cítí dobře vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-22",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Žena mluví se svým partnerem o tom, jak se v jejich vztahu cítila.",
+    "utterance": "Mluvčí: Občas, když jsme byli jen spolu, připadala jsem si osamělá.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že by si vedle svého partnera připadala osamělá vždycky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že si vedle partnera připadala osamělá vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že si vedle partnera připadala unavená vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že s partnerem seděli doma vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že si vedle partnera připadala osamělá vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-23",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Mluvčí popisuje svůj vztah s Bennem a jeden konkrétní večer, který jí utkvěl v paměti.",
+    "utterance": "Mluvčí: A někdy jsme si cizí, jako toho časného večera, kdy jsem zastrčila klíč do zámku a vstoupili jsme do bytu.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že by si s Bennem byli cizí vždycky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že si s Bennem byli cizí vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že s Bennem trávili večery doma vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že Benn nechával rozsvíceno vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "note": "additional",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že si s Bennem byli cizí vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-24",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Žena si stěžuje na přísný dohled pana Pease, který kontroluje efektivitu její práce se zákazníky.",
+    "utterance": "Mluvčí: Občas jsem ho přistihla se stopkami v ruce.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Mluvčí se nehlásí k tomu, že by pana Pease přistihla se stopkami v ruce pokaždé."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že pana Pease přistihla se stopkami v ruce vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že pana Pease viděla se složkou v ruce vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že pan Pease stál u dveří vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "note": "additional",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že pana Pease přistihla se stopkami v ruce vždycky."
+    }
+  },
+  {
+    "id": "implicature-scalar-freq-declarative-25",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "implicature-freq",
+    "context": "Tereza Blažková popisuje svou cestu k modelingu a to, jak intenzivně musela v začátcích pracovat.",
+    "utterance": "Tereza Blažková: Občas jsem měla najednou tři zaměstnání, a i dneska si pořádně nakládám.",
+    "question": "",
+    "options": [
+      {
+        "label": "A",
+        "type": "implicature_true",
+        "text": "Tereza Blažková se nehlásí k tomu, že by měla tři zaměstnání vždycky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se hlásí k tomu, že měla tři zaměstnání vždycky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se nehlásí k tomu, že měla dvě zaměstnání vždycky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se nehlásí k tomu, že pracovala o víkendech vždycky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "subtype": "declarative",
+      "note": "additional",
+      "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že měla tři zaměstnání vždycky."
+    }
+  }
+]

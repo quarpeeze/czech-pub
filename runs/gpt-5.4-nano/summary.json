@@ -1,0 +1,12 @@
+{
+  "n_items": 60,
+  "n_with_gold": 60,
+  "n_correct": 49,
+  "accuracy": 0.8166666666666667,
+  "parse_status_counts": {
+    "ok": 60
+  },
+  "parse_ok_rate": 1.0,
+  "provider": "openai",
+  "model_name": "gpt-5.4-nano"
+}

@@ -1,0 +1,2223 @@
+[
+  {
+    "id": "presupposition-iterative-1",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Mluvčí popisuje, co se děje během napjatého setkání.",
+    "utterance": "Mluvčí: Irský válečník se opět obrátil čelem k nim.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Irský válečník se k nim už dříve obrátil čelem."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Irský válečník se k nim předtím nikdy čelem neobrátil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Irský válečník se k nim už dříve obrátil zády."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Irský válečník měl na sobě v tu chvíli těžkou kovovou zbroj."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-2",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Dva muži spolu mluví o slečně Dalrymplové a jejich společné hře.",
+    "utterance": "Mluvčí: „Doufám, že zase neublížila vaší hře.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Slečna Dalrymplová už dříve jejich hře ublížila."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Slečna Dalrymplová jejich hře předtím nikdy neublížila."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Slečna Dalrymplová už dříve jejich práci ublížila."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Slečna Dalrymplová hraje karty pravidelně každý páteční večer."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "presupposition-iterative-3",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Velitel Flatters dostává instrukce ohledně postupu své expedice.",
+    "utterance": "Mluvčí: Flatters opět dostal pokyn, že jeho expedice má být neagresivní.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Flatters už předtím dostal pokyn, aby jeho expedice byla neagresivní."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Flatters předtím nikdy nedostal pokyn, aby byla jeho expedice neagresivní."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Flatters už předtím dostal pokyn, že jeho expedice má být ozbrojená."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Flatters plánoval trasu expedice několik měsíců předem."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-4",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "V noci se členové výpravy shromažďují u karavany.",
+    "utterance": "Mluvčí: Té noci se výprava znovu seskupila.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Výprava se už předtím znovu dala dohromady."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Výprava se předtím nikdy neseskupila."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Výprava se už předtím rozešla."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Karavana vezla drahocenné zboží určené pro místní trh."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "znovu"
+    }
+  },
+  {
+    "id": "presupposition-iterative-5",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Ráno se u Flatterse hlásí muž se zprávou.",
+    "utterance": "Mluvčí: Ráno opět požádal o návštěvu u Flatterse a oznámil mu, že delegace je už blízko.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ten muž už předtím požádal o návštěvu u Flatterse."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Ten muž předtím nikdy o návštěvu u Flatterse nepožádal."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Ten muž už dříve požádal o snídani u Flatterse."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Delegace cestovala na koních velmi rychle přes otevřenou pláň."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-6",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Mluvčí popisuje, jak Flatters čte dopis týkající se bezpečnosti průchodu karavany.",
+    "utterance": "Mluvčí: Dopis ho znovu ujišťoval o dobrých úmyslech Kel Ahaggarů a tvrdil, že udělají vše, co je v jejich silách, aby karavaně zajistili bezpečný průchod Hoggarem do Súdánu.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Nebylo to poprvé, co ho dopis uklidňoval ohledně úmyslů Kel Ahaggarů."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Dopis ho předtím nikdy o dobrých úmyslech Kel Ahaggarů neujišťoval."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Dopis ho už dříve ujišťoval o mírových úmyslech Kel Ahaggarů."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Cesta do Súdánu byla v této roční době velmi nebezpečná kvůli počasí."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "znovu"
+    }
+  },
+  {
+    "id": "presupposition-iterative-7",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "V boji střelba zasáhne jednoho z útočníků.",
+    "utterance": "Mluvčí: Tuareg opět padl k zemi.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Tuareg už dříve padl k zemi."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Tuareg předtím nikdy k zemi nepadl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Tuareg už střílel do země."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Střelec zacílil na útočníka z velké dálky pomocí moderní pušky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-8",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Mluvčí popisuje, jak Vittel Matuszewská ošetřuje zesláblou Evu.",
+    "utterance": "Mluvčí: Další den Eva přišla zase, hnětla jí břicho, až se večer objevila krev.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Nebylo to poprvé, co Eva přišla."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Eva předtím nikdy nepřišla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Eva nikdy nebyla zesláblá."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Eva byla velmi zesláblá a nemohla mluvit ani přijímat potravu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "presupposition-iterative-9",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Mluvčí vede jednání v přítomnosti kněze.",
+    "utterance": "Mluvčí: Znovu jsem se odvrátil, abych se poradil s knězem.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí se už předtím odvrátil, aby se poradil s knězem."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se předtím nikdy neodvrátil, aby se s knězem poradil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se už dříve odvrátil, aby se pohádal s knězem."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Kněz měl na sobě slavnostní roucho určené pro důležitá vyjednávání."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "znovu"
+    }
+  },
+  {
+    "id": "presupposition-iterative-10",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Po těžkých událostech spolu muži mluví o budoucnosti.",
+    "utterance": "Eudo: „Brzy znovu společně vyjedeme do boje.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Eudo a jeho společníci už dříve společně vyjeli do boje."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Eudo a jeho společníci předtím nikdy společně do boje nevyjeli."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Eudo a jeho společníci už dříve společně vyjeli do lesa."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Muži vždy věřili ve své vítězství nad nepřítelem."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "znovu"
+    }
+  },
+  {
+    "id": "presupposition-iterative-11",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Satan se připravuje na odjezd se svou jednotkou.",
+    "utterance": "Satan: „Už jdu zase do války.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Satan už dříve šel do války."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Satan předtím nikdy v žádné válce nebyl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Satan už dříve šel do vyhnanství."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Jednotka se shromáždila na hlavním náměstí brzy ráno před úsvitem."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "presupposition-iterative-12",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "U dveří mluvčí hovoří se ženou.",
+    "utterance": "Mluvčí: Znovu jsem jí poděkoval.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí jí už dříve poděkoval."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí jí předtím nikdy nepoděkoval."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí jí už dříve poděkoval za půjčku."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Žena stála ve dveřích a držela v ruce starý kovový klíč."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "znovu"
+    }
+  },
+  {
+    "id": "presupposition-iterative-13",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Na střelnici trénuje několik lidí.",
+    "utterance": "Mluvčí: Potom zase střílel Karel.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Karel už dříve střílel."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Karel předtím nikdy v rámci tréninku nestřílel."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Karel už dříve v rámci tréninku střílel z luku."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Střelnice byla umístěna v podzemních prostorách starého sportovního areálu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "presupposition-iterative-14",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Karel leží na válendě a sleduje počasí z okna.",
+    "utterance": "Mluvčí: Zase začalo sněžit.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Už předtím začalo sněžit."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Toho dne ani v daném období předtím nesněžilo."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Toho dne už dříve začalo foukat."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Karel měl na válendě rozloženou rozečtenou knihu o historii."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "presupposition-iterative-15",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Heydrich sedí u stolu se složkou, zatímco k němu někdo promlouvá.",
+    "utterance": "Mluvčí: Heydrich na to neřekl nic a nevzrušeně zase otevřel složku.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Heydrich už předtím otevřel složku."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Heydrich tu složku předtím nikdy otevřenou neměl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Heydrich už předtím vyhodil složku."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Místnost byla osvětlena pouze jednou malou lampou na pracovním stole."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "presupposition-iterative-16",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Belinda spěšně opouští místnost.",
+    "utterance": "Mluvčí: Belinda znovu polkla a vyběhla z místnosti.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Belinda už předtím polkla."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Belinda předtím nikdy nepolkla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Belinda už dříve polkla prášek."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Belinda tu místnost měla hrozně ráda."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "znovu"
+    }
+  },
+  {
+    "id": "presupposition-iterative-17",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Clark mluví s chlapcem a sleduje jeho reakce.",
+    "utterance": "Mluvčí: Chlapec znovu pokývl hlavou.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Chlapec už předtím přikývl."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Chlapec předtím nikdy hlavou nepokývl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Chlapec už předtím potřásl hlavou."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Clark se snažil mluvit klidným hlasem, aby chlapce nevyděsil."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "znovu"
+    }
+  },
+  {
+    "id": "presupposition-iterative-18",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Marty přemýšlí o událostech v prérii.",
+    "utterance": "Mluvčí: Marty znovu zamrazilo.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Marty už předtím zamrazilo."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Marty předtím v souvislosti s těmi událostmi nikdy nezamrazilo."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Marty už dříve v boku zamrazilo."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Marty si myslí, že v prérii není zima."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "znovu"
+    }
+  },
+  {
+    "id": "presupposition-iterative-19",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "V místnosti někdo sleduje obrazovku po skončení reklamy.",
+    "utterance": "Mluvčí: Opět se ozvalo mechanické cvaknutí, reklama zmizela a vystřídalo ji samo prase.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mechanické cvaknutí se už předtím ozvalo."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mechanické cvaknutí se předtím nikdy neozvalo."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mechanické cvaknutí se už dříve ozvalo dvakrát."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Reklama byla o novém pracím prášku."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-20",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Lily přichází do šenku, kde na ni čeká Armstrong.",
+    "utterance": "Mluvčí: Když zase vešla do šenku, pochválil ji Armstrong za odvahu, s jakou zachránila podsvinče před velkou vodou.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Lily už předtím vešla do šenku."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Lily v tom šenku předtím nikdy nebyla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Lily už předtím vstoupila do hostince."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Armstrong měl na sobě promočený kabát."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "presupposition-iterative-21",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Mluvčí pozoruje noční oblohu.",
+    "utterance": "Mluvčí: V dálce znovu padla hvězda.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "V dálce už předtím spadla hvězda."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "V dálce předtím nikdy žádná hvězda nepadla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "V dálce už předtím padl satelit."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí si přitáhl kapuci proti větru."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "znovu"
+    }
+  },
+  {
+    "id": "presupposition-iterative-22",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Popisují se následky pobytu účastníků experimentu na cvičišti.",
+    "utterance": "Mluvčí: Jachnin zase přežil.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Jachnin už dřív přežil."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Jachnin předtím nikdy nebezpečné situaci nečelil ani nepřežil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Jachnin už dříve čelil nebezpečné situaci a zranil se."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Po experimentu účastníkům odebrali krev."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "presupposition-iterative-23",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "V Kyrgyzstánu parlament rozhoduje o obsazení vládních funkcí.",
+    "utterance": "Mluvčí: Biškek znovu zvolil Žaparova za premiéra",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Žaparov už byl premiérem zvolen dříve."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Žaparov nebyl v minulosti nikdy zvolen za premiéra."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Žaparov už byl v minulosti zvolen za vicepremiéra."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Před budovou parlamentu čekali novináři."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "znovu"
+    }
+  },
+  {
+    "id": "presupposition-iterative-24",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "V médiích se mluví o starších kulturních pořadech.",
+    "utterance": "Mluvčí: V televizi se znovu objevil seriál Třicet případů majora Zemana, který vznikl v 70. letech ku příležitosti třiceti let od vzniku Sboru národní bezpečnosti.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Seriál Třicet případů majora Zemana už předtím běžel v televizi."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Seriál Třicet případů majora Zemana se v minulosti v televizi nikdy neobjevil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Seriál Třicet případů majora Zemana se už v minulosti objevil v rozhlase, ale nikdy nebyl populární."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Televize k němu připravila novou upoutávku."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "znovu"
+    }
+  },
+  {
+    "id": "presupposition-iterative-25",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Mluví se o majetkových změnách v kladenské huti.",
+    "utterance": "Mluvčí: To, že by kladenská huť opět mohla skončit v rukou ruských podnikatelů, naznačuje poslední Gajdovo angažmá.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Kladenská huť už předtím mohla skončit (nebo skončila) v rukou ruských podnikatelů."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Kladenská huť v minulosti nikdy v rukou ruských podnikatelů nebyla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Kladenská huť už dříve mohla skončit v rukou proruských investorů z energetiky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Gajda se v poslední době objevoval na veřejných akcích."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-26",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "V politické debatě se řeší Lukašenkova vyjádření k protestům.",
+    "utterance": "Mluvčí: Znovu tvrdil, že za týdny trvajícími protesty v zemi jsou Spojené státy, které působí přes centra v Polsku a České republice.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Lukašenko už předtím tvrdil, že za protesty v zemi jsou Spojené státy."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Lukašenko předtím nikdy tato tvrzení o protestech nepronášel."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Lukašenko už dříve prohlašoval, že za protesty v zemi je Rusko."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Lukašenko měl na sobě během projevu tmavý oblek."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "znovu"
+    }
+  },
+  {
+    "id": "presupposition-iterative-27",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Mluvčí podstoupil lékařský test a čeká na výsledek.",
+    "utterance": "Mluvčí: Ten test byl zase negativní, a tak jsem si oddechl, že můžu jít ven.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Už předtím mu test vyšel negativně."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí předtím nikdy test s negativním výsledkem nepodstoupil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí měl z testu negativní dojem."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Výsledky laboratorních testů jsou obvykle zasílány pacientům prostřednictvím SMS."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "presupposition-iterative-28",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Firma řeší časový harmonogram své zahraniční expanze.",
+    "utterance": "Mluvčí: Takže se to celé opět posunulo.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Není to poprvé, co se termín musel posunout."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Harmonogram se předtím v průběhu plánování nikdy neposunul."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Harmonogram se už dříve v průběhu plánování urychlil."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí si přepsal termíny v kalendáři."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-29",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Mluví se o plánech Evropské vesmírné agentury a vnějších vlivech.",
+    "utterance": "Mluvčí: Druhý pokus plánovaný na letošní březen zase ESA odložila kvůli výskytu onemocnění covid-19 na kosmodromu.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "ESA už dříve odložila pokus plánovaný na letošní březen."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "ESA předtím nikdy žádný pokus neodložila."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "ESA už úplně zrušila pokus plánovaný na letošní březen."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Práce na kosmodromu vyžadují přísné dodržování hygienických a bezpečnostních opatření."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "presupposition-iterative-30",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Premiér se po jmenování ministra obrací na veřejnost.",
+    "utterance": "Mluvčí: Babiš po jmenování Blatného znovu požádal veřejnost, aby dodržovala vládní opatření.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Babiš už předtím vyzval veřejnost, aby dodržovala vládní opatření."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Babiš v minulosti veřejnost k dodržování opatření nikdy nevyzýval."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Babiš požádal Blatného, aby dodržoval vládní opatření."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Vládní opatření byla zavedena s cílem zpomalit šíření virového onemocnění."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "znovu",
+      "negation": "common knowledge"
+    }
+  },
+  {
+    "id": "presupposition-iterative-31",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Zpráva informuje o protiepidemických opatřeních v Aucklandu.",
+    "utterance": "Mluvčí: Na Novém Zélandu bylo znovu nařízeno nošení roušek na vnitrostátních letech a ve veřejné dopravě v největším městě Aucklandu, kde se objevilo nové ohnisko infekce.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Nošení roušek v dopravě v Aucklandu už bylo nařízené dříve."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "V těchto místech na Novém Zélandu nebyla povinnost nosit roušky dříve nikdy zavedena."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Nošení roušek v dopravě v Aucklandu bylo a je volitelné."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Cestovní ruch je pro ekonomiku Nového Zélandu jedním z klíčových odvětví."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "znovu"
+    }
+  },
+  {
+    "id": "presupposition-iterative-32",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Mluvčí mluví o Katharine Birbalsinghovou a jejím jméně v médiích.",
+    "utterance": "Mluvčí: Nedávno se její jméno opět objevilo v médiích, a to v souvislosti s malým skandálem.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Její jméno se už předtím objevilo v médiích."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Její jméno se v minulosti v médiích nikdy neobjevilo."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Její fotografie a videa se už v minulosti v médiích objevila."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí četl o skandálu v ranních novinách."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-33",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "V politickém zpravodajství se řeší rozvoj krajské infrastruktury.",
+    "utterance": "Mluvčí: Čunek znovu prosadil stavbu nemocnice",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Čunek už dřív prosadil stavbu nemocnice."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Čunek předtím nikdy v rámci politického procesu stavbu nemocnice neprosadil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Čunek už dříve v rámci politického procesu prosadil stavbu tunelu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Nemocnice znovu prosadila stavbu Čunka v rámci politického zpravodajství."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "znovu"
+    }
+  },
+  {
+    "id": "presupposition-iterative-34",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Mluvčí srovnává přístup svozových společností k ochranným pomůckám.",
+    "utterance": "Mluvčí: SAKO Brno si zase míchalo vlastní dezinfekci.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "SAKO Brno si vlastní dezinfekci míchalo už předtím."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Společnost SAKO Brno předtím nikdy vlastní dezinfekci nevyráběla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Společnost SAKO Brno už dříve míchala vlastní barvy."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Vlastní dezinfekce si zase míchala SAKO Brno kvůli ochranným pomůckám."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "presupposition-iterative-35",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Ve sportovní zprávě se vyhlašují výsledky hokejové ankety.",
+    "utterance": "Mluvčí: Pastrňák opět vyhrál Zlatou hokejku",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Pastrňák už Zlatou hokejku vyhrál dříve."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Pastrňák v minulosti tuto anketu nikdy nevyhrál."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Pastrňák už v minulosti tuto anketu alespoň jednou uspořádal."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Zlatá hokejka opět vyhrála Pastrňáka ve sportovní hokejové anketě."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-36",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Mluví se o reakci komunistického režimu na pohyb určitého muže v zahraničí.",
+    "utterance": "Mluvčí: Když se potvrdily zprávy, že je znovu v Londýně, rozhodl se komunistický režim pomstít na jeho blízkých.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ten muž už předtím v Londýně byl."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Ten muž v Londýně předtím nikdy nepobýval."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Ten muž už v Bruselu dříve pobýval."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Londýn se znovu pomstil komunistickému režimu za zprávy o blízkých."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "znovu"
+    }
+  },
+  {
+    "id": "presupposition-iterative-37",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Mluvčí cituje Vratislava Mynáře ohledně stavu prezidenta.",
+    "utterance": "Mluvčí: Mynář zase podotkl, že prezident už rozdává úkoly.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Vratislav Mynář už tohle podotkl dřív."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Vratislav Mynář předtím nikdy podobná vyjádření o prezidentově aktivitě nečinil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Vratislav Mynář už dříve činil podobná vyjádření o prezidentově odchodu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Prezident zase podotkl, že Mynář už rozdává úkoly ve svém stavu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "presupposition-iterative-38",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Mluví se o finančních transakcích spojených s firmami Ladislava Bašternáka.",
+    "utterance": "Mluvčí: Někdejší Bašternákova firma zase posílala peníze již bývalému ministrovi vnitra, údajně šlo o splátku půjčky.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Někdejší Bašternákova firma už dříve posílala peníze bývalému ministrovi vnitra."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Ta firma předtím nikdy peníze zmíněnému ministrovi neposílala."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Ta firma už dříve posílala dopisy zmíněnému ministrovi."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Půjčka byla původně sjednána u jedné z největších bank."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "presupposition-iterative-39",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Popisuje se koncertní vystoupení s hostujícími hudebníky.",
+    "utterance": "Mluvčí: Opět dostal pozvánku i britský trombonista Ashley Slater, známý z nahrávek Freak Power, Loose Tubes či Carly Bleyové.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ashley Slater už předtím pozvánku dostal."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Ashley Slater v minulosti na toto vystoupení ani festival pozvánku nikdy nedostal."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Ashley Slater už v minulosti dostal pozvánku na školení."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Festival jazzové hudby trvá v tomto městě celé tři dny."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-40",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Fotbalista komentuje výkony svého týmu proti pražským soupeřům.",
+    "utterance": "Mluvčí: „Byl jsem moc rád, že se nám to znovu povedlo a zase jsme „trápili“ Pražáky,“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Podle fotbalisty jejich tým Pražáky dokázal potrápit už dřív."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Týmu se předtím nikdy nepodařilo Pražáky v zápase potrápit."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Týmu se už dříve podařilo potrápit Brňáky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Celý fotbalový tým trénuje obvykle pětkrát týdně."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "presupposition-iterative-41",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Gideon nakupuje v obchodě a náhodou tam na někoho narazí.",
+    "utterance": "Mluvčí: Když byl v obchodě, náhodou opět potkal Petiho a opět nenastal žádný problém.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Gideon už Petiho potkal i dřív a žádný problém z toho nebyl."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Gideon předtím Petiho nikdy nepotkal, takže žádný problém nastat nemohl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Gideon už dříve v parku Petiho potkal."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Obchod s potravinami měl v té době otevřeno až do večera."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-42",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Sestra u kaple hovoří s dětmi.",
+    "utterance": "Mluvčí: Za několik dnů přišla malá zase a ptala se, jak že se ten růženec modlí.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ta malá už tam byla i předtím."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Ta holčička u sestry předtím nikdy nebyla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Ta malá už tam dříve spala."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Sestra učila místní děti modlit se každou středu odpoledne."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "presupposition-iterative-43",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Delila mluví s mužem a zkouší odhalit tajemství jeho síly.",
+    "utterance": "Mluvčí: A opět to Delila zkusila a opět neuspěla.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Delila to už zkoušela dřív, ale neuspěla."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Delila se o totéž předtím nikdy nepokoušela."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Delila už dříve vyhrála."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Delila pocházela z velmi daleké země na horkém východě."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-44",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "V popisu námořní bitvy se sleduje vývoj situace v čase.",
+    "utterance": "Mluvčí: Okolo desáté se opět ozvala střelba, to se konečně HMS Invincible, HMS Royal George, HMS Valiant, HMS Russell, HMS Queen a HMS Caesar dostaly blíž.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Střelba se ozvala už předtím."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Ten den střelba vůbec nezněla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Střelba se ten den poprvé ozvala až po desáté hodině."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Střelba byla slyšet až do sousedního přístavu na pobřeží."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-45",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Mluví se o diplomatických jednáních západních mocností v září 1938.",
+    "utterance": "Mluvčí: Jejich představitelé znovu jednali 25. a 26. září v Londýně.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Jejich představitelé už spolu předtím jednali."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Představitelé před tímto datem spolu v této věci nikdy nejednali."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Jejich představitelé už před tímto datem k té věci mlčeli."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Představitelé se sešli v hlavní jednací síni ministerstva zahraničí."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "znovu"
+    }
+  },
+  {
+    "id": "presupposition-iterative-46",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Mluví se o změnách ve vedení posudkových komisí.",
+    "utterance": "Mluvčí: Předsedou komise se stal opět po letech posudkový lékař.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Posudkový lékař už předsedou komise byl i dříve."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Posudkový lékař v minulosti funkci předsedy komise nikdy nevykonával."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Posudkový lékař už dříve byl členem komise."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Posudkový lékař se během své dlouholeté praxe specializoval na neurologii."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-47",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Mluví se o investicích firem Tencent a Spotify.",
+    "utterance": "Mluvčí: Tencent zase investoval do Spotify, zajistil firmě vysokou tržní cenu a zbavil Eka dluhů.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Tencent do Spotify investoval už předtím."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Tencent v minulosti do Spotify nikdy neinvestoval."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Tencent už dříve investoval do společnosti Google."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Tencent plánuje v příštím roce investovat do dalších evropských firem."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "presupposition-iterative-48",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Hodnotí se výsledek českého paralympijského týmu ve Vancouveru.",
+    "utterance": "Mluvčí: Zde svou pozici ve světě obhájil a skončil opět pátý.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Tým České republiky už předtím skončil pátý."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Tým na žádné z předchozích akcí ani v předchozím ročníku nikdy pátý neskončil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Tým ČR předtím skončil desátý."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Tým byl ubytován v bezprostřední blízkosti moderního sportovního areálu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-49",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Srovnávají se výsledky kadetů a juniorů ve sportovních ukazatelích.",
+    "utterance": "Mluvčí: Zbývající hodnoty byly opět lepší u juniorů.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "I předchozí hodnoty vyšly lépe u juniorů."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Žádné z předchozích měřených hodnot nebyly u juniorů lepší."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Všechny předchozí hodnoty byly u juniorů horší."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Hodnoty juniorů se zaznamenávaly do digitální databáze pro další statistický výzkum."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-50",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Sleduje se denní program muže, který pracuje v redakci.",
+    "utterance": "Mluvčí: Večer o šesté šel opět do redakce, prohlédl došlé dopisy, pohovořil si s ostatními a odešel do divadla.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ten muž už v redakci byl i předtím."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Ten muž toho dne v redakci předtím nikdy nebyl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Ten muž už dříve toho dne v divadle byl."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Ten muž si v divadle zakoupil lístky do první řady balkonu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-51",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Debatuje se o přístupu britských politiků k myšlence meritokracie.",
+    "utterance": "Mluvčí: Průkopníci meritokracie v New Labour ovšem opět přehlédli dějiny, v tomto případě v roce 1958 poprvé uveřejněnou knihu svého starého kolegy z labouristické strany Michaela Younga „Vzestup meritokracie“.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Podle mluvčího už průkopníci meritokracie v New Labour přehlédli dějiny i dříve."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Tito politici předtím nikdy v žádném případě dějiny nepřehlédli."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Podle mluvčího tito politici už dříve přehlédli smlouvy, a to v roce 1958."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Tito politici se při svém rozhodování inspirovali studiemi dějěpisu USA."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-52",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Popisují se útoky na profesora Abélarda.",
+    "utterance": "Mluvčí: Abélardovi nepřátelé však opět zaútočili a podařilo se jim profesora od studentů izolovat.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Abélardovi nepřátelé už na něj zaútočili i předtím."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Abélardovi nepřátelé na něj v minulosti nikdy nezaútočili."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Abélardovi nepřátelé na něj už dříve zapomněli."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Abélardovi nepřátelé pocházeli převážně z řad vlivných církevních konzervativců."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-53",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Popisuje se program setkání organizace Verein Naturschutzpark.",
+    "utterance": "Mluvčí: Opět byla na programu i evropská konference.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Evropská konference už byla na programu i předtím."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Evropská konference na programu žádného z dřívějších setkání nikdy nebyla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Evropská konference neměla program."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Evropská konference se podrobně zaměřila na ochranu ohrožených druhů ptactva."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "opět"
+    }
+  },
+  {
+    "id": "presupposition-iterative-54",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Popisuje se laboratorní postup při měření vzorku.",
+    "utterance": "Mluvčí: Poté se znovu zvážil a vložil do bubnu měřicího přístroje.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Vzorek už předtím zvážili."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Vzorek nebyl v předchozí fázi měření nikdy zvážen."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Vzorek už předtím propláchli."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Vzorek byl před začátkem měření uchováván v chladicím boxu při stálé teplotě."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "znovu"
+    }
+  },
+  {
+    "id": "presupposition-iterative-55",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Sleduje se profesní dráha vědce.",
+    "utterance": "Mluvčí: Potom působil znovu na středních školách.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ten vědec už předtím učil na středních školách."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Ten vědec v dřívější fázi své kariéry na středních školách nikdy nepracoval."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Ten vědec už dříve působil na ministerstvu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Ten vědec o svém pedagogickém působení napsal po letech obsáhlou monografii."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "znovu"
+    }
+  },
+  {
+    "id": "presupposition-iterative-56",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Mluvčí hodnotí svůj dojem z přicházející pacientky.",
+    "utterance": "Mluvčí: Když přišla znovu, působila na mě zcela novým dojmem.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Pacientka tu už byla i předtím."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Pacientka u mluvčího předtím na návštěvě nikdy nebyla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Pacientka už dříve promluvila."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Pacientka na vyšetření dorazila v doprovodu své dospělé dcery."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "znovu"
+    }
+  },
+  {
+    "id": "presupposition-iterative-57",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Mluvčí popisuje své zvyky po ztrátě manžela.",
+    "utterance": "Mluvčí: Já jsem zase trpěla mánií mít po svém bytě vystavené fotky mého muže, z části jsem některé již odstranila a sama jsem byla sebou překvapena.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Už dřív měla potřebu mít po bytě všude vystavené fotky svého muže."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Tato tendence se u mluvčí v dřívějším období nikdy neprojevovala."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí už dříve trpěla mánií mít v bytě obrazy mužů."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se krátce po smrti manžela přestěhovala do podstatně menšího bytu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "presupposition-iterative-58",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Hodnotí se připravenost na epidemii v průběhu roku.",
+    "utterance": "Mluvčí: Na podzim se pak ukázalo, že zase nefunguje prakticky vůbec nic.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Už předtím byla připravenost na epidemii v zásadě nefunkční."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "V dřívějším období věci fungovaly bez problémů."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "V dřívějším období nefungovalo prakticky jen spojení."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Připravenost na krizovou situaci byla konzultována s mezinárodními experti v oboru."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "presupposition-iterative-59",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Mluvčí mluví o své snaze zlepšit vztahy s rodinou.",
+    "utterance": "Mluvčí: Nesměle jsem začala pracovat na tom, aby mi rodina zase věřila.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Rodina předtím věřila mluvčí."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdy nebyla doba, kdy by rodina mluvčí věřila."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Byla doba, kdy rodina mluvčí pomáhala v práci."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Rodina se pravidelně každé léto scházela v domě u jezera."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "presupposition-iterative-60",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Muž stojí v prázdném pokoji a o něčem přemýšlí.",
+    "utterance": "Mluvčí: A jako by ji v prázdném prostoru na chvíli zase uviděl.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Muž ji už dříve viděl."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Muž ji na tom místě ani v daném prostoru předtím nikdy neviděl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Muž ji už dříve uslyšel."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Muž v prázdném pokoji nečekaně nalezl dopis zapomenutý v rohu u okna."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "zase"
+    }
+  }
+]

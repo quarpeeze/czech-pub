@@ -1,0 +1,552 @@
+[
+    {
+      "id": 22,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Bydlí tvoje rodina pořád u nás ve čtvrti?",
+      "answer_Y_cz": "Přímo tady v ulici.",
+      "direct_answer_pos": "Ano, moje rodina pořád bydlí u nás ve čtvrti.",
+      "direct_answer_neg": "Ne, moje rodina už u nás ve čtvrti nebydlí.",
+      "distractor_lexical": "Přímo tady v ulici včera otevřeli novou pekárnu.",
+      "distractor_associative": "Ceny nájmů v historických čtvrtích se v posledních letech zvýšily."
+    },
+    {
+      "id": 45,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Zůstal jsi v kontaktu s někým ze školy?",
+      "answer_Y_cz": "To teda vůbec.",
+      "direct_answer_pos": "Ano, zůstal jsem v kontaktu s lidmi ze školy.",
+      "direct_answer_neg": "Ne, nezůstal jsem v kontaktu s nikým ze školy.",
+      "distractor_lexical": "To teda včera v televizi říkali o počasí něco jiného.",
+      "distractor_associative": "Školní srazy po dvaceti letech bývají plné nostalgie."
+    },
+    {
+      "id": 58,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Žijí tvoje máma a táta ještě?",
+      "answer_Y_cz": "Jsem sirotek.",
+      "direct_answer_pos": "Ano, moji rodiče ještě žijí.",
+      "direct_answer_neg": "Ne, moji rodiče už nežijí.",
+      "distractor_lexical": "Jsem se včera díval na naše stará rodinná alba.",
+      "distractor_associative": "Demografické studie ukazují, že se lidé dožívají čím dál vyššího věku."
+    },
+    {
+      "id": 104,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Vzpomínáš na naši ulici v dobrém?",
+      "answer_Y_cz": "Bydlelo se mi tam moc dobře.",
+      "direct_answer_pos": "Ano, vzpomínám na naši ulici v dobrém.",
+      "direct_answer_neg": "Ne, nevzpomínám na naši ulici v dobrém.",
+      "distractor_lexical": "Bydlelo se v té době v mnohem skromnějších domech.",
+      "distractor_associative": "Moderní architektura často mění tvář starých předměstí."
+    },
+    {
+      "id": 118,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Je ti divné mě zase vidět?",
+      "answer_Y_cz": "Je to zvláštní pocit.",
+      "direct_answer_pos": "Ano, je mi to divné tě zase vidět.",
+      "direct_answer_neg": "Ne, není mi to divné tě zase vidět.",
+      "distractor_lexical": "Je to zvláštní, jak se po dešti vyčistil vzduch.",
+      "distractor_associative": "Paměť na tváře z dětství zůstává v lidském mozku velmi dlouho."
+    },
+    {
+      "id": 127,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Bydlí tvoji rodiče pořád v domě, kde jste vyrůstali?",
+      "answer_Y_cz": "Loni se přestěhovali.",
+      "direct_answer_pos": "Ano, moji rodiče tam pořád bydlí.",
+      "direct_answer_neg": "Ne, moji rodiče už tam nebydlí.",
+      "distractor_lexical": "Loni se v naší staré ulici opravovaly všechny chodníky.",
+      "distractor_associative": "Stěhování patří k psychicky nejnáročnějším životním událostem."
+    },
+    {
+      "id": 133,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Byl ses podívat na váš starý dům?",
+      "answer_Y_cz": "Viděl jsem, že ho zbourali.",
+      "direct_answer_pos": "Ano, byl jsem se tam podívat.",
+      "direct_answer_neg": "Ne, nebyl jsem se tam podívat.",
+      "distractor_lexical": "Viděl jsem včera v ranních novinách inzerát na prodej pozemku.",
+      "distractor_associative": "Demolice starých budov často ustupuje moderní developerské výstavbě."
+    },
+    {
+      "id": 136,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Hraješ pořád na klavír?",
+      "answer_Y_cz": "Stal se ze mě profesionál.",
+      "direct_answer_pos": "Ano, hraju pořád na klavír.",
+      "direct_answer_neg": "Ne, už na klavír nehraju.",
+      "distractor_lexical": "Stal se včera na hlavní třídě drobný dopravní incident.",
+      "distractor_associative": "Hra na hudební nástroj rozvíjí jemnou motoriku a soustředění."
+    },
+    {
+      "id": 137,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Máš na později nějaké plány?",
+      "answer_Y_cz": "Mám úplně plno po celou dobu, co tu budu.",
+      "direct_answer_pos": "Ano, mám na později plány.",
+      "direct_answer_neg": "Ne, nemám na později žádné plány.",
+      "distractor_lexical": "Mám úplně prázdnou nádrž v autě a musím k pumpě.",
+      "distractor_associative": "Kavárny bývají v odpoledních hodinách velmi vytížené."
+    },
+    {
+      "id": 140,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Zůstala jsi v kontaktu s někým z našich dalších kamarádů?",
+      "answer_Y_cz": "S pár lidmi si píšu na internetu.",
+      "direct_answer_pos": "Ano, zůstala jsem s nimi v kontaktu.",
+      "direct_answer_neg": "Ne, nezůstala jsem v kontaktu s nikým.",
+      "distractor_lexical": "S pár lidmi jsem včera čekala na opožděný autobus.",
+      "distractor_associative": "Sociální sítě výrazně usnadnily vyhledávání starých známých."
+    },
+    {
+      "id": 164,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Pracuješ tady někde poblíž?",
+      "answer_Y_cz": "Pracuju přímo v téhle budově.",
+      "direct_answer_pos": "Ano, pracuju tady poblíž.",
+      "direct_answer_neg": "Ne, nepracuju tady poblíž.",
+      "distractor_lexical": "Pracuju s hlínou na zahradě v podstatě každý víkend.",
+      "distractor_associative": "Lokalita pracoviště má velký vliv na spokojenost zaměstnanců."
+    },
+    {
+      "id": 165,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Je ti divné mě zase vidět?",
+      "answer_Y_cz": "Je to skvělý pocit tě znovu vidět.",
+      "direct_answer_pos": "Ano, je mi to divné tě zase vidět.",
+      "direct_answer_neg": "Ne, není mi to divné tě zase vidět.",
+      "distractor_lexical": "Je to skvělý nápad uspořádat po letech sousedskou slavnost.",
+      "distractor_associative": "Emoce při náhodných setkáních bývají velmi intenzivní."
+    },
+    {
+      "id": 195,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Peče tvoje máma pořád ty skvělé sušenky s čokoládou?",
+      "answer_Y_cz": "Založila si na to firmu.",
+      "direct_answer_pos": "Ano, moje máma je pořád peče.",
+      "direct_answer_neg": "Ne, moje máma už je nepeče.",
+      "distractor_lexical": "Založila včera v krbu malý oheň pro atmosféru.",
+      "distractor_associative": "Rodinné recepty se často stávají základem úspěšného podnikání."
+    },
+    {
+      "id": 200,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Daří se ti dobře?",
+      "answer_Y_cz": "Byl jsem hodně nemocný.",
+      "direct_answer_pos": "Ano, daří se mi dobře.",
+      "direct_answer_neg": "Ne, nedaří se mi úplně dobře.",
+      "distractor_lexical": "Byl jsem včera v obchodě pro novou sekačku na trávu.",
+      "distractor_associative": "Prevence je klíčem k udržení pevného zdraví i ve vyšším věku."
+    },
+    {
+      "id": 201,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Chceš si vyměnit čísla?",
+      "answer_Y_cz": "Hned si tady otevřu kontakty.",
+      "direct_answer_pos": "Ano, chci si vyměnit čísla.",
+      "direct_answer_neg": "Ne, nechci si vyměnit čísla.",
+      "distractor_lexical": "Hned si tady v té nové prodejně koupím čerstvé pečivo.",
+      "distractor_associative": "Moderní smartphony umožňují okamžité sdílení kontaktů přes QR kódy."
+    },
+    {
+      "id": 252,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Vídáš někoho z našich starých známých?",
+      "answer_Y_cz": "Zatím jsem nikoho jiného nepotkal.",
+      "direct_answer_pos": "Ano, vídám někoho ze starých známých.",
+      "direct_answer_neg": "Ne, nevídám nikoho ze starých známých.",
+      "distractor_lexical": "Zatím jsem do té velké krabice naskládal jen staré šaty.",
+      "distractor_associative": "Náhody hrají v mezilidských vztazích často zásadní roli."
+    },
+    {
+      "id": 257,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Bydlíš pořád ve stejném domě?",
+      "answer_Y_cz": "Tam, kde stál náš dům, jsou teď bytovky.",
+      "direct_answer_pos": "Ano, bydlím pořád ve stejném domě.",
+      "direct_answer_neg": "Ne, nebydlím už ve stejném domě.",
+      "distractor_lexical": "Tam, kde jsem včera nechal tašku, teď stojí stůl.",
+      "distractor_associative": "Městské plánování musí brát ohled na historickou zástavbu."
+    },
+    {
+      "id": 260,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Jsi pořád v kontaktu s ostatními sousedy?",
+      "answer_Y_cz": "S některými ano.",
+      "direct_answer_pos": "Ano, jsem v kontaktu s ostatními sousedy.",
+      "direct_answer_neg": "Ne, nejsem v kontaktu s ostatními sousedy.",
+      "distractor_lexical": "S některými nástroji se mi v mojí dílně pracuje hůře.",
+      "distractor_associative": "Dobré sousedské vztahy zvyšují pocit bezpečí v ulici."
+    },
+    {
+      "id": 279,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Bydlíš pořád u rodičů?",
+      "answer_Y_cz": "Odstěhovali se.",
+      "direct_answer_pos": "Ano, bydlím pořád u rodičů.",
+      "direct_answer_neg": "Ne, nebydlím u rodičů.",
+      "distractor_lexical": "Odstěhovali včera z našeho bytu tu starou těžkou skříň.",
+      "distractor_associative": "Mladí lidé v Česku se osamostatňují průměrně kolem 26. roku."
+    },
+    {
+      "id": 335,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Už máš děti?",
+      "answer_Y_cz": "Momentálně jsem bezdětná.",
+      "direct_answer_pos": "Ano, už mám děti.",
+      "direct_answer_neg": "Ne, ještě nemám děti.",
+      "distractor_lexical": "Momentálně nemám v peněžence ani jednu drobnou minci.",
+      "distractor_associative": "Průměrný počet dětí v rodině se v Evropě dlouhodobě snižuje."
+    },
+    {
+      "id": 337,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Bydlíš tady?",
+      "answer_Y_cz": "Jsem tu teprve pár měsíců.",
+      "direct_answer_pos": "Ano, bydlím tady.",
+      "direct_answer_neg": "Ne, nebydlím tady.",
+      "distractor_lexical": "Jsem na ten nový dokument v televizi docela zvědavý.",
+      "distractor_associative": "Migrace obyvatel do velkých měst je celosvětovým trendem."
+    },
+    {
+      "id": 351,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Můžu tě pozvat na skleničku?",
+      "answer_Y_cz": "Bránit ti v tom nebudu.",
+      "direct_answer_pos": "Ano, můžeš mě pozvat.",
+      "direct_answer_neg": "Ne, nemůžeš mě pozvat.",
+      "distractor_lexical": "Bránit vjezdu do garáže je v našem domě zakázáno.",
+      "distractor_associative": "Kulturní zvyklosti při zvaní na drink se v různých zemích liší."
+    },
+    {
+      "id": 374,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Máš děti?",
+      "answer_Y_cz": "Moje dcera má pět let.",
+      "direct_answer_pos": "Ano, mám děti.",
+      "direct_answer_neg": "Ne, nemám děti.",
+      "distractor_lexical": "Moje stará motorka má od včerejška úplně nový lak.",
+      "distractor_associative": "Zápisy do mateřských škol probíhají v České republice na jaře."
+    },
+    {
+      "id": 395,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Peče tvoje máma pořád ty skvělé sušenky s čokoládou?",
+      "answer_Y_cz": "To si piš!",
+      "direct_answer_pos": "Ano, pořád je peče.",
+      "direct_answer_neg": "Ne, už je nepeče.",
+      "distractor_lexical": "To si včera v té restauraci objednal i můj bratr k večeři.",
+      "distractor_associative": "Domácí pečení cukroví navozuje v domácnosti pocit pohody."
+    },
+    {
+      "id": 396,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Dostal jsi svou vysněnou práci?",
+      "answer_Y_cz": "Bohužel ne.",
+      "direct_answer_pos": "Ano, dostal jsem ji.",
+      "direct_answer_neg": "Ne, nedostal jsem ji.",
+      "distractor_lexical": "Bohužel mi včera odpoledne ujel autobus přímo před nosem.",
+      "distractor_associative": "Trh práce prochází v posledních letech zásadní digitální transformací."
+    },
+    {
+      "id": 399,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Máš nějaké děti?",
+      "answer_Y_cz": "Zatím jsem bez závazků.",
+      "direct_answer_pos": "Ano, mám děti.",
+      "direct_answer_neg": "Ne, nemám děti.",
+      "distractor_lexical": "Zatím jsem si v naší knihovně nepůjčil žádnou novou knihu.",
+      "distractor_associative": "Status singles je u generace mileniálů stále častějším jevem."
+    },
+    {
+      "id": 424,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Bydlíš teď ve městě?",
+      "answer_Y_cz": "Pořád musím dojíždět vlakem.",
+      "direct_answer_pos": "Ano, bydlím ve městě.",
+      "direct_answer_neg": "Ne, nebydlím přímo ve městě.",
+      "distractor_lexical": "Pořád musím zalévat kytky na našem malém balkoně.",
+      "distractor_associative": "Železniční doprava je ekologickou alternativou k osobním autům."
+    },
+    {
+      "id": 432,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Jsi nezadaný?",
+      "answer_Y_cz": "Už pár let jsem ženatý.",
+      "direct_answer_pos": "Ano, jsem nezadaný.",
+      "direct_answer_neg": "Ne, nejsem nezadaný.",
+      "distractor_lexical": "Už pár let používám tu samou starou koženou peněženku.",
+      "distractor_associative": "Věk při vstupu do prvního manželství se v Česku stále zvyšuje."
+    },
+    {
+      "id": 437,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Nechceš zajít na kafe a probrat, co je nového?",
+      "answer_Y_cz": "Myslím, že chvilku času mám.",
+      "direct_answer_pos": "Ano, chci zajít na kafe.",
+      "direct_answer_neg": "Ne, nechci zajít na kafe.",
+      "distractor_lexical": "Myslím, že zítra bude venku pršet v podstatě celý den.",
+      "distractor_associative": "Kofein obsažený v kávě pomáhá zvyšovat bdělost a zlepšuje náladu."
+    },
+    {
+      "id": 452,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Pracuješ pořád jako právník?",
+      "answer_Y_cz": "Teď už jsem vedoucí partner.",
+      "direct_answer_pos": "Ano, pracuju pořád jako právník.",
+      "direct_answer_neg": "Ne, už jako právník nepracuju.",
+      "distractor_lexical": "Teď už v televizi začínají dávat večerní zprávy ze světa.",
+      "distractor_associative": "Advokátní zkoušky patří k nejobtížnějším profesním testům v Česku."
+    },
+    {
+      "id": 465,
+      "context_cz": "X a Y jsou sousedé dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Vzal jsi si svou lásku ze střední?",
+      "answer_Y_cz": "Takový klikař jsem nebyl.",
+      "direct_answer_pos": "Ano, vzal jsem si ji.",
+      "direct_answer_neg": "Ne, nevzal jsem si ji.",
+      "distractor_lexical": "Takový model mobilního telefonu už dnes málokdo používá.",
+      "distractor_associative": "Mnoho párů se dnes potkává spíše přes internetové seznamky."
+    },
+    {
+      "id": 469,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Máš pořád rád McDonald?",
+      "answer_Y_cz": "S nezdravým jídlem jsem skončil.",
+      "direct_answer_pos": "Ano, mám ho pořád rád.",
+      "direct_answer_neg": "Ne, už ho nemám rád.",
+      "distractor_lexical": "S tátou jsem včera konečně skončil u opravy našeho auta.",
+      "distractor_associative": "Fastfoodové řetězce se snaží do menu zařazovat i zdravější položky."
+    },
+    {
+      "id": 475,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Máš na později nějaké plány?",
+      "answer_Y_cz": "Budu pomáhat s plánováním pohřbu.",
+      "direct_answer_pos": "Ano, mám na později plány.",
+      "direct_answer_neg": "Ne, nemám na později žádné plány.",
+      "distractor_lexical": "Budu si muset v pondělí dojít do banky pro novou kartu.",
+      "distractor_associative": "Obřadní síně bývají často situovány v blízkosti městských hřbitovů."
+    },
+    {
+      "id": 477,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Je pravda, že ses loni vdala?",
+      "answer_Y_cz": "Můj snubní prstýnek je toho důkazem.",
+      "direct_answer_pos": "Ano, loni jsem se vdala.",
+      "direct_answer_neg": "Ne, loni jsem se nevdala.",
+      "distractor_lexical": "Můj starý batoh včera v tom silném dešti úplně promokl.",
+      "distractor_associative": "Výběr snubních prstenů je důležitou součástí svatebních příprav."
+    },
+    {
+      "id": 489,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Máš dům?",
+      "answer_Y_cz": "Bydlíme v bytě v devátém patře.",
+      "direct_answer_pos": "Ano, mám dům.",
+      "direct_answer_neg": "Ne, nemám dům.",
+      "distractor_lexical": "Bydlíme v téhle čtvrti už víc než patnáct let v podnájmu.",
+      "distractor_associative": "Výškové budovy s byty nabízejí často krásný výhled na celé město."
+    },
+    {
+      "id": 498,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Byl ses za poslední rok podívat v naší staré čtvrti?",
+      "answer_Y_cz": "Vlastně hned několikrát.",
+      "direct_answer_pos": "Ano, byl jsem se tam podívat.",
+      "direct_answer_neg": "Ne, nebyl jsem se tam podívat.",
+      "distractor_lexical": "Vlastně jsem včera zapomněl zamknout vchodové dveře.",
+      "distractor_associative": "Lidé se po letech rádi vrací na místa svého raného dětství."
+    },
+    {
+      "id": 516,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Půjdeš v červnu na sraz ze střední?",
+      "answer_Y_cz": "Nemůžu, musím jít na svatbu.",
+      "direct_answer_pos": "Ano, půjdu na sraz.",
+      "direct_answer_neg": "Ne, nepůjdu na sraz.",
+      "distractor_lexical": "Nemůžu v obchodě nikde najít svou oblíbenou značku čaje.",
+      "distractor_associative": "Srazy po letech bývají příležitostí k obnovení starých přátelství."
+    },
+    {
+      "id": 532,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Chceš probrat, co je nového, u kafe?",
+      "answer_Y_cz": "Kafe si dám rád.",
+      "direct_answer_pos": "Ano, chci to probrat u kafe.",
+      "direct_answer_neg": "Ne, nechci jít na kafe.",
+      "distractor_lexical": "Kafe mi včera v kavárně omylem vylila servírka na kalhoty.",
+      "distractor_associative": "Setkávání u kávy je oblíbeným způsobem trávení volného času."
+    },
+    {
+      "id": 539,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Víš, co se stalo s Jimmym potom, co se odstěhoval?",
+      "answer_Y_cz": "Už roky jsem o něm neslyšel.",
+      "direct_answer_pos": "Ano, vím, co se s ním stalo.",
+      "direct_answer_neg": "Ne, nevím, co se s ním stalo.",
+      "distractor_lexical": "Už roky mě v noci bolí koleno po starém sportovním úrazu.",
+      "distractor_associative": "Změna bydliště často vede k přerušení kontaktu se starými známými."
+    },
+    {
+      "id": 541,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Je to už šest let, co jsme se viděli naposled?",
+      "answer_Y_cz": "Je to přesně tak dlouho.",
+      "direct_answer_pos": "Ano, je to už šest let.",
+      "direct_answer_neg": "Ne, není to šest let.",
+      "distractor_lexical": "Je to zajímavé, jak se v hlubokém lese v noci mění zvuky.",
+      "distractor_associative": "Vnímání času je subjektivní a závisí na množství prožitých událostí."
+    },
+    {
+      "id": 549,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Pamatuješ si na mě?",
+      "answer_Y_cz": "Na svoji nejlepší kamarádku bych nikdy nezapomněla.",
+      "direct_answer_pos": "Ano, pamatuju si na tebe.",
+      "direct_answer_neg": "Ne, nepamatuju si na tebe.",
+      "distractor_lexical": "Na tuhle dalekou cestu do hor bych si sám netroufl.",
+      "distractor_associative": "Paměť z dětství bývá velmi selektivní, ale často uchovává silná pouta."
+    },
+    {
+      "id": 606,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Zůstal jsi v kontaktu s někým ze školy?",
+      "answer_Y_cz": "O nikom jsem už roky neslyšel.",
+      "direct_answer_pos": "Ano, zůstal jsem v kontaktu.",
+      "direct_answer_neg": "Ne, nezůstal jsem v kontaktu.",
+      "distractor_lexical": "O téhle nové restauraci jsem včera četl v časopise o vaření.",
+      "distractor_associative": "Absolventské sítě na internetu pomáhají lidem najít staré spolužáky."
+    },
+    {
+      "id": 645,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Už máte nějaký pěkný dům?",
+      "answer_Y_cz": "Zrovna jsme jeden koupili kousek odsud.",
+      "direct_answer_pos": "Ano, už máme pěkný dům.",
+      "direct_answer_neg": "Ne, ještě dům nemáme.",
+      "distractor_lexical": "Zrovna jsme včera v kuchyni malovali stěny na modro.",
+      "distractor_associative": "Vlastní bydlení je pro většinu rodin největší životní investicí."
+    },
+    {
+      "id": 649,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Pořád tě berou sci-fi filmy?",
+      "answer_Y_cz": "Už jim zrovna nefandím.",
+      "direct_answer_pos": "Ano, pořád mě berou sci-fi filmy.",
+      "direct_answer_neg": "Ne, už mě sci-fi filmy neberou.",
+      "distractor_lexical": "Už mi v peněžence chybí jen pár drobných na lístek.",
+      "distractor_associative": "Vizuální efekty v moderních filmech posouvají hranice fantazie."
+    },
+    {
+      "id": 659,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Bydlel bys tam znovu, kdybys měl tu možnost?",
+      "answer_Y_cz": "Vůbec netoužím se tam vracet.",
+      "direct_answer_pos": "Ano, bydlel bych tam znovu.",
+      "direct_answer_neg": "Ne, nebydlel bych tam znovu.",
+      "distractor_lexical": "Vůbec jsem včera v obchodě nenašel žádné čerstvé ryby.",
+      "distractor_associative": "Člověk se často v dospělosti vrací na místa svého mládí ze zvědavosti."
+    },
+    {
+      "id": 667,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Mluvila jsi s někým jiným z našeho dětství?",
+      "answer_Y_cz": "Už pěkných pár let ne.",
+      "direct_answer_pos": "Ano, mluvila jsem s někým jiným.",
+      "direct_answer_neg": "Ne, nemluvila jsem s nikým jiným.",
+      "distractor_lexical": "Už včera jsem si chtěl v centru koupit úplně nové boty.",
+      "distractor_associative": "Dětská přátelství mívají hluboký vliv na vývoj osobnosti jedince."
+    },
+    {
+      "id": 675,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Jsi v kontaktu s někým z naší čtvrti?",
+      "answer_Y_cz": "S pár lidmi se aspoň jednou ročně vídám.",
+      "direct_answer_pos": "Ano, jsem v kontaktu s někým.",
+      "direct_answer_neg": "Ne, nejsem s nikým v kontaktu.",
+      "distractor_lexical": "S některými kolegy v práci se v poslední době neshodnu.",
+      "distractor_associative": "Lokální komunitní akce pomáhají lidem v sousedství se lépe poznat."
+    },
+    {
+      "id": 678,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Máš sourozence někde poblíž?",
+      "answer_Y_cz": "Jsou rozsetí všude možně.",
+      "direct_answer_pos": "Ano, mám sourozence poblíž.",
+      "direct_answer_neg": "Ne, nemám je poblíž.",
+      "distractor_lexical": "Jsou na našem starém domě v noci krásně vidět hvězdy.",
+      "distractor_associative": "Migrace za prací je častým důvodem rozptýlení rodinných příslušníků."
+    },
+    {
+      "id": 695,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Líbí se ti, jak se to tady změnilo?",
+      "answer_Y_cz": "Stýská se mi po tom, jak to bylo dřív.",
+      "direct_answer_pos": "Ano, líbí se mi to.",
+      "direct_answer_neg": "Ne, nelíbí se mi, jak se to změnilo.",
+      "distractor_lexical": "Stýská se mi po včerejším borůvkovém koláči od tety.",
+      "distractor_associative": "Pocit nostalgie po dřívějším vzhledu okolí je při návratech běžný."
+    },
+    {
+      "id": 699,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Jíš tady často?",
+      "answer_Y_cz": "Myslím, že tu mám v rohu vlastní stůl.",
+      "direct_answer_pos": "Ano, jím tady často.",
+      "direct_answer_neg": "Ne, nejím tady často.",
+      "distractor_lexical": "Myslím, že včera bylo venku mnohem sychravější počasí.",
+      "distractor_associative": "Věrní zákazníci v kavárnách mají často své oblíbené rituály a místa."
+    },
+    {
+      "id": 700,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Chodil jsi na vejšku do ciziny?",
+      "answer_Y_cz": "Studoval jsem v Německu.",
+      "direct_answer_pos": "Ano, chodil jsem tam.",
+      "direct_answer_neg": "Ne, nechodil jsem tam.",
+      "distractor_lexical": "Studoval jsem včera mapu celého kraje kvůli víkendovému výletu.",
+      "distractor_associative": "Zahraniční studijní programy rozvíjejí jazykové schopnosti studentů."
+    },
+    {
+      "id": 718,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Je pravda, že jsi adoptoval čtyři děti?",
+      "answer_Y_cz": "Mám jen jednoho syna.",
+      "direct_answer_pos": "Ano, je to pravda.",
+      "direct_answer_neg": "Ne, není to pravda.",
+      "distractor_lexical": "Mám v kuchyni jen jeden opravdu ostrý nůž na maso.",
+      "distractor_associative": "Proces adopce doprovází v Česku přísné psychologické prověřování."
+    },
+    {
+      "id": 725,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Ještě pořád umíš tu vtipnou věc s jazykem?",
+      "answer_Y_cz": "Je to v genech, takže to asi budu umět vždycky.",
+      "direct_answer_pos": "Ano, ještě pořád to umím.",
+      "direct_answer_neg": "Ne, už to neumím.",
+      "distractor_lexical": "Je to hrozné, jak na zahradě hrozně rychle roste tráva.",
+      "distractor_associative": "Genetické předpoklady určují řadu lidských vrozených schopností."
+    },
+    {
+      "id": 753,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Pořád tu bydlíš?",
+      "answer_Y_cz": "Jsem tu jen na návštěvě.",
+      "direct_answer_pos": "Ano, pořád tu bydlím.",
+      "direct_answer_neg": "Ne, už tu nebydlím.",
+      "distractor_lexical": "Jsem ze všech těch pracovních schůzek už hodně unavená.",
+      "distractor_associative": "Navštěvování rodných měst po letech přináší řadu nečekaných zjištění."
+    },
+    {
+      "id": 760,
+      "context_cz": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+      "question_X_cz": "Jsi to fakt ty?",
+      "answer_Y_cz": "Jsem to já!",
+      "direct_answer_pos": "Ano, jsem to já.",
+      "direct_answer_neg": "Ne, nejsi to ty.",
+      "distractor_lexical": "Jsem na tom novém hřišti včera viděl hromadu hrajících si dětí.",
+      "distractor_associative": "Lidé se po letech hodně mění, ale základní rysy tváře často zůstávají."
+    }
+  ]

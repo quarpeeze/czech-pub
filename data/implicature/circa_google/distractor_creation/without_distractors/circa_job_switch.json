@@ -1,0 +1,332 @@
+[
+  {
+    "id": 30,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Cestuješ v práci hodně?",
+    "answer_Y_cz": "Jednou týdně."
+  },
+  {
+    "id": 51,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Máš práci blízko domova?",
+    "answer_Y_cz": "Je to hodinu cesty."
+  },
+  {
+    "id": 78,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Hledáš už dlouho?",
+    "answer_Y_cz": "Zrovna dneska jsem začal."
+  },
+  {
+    "id": 122,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Chceš pracovat pro jinou firmu?",
+    "answer_Y_cz": "Chci si založit vlastní podnik."
+  },
+  {
+    "id": 162,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Chceš novou výzvu?",
+    "answer_Y_cz": "Výzva by byla skvělá."
+  },
+  {
+    "id": 193,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Vycházíš se svými současnými kolegy?",
+    "answer_Y_cz": "S kolegy vycházíme docela dobře."
+  },
+  {
+    "id": 205,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Musíš v práci bývat dlouho do večera?",
+    "answer_Y_cz": "Často tam zůstávám jako poslední."
+  },
+  {
+    "id": 218,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Máš pětiletou praxi?",
+    "answer_Y_cz": "Jenom tři roky."
+  },
+  {
+    "id": 220,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Máš už nárok na povýšení?",
+    "answer_Y_cz": "Budu ho mít až za půl roku."
+  },
+  {
+    "id": 242,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Je to pořád tak stresující?",
+    "answer_Y_cz": "Stresující je to jen málokdy."
+  },
+  {
+    "id": 250,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Budeš vedoucím oddělení?",
+    "answer_Y_cz": "To místo už je obsazené."
+  },
+  {
+    "id": 288,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Dělá ti starosti tvůj plat?",
+    "answer_Y_cz": "Je až příliš nízký."
+  },
+  {
+    "id": 303,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Chtěl bys v práci víc benefitů?",
+    "answer_Y_cz": "Bodlo by mi lepší hrazení zubaře."
+  },
+  {
+    "id": 304,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Baví tě pracovat na lince?",
+    "answer_Y_cz": "Docela mě to naplňuje."
+  },
+  {
+    "id": 306,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Máš nárok na povýšení?",
+    "answer_Y_cz": "Jsem na té nejvyšší pozici."
+  },
+  {
+    "id": 328,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Zkusil jsi někdy práci venku?",
+    "answer_Y_cz": "Nikdy jsem nic takového nedělal."
+  },
+  {
+    "id": 348,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Máš to blízko domů?",
+    "answer_Y_cz": "Dojíždění mi trvá jen chvilku."
+  },
+  {
+    "id": 349,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Trávíš čas u počítače?",
+    "answer_Y_cz": "U počítače sedím deset hodin denně."
+  },
+  {
+    "id": 350,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Měl jsi fajn šéfy?",
+    "answer_Y_cz": "Moji nadřízení nebyli zrovna lidi, pod kterými se dalo dobře pracovat."
+  },
+  {
+    "id": 370,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Je to ve stejném oboru?",
+    "answer_Y_cz": "Přecházím k něčemu úplně jinému."
+  },
+  {
+    "id": 371,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Hledáš něco náročnějšího?",
+    "answer_Y_cz": "To by bylo skvělé."
+  },
+  {
+    "id": 372,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Jsi na podpůrné pozici?",
+    "answer_Y_cz": "Vedu celé oddělení."
+  },
+  {
+    "id": 383,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Chceš zkusit něco nového?",
+    "answer_Y_cz": "Všechno ostatní už mi přijde takové ohrané."
+  },
+  {
+    "id": 384,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Hledáš ve stejném oboru?",
+    "answer_Y_cz": "Pořád chci pracovat v tom stejném oboru."
+  },
+  {
+    "id": 423,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Zkusila jsi tuhle práci už někdy dřív?",
+    "answer_Y_cz": "V tomhle jsem profík."
+  },
+  {
+    "id": 428,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Budeš pracovat na plný úvazek?",
+    "answer_Y_cz": "Zatím je to jen na zkrácený."
+  },
+  {
+    "id": 441,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Býváš v práci dlouho?",
+    "answer_Y_cz": "Většinou pracuju padesát hodin týdně."
+  },
+  {
+    "id": 474,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Nemáš ráda svou šéfovou?",
+    "answer_Y_cz": "Ona mě taky zrovna nemusí."
+  },
+  {
+    "id": 478,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Musíš dojíždět daleko?",
+    "answer_Y_cz": "Byla by to docela dlouhá cesta."
+  },
+  {
+    "id": 503,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Bavila tě tvoje předchozí práce?",
+    "answer_Y_cz": "Nesnášel jsem ji, proto jsem potřeboval změnu."
+  },
+  {
+    "id": 507,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Pracuješ s hodně lidmi?",
+    "answer_Y_cz": "Náš tým je malý."
+  },
+  {
+    "id": 555,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Je to technická pozice?",
+    "answer_Y_cz": "Ta pozice je kreativní."
+  },
+  {
+    "id": 564,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Vzal jsi si někdy neschopenku, i když ti nic nebylo?",
+    "answer_Y_cz": "Nedovedu si představit, že bych něco takového udělal."
+  },
+  {
+    "id": 571,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Pracoval jsi v tomhle oboru vždycky?",
+    "answer_Y_cz": "V tomhle oboru nemám žádnou praxi."
+  },
+  {
+    "id": 578,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Vyžaduje tvoje práce cestování?",
+    "answer_Y_cz": "Jenom to dojíždění."
+  },
+  {
+    "id": 596,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Děláš vedoucího?",
+    "answer_Y_cz": "Jsem manažer."
+  },
+  {
+    "id": 627,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Máš práci blízko domova?",
+    "answer_Y_cz": "Mám to daleko, čeká mě dlouhé dojíždění."
+  },
+  {
+    "id": 636,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Musíš v práci tahat těžké věci?",
+    "answer_Y_cz": "Sedím u stolu, takže nic nezvedám."
+  },
+  {
+    "id": 655,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Je tam dobrý plat?",
+    "answer_Y_cz": "Mám skvělou mzdu."
+  },
+  {
+    "id": 689,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Hledáš něco intelektuálně náročnějšího?",
+    "answer_Y_cz": "V poslední době jsem se nudil."
+  },
+  {
+    "id": 729,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Potřebuješ na tu práci vysokou školu?",
+    "answer_Y_cz": "Vyžadují bakaláře."
+  },
+  {
+    "id": 734,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Je to v technice?",
+    "answer_Y_cz": "Pracuju v umění."
+  },
+  {
+    "id": 735,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Jsi se svými současnými kolegy spokojený?",
+    "answer_Y_cz": "Všichni jsou hrozně ochotní!"
+  },
+  {
+    "id": 744,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Jsi už teď vedoucí?",
+    "answer_Y_cz": "Brzy budu."
+  },
+  {
+    "id": 762,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Pracuješ někdy z domova?",
+    "answer_Y_cz": "Už jsem to zkoušel, ale moc mě to nebaví."
+  },
+  {
+    "id": 777,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Pracuješ rád s lidmi?",
+    "answer_Y_cz": "Je fajn mít kolem sebe tým."
+  },
+  {
+    "id": 784,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Pracuješ ve své firmě už dlouho?",
+    "answer_Y_cz": "Tohle bude můj devatenáctý rok."
+  },
+  {
+    "id": 809,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Chtěl bys vlastní kancelář?",
+    "answer_Y_cz": "Místo s dveřmi, které můžu zavřít, by bylo super."
+  },
+  {
+    "id": 815,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Zahrnuje tvoje práce služby zákazníkům?",
+    "answer_Y_cz": "Se zákazníky jednat nemusím."
+  },
+  {
+    "id": 841,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Pracuješ rád s počítači?",
+    "answer_Y_cz": "Práce s počítači je jednodušší než práce s lidmi."
+  },
+  {
+    "id": 887,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Máš ranní směny?",
+    "answer_Y_cz": "Dělám noční."
+  },
+  {
+    "id": 901,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Zajímal by tě úplně jiný obor?",
+    "answer_Y_cz": "Moc rád bych zkusil něco nového."
+  },
+  {
+    "id": 917,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Chceš z té práce odejít?",
+    "answer_Y_cz": "Tento týden rozesílám životopisy."
+  },
+  {
+    "id": 918,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Myslíš, že ta druhá práce ti nabídne víc?",
+    "answer_Y_cz": "Platí tam víc."
+  },
+  {
+    "id": 930,
+    "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+    "question_X_cz": "Rozumíš počítačům?",
+    "answer_Y_cz": "Na počítačích jsem vyrostl."
+  }
+]

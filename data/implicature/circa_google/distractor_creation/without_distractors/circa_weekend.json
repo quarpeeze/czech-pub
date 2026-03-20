@@ -1,0 +1,332 @@
+[
+  {
+    "id": 3,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Chtěl byste se ve volném čase dostat na čerstvý vzduch?",
+    "answer_Y_cz": "Zoufale se potřebuju dostat ven z města."
+  },
+  {
+    "id": 12,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Baví tě hrát nějaké sporty?",
+    "answer_Y_cz": "Basketbal je super zábava."
+  },
+  {
+    "id": 18,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Máš rád nějaké sporty?",
+    "answer_Y_cz": "Tenis se hraje skvěle."
+  },
+  {
+    "id": 21,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Máte ráda umění?",
+    "answer_Y_cz": "Chození do muzeí umění je moje nejoblíbenější zábava."
+  },
+  {
+    "id": 24,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Máš rád sporty?",
+    "answer_Y_cz": "Hraju tenis každý víkend."
+  },
+  {
+    "id": 57,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Byl jsi už někdy na bowlingu?",
+    "answer_Y_cz": "Před lety, a od té doby jsem tam nebyl."
+  },
+  {
+    "id": 61,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Jsi rád venku?",
+    "answer_Y_cz": "Venku je mi líp."
+  },
+  {
+    "id": 79,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Hraješ o víkendech golf?",
+    "answer_Y_cz": "Zařekl jsem se, že golf nikdy hrát nebudu."
+  },
+  {
+    "id": 116,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Tvoříte ráda něco kreativního?",
+    "answer_Y_cz": "Ráda kreslím."
+  },
+  {
+    "id": 130,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Jsi v nějakém víkendovém sportovním týmu?",
+    "answer_Y_cz": "Hraju městskou volejbalovou ligu."
+  },
+  {
+    "id": 135,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Baví tě ruční práce?",
+    "answer_Y_cz": "Je to moje nejoblíbenější činnost."
+  },
+  {
+    "id": 152,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Máš nějaké domácí mazlíčky?",
+    "answer_Y_cz": "Moje kočka zrovna oslavila rok."
+  },
+  {
+    "id": 172,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Táhlo tě to vždycky ven do přírody?",
+    "answer_Y_cz": "Mám to radši než být zavřený doma."
+  },
+  {
+    "id": 196,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Už jste byl v té nové restauraci?",
+    "answer_Y_cz": "V poslední době jsem měl hrozně moc práce."
+  },
+  {
+    "id": 203,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Jdeš dneska večer na ten středoškolský fotbal?",
+    "answer_Y_cz": "To bych radši dělal cokoli jiného."
+  },
+  {
+    "id": 212,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Chceš se s někým seznámit?",
+    "answer_Y_cz": "Jsem spokojený o samotě."
+  },
+  {
+    "id": 234,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Hraješ o víkendech fotbal?",
+    "answer_Y_cz": "S tím už jsem seknul."
+  },
+  {
+    "id": 237,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Sleduješ místní sportovní týmy?",
+    "answer_Y_cz": "Mám jeden tým, kterému fandím."
+  },
+  {
+    "id": 238,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Půjdete v tom vánočním průvodu?",
+    "answer_Y_cz": "Vůbec to nemám v plánu."
+  },
+  {
+    "id": 253,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Odpočíváš o víkendech raději?",
+    "answer_Y_cz": "Víkendy mám nabité aktivitami."
+  },
+  {
+    "id": 256,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Máš tento víkend čas?",
+    "answer_Y_cz": "Mám celý víkend plno."
+  },
+  {
+    "id": 265,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Randíš teď s někým?",
+    "answer_Y_cz": "Jsem už několik let ženatý."
+  },
+  {
+    "id": 295,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Chodíš rád do kina?",
+    "answer_Y_cz": "Je to jeden z mých koníčků."
+  },
+  {
+    "id": 298,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Umíš plavat?",
+    "answer_Y_cz": "Plavu jako ryba."
+  },
+  {
+    "id": 311,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Vyhradíte si o víkendu čas jen pro sebe?",
+    "answer_Y_cz": "Je to pro mě důležité."
+  },
+  {
+    "id": 313,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Zajímáš se o umění a kulturu?",
+    "answer_Y_cz": "Docela mě to zajímá."
+  },
+  {
+    "id": 318,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Baví vás divadlo?",
+    "answer_Y_cz": "Miluju živá představení."
+  },
+  {
+    "id": 366,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Byl byste ochotný dělat dobrovolníka?",
+    "answer_Y_cz": "To je hrozný nápad."
+  },
+  {
+    "id": 369,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Nezašel bys na drink?",
+    "answer_Y_cz": "Pojďme do tvého oblíbeného baru."
+  },
+  {
+    "id": 377,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Chystáš se o víkendu pařit?",
+    "answer_Y_cz": "Plánuju vyrazit ven každý večer."
+  },
+  {
+    "id": 387,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Běháš rád?",
+    "answer_Y_cz": "Nemůžu s běháním přestat."
+  },
+  {
+    "id": 409,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Máš o víkendech hodně volného času?",
+    "answer_Y_cz": "Děti mě zaměstnávají naplno."
+  },
+  {
+    "id": 430,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Fandíš horolezectví?",
+    "answer_Y_cz": "Mám radši plavání."
+  },
+  {
+    "id": 438,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Piješ rád?",
+    "answer_Y_cz": "O víkendu si většinou nějaký koktejl dám."
+  },
+  {
+    "id": 451,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Baví tě být venku?",
+    "answer_Y_cz": "Hrozně rád chodím na túry a lyžuju."
+  },
+  {
+    "id": 480,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Byl jsi v centru v některém z muzeí?",
+    "answer_Y_cz": "Mám členství v muzeu umění."
+  },
+  {
+    "id": 494,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Baví tě ruční práce?",
+    "answer_Y_cz": "Často pletu."
+  },
+  {
+    "id": 561,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Baví tě karaoke?",
+    "answer_Y_cz": "Přijde mi to strašně trapné."
+  },
+  {
+    "id": 580,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Budeš se v sobotu účastnit nějakých sportovních aktivit?",
+    "answer_Y_cz": "Na ten den mám naplánované čištění kanálků u zubaře."
+  },
+  {
+    "id": 602,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Máš rád Alamo Draft House?",
+    "answer_Y_cz": "Chodím tam pravidelně."
+  },
+  {
+    "id": 603,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Chodíš někdy na túry?",
+    "answer_Y_cz": "Jednou nebo dvakrát jsem byl."
+  },
+  {
+    "id": 621,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Je nakupování tvoje parketa?",
+    "answer_Y_cz": "Mám radši aktivity, co jsou zadarmo."
+  },
+  {
+    "id": 646,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Plaveš rád?",
+    "answer_Y_cz": "Chodím plavat každý týden."
+  },
+  {
+    "id": 722,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Baví tě turistika?",
+    "answer_Y_cz": "Té jsem nikdy nepřišel na chuť."
+  },
+  {
+    "id": 723,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Nechceš jít se mnou o víkendu na farmářské trhy?",
+    "answer_Y_cz": "Potřebuju koupit cibuli."
+  },
+  {
+    "id": 727,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Máte ráda galerie a muzea?",
+    "answer_Y_cz": "Lepší sobotu si ani nedokážu představit."
+  },
+  {
+    "id": 732,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Chtěl byste být venku?",
+    "answer_Y_cz": "Venku jsem hrozně rád."
+  },
+  {
+    "id": 733,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Jste rád na vodě?",
+    "answer_Y_cz": "Mám strach, že se utopím."
+  },
+  {
+    "id": 757,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Chodíváš do místního baru?",
+    "answer_Y_cz": "Každý víkend."
+  },
+  {
+    "id": 759,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Máš rád vědomostní kvízy?",
+    "answer_Y_cz": "Jsem šampion v pub kvízech."
+  },
+  {
+    "id": 781,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Baví vás outdoorové aktivity?",
+    "answer_Y_cz": "Miluju, když mi vítr fouká do tváře a slunce hřeje do zad."
+  },
+  {
+    "id": 790,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Byl jsi někdy na kajaku?",
+    "answer_Y_cz": "Jezdil jsem na kajaku ve Švédsku."
+  },
+  {
+    "id": 803,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Plánuješ mít nabitý víkend?",
+    "answer_Y_cz": "Spíš takový klidnější."
+  },
+  {
+    "id": 805,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Viděl jsi ten nový film podle Stephena Kinga?",
+    "answer_Y_cz": "Druhá kapitola To byl jeden z nejlepších filmů, co jsem v poslední době viděl."
+  },
+  {
+    "id": 821,
+    "context_cz": "X chce vědět, co Y rád podniká o víkendech.",
+    "question_X_cz": "Baví tě venkovní aktivity?",
+    "answer_Y_cz": "Miluju procházky po louce."
+  }
+]

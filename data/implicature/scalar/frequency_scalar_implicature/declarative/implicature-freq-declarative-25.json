@@ -1,0 +1,577 @@
+[
+    {
+      "id": "implicature-scalar-freq-declarative-1",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Mluví se o povaze psa a jeho projevech tvrdohlavosti.",
+      "utterance": "Mluvčí: Je to milé zvíře, občas je ale pěkně tvrdohlavý.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že je ten pes vždycky tvrdohlavý.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že je ten pes tvrdohlavý vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že je ten pes tvrdohlavý vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že ten pes poslouchá na slovo vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že ten pes spí v předsíni vždycky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-2",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Mluví se o komunikaci mezi členy smečky a o její roli při společném jednání.",
+      "utterance": "Mluvčí: Někdy je to užitečné, když se potřebujeme zkoordinovat.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že je to vždycky užitečné pro koordinaci členů smečky.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že je to ke koordinaci smečky užitečné vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že je to ke koordinaci smečky užitečné vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že je to pro lov zvěře užitečné vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že se smečka pohybuje lesem vždycky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-3",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Mluví se o potížích s porozuměním mluvenému slovu v místnosti se špatnou akustikou.",
+      "utterance": "Mluvčí: Byl v civilu, ale ty jejich civily vždycky čímsi prozrazují uniformu, takže jsem mu občas nerozuměl.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že mluvčí dotyčnému muži vždycky nerozuměl.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že tomu muži nerozuměl vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že tomu muži nerozuměl vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že toho muže poznal na první pohled vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že ten muž nosil kabát vždycky."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-4",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Jedná se o Willa, který popisuje zkušenosti a postřehy získané během nočních hlídek.",
+      "utterance": "Will: Občas mívám službu v noci, stejně jako Richard, a to uslyšíš a zahlédneš věci.",
+      "question": "",
+      "options": {
+        "implicature_true": "Will se nehlásí k tomu, že má službu v noci pokaždé.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že má noční službu vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že má noční službu vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že má službu s Richardem vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že při službě vídá lišky vždycky."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-5",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Mluví se o přirozenosti konfliktů a hádek v milostných vztazích.",
+      "utterance": "Mluvčí: Všichni milenci se občas hádají.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že se všichni milenci hádají vždycky.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že se všichni milenci hádají vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že se všichni milenci hádají vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že si všichni milenci odpouštějí vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že si všichni milenci píšou dopisy vždycky."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-6",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Jedná se o mluvčího, který se snaží omluvit a vysvětlit, co se právě stalo.",
+      "utterance": "Mluvčí: To se mi občas stává.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že se mluvčímu daná věc stává vždycky.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že se mu to stává vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že se mu to stává vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že se mu to stává po ránu vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že si po tom sedá ke stolu vždycky."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-7",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Mluví se o neobvyklých zvycích a chování jednoho z členů klubu starých mládenců.",
+      "utterance": "Mluvčí: Občas hází po lidech ovesné vločky, když se mu uzdá, ale jinak je naprosto pohodový.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že ten člen klubu hází po lidech ovesné vločky pokaždé.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že ten člen klubu hází po lidech ovesné vločky vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že ten člen klubu hází po lidech ovesné vločky vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že ten člen klubu rozdává lidem ovesné vločky vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že ten člen klubu nosí kostkované sako vždycky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-8",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Mluví se o sebehodnocení mladé ženy a jejím postoji k okolnímu světu.",
+      "utterance": "Mluvčí: Ano, občas bývám cynická.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že je cynická vždycky.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že je cynická vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že je cynická vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že je ironická vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že mluví šeptem vždycky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-9",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Mluví se o chaotické povaze manžela a zmatcích, které v rodině vyvolává.",
+      "utterance": "Mluvčí: Můj manžel občas dělá tohuvabohu, ale to mu nesmíš mít za zlé.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že její manžel dělá zmatky pokaždé.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že její manžel dělá zmatky vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že její manžel dělá zmatky vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že její manžel rozbíjí nádobí vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že její manžel chodí pozdě domů vždycky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-10",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Bernhard hovoří o své schopnosti vidět a vnímat přítomnost blízké osoby.",
+      "utterance": "Bernhard: Já ji i občas vidím.",
+      "question": "",
+      "options": {
+        "implicature_true": "Bernhard se nehlásí k tomu, že dotyčnou osobu vidí vždycky.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že tu dotyčnou vídá vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že tu dotyčnou vídá vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že s tou dotyčnou mluví vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že ta dotyčná stojí u okna vždycky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-11",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Mluví se o speciálních položkách v jídelním lístku a jejich cenové výhodnosti.",
+      "utterance": "Mluvčí: Ale občas nabízí specialitu dne.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že podnik nabízí specialitu dne pokaždé.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že podnik nabízí specialitu dne vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že podnik nabízí specialitu dne vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že podnik nabízí dezert zdarma vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že podnik hraje tichou hudbu vždycky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-12",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Mluví se o udržování kontaktu mezi přáteli prostřednictvím návštěv nebo hovorů.",
+      "utterance": "Mluvčí: Stačí, když se jenom občas zastavíš, nebo mi prostě zavoláš.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že by po tom muži vyžadovala, aby se u ní zastavoval pokaždé.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že se u ní ten muž zastavuje vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že se u ní ten muž zastavuje vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že jí ten muž píše dopisy vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že ten muž přináší květiny vždycky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-13",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Mluví se o násilných střetech a masakrech v dějinách tradičního válčení.",
+      "utterance": "Mluvčí: Tradiční válčení občas přeruší masakr, při kterém dojde k obklíčení a vyhlazení většiny nebo celé populace.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že válčení přeruší masakr pokaždé.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že tradiční válčení přeruší masakr vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že tradiční válčení přeruší masakr vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že tradiční válčení ukončí příměří vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že po bitvě prší vždycky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-14",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Mluví se o zdravotních problémech známého herce a jeho dýchacích potížích.",
+      "utterance": "Mluvčí: Občas ho zlobí srdíčko nebo zradí plíce.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že toho herce zlobí srdce pokaždé.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že toho herce zlobí srdce vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že toho herce zlobí srdce vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že ten actor kašle vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že ten actor zůstává doma vždycky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-15",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Mluví se o údržbě pražských památek a jejich očistě od nečistot.",
+      "utterance": "Mluvčí: I sochy občas potřebují umýt záda!",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že sochy potřebují umýt záda vždycky.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že sochy potřebují umýt záda vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že sochy potřebují umýt záda vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že sochy potřebují opravit podstavec vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že kolem soch krouží holubi vždycky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-16",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Mluvčí vzpomíná na své mládí a na čas strávený doma v rodinném kruhu.",
+      "utterance": "Mluvčí: Doma jsem byl opravdu jenom občas.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že byl doma vždycky.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že byl doma vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že byl doma vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že býval doma s rodiči vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že doma sedával u okna vždycky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "extraction_method": "corpus_mining",
+        "note": "strong upper-bound-negation"
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-17",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Mluvčí vzpomíná na školní docházku a pomoc spolužačky při hodinách.",
+      "utterance": "Mluvčí: Dokonce jsem od ní občas opisoval.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že od té spolužačky opisoval pokaždé.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že od té spolužačky opisoval vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že od té spolužačky opisoval vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že od té spolužačky přebíral sešity vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že ta spolužačka seděla vedle něj vždycky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-18",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Mylord se vyptává mladé ženy, zda ji naplňuje studium akciových obchodů a investic, kterému se musí na přání svého okolí věnovat.",
+      "utterance": "Mladá žena: „No ano, občas. Je to svým způsobem fascinující, víte?“",
+      "question": "",
+      "options": {
+        "implicature_true": "Mladá žena se nehlásí k tomu, že by ji studium akciových obchodů bavilo vždycky.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že ji studium akciových obchodů baví vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že ji studium akciových obchodů baví vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že ji studium akciových obchodů uklidňuje vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že si při studiu dělá poznámky vždycky."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-19",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Dívka přemýšlí o návštěvě své babičky u kardiologa a všímá si rytmu vlastního srdce, když večer sama leží v posteli.",
+      "utterance": "Dívka: Myslím, že mám taky bušení srdce, někdy.",
+      "question": "",
+      "options": {
+        "implicature_true": "Dívka se nehlásí k tomu, že by měla bušení srdce vždycky.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že má bušení srdce vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že má bušení srdce vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že má závrať vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že si večer sahá na zápěstí vždycky."
+      },
+      "meta_general": {
+        "corpus": "OpenSubtitles2023",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-20",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Hospodský v rozhovoru s Václavem odpovídá na otázku, zda k němu do podniku chodívá pan Gomboč.",
+      "utterance": "Hospodský: Jo, občas. Sedává u tamtoho stolu pod obrazem ostrova Santorini.",
+      "question": "",
+      "options": {
+        "implicature_true": "Hospodský se nehlásí k tomu, že by tam pan Gomboč chodil pokaždé.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že tam pan Gomboč chodí vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že tam pan Gomboč chodí vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že si tam pan Gomboč dává polévku vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že pan Gomboč sedí u dveří vždycky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-21",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Jozífek popisuje, jak vnímá doteky své maminky, když ho hladí nebo mu dává pohlavek.",
+      "utterance": "Jozífek: Mně se to cítí docela dobře, občas.",
+      "question": "",
+      "options": {
+        "implicature_true": "Jozífek se nehlásí k tomu, že by se u maminčina pohlazení cítil dobře pokaždé.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že se při maminčině pohlazení cítí dobře vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že se při maminčině pohlazení cítí dobře vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že se při maminčině pohlazení směje vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že maminka zpívá ukolébavku vždycky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-22",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Žena mluví se svým partnerem o tom, jak se v jejich vztahu cítila.",
+      "utterance": "Mluvčí: Občas, když jsme byli jen spolu, připadala jsem si osamělá.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že by si vedle svého partnera připadala osamělá vždycky.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že si vedle partnera připadala osamělá vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že si vedle partnera připadala osamělá vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že si vedle partnera připadala unavená vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že s partnerem seděli doma vždycky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-23",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Mluvčí popisuje svůj vztah s Bennem a jeden konkrétní večer, který jí utkvěl v paměti.",
+      "utterance": "Mluvčí: A někdy jsme si cizí, jako toho časného večera, kdy jsem zastrčila klíč do zámku a vstoupili jsme do bytu.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že by si s Bennem byli cizí vždycky.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že si s Bennem byli cizí vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že si s Bennem byli cizí vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že s Bennem trávili večery doma vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že Benn nechával rozsvíceno vždycky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "extraction_method": "corpus_mining",
+        "note": "additional"
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-24",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Žena si stěžuje na přísný dohled pana Pease, který kontroluje efektivitu její práce se zákazníky.",
+      "utterance": "Mluvčí: Občas jsem ho přistihla se stopkami v ruce.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že by pana Pease přistihla se stopkami v ruce pokaždé.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že pana Pease přistihla se stopkami v ruce vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že pana Pease přistihla se stopkami v ruce vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že pana Pease viděla se složkou v ruce vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že pan Pease stál u dveří vždycky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "extraction_method": "corpus_mining",
+        "note": "additional"
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-freq-declarative-25",
+      "phenomenon": "implicature",
+      "category": "implicature-freq",
+      "context": "Tereza Blažková popisuje svou cestu k modelingu a to, jak intenzivně musela v začátcích pracovat.",
+      "utterance": "Tereza Blažková: Občas jsem měla najednou tři zaměstnání, a i dneska si pořádně nakládám.",
+      "question": "",
+      "options": {
+        "implicature_true": "Tereza Blažková se nehlásí k tomu, že by měla tři zaměstnání vždycky.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že měla tři zaměstnání vždycky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že měla tři zaměstnání vždycky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že měla dvě zaměstnání vždycky.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že pracovala o víkendech vždycky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "extraction_method": "corpus_mining",
+        "note": "additional"
+      },
+      "meta_special": {
+        "subtype": "declarative"
+      }
+    }
+  ]

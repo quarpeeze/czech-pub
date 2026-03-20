@@ -1,0 +1,2222 @@
+[
+  {
+    "id": "presupposition-temporal-1",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Skupina mužů nocuje ve stanu a hlídka je upozorňuje na nebezpečí v jejich okolí.",
+    "utterance": "Mluvčí: Chvíli potom, co rozespalí muži stan strhli, odlomila se s praskotem horní část kmene a dopadla přesně na místo, kde kapitáni a jejich spolunocležnici spali.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Rozespalí muži ten stan zbourali."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Rozespalí muži stan nestrhli."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Rozespalí muži zapálili velký táborový oheň uprostřed hlubokého lesa."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Horní část kmene byla už dříve vážně napadena dřevokaznou hnilobou."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-2",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí vypráví o tom, jak se postupně rozhodoval o svém studiu a jak do toho zasáhla rodina.",
+    "utterance": "Mluvčí: No a potom, co jsem si dal přihlášku na geografii, tak to ovlivnili rodiče, jako že řekli: a co budeš dělat, až dostuduješ.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí si podal přihlášku na geografii."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí si přihlášku na geografii nedal."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí si podal přihlášku na studium zahradní architektury v Brně."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Rodiče mluvčího pracovali jako učitelé na místní základní škole."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-3",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "V SeaWorldu sledovali chování kosatky Corky při kontaktu s filmovým štábem.",
+    "utterance": "Mluvčí: Roky potom, co Corky roztříštila sklo, jí filmový štáb v SeaWorldu pustil nahrávku kosatek patřících do jejího volně žijícího stáda.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Corky to sklo rozbila."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Corky sklo neroztříštila."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Corky doplavala k okraji nádrže pro kus čerstvé chlazené ryby."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Film v SeaWorldu se natáčel během mimořádně horkého letního odpoledne."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-4",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí popisuje začátek spolupráce s Juli Glasgowovou a hledání dalších lidí pro svůj projekt.",
+    "utterance": "Mluvčí: Krátce potom, co se Juli přihlásila na mé stránky, jsem začala shánět dobrovolníky.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Juli se přihlásila na stránky mluvčí."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Juli se na stránky mluvčí nepřihlásila."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Juli si objednala novou odbornou knihu od mluvčí v místním knihkupectví."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí spravovala své internetové stránky bez cizí pomoci už několik let."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-5",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí vzpomíná na situaci kolem čokolády, kterou mu přinesl David Reddaway.",
+    "utterance": "Mluvčí: Krátce potom, co jsme se setkali, jsem si vzpomněl na tu čokoládu, kterou mi přinesl David Reddaway, a zeptal jsem se Nicolase, jestli ji dostal.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí se s Nicolasem viděl."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se s Nicolasem nesetkal."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí telefonoval Nicolasovi ohledně doručení drahého vánočního dárku."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "David Reddaway byl známý svou velkou oblibou v kvalitní hořké čokoládě."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-6",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Hitler se v projevu v Říšském sněmu stylizoval do role vojáka.",
+    "utterance": "Mluvčí: Potom, co od německého národa žádal totální obětování, prohlásil: „Teď si nepřeji nic jiného než být prvním vojákem německé říše.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Podle mluvčího Hitler po německém národu požadoval naprosté obětování."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Hitler od německého národa totální obětování nežádal."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Hitler od německého národa žádal finanční příspěvky na novou monumentální výstavbu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Celý projev v Říšském sněmu byl tehdy vysílán v rozhlase po celém území."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-7",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí popisuje jak si postupně získává důvěru jednoho člověka a jak se jeho chování mění.",
+    "utterance": "Mluvčí: Potom, co jsme se spřátelili, byl ochoten udělat, co mi na očích viděl.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí se s tím člověkem spřátelil."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí a ten člověk se nespřátelili."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí a ten člověk spolu začali otevřeně soupeřit o vlivnou vedoucí pozici."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Ten člověk dříve pracoval v úplně jiném oboru než mluvčí."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-8",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí vypráví o jednom člověku, kterého si vážil, a o práci v ateliéru.",
+    "utterance": "Mluvčí: A potom, co jsem ho do svého ateliéru přijal, pracoval na úkolech našeho sklářského oddělení.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí toho člověka vzal do svého ateliéru."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí toho člověka do svého ateliéru nepřijal."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí prodal tomu člověku veškeré profesionální vybavení svého sklářského ateliéru."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Sklářské oddělení ateliéru se v té době potýkalo s náhlým nedostatkem velkých zakázek."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-9",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí vzpomíná na události provázející pobyt rodiny ve vězení ve Štrasburku.",
+    "utterance": "Mluvčí: Potom, co gestapo zatklo Blumu, Röschen a mě, zavřeli brzy i matku rodiny, která jim pomáhala.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Gestapo Blumu, Röschen i mluvčí zadrželo."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Gestapo Blumu, Röschen ani mluvčí nezatklo."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Gestapo prohledalo dům Blumy a Röschen kvůli podezření na zakázanou literaturu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Matka rodiny, která jim pomáhala, bydlela v malém domku na úplném okraji Štrasburku."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-10",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí popisuje plánované předání vedení kliniky a změny, které mu do toho zasáhly.",
+    "utterance": "Mluvčí: Jenže krátce potom, co konkurz proběhl, Káťa onemocněla.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Konkurz proběhl."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Konkurz neproběhl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Konkurz byl na poslední chvíli oficiálně zrušen dosavadním ředitelem kliniky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Káťa byla v té době všeobecně považována za nejvážnější kandidátku na vedení kliniky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-11",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí komentuje působení Romana Prymuly ve veřejném prostoru a na internetu.",
+    "utterance": "Mluvčí: Potom, co byl uveden do vládní funkce, rozmnožil také řady uživatelů sociálních sítí.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Roman Prymula dostal vládní funkci."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Roman Prymula nebyl uveden do vládní funkce."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Roman Prymula založil soukromou kliniku pro pravidelné uživatele sociálních sítí."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Uživatelé sociálních sítí na častou přítomnost vládních činitelů reagují velmi různě."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-12",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Pohled na porušování pandemických pravidel se v USA vlivem společenských událostí změnil.",
+    "utterance": "Mluvčí: Potom, co v USA začaly protesty proti policejnímu násilí, se z porušování pravidel chování v časech pandemie stala v očích části autorů ctnost.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "V Americe vypukly protesty proti násilí ze strany policie."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "V USA nezačaly protesty proti policejnímu násilí."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "V USA definitivně skončily celonárodní debaty o plánované reformě místního zdravotnictví."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Pandemická pravidla byla v různých státech USA vymáhána s odlišnou intenzitou."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-13",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Podmínky na Vltavě jsou pro vodáky aktuálně velmi příznivé.",
+    "utterance": "Mluvčí: Potom, co se v červenci rozvodnily řeky, je proud nyní bezpečný a mohou se vyřádit i na všech jezech.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Během července došlo k rozvodnění řek."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "V červenci se řeky nerozvodnily."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "V červenci došlo k masivnímu úhynu ryb kvůli extrémnímu nedostatku vody v řekách."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Vodáci si letos velmi pochvalují nečekanou čistotu vody v celém horním toku Vltavy."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-14",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Podnikatel Oleh Naumenko zvažuje návrat do Mykolajivu podle vývoje bezpečnosti.",
+    "utterance": "Mluvčí: Ale potom, co Ukrajinci minulý měsíc osvobodili nedaleký Cherson, riziko útoků na Mykolajiv pokleslo.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ukrajinci minulý měsíc Cherson získali zpět."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Ukrajinci minulý měsíc nedaleký Cherson neosvobodili."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Ukrajinci minulý měsíc opustili všechny své obranné pozice v okolí obléhaného Chersonu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Oleh Naumenko vlastnil v Mykolajivu velký a dlouhodobě prosperující zemědělský podnik."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-15",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí vysvětluje rozdíl mezi ježděním ve skateparku a v ulicích a nutnost adaptace.",
+    "utterance": "Mluvčí: Potom, co jsme jezdili většinu času ve skateparcích a připravovali se na závody, pro nás bylo mnohem těžší to v ulicích najednou zvládnout, i když jsme vlastně neměli moc na výběr.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí a jeho skupina trávili většinu času ve skateparcích tréninkem na závody."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Skupina včetně mluvčího nejezdila většinu času ve skateparcích ani se nepřipravovala na závody."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Skupina včetně mluvčího pravidelně sledovala v televizi živé přenosy ze skateboardových závodů."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Ježdění v ulicích vyžaduje od mladých skateboardistů mnohem větší míru rychlé improvizace."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-16",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí porovnává vnímání basketbalu a fotbalu fanoušky v prostředí klubu Fenerbahce.",
+    "utterance": "Mluvčí: I potom, co jsme s Fenerbahce vyhráli Euroligu, bylo pro spoustu lidí důležitější, kolikátí skončili fotbalisté.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčího tým vyhrál s Fenerbahce Euroligu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Tým mluvčího nevyhrál s Fenerbahce Euroligu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Tým mluvčího postoupil do finále domácího poháru s basketbalovým klubem Fenerbahce."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Fotbaloví fanoušci v celém Istanbulu jsou známí svou velkou oddaností místním klubům."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-17",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Jan Farský popisuje svůj pobyt v USA v době, kdy se ve světě vyhrotila politická situace.",
+    "utterance": "Jan Farský: „Měsíc potom, co jsem zalehl do knih, se z akademických témat stala realita, protože Putin vtrhnul na Ukrajinu“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Jan Farský začal hodně číst."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Jan Farský nezalehl do knih."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Jan Farský si koupil nové zpáteční letenky do Spojených států amerických."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Akademická témata na univerzitách v USA často citlivě reflektují aktuální světové dění."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-18",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Hokejista mluví o své rekonvalescenci a o tom, jak zůstával nablízku týmu v Denveru.",
+    "utterance": "Mluvčí: A i potom, co sezona skončila a kluci se rozletěli domů, tak jsem byl v Denveru ještě asi měsíc.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Hokejová sezona tehdy skončila."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Sezona tehdy ještě neskončila."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Sezona byla v polovině nečekaně přerušena kvůli trvale nepříznivému počasí."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Denver je mezi profesionálními hokejisty oblíbeným místem pro trávení dlouhé rekonvalescence."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-19",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Rodina dívky z Českokrumlovska popisuje události následující po jejím ošetření v nemocnici.",
+    "utterance": "Mluvčí: „Potom, co ji propustili na reverz s tím, že není v přímém ohrožení života, se u nás na druhý den odpoledne u domu objevila soudkyně se třemi muži s předběžným opatřením, že si přišli pro naši dceru“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Tu dívku propustili z nemocnice na reverz."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Dívku z Českokrumlovska nepropustili na reverz ani nekonstatovali, že není v ohrožení života."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Dívka z Českokrumlovska byla okamžitě převezena na specializované dětské pracoviště do Prahy."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Předběžná opatření v rodinných sporech bývají často vykonávána za přítomnosti policie."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-20",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Policejní mluvčí Ivana Baláková líčí průběh a okolnosti jedné silniční kontroly.",
+    "utterance": "Ivana Baláková: „Potom, co naše hlídka úplatek odmítla, pokusil se o totéž i řidič, zřejmě v představě, že je lepší vyjednávač.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Podle Ivany Balákové policejní hlídka odmítla úplatek."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Podle Ivany Balákové policejní hlídka úplatek neodmítla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Podle Ivany Balákové policejní hlídka ztratila osobní doklady kontrolovaného řidiče."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Řidič se během celé silniční kontroly choval k zasahujícím policistům velmi arogantně."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-21",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Dva muži spolu mluví o tom, že jeden z nich volal na policii kvůli zhoršující se situaci.",
+    "utterance": "Mluvčí: Potom, co mě přepojili přes několik detektivů, dostal jsem k telefonu někoho, kdo vypadal, jako že má trochu rozumu.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí byl přepojen přes několik detektivů."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčího nepřepojili přes několik detektivů."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí navštívil osobně hlavní policejní stanici v samotném centru města."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Situace, kvůli které mluvčí na policii volal, byla nahlášena jiným svědkem už dříve."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-22",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Sol přichází k usedlosti za svítání a vnímá ostrý kontrast mezi lesem a otevřenou krajinou.",
+    "utterance": "Mluvčí: Potom, co šla tak dlouho temným lesem, se Sol zdálo, že usedlost leží v rozechvělém šedém oparu, a po dosavadním hukotu stromů bylo ticho otevřené krajiny ohlušující.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Sol procházela tmavým lesem."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Sol nešla temným lesem."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Sol jela na svém koni přes rozlehlou a neustále slunnou horskou louku."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Usedlost byla postavena z masivního tmavého dřeva a stála na kraji planiny."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-23",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Sol mluví s mužem a sděluje mu informaci, kterou o něm dříve zaslechla.",
+    "utterance": "Sol: „Nemyslím, že to bude možné. Dlouho potom, co jsi odešel, jsem slyšela, že tě poslali jinam do služby proto, aby nás dva drželi od sebe.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ten muž odešel."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Ten muž neodešel."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Ten muž se v tichosti vrátil zpět do svého rodného rodinného domu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Informace o převelení vojáků se v té době mezi lidmi šířily jen velmi pomalu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-24",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Sousedka v novinách hodnotí chování Lizzie Roperové a jejího manžela Alfreda.",
+    "utterance": "Mluvčí: Potom co byl Alfred zproštěn viny, do novin vykládala, že na její vkus jí Lizzie Roperová někdy připadala přemrštěná, věšela se manželovi na krk a na veřejnosti ho líbala.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Alfred byl zproštěn viny."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Alfred nebyl zproštěn viny."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Alfred byl po dlouhém procesu odsouzen k trestu odnětí svobody na pět let."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Lizzie Roperová se před všemi novináři snažila vystupovat jako naprosto vzorná manželka."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-25",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí popisuje následné události ve městě.",
+    "utterance": "Mluvčí: Hned potom, co přestal jít proud, se na město zřítila dvě letadla.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Vypadla elektřina."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Proud nepřestal jít."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Ve městě došlo k velmi rozsáhlým záplavám po sérii přívalových dešťů."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Letadla, která se nad městem zřítila, patřila místní soukromé letecké společnosti."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-26",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí B mluví s Emily o společenských pozvánkách a o chystaném zahájení výstavy.",
+    "utterance": "Mluvčí B: Potom, co tvůj včerejší večírek měl takový úspěch, se o tebe začaly mimořádně zajímat paní Ayerová a paní Burnhamová.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Včerejší párty Emily se povedla."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Včerejší večírek Emily neměl úspěch."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Včerejší autorská výstava Emily byla navštívena jen malou hrstkou náhodných lidí."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Paní Ayerová a paní Burnhamová patří k nejvýznamnějším mecenáškám místního umění."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-27",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Dva lidé se hádají o důvodech, proč se věci mezi nimi mění.",
+    "utterance": "Mluvčí: „Potom, co se kapela rozpadla, jsem přišel na to, že taky potřebuju změnu.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Kapela skončila."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Kapela se nerozpadla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Kapela vydala své první velmi úspěšné studiové album u velkého vydavatelství."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Změna životního stylu byla pro mluvčího v tu chvíli naprostou a jedinou prioritou."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-28",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Ethan popisuje mluvčímu, co se stalo s Ellou po jejich vzájemném konfliktu.",
+    "utterance": "Ethan: „Potom, cos na ni řval, zdrhla na konec ulice, ale vrátila se.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí na Ellu křičel."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí neřval na Ellu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí poslal Elle dlouhý omluvný dopis hned po jejich vzájemné hádce."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Ella se po svém nečekaném návratu odmítala s Ethanem o celém incidentu bavit."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-29",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Žena vypráví u večeře o své práci a o důvodech svého rychlého přesunu z Paříže.",
+    "utterance": "Mluvčí: Chvíli potom, co jsem nastoupila v ministrově týmu, mě poslali do Luxemburku.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ta žena začala pracovat v ministrově týmu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Žena nenastoupila v ministrově týmu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Žena vyhrála náročné výběrové řízení na pozici vedoucí ředitelky v Luxemburku."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Práce v ministrově týmu v Paříži byla v té době považována za velmi prestižní."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-30",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí vzpomíná na dětství a na zvuky, které se ozývaly domem během dlouhých odpolední.",
+    "utterance": "Mluvčí: Potom, co otec zmizel, jsem doma za dlouhých odpolední slýchala, jak nějaké dítě hází skleněnou kuličkou o stěnu.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "U mluvčí zmizel otec"
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Otec mluvčí nezmizel."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Otec mluvčí oslavil své šedesáté narozeniny v širokém rodinném kruhu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Skleněné kuličky byly v té době mezi malými dětmi velmi oblíbenou hračkou."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "potom"
+    }
+  },
+  {
+    "id": "presupposition-temporal-31",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Kišan rozhoduje, jak naložit s vyčerpaným Vélínem, a dává k tomu pokyny svým lidem.",
+    "utterance": "Mluvčí: Poté co vynesli Vélina z kobky, Kišan přikázal dopravit jej nejprve do léčebny, kde ho důkladněji prohlédl a podal mu pořádný hlt jakési směsi vody a lektvaru s citrónovou příchutí.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Vélina vynesli z cely."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Vélina z kobky nevynesli."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Vélina vynesli z polní nemocnice do nejbližšího hlubokého lesa."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Kišan se v medicíně a léčitelství vzdělával u slavných mistrů na jihu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-32",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Honza Jungman se probudí do chladného rána a vnímá, že se v domě něco změnilo.",
+    "utterance": "Mluvčí: Několik hodin poté, co mladá dívka pustila netvora do svého domu, probudil se Honza Jungman do chladného rána.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mladá dívka nechala netvora vejít do svého domu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mladá dívka netvora do svého domu nepustila."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mladá dívka zamkla netvora do sklepa ve svém letním domě."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Honza Jungman byl v celém okolí známý svou velmi mrzutou a uzavřenou povahou."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-33",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Společníci cestovatele Lainga jsou v náročné situaci velmi nervózní.",
+    "utterance": "Mluvčí: I poté, co karavana vyrazila na cestu, byli Laingovi společníci věčně napjatí a nervózní, měli chuť se obrátit a vrátit se zpět.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Karavana se vydala na cestu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Karavana na cestu nevyrazila."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Karavana dorazila do cílového přístavu na pobřeží."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Cestovatel Laing si během dlouhé expedice vedl podrobný deník o všech setkáních."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-34",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí líčí noc venku a následnou prudkou změnu počasí.",
+    "utterance": "Mluvčí: V noci poté, co jsme byli svědky tohoto jevu, se přihnala prudká vichřice.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Skupina včetně mluvčího byla svědkem jevu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Skupina včetně mluvčího nebyla svědkem tohoto jevu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Skupina včetně mluvčího fotografovala vzácné druhy divokých zvířat."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Prudká vichřice způsobila v okolních horských vesnicích značné materiální škody."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-35",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí je na cestě se svou společnicí a řeší situaci během přesunu k autobusu.",
+    "utterance": "Mluvčí: Poté, co jsme vystály frontu do vozu, vytáhla laskominu a začala mě pokoušet.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí se svou kamarádkou si vystály frontu do autobusu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí a její společnice frontu do vozu nevystály."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí a její společnice si koupily nové jízdenky na vlak."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Autobusová zastávka byla v tu dobu přeplněná lidmi s velkými zavazadly."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-36",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Naylorová odchází z kanceláře a míří k výtahu, když se u ní náhle objeví Dallabrida.",
+    "utterance": "Mluvčí: Poté co nastoupila do výtahu, dostihl ji Dallabrida.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Naylorová vešla do výtahu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Naylorová do výtahu nenastoupila."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Naylorová se rozhodla jít po schodech do desátého patra."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Dallabrida pracoval v budově jako vedoucí oddělení vnitřní bezpečnosti."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-37",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí popisuje, jak po pracovním problému změnil svůj život a začal podnikat s přáteli.",
+    "utterance": "Mluvčí: Nedlouho poté, co mě vyhodili z právnického zaměstnání, jsem se dvěma kamarády založil společnost.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí dostal z právnické práce výpověď."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčího z právnického zaměstnání nevyhodili."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí dobrovolně odešel do předčasného starobního důchodu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Společnost se od svého založení zaměřovala především na vývoj nového softwaru."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-38",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí s rodinou hostí přátele a vzpomíná na nedávné události.",
+    "utterance": "Mluvčí: Den poté, co jsme se vrátili, k nám přišli kamarádi na večírek na uvítanou.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Skupina s mluvčím se vrátila domů."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Skupina včetně mluvčího se nevrátila."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Skupina včetně mluvčího odcestovala na dlouhou letní dovolenou."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Večírek na uvítanou se konal v prostorném obývacím pokoji s výhledem do zahrady."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-39",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Noemí leží v posteli a snaží se vybavit si tvář mladé ženy z portrétu.",
+    "utterance": "Mluvčí: Poté, co Francis odešel, ležela v posteli s rukama podél těla, poslouchala vlastní dech a pokoušela se představit si tvář té mladé ženy tak, jak vypadala na portrétu.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Francis odešel."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Francis neodešel."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Francis přinesl do pokoje novou těžkou lampu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Portrét mladé ženy visel na stěně v masivním, bohatě zdobeném rámu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-40",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí se zmiňuje o svém názoru na turisty.",
+    "utterance": "Mluvčí: Ovšem poté co jsem se odstěhoval do Itálie, se můj postoj vůči turistům změnil.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí se přestěhoval do Itálie."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se do Itálie neodstěhoval."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se vrátil ze své krátké služební cesty v Římě."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Postoj k turistům je v mnoha italských regionech v posledních letech velmi diskutovaným tématem."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-41",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí popisuje těžké období v životě své matky a její další rozhodování.",
+    "utterance": "Mluvčí: Poté co ztratila práci, se matka rozhodla živit tlumočením a překládáním.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Matka přišla o práci."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Matka práci neztratila."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Matka získala nové prestižní místo v mezinárodní bance."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Tlumočení a překládání vyžaduje od matky velmi dobrou znalost cizích jazyků."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-42",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí vzpomíná na rok 1993 a okolnosti stěhování své matky a bratra do Prahy.",
+    "utterance": "Mluvčí: „Poté co otec zemřel, se v roce 1993 matka s bratrem odstěhovali do Prahy.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčímu zemřel otec."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Otec mluvčího nezemřel."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Otec mluvčího se odstěhoval do Spojených států amerických."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Stěhování do Prahy nebylo pro matku i bratra velkou životní změnou."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-43",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Ve veřejné debatě se řeší financování samospráv a další postup vlády.",
+    "utterance": "Mluvčí: Poté co kraje a obce začaly bít na poplach a požadovat dostatečnou náhradu, přišla vláda s návrhem, že obcím poskytne nevratný příspěvek 1200 korun za každého občana.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Kraje i obce začaly protestovat a chtěly náhradu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Kraje ani obce nezačaly bít na poplach ani nic požadovat."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Kraje a obce se rozhodly finančně podpořit novou vládní kampaň."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Financování obcí a krajů je v Česku upraveno zákonem o rozpočtovém určení daní."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-44",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Při online jednání na vrchním soudu se do síně dostaví jen lidé, kteří jsou fyzicky přítomní v budově.",
+    "utterance": "Mluvčí: Poté co z reproduktoru zazněla výzva ke vstupu do soudní síně, vešli dovnitř jen zástupci médií.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Z reproduktoru se ozvala výzva ke vstupu do síně."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Z reproduktoru výzva ke vstupu do soudní síně nezazněla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Z reproduktoru se ozvalo hlášení o okamžité evakuaci celé budovy."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Online jednání na vrchním soudu bylo zavedeno kvůli zvýšení efektivity procesů."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-45",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Jde o útok ve veřejném prostoru.",
+    "utterance": "Mluvčí: Poté, co se mu podařilo dostat do školy, vešel do jedné z tříd, kde těžce zranil učitelku a dvě děti.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Útočník se dostal dovnitř školy."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Útočníkovi se nepodařilo dostat do školy."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Útočník se schoval do tmavého křoví v blízkém parku."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Škola byla po útoku okamžitě uzavřena a obklíčena policejními hlídkami."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-46",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "V obci Pchery vyvolal přesun velkého množství psů Dagmar Harigelové vlnu stížností.",
+    "utterance": "Mluvčí: Jeho provozovatelka Dagmar Harigelová poté, co musela přerušit svou živnost, přestěhovala zhruba desítku velkých psů na dvůr domu pronajatého v jiné části obce.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Dagmar Harigelová musela s podnikáním přestat."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Dagmar Harigelová svou živnost přerušit nemusela."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Dagmar Harigelová otevřela v centru Prahy nový psí salon."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Obyvatelé obce si na neustálý štěkot velkých psů stěžovali už dříve."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-47",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "V Domově pro seniory Bukov v Ústí nad Labem se vedení domlouvá s hygienou na preventivním testování.",
+    "utterance": "Poté, co jim tam onemocněli zaměstnanci, se vedení domova dohodlo s hygienou, aby pro jistotu otestovali všechny.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "V onom domově pro seniory v Ústí nad Labem onemocněli někteří pracovníci."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "V Domově pro seniory Bukov v Ústí nad Labem žádní zaměstnanci neonemocněli."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "V Domově pro seniory Bukov v Ústí nad Labem proběhla celková rekonstrukce jídelny."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Místní domov pro seniory byl postaven v roce 1985."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-48",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Změna vztahů mezi politickými stranami ovlivňuje aktuální situaci ve Sněmovně.",
+    "utterance": "Poté co KSČM vypověděla toleranci hnutí ANO, nemá vláda ve Sněmovně většinu.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "KSČM přestala hnutí ANO tolerovat."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "KSČM toleranci hnutí ANO nevypověděla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "KSČM podepsala novou smlouvu o trvalé vládní spolupráci s hnutím ANO."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Vláda se snaží najít podporu pro své návrhy i u dalších parlamentních stran."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-49",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Investoři na pařížské burze bedlivě sledují vývoj kolem akcií francouzské skupiny Danone.",
+    "utterance": "Poté, co čínská vláda v pondělí svůj úmysl oznámila, kurz akcií francouzské skupiny Danone po zahájení obchodování na pařížské burze krátce poskočil vzhůru až o 1,6 procenta.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Čínská vláda v pondělí svůj záměr zveřejnila."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Čínská vláda v pondělí svůj úmysl neoznámila."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Čínská vláda zrušila veškerá exportní omezení na francouzské mléčné výrobky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Pařížská burza reaguje na zprávy z asijských trhů s vysokou mírou citlivosti."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-50",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Obyvatelé v provincii Dará se rozhodovali, jak naložit se svou budoucností po vojenském vývoji v oblasti.",
+    "utterance": "Poté, co se povstalci v provincii Dará vzdali, se mnoho obyvatel rozhodlo zůstat, místo toho, aby odjeli do zbývajících povstaleckých enkláv na severu země, kam se uchýlily desetitisíce lidí vysídlených z jiných částí Sýrie.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Povstalci v provincii Dará kapitulovali."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Povstalci v provincii Dará se nevzdali."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Povstalci v provincii Dará zahájili novou ofenzivu proti vládním jednotkám."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Provincie Dará byla jedním z klíčových bojišť během celého syrského konfliktu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-51",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Žena hledá ochranu u příbuzného v jiné vesnici, ale situace se vyhrotí.",
+    "utterance": "Mluvčí: Bohužel poté, co Jumu našla Asiwu v jeho zahradě, zpozorovali ji nějací další muži z vesnice Ora.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Jumu objevila Asiwu v jeho zahradě."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Jumu Asiwu v jeho zahradě nenašla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Jumu zapomněla Asiwu pozvat na oslavu narozenin v nedaleké vesnici."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Zahrada byla plná vysokých stromů a hustého keřového podrostu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-52",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Lichtenštejnsko prochází politickou krizí a kníže Jan II. podniká zásadní kroky.",
+    "utterance": "Mluvčí: Poté, co zbývajících jedenáct poslanců složilo svůj mandát, rozpustil kníže Jan II. zemský sněm.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Jedenáct zbývajících poslanců se vzdalo mandátu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Zbývajících jedenáct poslanců svůj mandát nesložilo."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Zbývajících jedenáct poslanců se rozhodlo postavit novou budovu sněmu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Politická krize v Lichtenštejnsku trvala už několik měsíců a neustále eskalovala."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-53",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Během perestrojky se změnily podmínky pro zahraniční rozhlasové vysílání v SSSR.",
+    "utterance": "Mluvčí: Poté, co americké rozhlasové vysílání přestalo být rušeno, sehrálo spolu se západoevropskými zdroji důležitou roli v informování a ovlivňování veřejného mínění.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Rušení amerického rozhlasového vysílání skončilo."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Americké rozhlasové vysílání nepřestalo být rušeno."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Americké rozhlasové vysílání začalo vysílat novou vlnu protisovětské propagandy."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Veřejné mínění v SSSR bylo v té době velmi ovlivněno informacemi ze zahraničí."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-54",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Prezident připravuje expedici a shání odbornou podporu.",
+    "utterance": "Mluvčí: Záhy poté, co Kongres předlohu schválil, začal prezident obesílat přátele mezi geografy, lékaři, matematiky, mineralogy či astronomy.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Kongres tu předlohu schválil."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Kongres předlohu neschválil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Kongres vyhlásil všeobecné volby na území celých Spojených států amerických."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Shánění odborné podpory pro expedici zabralo prezidentovi mnoho času."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-55",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí večeří s tetou a jejím manželem a vnímá, že mají na srdci něco důležitého.",
+    "utterance": "Mluvčí: Několik dní poté, co jsem obdržel povolávací rozkaz, jsem večeřel s tetou a jejím manželem.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí dostal povolávací rozkaz."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí povolávací rozkaz neobdržel."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí si koupil nové letenky na cestu kolem celého světa."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Teta a její manžel žili v malém útulném bytě v centru města."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-56",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Na lodi Kingani došlo během plavby ke změně ve velení.",
+    "utterance": "Mluvčí: Poté, co se Rosenthal nevrátil, převzal velení Leutnant zur See Junge.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Rosenthal se nevrátil."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Rosenthal se vrátil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Rosenthal oslavil úspěšné ukončení celé náročné námořní plavby."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Loď Kingani se v té době nacházela v nebezpečných a neprobádaných vodách."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-57",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Dolan vzpomíná na průběh bojů a na to, jak se měnila situace u jejich jednotky.",
+    "utterance": "Dolan: Poté, co jsme na začátku srpna vybudovali celkem slušnou obrannou linii na řece Naktong, jsme měli pár klidných a nezáživných dní.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Počátkem srpna vytvořili na řece Naktong obrannou linii."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Na začátku srpna žádnou obrannou linii na řece Naktong nevybudovali."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Na začátku srpna provedli kompletní sčítání všech obyvatel v povodí řeky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Řeka Naktong byla strategicky velmi důležitým bodem v celém obranném systému."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-58",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Gustavo v rozhovorech o svém osobním životě mluví jen velmi málo.",
+    "utterance": "Mluvčí: O svém osobním životě poté, co vyšel z vězení, mluví velmi málo, jako by snad žádný ani neměl.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Gustavo vyšel z vězení."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Gustavo z vězení nevyšel."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Gustavo se oženil se svou dlouholetou přítelkyní v rodném městě."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Gustavo byl známý tím, že o svých soukromých záležitostech s médii odmítal mluvit."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-59",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Společnost IEX řeší umístění vyhrazeného místa přístupu v datových centrech.",
+    "utterance": "Mluvčí: Poté, co si vyjednali velmi výhodné podmínky na pronájem datového centra ve Weehawkenu, dostali další nabídku – situovat vyhrazené místo v datovém centru v newjerseyském Secaucusu.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Dohodli si výhodný pronájem datového centra ve Weehawkenu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nevyjednali si žádné výhodné podmínky na pronájem datového centra ve Weehawkenu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Vyjednali si novou smlouvu o sponzorování místního hokejového týmu ve Weehawkenu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Datové centrum ve Weehawkenu patřilo k nejmodernějším technologickým zařízením v kraji."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-60",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Bradův zdravotní stav a léčba se měnily v souvislosti s jeho dřívějším pracovním vytížením.",
+    "utterance": "Mluvčí: Týden poté, co odešel z RBC, se Brad od svého lékaře dozvěděl, že mu tlak spadl zpět na normální hodnoty a že má brát pouze polovinu předepsané dávky svých léků.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Brad v RBC skončil."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Brad z RBC neodešel."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Brad si vzal v RBC velmi dlouhou neplacenou dovolenou."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Práce v RBC byla pro Brada dlouhodobě spojena s extrémním stresem a únavou."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "poté"
+    }
+  }
+]

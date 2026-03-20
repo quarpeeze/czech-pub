@@ -1,0 +1,387 @@
+[
+    {
+      "id": 1,
+      "question_X": "Are you a fan of Korean food?",
+      "answer_Y": "I wouldn't say so",
+      "question_X_cz": "Máš rád korejské jídlo?",
+      "answer_Y_cz": "To bych ani neřekl."
+    },
+    {
+      "id": 6,
+      "question_X": "Do you enjoy foreign cuisine?",
+      "answer_Y": "I like many cuisines.",
+      "question_X_cz": "Chutnají ti cizí kuchyně?",
+      "answer_Y_cz": "Mám rád spoustu různých kuchyní."
+    },
+    {
+      "id": 9,
+      "question_X": "Have you had pizza recently",
+      "answer_Y": "My husband ordered some last night.",
+      "question_X_cz": "Měla jsi v poslední době pizzu?",
+      "answer_Y_cz": "Manžel včera večer nějakou objednal."
+    },
+    {
+      "id": 15,
+      "question_X": "Do you like beer with your Pizza?",
+      "answer_Y": "That is very gross.",
+      "question_X_cz": "Dáváš si k pizze pivo?",
+      "answer_Y_cz": "To je hrozně nechutné."
+    },
+    {
+      "id": 27,
+      "question_X": "Have you got an allergy to nuts?",
+      "answer_Y": "I'm not allergic to anything.",
+      "question_X_cz": "Máš alergii na ořechy?",
+      "answer_Y_cz": "Nejsem alergický vůbec na nic."
+    },
+    {
+      "id": 32,
+      "question_X": "Are you still on a Paleo diet?",
+      "answer_Y": "I have started on the Keto diet.",
+      "question_X_cz": "Pořád držíš paleo dietu?",
+      "answer_Y_cz": "Přešel jsem na keto dietu."
+    },
+    {
+      "id": 68,
+      "question_X": "Do you eat seafood?",
+      "answer_Y": "I love catching my own fish and cooking it.",
+      "question_X_cz": "Jíš mořské plody?",
+      "answer_Y_cz": "Miluju, když si můžu chytit vlastní rybu a pak si ji uvařit."
+    },
+    {
+      "id": 71,
+      "question_X": "Would you prefer a locally owned restaurant?",
+      "answer_Y": "I never really dine at restaurant chains.",
+      "question_X_cz": "Dáváš přednost místním restauracím?",
+      "answer_Y_cz": "V řetězcích v podstatě vůbec nejím."
+    },
+    {
+      "id": 82,
+      "question_X": "Are you on a budget?",
+      "answer_Y": "I would be at the minute",
+      "question_X_cz": "Musíš se teď držet rozpočtu?",
+      "answer_Y_cz": "Momentálně v podstatě ano."
+    },
+    {
+      "id": 87,
+      "question_X": "Hey since the weather has gotten colder did you want to grab some potato soup?",
+      "answer_Y": "that would be good",
+      "question_X_cz": "Hele, jak se teď ochladilo, nezašel bys na bramboračku?",
+      "answer_Y_cz": "To by bylo fajn."
+    },
+    {
+      "id": 100,
+      "question_X": "did you enjoy the sushi bar?",
+      "answer_Y": "I want to eat there more often.",
+      "question_X_cz": "Chutnalo ti v tom sushi baru?",
+      "answer_Y_cz": "Chci tam jíst častěji."
+    },
+    {
+      "id": 111,
+      "question_X": "Do you like buffets?",
+      "answer_Y": "I always want all-you-can-eat.",
+      "question_X_cz": "Máš rád bufety?",
+      "answer_Y_cz": "Vždycky beru all-you-can-eat."
+    },
+    {
+      "id": 138,
+      "question_X": "Do you like vegan food?",
+      "answer_Y": "I always feel good about plant based.",
+      "question_X_cz": "Máš ráda veganské jídlo?",
+      "answer_Y_cz": "Po rostlinné stravě se vždycky cítím dobře."
+    },
+    {
+      "id": 151,
+      "question_X": "Do you mind seafood?",
+      "answer_Y": "I'm in the mood for crab legs.",
+      "question_X_cz": "Vadí ti mořské plody?",
+      "answer_Y_cz": "Mám zrovna chuť na krabí klepeta."
+    },
+    {
+      "id": 154,
+      "question_X": "Do you like eating fast food?",
+      "answer_Y": "I do not eat fast food.",
+      "question_X_cz": "Jíš rád ve fast foodech?",
+      "answer_Y_cz": "Fast foody vůbec nejím."
+    },
+    {
+      "id": 259,
+      "question_X": "Are you into trying new foods?",
+      "answer_Y": "I love trying new cuisines.",
+      "question_X_cz": "Baví tě zkoušet nová jídla?",
+      "answer_Y_cz": "Miluju zkoušení nových kuchyní."
+    },
+    {
+      "id": 305,
+      "question_X": "Do you like ethnic food?",
+      "answer_Y": "I like anything from another country.",
+      "question_X_cz": "Máš rád etnickou kuchyni?",
+      "answer_Y_cz": "Chutná mi cokoli z ciziny."
+    },
+    {
+      "id": 312,
+      "question_X": "Have you eaten Oven Fired Pizza?",
+      "answer_Y": "I had some when I visited New York.",
+      "question_X_cz": "Jedl jsi někdy pizzu z pece na dřevo?",
+      "answer_Y_cz": "Dal jsem si ji, když jsem byl v New Yorku."
+    },
+    {
+      "id": 325,
+      "question_X": "Do you enjoy eating spicy food?",
+      "answer_Y": "It upsets my stomach.",
+      "question_X_cz": "Chutnají ti pálivá jídla?",
+      "answer_Y_cz": "Nedělá mi to dobře na žaludek."
+    },
+    {
+      "id": 327,
+      "question_X": "Have you ever had allergies to food?",
+      "answer_Y": "I only have allergies to bee stings.",
+      "question_X_cz": "Měl jsi někdy nějakou potravinovou alergii?",
+      "answer_Y_cz": "Jsem alergický jenom na včelí bodnutí."
+    },
+    {
+      "id": 342,
+      "question_X": "Do you like to eat spicy food ?",
+      "answer_Y": "I'd prefer not to",
+      "question_X_cz": "Jíš rád pálivá jídla?",
+      "answer_Y_cz": "Raději ne."
+    },
+    {
+      "id": 353,
+      "question_X": "Do you want a place close to home?",
+      "answer_Y": "I don't want to go out.",
+      "question_X_cz": "Chceš něco blízko domova?",
+      "answer_Y_cz": "Vůbec se mi nechce nikam chodit."
+    },
+    {
+      "id": 398,
+      "question_X": "Would you eat fish?",
+      "answer_Y": "I'm a vegetarian.",
+      "question_X_cz": "Dal bys si rybu?",
+      "answer_Y_cz": "Jsem vegetarián."
+    },
+    {
+      "id": 411,
+      "question_X": "Do you have a high budget?",
+      "answer_Y": "I'm trying to cut back on my spending.",
+      "question_X_cz": "Máš teď vysoký rozpočet?",
+      "answer_Y_cz": "Snažím se teď víc šetřit."
+    },
+    {
+      "id": 414,
+      "question_X": "Are you in the mood for ramen?",
+      "answer_Y": "I'd rather have hotpot.",
+      "question_X_cz": "Máš chuť na ramen?",
+      "answer_Y_cz": "Radši bych si dal hotpot."
+    },
+    {
+      "id": 488,
+      "question_X": "Do you spend a lot on food?",
+      "answer_Y": "We do eat out a lot.",
+      "question_X_cz": "Utrácíte hodně za jídlo?",
+      "answer_Y_cz": "Hodně jíme venku."
+    },
+    {
+      "id": 496,
+      "question_X": "Do you like rice?",
+      "answer_Y": "I eat rice with nearly every meal!",
+      "question_X_cz": "Máš rád rýži?",
+      "answer_Y_cz": "Rýži jím skoro ke každému jídlu!"
+    },
+    {
+      "id": 500,
+      "question_X": "Do you drink alcohol?",
+      "answer_Y": "I do love a glass of beer.",
+      "question_X_cz": "Piješ alkohol?",
+      "answer_Y_cz": "Sklenici piva si dám moc rád."
+    },
+    {
+      "id": 505,
+      "question_X": "Have you tried the new Thai restaurant at the Galleria?",
+      "answer_Y": "I visited it last night.",
+      "question_X_cz": "Zkusil jsi tu novou thajskou restauraci v Gallerii?",
+      "answer_Y_cz": "Včera večer jsem tam byl."
+    },
+    {
+      "id": 511,
+      "question_X": "Does Italian food appeal to you?",
+      "answer_Y": "Lasagna's my favorite food.",
+      "question_X_cz": "Láká tě italská kuchyně?",
+      "answer_Y_cz": "Lasagne jsou moje nejoblíbenější jídlo."
+    },
+    {
+      "id": 520,
+      "question_X": "Do you like family style restaurants?",
+      "answer_Y": "Family restaurants have the best food.",
+      "question_X_cz": "Máš rád rodinné restaurace?",
+      "answer_Y_cz": "V rodinných restauracích vaří nejlíp."
+    },
+    {
+      "id": 521,
+      "question_X": "Do you want to go grab a Brooklyn style pizza?",
+      "answer_Y": "that would be good",
+      "question_X_cz": "Nezašel bys na brooklynskou pizzu?",
+      "answer_Y_cz": "To by bylo fajn."
+    },
+    {
+      "id": 529,
+      "question_X": "Are you okay with spicy food?",
+      "answer_Y": "I'd rather not eat spicy food.",
+      "question_X_cz": "Jsou pro tebe pálivá jídla v pohodě?",
+      "answer_Y_cz": "Radši bych si nic pálivého nedával."
+    },
+    {
+      "id": 607,
+      "question_X": "Are you a fan of foreign food?",
+      "answer_Y": "I can't think of any I haven't enjoyed.",
+      "question_X_cz": "Fandíš cizokrajným jídlům?",
+      "answer_Y_cz": "Nevybavuju si žádné, které by mi nechutnalo."
+    },
+    {
+      "id": 620,
+      "question_X": "Are you a vegetarian ?",
+      "answer_Y": "That's laughable.",
+      "question_X_cz": "Jsi vegetarián?",
+      "answer_Y_cz": "To je k smíchu."
+    },
+    {
+      "id": 632,
+      "question_X": "Can you eat any type of food?",
+      "answer_Y": "I am a pescatarian.",
+      "question_X_cz": "Jíš úplně všechno?",
+      "answer_Y_cz": "Jsem pescatarián."
+    },
+    {
+      "id": 651,
+      "question_X": "Do you spend a lot on food?",
+      "answer_Y": "With four kids I do.",
+      "question_X_cz": "Utrácíš hodně za jídlo?",
+      "answer_Y_cz": "Se čtyřmi dětmi musím."
+    },
+    {
+      "id": 657,
+      "question_X": "Are you allergic to garlic?",
+      "answer_Y": "I'm only allergic to wheat.",
+      "question_X_cz": "Máš alergii na česnek?",
+      "answer_Y_cz": "Jsem alergický jenom na pšenici."
+    },
+    {
+      "id": 669,
+      "question_X": "Are you lactose intolerant",
+      "answer_Y": "I can eat anything,",
+      "question_X_cz": "Máš intoleranci na laktózu?",
+      "answer_Y_cz": "Můžu jíst cokoli."
+    },
+    {
+      "id": 708,
+      "question_X": "Do you like red meat?",
+      "answer_Y": "I only eat white meat.",
+      "question_X_cz": "Máš rád červené maso?",
+      "answer_Y_cz": "Jím jenom bílé maso."
+    },
+    {
+      "id": 709,
+      "question_X": "Do you have kids?",
+      "answer_Y": "I just have the one",
+      "question_X_cz": "Máš děti?",
+      "answer_Y_cz": "Mám jenom jedno."
+    },
+    {
+      "id": 764,
+      "question_X": "Do you often eat out in restaurants?",
+      "answer_Y": "I try to get out once a week.",
+      "question_X_cz": "Jíš často v restauracích?",
+      "answer_Y_cz": "Snažím se vyrazit aspoň jednou týdně."
+    },
+    {
+      "id": 788,
+      "question_X": "Did you enjoy the all you can eat food variety we had last week?",
+      "answer_Y": "It was great!",
+      "question_X_cz": "Chutnalo ti minule v tom all-you-can-eat?",
+      "answer_Y_cz": "Bylo to skvělé!"
+    },
+    {
+      "id": 792,
+      "question_X": "Are you into spicy foods?",
+      "answer_Y": "I have never been able to tolerate hot dishes.",
+      "question_X_cz": "Baví tě pálivá jídla?",
+      "answer_Y_cz": "Ostrá jídla jsem nikdy nesnášel."
+    },
+    {
+      "id": 801,
+      "question_X": "Have you ever try Mexican food?",
+      "answer_Y": "Several times.",
+      "question_X_cz": "Zkusil jsi někdy mexické jídlo?",
+      "answer_Y_cz": "Hned několikrát."
+    },
+    {
+      "id": 802,
+      "question_X": "Are you into trying a mom and pop burger place near me?",
+      "answer_Y": "I'd prefer something a little less casual.",
+      "question_X_cz": "Nezkusíme ten rodinný burger bar tady u mě?",
+      "answer_Y_cz": "Dal bych si radši něco trochu méně neformálního."
+    },
+    {
+      "id": 819,
+      "question_X": "Are you eating on a budget?",
+      "answer_Y": "I'm trying to cut back on how much I spend eating out.",
+      "question_X_cz": "Musíš se teď s jídlem držet rozpočtu?",
+      "answer_Y_cz": "Snažím se teď omezit to, kolik utratím v restauracích."
+    },
+    {
+      "id": 836,
+      "question_X": "Do you like biryani?",
+      "answer_Y": "I don't eat rice.",
+      "question_X_cz": "Máš rád biryani?",
+      "answer_Y_cz": "Rýži nejím."
+    },
+    {
+      "id": 852,
+      "question_X": "Do you like fish?",
+      "answer_Y": "I'm allergic to fish.",
+      "question_X_cz": "Máš rád ryby?",
+      "answer_Y_cz": "Jsem na ryby alergický."
+    },
+    {
+      "id": 871,
+      "question_X": "Do you like fish?",
+      "answer_Y": "I'm a pescatarian.",
+      "question_X_cz": "Jíš ryby?",
+      "answer_Y_cz": "Jsem pescatarián."
+    },
+    {
+      "id": 880,
+      "question_X": "Before we go any further I have to know, do you like lasagna?",
+      "answer_Y": "I make lasagna all the time.",
+      "question_X_cz": "Než budeme pokračovat, musím vědět jednu věc: máš ráda lasagne?",
+      "answer_Y_cz": "Lasagne dělám pořád."
+    },
+    {
+      "id": 883,
+      "question_X": "Do you eat meat?",
+      "answer_Y": "I am a hunter.",
+      "question_X_cz": "Jíš maso?",
+      "answer_Y_cz": "Jsem lovec."
+    },
+    {
+      "id": 896,
+      "question_X": "Are you eating on a budget?",
+      "answer_Y": "We're trying to.",
+      "question_X_cz": "Snažíte se s jídlem vejít do rozpočtu?",
+      "answer_Y_cz": "Snažíme se o to."
+    },
+    {
+      "id": 913,
+      "question_X": "Do you like Italian food?",
+      "answer_Y": "It is my favourite",
+      "question_X_cz": "Máš rád italské jídlo?",
+      "answer_Y_cz": "Je to moje nejoblíbenější kuchyně."
+    },
+    {
+      "id": 932,
+      "question_X": "Have you tried Asian food before?",
+      "answer_Y": "I went to a Japanese steakhouse last week.",
+      "question_X_cz": "Už jsi někdy zkusil asijské jídlo?",
+      "answer_Y_cz": "Minulý týden jsem byl v japonském steakhousu."
+    }
+  ]

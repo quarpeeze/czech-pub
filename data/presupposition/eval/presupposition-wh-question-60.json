@@ -1,0 +1,2222 @@
+[
+  {
+    "id": "presupposition-wh-question-1",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "V místnosti se vede ostrá debata mezi několika lidmi.",
+    "utterance": "Mluvčí: Kdo vlastně přišel s tím nápadem?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Někdo s tím nápadem přišel."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo s tím nápadem nepřišel."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někdo přišel s tím dopisem."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Někdo navrhl odložit celou debatu na příští týden."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "kdo"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-2",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Mluvčí pozoruje neznámého muže na hřbitově.",
+    "utterance": "Mluvčí: Koho na hřbitově navštěvoval?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ten muž za někým na hřbitov chodil."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Neznámý muž nikoho na hřbitově nenavštěvoval."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Neznámý muž někoho navštěvoval v nemocnici."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Neznámý muž měl na sobě dlouhý černý vlněný kabát."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "kdo"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-3",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "V uzavřené místnosti panuje napětí.",
+    "utterance": "Mluvčí: Kdo se prořekl o tom pokusu o sebevraždu?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Někdo ten pokus o sebevraždu prozradil."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo se o tom pokusu o sebevraždu neprořekl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někdo se prořekl o pokusu o útěk."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Někdo v místnosti nervózně přecházel od okna ke dveřím."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "kdo"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-4",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Eric stojí u bílého auta a rychle se rozhlíží kolem.",
+    "utterance": "Eric: Kdo sem přijel bílým sedanem?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Někdo tam v tom bílém autě přijel."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo tam bílým sedanem nepřijel."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někdo tam přijel bílým džípem."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Někdo nechal klíčky zapomenuté přímo v zapalování vozu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "kdo"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-5",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "V domě je rozruch a Britt mluví s Marií.",
+    "utterance": "Britt: Kdo vás pustil do domu?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Někdo Marii nechal vejít do domu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo Marii do domu nepustil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někdo pustil Marii do zahrady."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Někdo v horním patře hlasitě bouchl dveřmi."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "kdo"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-6",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "V bytě se najednou šíří podivný zápach a lidé zpozorní.",
+    "utterance": "Mluvčí: Kdo sem dal tu vůni hořících záclon?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Někdo může za to, že v bytě je cítit zápach hořících záclon."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo nezpůsobil, že v bytě je cítit vůně hořících záclon."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někdo způsobil, že v bytě je cítit vůně hořících papírů."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Někdo okamžitě otevřel všechna okna v celém obývacím pokoji."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "kdo"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-7",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Ve sklárně je napjatá atmosféra a řeší se další fungování firmy.",
+    "utterance": "Mluvčí: Kdo sklářům oznámil, že firma končí?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Někdo dal sklářům vědět, že firma končí."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo sklářům nic neoznámil a firma nekončí."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někdo sklářům oznámil, že výroba ve firmě je dočasně přerušena."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Někdo ze zaměstnanců začal sepisovat oficiální stížnost pro vedení."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "kdo"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-8",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Mluví se o účasti sportovců z Afghánistánu na olympiádě.",
+    "utterance": "Mluvčí: Kdo tedy vyslal ženy?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Někdo ty ženy na olympiádu poslal."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo ty ženy nevyslal."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někdo tedy vyslal muže."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Někdo z olympijského výboru musel schválit nové sportovní uniformy pro ženy."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "kdo"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-9",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Probíhá vyhlašování krajského ocenění.",
+    "utterance": "Mluvčí: Kdo se letos stal osobností Pardubického kraje?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Někdo letos ocenění osobnost Pardubického kraje získal."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo se letos osobností Pardubického kraje nestal."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někdo se letos stal osobností Plzeňského kraje."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Někdo ze sponzorů předal vítězi kromě titulu i finanční dar."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "kdo"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-10",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Mluví se o tom, jak známé osobnosti tráví léto.",
+    "utterance": "Mluvčí: Kdo z VIP trávil léto na palubě?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Nějaká celebrita trávila léto na palubě lodi."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo z VIP netrávil léto na palubě."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někdo z VIP trávil léto na pláži."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Někdo z přítomných fotografů pořídil exkluzivní snímky z dovolené."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "kdo"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-11",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Mluví se o muži spojovaném s útokem a o tom, jak se mohl dostat k penězům a ochraně.",
+    "utterance": "Mluvčí: Kdo mu zajistil peníze a slíbil beztrestnost?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Někdo mu sehnal peníze a slíbil, že nebude potrestán."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo mu nezajistil peníze ani mu neslíbil beztrestnost."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někdo mu zajistil ubytování a slíbil beztrestnost."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Někdo z vyšetřovatelů začal prověřovat jeho starší bankovní účty."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "kdo"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-12",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Mluví se o tom, jak funguje každodenní život a bezpečnost ve městech bez silné centrální správy.",
+    "utterance": "Mluvčí: Kdo držel stráž na hradbách a v pevnostech zadržujících nepřátele a nájezdníky?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Někdo na hradbách and v pevnostech hlídal před nájezdníky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo nedržel stráž na hradbách ani v pevnostech."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někdo držel stráž."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Někdo z místních obyvatel musel pravidelně opravovat poškozené zdivo."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "kdo"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-13",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Skupina kluků cestuje ve vagónu a někdo se jich vyptává na organizaci cesty.",
+    "utterance": "Mluvčí: Kdo vás tam měl na starosti?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Někdo na ty kluky během cesty dohlížel."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo tu skupinu kluků na starosti neměl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někdo vás tam měl na povel."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Někdo z kluků zapomněl ve vagónu vlaku svou cestovní tašku."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "kdo"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-14",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "V Leningradě se řeší osud soudruha Kirova a šíří se různé dohady.",
+    "utterance": "Mluvčí: Kdo ho zabil?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Někdo soudruha Kirova připravil o život."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo soudruha Kirova nezabil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někdo ho unesl."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Někdo z ochranky tehdy neplnil své povinnosti dostatečně pečlivě."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "kdo"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-15",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Mluví se o hlasování, při němž se téměř všichni shodnou a jen jeden člověk se vymezí.",
+    "utterance": "Mluvčí: Kdo byl ten jeden jediný, který měl odvahu a čest?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Našel se jeden člověk, který byl dost odvážný a čestný."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Neexistoval žádný člověk, který by měl odvahu a čest."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Existoval jeden jediný člověk, který měl odvahu a moc."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Existoval podrobný seznam všech účastníků tohoto tajného hlasování."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "kdo"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-16",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Peruge a Kraft stojí pod vodopádem a dívají se na potok dole.",
+    "utterance": "Peruge: Co se stalo se vší tou vodou?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "S tou vodou se muselo něco stát."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "S veškerou tou vodou se nic nestalo."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "S veškerou tou horkou vodou se něco stalo."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "S hladinou potoka se v posledních suchých týdnech nic nestalo."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "co"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-17",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Žena přemýšlí o Connorovi a o tom, jak se k ní chová.",
+    "utterance": "Žena: Čeho se vlastně bál?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Connor měl z něčeho strach."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Connor se ničeho nebál."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Connor se vlastně styděl."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Connor se často toulal po venku až do velmi pozdní noci."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "co"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-18",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Vypravěčka si v hlavě skládá, co se během oběda děje mezi Alicí a ostatními.",
+    "utterance": "Vypravěčka: Co to Alice dnes u oběda viděla?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Alice dnes při obědě něco zahlédla."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Alice dnes u oběda nic neviděla."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Alice dnes u večeře něco viděla."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Alice dnes během jídla téměř vůbec nemluvila s ostatními lidmi."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "co"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-19",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Honza mluví s kamarády a v hovoru se objevuje jméno Ronni.",
+    "utterance": "Honza: Co se stalo s Ronnim?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "S Ronnim se něco přihodilo."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "S Ronnim se nic nestalo."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "S Ronnim se někdo seznamil."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "S Ronniho rodinou se kamarádi už velmi dlouho vůbec neviděli."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "co"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-20",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Serena myslí na mrtvého muže a na to, co se kolem něj děje.",
+    "utterance": "Serena: Co s ním udělali?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Někdo s tělem toho mrtvého muže nějak naložil."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo nic s mrtvým mužem neudělal."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Někdo něco udělal s mrtvým psem."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Někdo z vesničanů našel u mrtvého muže starý stříbrný medailonek."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "co"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-21",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "V kulturní rubrice se hodnotí film a režijní přístup.",
+    "utterance": "Mluvčí: Čím tedy Shannon Murphyová tak zaujala?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Shannon Murphyová si něčím získala pozornost."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Shannon Murphyová ničím nezaujala."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Shannon Murphyová něčím pobavila."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Shannon Murphyová dříve pracovala jako asistentka u jiného režiséra."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "co"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-22",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "V rozhovoru se probírá kniha a to, co v ní zůstává nepojmenované.",
+    "utterance": "Mluvčí: Co tehdy zůstalo stranou?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Na něco se tehdy zapomnělo nebo se to pominulo."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nic tehdy nezůstalo stranou."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Něco tehdy zůstalo na stole."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Něco z původního rukopisu musel autor pod tlakem nakladatele smazat."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "co"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-23",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "V interview se řeší chování dotazované osoby v pracovním prostředí.",
+    "utterance": "Mluvčí: Co jste udělala?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Dotazovaná osoba něco provedla."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Dotazovaná osoba nic neudělala."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Dotazovaná osoba něco napsala."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Dotazovaná osoba pracovala ve firmě na pozici vedoucí celého oddělení."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "co"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-24",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "V rozhovoru pokračuje výměna otázek a odpovědí o jednom incidentu.",
+    "utterance": "Mluvčí: Co jste udělala?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ta žena tehdy něco provedla."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Dotazovaná osoba nic neudělala."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Dotazovaná osoba něco slíbila."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Dotazovaná osoba se po incidentu odmítla bavit s místními novináři."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "co"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-25",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Novinář sleduje vyšetřování případu a čeká na oficiální informace.",
+    "utterance": "Novinář: Co dosud zveřejnila policie?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Policie už k tomu něco vydala."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Policie dosud nic nezveřejnila."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Policie dosud něco vyšetřila."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Policie prověřuje i verzi, že v případu figurovalo více osob."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "co"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-26",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Mluví se o zdravotním stavu Karla IV. a o lékařských postupech té doby.",
+    "utterance": "Mluvčí: Co se poté dělo s otevřeným skusem Karla IV.?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "S otevřeným skusem Karla IV. se po nějaké době něco stalo."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "S otevřeným skusem Karla IV. se nic nedělo."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Se zrakem Karla IV. se něco dělo."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "S celkovým zdravím Karla IV. se v posledních letech života výrazně zhoršilo."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "co"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-27",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Mluví se o vzniku trhu a pravidlech, která s ním souvisejí.",
+    "utterance": "Mluvčí: Co všechno se se vznikem trhu změnilo?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Po vzniku trhu došlo k nějakým změnám."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Se vznikem trhu se nic nezměnilo."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Se vznikem státu se něco změnilo."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Se zavedením nových daní se celková situace na trhu ještě zkomplikovala."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "co"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-28",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Mluví se o kuchaři Putinovi a o Rasputinovi v Astorii.",
+    "utterance": "Mluvčí: Co mu Putin uvařil?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Putin pro Rasputina připravil nějaké jídlo."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Putin Rasputinovi nic neuvařil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Putin mu něco prodal."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Putin je prezident, ne kuchař, aby vařil."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "co"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-29",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Mluvčí vypráví o pobytu ve Stalinově dače.",
+    "utterance": "Mluvčí: Co se stalo po mém odchodu se Stalinovou dačou?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Když mluvčí odešel, se Stalinovou dačou se něco přihodilo."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Po odchodu mluvčího se se Stalinovou dačou nic nestalo."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Po odchodu mluvčího se se Stalinovou sochou něco stalo."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Po dlouhé době se o Stalinovu daču začali zajímat místní historici."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "co"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-30",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Mluví se o proměně populární hudby a nálad v ní.",
+    "utterance": "Mluvčí: Co se to s kapitalistickou mašinou stalo?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "S tou kapitalistickou mašinou se něco muselo stát."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "S kapitalistickou mašinou se nic nestalo."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "S kapitalistickou náladou se něco stalo."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "S vývojem hudebního trhu se kapitalistická mašina stala méně efektivní."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "co"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-31",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Richard v táboře přemýšlí o následcích konfliktu.",
+    "utterance": "Richard: Kolik životů stál tenhle spor?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Tenhle spor si vyžádal lidské životy."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Tenhle spor nestál žádné životy."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Tenhle spor stál nějaký počet koní."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Tenhle spor trval mezi znepřátelenými rody už několik desetiletí."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "kolik"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-32",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Miranda a Olivia spolu mluví o budoucnosti a o možnostech sňatku.",
+    "utterance": "Miranda: Kolik nabídek jsi letos dostala?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Olivia letos dostala nějaký počet nabídek k sňatku."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Olivia letos nedostala žádnou nabídku."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Olivia letos dostala nějaký počet dopisů od Mirandy."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Olivia se o svatbu a podobné záležitosti ve skutečnosti nezajímala."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "kolik"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-33",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Grimm se vyptává na průběh událostí a chce znát konkrétní detaily.",
+    "utterance": "Grimm: Kolik toho vypila?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ta žena vypila určité množství vody."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Ta žena nic nevypila."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Ta žena snědla nějaké množství jídla."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Ta žena se v poslední době cítila neustále velmi unavená."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "kolik"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-34",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Vypravěč sleduje hlídkový vůz a odhaduje, jak se jeho řidič orientuje v situaci.",
+    "utterance": "Vypravěč: Kolik toho věděl?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Řidič měl nějaké informace."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Řidič nevěděl vůbec nic."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Řidič slyšel nějaké množství informací přímo od vypravěče."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Řidič hlídkového vozu pracoval u místní policie teprve krátce."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "kolik"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-35",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Sigrud přemýšlí o vztahu s Sharou Komaydovou.",
+    "utterance": "Sigrud: Kolik let už jsem s ní strávil?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Sigrud s ní už strávil nějaký počet let."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Sigrud s ní nestrávil ani jeden rok."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Sigrud s ní strávil 10 let."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Sigrud se se Sharou poprvé setkal na univerzitní přednášce."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "kolik"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-36",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "V rozhovoru o financování bydlení se novinář ptá dotazovaného na roli jeho rodičů.",
+    "utterance": "Mluvčí: Kolik vaši rodiče naspořili?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Rodičům dotazovaného se podařilo něco naspořit."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Rodiče dotazovaného nenaspořili vůbec nic."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Rodiče dotazovaného utratili nějakou částku."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Rodiče dotazovaného pracovali celý život ve velkém státním podniku."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "kolik"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-37",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "V rozhovoru se probírá plánovaná cesta do Moskvy a informace kolem ní.",
+    "utterance": "Mluvčí: Kolik lidí to vědělo?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "O té cestě už někdo věděl."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo to nevěděl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Nějaký počet lidí už odjel do Moskvy."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Nějaký počet lidí se o té cestě dozvěděl až z ranních novin."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "kolik"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-38",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Novinář se ptá zakladatelky nadace na rozsah její pomoci.",
+    "utterance": "Novinář: Kolika dětem vaše nadace už pomohla?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Nadaci se podařilo pomoci určitému počtu dětí."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nadace dosud nepomohla žádnému dítěti."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Nadace zachránila zakladatelku."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Nadace získává většinu svých finančních prostředků od soukromých dárců."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "kolik"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-39",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Novinář se ptá zástupce programu „Praha 10 Bez Graffiti“ na výsledky práce.",
+    "utterance": "Novinář: Kolik čmáranic jste už odstranili?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Podařilo se jim už odstranit nějaké množství graffiti."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Správci programu neodstranili dosud žádnou čmáranici."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Správci programu už nafotili nějaký počet čmáranic."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Správci programu používají k odstraňování kreseb speciální chemické prostředky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "kolik"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-40",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Novinář se ptá zástupce firmy na průběh výroby superpočítačů.",
+    "utterance": "Mluvčí: Kolik zakázek jste zatím realizovali?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Firma už dokončila několik zakázek."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Firma zatím nerealizovala žádnou zakázku."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Firma zatím naplánovala nějaký počet zakázek."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Firma spolupracuje na vývoji nových procesorů se zahraničními partnery."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "kolik"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-41",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Mluvčí uvažuje o jaderném konfliktu mezi Spojenými státy a Sovětským svazem.",
+    "utterance": "Mluvčí: Kolik bomb měly k dispozici?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Spojené státy měly k dispozici nějaký počet bomb."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Spojené státy neměly k dispozici žádnou bombu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Spojené státy měly k dispozici nějaký počet tanků."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Spojené státy investovaly do vývoje jaderných zbraní obrovské prostředky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "kolik"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-42",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Mluvčí přemýšlí o financování výzkumu čisté energie a o tom, jak velké mají být investice.",
+    "utterance": "Mluvčí: Kolik peněz bychom měli investovat?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Do výzkumu by se měla vložit určitá suma peněz."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Neměla by se investovat žádná částka peněz."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Měla by se investovat nějaká částka času a energie."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Měla by se také zvážit podpora pro menší vědecké týmy v regionech."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "kolik"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-43",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Mluvčí zdůrazňuje myšlenku, že každý člověk má ve světě své místo a smysl.",
+    "utterance": "Mluvčí: Kolik lidí na to zapomnělo?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Hodně lidí už na tuhle myšlenku zapomnělo."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo na tuto myšlenku nezapomněl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Nějaký počet lidí na tuto myšlenku upozornil."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Nějaký počet lidí o tomto tématu pravidelně píše do vědeckých časopisů."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "kolik"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-44",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "V rozhovoru se řeší provoz statku a organizační změny v práci.",
+    "utterance": "Novinář: Kolik lidí jste propustili?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Provozovatel statku musel propustit několik zaměstnanců."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Provozovatel statku nepropustil nikoho."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Provozovatel statku propustil nějaký počet lidí ze školy."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Provozovatel statku plánuje v příštím roce modernizovat veškeré své vybavení."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "kolik"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-45",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Mluvčí uvažuje nad otázkami, které vznikají při sestavování matematického modelu šíření viru.",
+    "utterance": "Mluvčí: Kolik lidí se už nakazilo?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Už se nakazilo určité množství lidí."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Nikdo se dosud nenakazil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Nějaký počet lidí se už vyléčil."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Nějaký počet lidí se už rozhodl pro dobrovolnou domácí karanténu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "kolik"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-46",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Stephen váhá a v hlavě se mu honí černé scénáře.",
+    "utterance": "Mluvčí: Kdy se z něj stal takový pesimista?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Stephen se stal pesimistou."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Stephen se stal optimistou."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Stephen se stal scenaristou."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Stephen s nikým nemluví."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "kdy"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-47",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Mluvčí mluví o ženě a sleduje, jak se v poslední době mění její chování.",
+    "utterance": "Mluvčí: Kdy vlastně začala být tak dramatická?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ta žena se začala chovat dramaticky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Žena není vůbec dramatická."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Žena začala být tak přísná."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Žena se dříve věnovala divadlu a ráda byla středem pozornosti."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "kdy"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-48",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Eduardo listuje záznamy a hledá souvislosti.",
+    "utterance": "Eduardo: Kdy došlo k té nehodě, při níž zahynuli manželé Martinézovi?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ta nehoda Martinézových se opravdu stala."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "K té nehodě, při níž zahynuli manželé Martinézovi, nedošlo."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Manželé Martinézovi se pohádali."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "K té nehodě byli tehdy jako svědci přivoláni i sousedé z okolí."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "kdy"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-49",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Mluvčí sedí v taxíku a sleduje taxametr.",
+    "utterance": "Mluvčí: Kdy takhle zvedli ceny?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ceny šly nahoru."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Ceny se nezvedly."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Ceny se snížily."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Ceny v tomto městě patří k nejvyšším v rámci celé země."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "kdy"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-50",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Mluvčí drží v ruce fotografii a mluví s Garretem.",
+    "utterance": "Mluvčí: Kdy jsi to vyfotil?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Garret něco vyfotil."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Garret nic nevyfotil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Garret něco namaloval."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Garret se fotografování věnuje už od svých studentských let."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "kdy"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-51",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Novinář se ptá dotazovaného na události roku 1968 a jeho další kroky.",
+    "utterance": "Novinář: Kdy jste se rozhodli emigrovat?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "V určitém okamžiku se mluvčí rozhodl emigrovat."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Dotazovaný se nerozhodl emigrovat."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Dotazovaný se rozhodl bydlet na Moravě."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Dotazovaný měl tehdy v Praze velmi dobře rozjetou vědeckou kariéru."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "kdy"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-52",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Novinář se ptá na to, jak se skupina vědců snaží prosadit své návrhy.",
+    "utterance": "Novinář: Kdy jste se rozhodli, že zkusíte jednat přímo s vládou, s premiérem?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Skupina se nakonec rozhodla jednat přímo s vládou."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Skupina se nikdy nebude jednat přímo s vládou."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Skupina se rozhodla zkusit jednat přímo s policií."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Skupina vědců připravovala své podklady několik měsíců v utajení."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "kdy"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-53",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Novinář se ptá na průběh dobrovolnické iniciativy v době epidemie.",
+    "utterance": "Novinář: Kdy se k vám přidali další dobrovolníci?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "K té iniciativě se později přidali další lidé."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "K této iniciativě se žádní dobrovolníci nepřidali."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "K této iniciativě se přidali další odpůrci z řad studentů."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "K této iniciativě se mohl přihlásit kdokoliv přes webový formulář."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "kdy"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-54",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Novinář se ptá Johnyho na jeho hudební začátky.",
+    "utterance": "Novinář: Kdy jsi zjistil, že umíš zpívat?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Johny přišel na to, že má pěvecké nadání."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Johny nezjistil, že umí zpívat."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Johny zjistil, že umí tancovat."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Johny se svým prvním albem sklidil obrovský úspěch u kritiků."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "kdy"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-55",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Novinář se ptá dotazovaného na his životní cestu a pobyt v Česku.",
+    "utterance": "Novinář: Kdy jste se vlastně do České republiky vrátil?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Dotazovaný se vrátil do Česka."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Dotazovaný se do České republiky nevrátil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Dotazovaný se přestěhoval do Brna."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Dotazovaný nyní žije v malém domku na samotném okraji Prahy."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "kdy"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-56",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "V rozhovoru se mluví o Rudolfu Hrubcovi.",
+    "utterance": "Novinář: Kdy jste se viděl s Rudolfem Hrubcem naposledy?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Dotazovaný se s Rudolfem Hrubcem v minulosti potkal."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Dotazovaný se s Rudolfem Hrubcem nikdy neviděl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Dotazovaný se s Rudolfem Hrubcem naposledy pohádal."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Dotazovaný o Rudolfu Hrubcovi podrobně četl v jedné historické studii."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "kdy"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-57",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "V rozhovoru se probírá práce u záchranné služby.",
+    "utterance": "Novinář: Kdy jste se rozhodl jezdit se záchrankou?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Dotazovaný se rozhodl, že bude jezdit se záchrankou."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Dotazovaný se nerozhodl jezdit se záchrankou."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Dotazovaný se rozhodl pracovat v nemocnici chirurgem."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Dotazovaný dříve pracoval jako zdravotní bratr v okresní nemocnici."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "kdy"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-58",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Jedná se o události po Karlově zranění a o jeho dalším pohybu.",
+    "utterance": "Mluvčí: Kdy se Karel navrátil do Prahy?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Karel se do Prahy nakonec vrátil."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Karel se do Prahy nenavrátil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Karel se navrátil do Vídně."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Karel se po svém vážném zranění musel velmi dlouhou dobu léčit."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "kdy"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-59",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "V dotazníku se řeší pracovní kariéra a změny profesního zaměření.",
+    "utterance": "Mluvčí: Kdy jste měnil pracovní obor?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Respondent v minulosti změnil své pracovní zaměření."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Respondent neměnil pracovní obor."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Respondent měnil pracovní směnu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Respondent absolvoval několik doplňujících kurzů v oboru IT."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "kdy"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-60",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "V rozhovoru se mluví o perestrojce v Pobaltí a o osobní zkušenosti dotazovaného.",
+    "utterance": "Novinář: Kdy jste navštívil perestrojkové Pobaltí?",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Dotazovaný v Pobaltí během perestrojky byl."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Dotazovaný perestrojkové Pobaltí nenavštívil."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Dotazovaný navštívil perestrojkové Polsko."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Dotazovaný si z té doby uchovává mnoho barevných fotografií."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "kdy"
+    }
+  }
+]

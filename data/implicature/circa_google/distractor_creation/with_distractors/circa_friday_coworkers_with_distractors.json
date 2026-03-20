@@ -1,0 +1,552 @@
+[
+    {
+      "id": 44,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Utekl ti tenhle pracovní týden rychle?",
+      "answer_Y_cz": "Vlekl se hrozně pomalu.",
+      "direct_answer_pos": "Ano, utekl mi rychle.",
+      "direct_answer_neg": "Ne, neutekl mi rychle.",
+      "distractor_lexical": "Vlekl se nám v kanceláři včera ten projektový meeting.",
+      "distractor_associative": "Páteční odpoledne bývá pro mnoho zaměstnanců nejméně produktivní částí týdne."
+    },
+    {
+      "id": 48,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Chceš, abych tě doprovodil k autu?",
+      "answer_Y_cz": "To by bylo od tebe moc milé, díky.",
+      "direct_answer_pos": "Ano, chci, abys mě doprovodil.",
+      "direct_answer_neg": "Ne, nechci, abys mě doprovodil.",
+      "distractor_lexical": "To by bylo od tebe fajn, kdybys mi v pondělí půjčil ty složky.",
+      "distractor_associative": "Parkoviště u administrativních center bývají v pátek odpoledne téměř prázdná."
+    },
+    {
+      "id": 94,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Máš dneska rande?",
+      "answer_Y_cz": "Jdu za dětmi.",
+      "direct_answer_pos": "Ano, mám dneska rande.",
+      "direct_answer_neg": "Ne, nemám dneska rande.",
+      "distractor_lexical": "Jdu za nákupy do toho nového centra na rohu.",
+      "distractor_associative": "Páteční večery lidé často tráví buď ve společnosti přátel, nebo v rodinném kruhu."
+    },
+    {
+      "id": 112,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Budeš zítra v práci?",
+      "answer_Y_cz": "O víkendech zásadně nepracuju.",
+      "direct_answer_pos": "Ano, budu zítra v práci.",
+      "direct_answer_neg": "Ne, nebudu zítra v práci.",
+      "distractor_lexical": "O víkendech zásadně nepiju kávu s cukrem.",
+      "distractor_associative": "Profese v pohostinství nebo zdravotnictví vyžadují pracovní nasazení i o víkendu."
+    },
+    {
+      "id": 132,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Chystáš se dneska večer někam ven?",
+      "answer_Y_cz": "To zrovna ne.",
+      "direct_answer_pos": "Ano, chystám se ven.",
+      "direct_answer_neg": "Ne, nechystám se ven.",
+      "distractor_lexical": "To zrovna nesvítí světlo na chodbě u výtahů.",
+      "distractor_associative": "Koncerty a divadelní představení jsou oblíbeným cílem pátečních večerů ve městě."
+    },
+    {
+      "id": 145,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Nedáme si něco k jídlu?",
+      "answer_Y_cz": "Pojďme na taco.",
+      "direct_answer_pos": "Ano, dáme si něco k jídlu.",
+      "direct_answer_neg": "Ne, nedáme si nic k jídlu.",
+      "distractor_lexical": "Pojďme na recepci pro ty nové vstupní karty.",
+      "distractor_associative": "V okolí kancelářských budov se v posledních letech otevřelo mnoho bister s rychlým občerstvením."
+    },
+    {
+      "id": 149,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Zajdeme na drink?",
+      "answer_Y_cz": "Dal bych si aspoň tři.",
+      "direct_answer_pos": "Ano, zajdeme na drink.",
+      "direct_answer_neg": "Ne, nezajdeme na drink.",
+      "distractor_lexical": "Dal bych si do šuplíku ty staré katalogy z výstavy.",
+      "distractor_associative": "Nabídka nealkoholických koktejlů v barech se neustále rozšiřuje."
+    },
+    {
+      "id": 166,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "To už je vážně konec pracovní doby?",
+      "answer_Y_cz": "Člověk tomu ani nechce věřit.",
+      "direct_answer_pos": "Ano, je to konec pracovní doby.",
+      "direct_answer_neg": "Ne, není to konec pracovní doby.",
+      "distractor_lexical": "Člověk tomu ani v tomhle horku nechce věřit, že včera sněžilo.",
+      "distractor_associative": "Elektronické docházkové systémy usnadňují evidenci odpracovaných hodin."
+    },
+    {
+      "id": 169,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Máš rande?",
+      "answer_Y_cz": "Mám rande se svou ženou.",
+      "direct_answer_pos": "Ano, mám rande.",
+      "direct_answer_neg": "Ne, nemám rande.",
+      "distractor_lexical": "Mám v autě pro svou ženu koupenou novou kuchařku.",
+      "distractor_associative": "Udržování partnerských rituálů je důležité pro dlouhodobou spokojenost ve vztahu."
+    },
+    {
+      "id": 186,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Podnikneš o víkendu něco zábavného?",
+      "answer_Y_cz": "Vyrážíme do zoo.",
+      "direct_answer_pos": "Ano, podniknu něco zábavného.",
+      "direct_answer_neg": "Ne, nepodniknu nic zábavného.",
+      "distractor_lexical": "Vyrážíme na cestu, aby nám neušel ten ranní spoj.",
+      "distractor_associative": "Zoologické zahrady bývají o víkendech cílem mnoha rodinných výletů."
+    },
+    {
+      "id": 204,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Máš na sobotu nějaký program?",
+      "answer_Y_cz": "Budu sázet na zahradě.",
+      "direct_answer_pos": "Ano, mám na sobotu program.",
+      "direct_answer_neg": "Ne, nemám na sobotu program.",
+      "distractor_lexical": "Budu sázet na to, že v pondělí bude v kanceláři klid.",
+      "distractor_associative": "Práce na zahradě je pro mnoho lidí formou aktivního odpočinku."
+    },
+    {
+      "id": 210,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Pracuješ někde tady poblíž?",
+      "answer_Y_cz": "Vždyť pracujeme spolu.",
+      "direct_answer_pos": "Ano, pracuju tady poblíž.",
+      "direct_answer_neg": "Ne, nepracuju tady poblíž.",
+      "distractor_lexical": "Vždyť spolu v kuchyňce pijeme kávu skoro každé ráno.",
+      "distractor_associative": "Průmyslové zóny na okraji měst nabízejí moderní kancelářské prostory."
+    },
+    {
+      "id": 264,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Vyrážíš o víkendu někam ven?",
+      "answer_Y_cz": "Vyrážím na svah.",
+      "direct_answer_pos": "Ano, vyrážím ven.",
+      "direct_answer_neg": "Ne, nevyrážím ven.",
+      "distractor_lexical": "Vyrážím na nákup do té nové pekárny na rohu.",
+      "distractor_associative": "Horská střediska bývají v zimní sezóně velmi vytížená."
+    },
+    {
+      "id": 266,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Jsi připravený na víkend?",
+      "answer_Y_cz": "To si piš.",
+      "direct_answer_pos": "Ano, jsem připravený.",
+      "direct_answer_neg": "Ne, nejsem připravený.",
+      "distractor_lexical": "To si piš do toho modrého bloku na stole.",
+      "distractor_associative": "Páteční nákupy potravin pomáhají lépe zorganizovat volné dny."
+    },
+    {
+      "id": 282,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Budeš tu zítra?",
+      "answer_Y_cz": "Vrátím se až příští týden.",
+      "direct_answer_pos": "Ano, budu tu zítra.",
+      "direct_answer_neg": "Ne, nebudu tu zítra.",
+      "distractor_lexical": "Vrátím se pro tu zapomenutou tašku do šatny.",
+      "distractor_associative": "Sdílené kalendáře pomáhají udržet přehled o dostupnosti členů týmu."
+    },
+    {
+      "id": 285,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Chystáš se o víkendu někam?",
+      "answer_Y_cz": "Odjíždím z města.",
+      "direct_answer_pos": "Ano, chystám se někam.",
+      "direct_answer_neg": "Ne, nechystám se nikam.",
+      "distractor_lexical": "Odjíždím z parkoviště před budovou hned po šichtě.",
+      "distractor_associative": "Víkendové pobyty mimo domov jsou oblíbeným způsobem regenerace sil."
+    },
+    {
+      "id": 316,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Nechceš jít na zastávku společně?",
+      "answer_Y_cz": "To by bylo fajn.",
+      "direct_answer_pos": "Ano, chci jít společně.",
+      "direct_answer_neg": "Ne, nechci jít společně.",
+      "distractor_lexical": "To by bylo nové auto pro našeho vedoucího.",
+      "distractor_associative": "Městská hromadná doprava bývá v pátek odpoledne velmi vytížená."
+    },
+    {
+      "id": 334,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Máš klíče?",
+      "answer_Y_cz": "Nechal jsem je nahoře.",
+      "direct_answer_pos": "Ano, mám klíče.",
+      "direct_answer_neg": "Ne, nemám klíče.",
+      "distractor_lexical": "Nechal jsem je na recepci pro tvého kolegu.",
+      "distractor_associative": "Ztráta klíčů od kanceláře může vést k nutnosti výměny všech zámků v patře."
+    },
+    {
+      "id": 336,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Nepodnikneme později něco?",
+      "answer_Y_cz": "Potřeboval bych nějakého panáka.",
+      "direct_answer_pos": "Ano, podnikneme.",
+      "direct_answer_neg": "Ne, nepodnikneme nic.",
+      "distractor_lexical": "Potřeboval bych v kuchyňce nějakého nového pomocníka na úklid.",
+      "distractor_associative": "Teambuildingové aktivity se často konají v neformálním prostředí baru nebo restaurace."
+    },
+    {
+      "id": 339,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Budeš o víkendu s rodinou nebo s přáteli?",
+      "answer_Y_cz": "Mám moc práce.",
+      "direct_answer_pos": "Ano, budu s nimi.",
+      "direct_answer_neg": "Ne, nebudu s nimi.",
+      "distractor_lexical": "Mám moc starých dokumentů v tomhle spodním šuplíku.",
+      "distractor_associative": "Rovnováha mezi pracovním a osobním životem je klíčem k předcházení syndromu vyhoření."
+    },
+    {
+      "id": 359,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Děláš dneska večer něco zajímavého?",
+      "answer_Y_cz": "Půjdu brzo na kutě.",
+      "direct_answer_pos": "Ano, dělám něco zajímavého.",
+      "direct_answer_neg": "Ne, nedělám nic zajímavého.",
+      "distractor_lexical": "Půjdu se podívat na ty nové kancelářské židle.",
+      "distractor_associative": "Kvalitní spánek je po náročném pracovním týdnu nezbytný pro načerpání nových sil."
+    },
+    {
+      "id": 382,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Míříš domů?",
+      "answer_Y_cz": "Vyrážím na dostihy.",
+      "direct_answer_pos": "Ano, mířím domů.",
+      "direct_answer_neg": "Ne, nemířím domů.",
+      "distractor_lexical": "Vyrážím na nákup nových pořadačů do archivu.",
+      "distractor_associative": "Dostihové závody mají v našem regionu dlouholetou společenskou tradici."
+    },
+    {
+      "id": 401,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Máš tenhle víkend u sebe děti?",
+      "answer_Y_cz": "Jsou u táty.",
+      "direct_answer_pos": "Ano, mám je u sebe.",
+      "direct_answer_neg": "Ne, nemám je u sebe.",
+      "distractor_lexical": "Jsou v šatně u té paní s červeným deštníkem.",
+      "distractor_associative": "Střídavá péče vyžaduje od obou rodičů dobrou logistiku a komunikaci."
+    },
+    {
+      "id": 415,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Nechceš o víkendu něco podniknout?",
+      "answer_Y_cz": "Odjíždím pryč.",
+      "direct_answer_pos": "Ano, chci něco podniknout.",
+      "direct_answer_neg": "Ne, nechci nic podniknout.",
+      "distractor_lexical": "Odjíždím z garáže vždycky přesně v pět hodin.",
+      "distractor_associative": "Předpověď počasí hraje zásadní roli při plánování výletů do přírody."
+    },
+    {
+      "id": 417,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Má vaše oddělení v tuhle roční dobu napilno?",
+      "answer_Y_cz": "Moc práce teď není.",
+      "direct_answer_pos": "Ano, máme napilno.",
+      "direct_answer_neg": "Ne, nemáme napilno.",
+      "distractor_lexical": "Moc se na ty nové projekty po víkendu těším.",
+      "distractor_associative": "Sezónní výkyvy v pracovním vytížení jsou běžným jevem v obchodních odděleních."
+    },
+    {
+      "id": 418,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Už máš vymyšlenou večeři?",
+      "answer_Y_cz": "Mám rezervaci v té nové francouzské restauraci.",
+      "direct_answer_pos": "Ano, mám ji vymyšlenou.",
+      "direct_answer_neg": "Ne, nemám ji vymyšlenou.",
+      "distractor_lexical": "Mám v autě tu tvoji zapomenutou bundu z rána.",
+      "distractor_associative": "Francouzská gastronomie je vyhlášená svou elegancí a důrazem na kvalitu ingrediencí."
+    },
+    {
+      "id": 419,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Chtěl bys o víkendu něco podniknout?",
+      "answer_Y_cz": "Tenhle víkend mi to asi nevyjde.",
+      "direct_answer_pos": "Ano, chtěl bych něco podniknout.",
+      "direct_answer_neg": "Ne, nechci nic podnikat.",
+      "distractor_lexical": "Tenhle stůl v kuchyňce je v pátek vždycky obsazený.",
+      "distractor_associative": "Mnoho lidí využívá víkendy k návštěvě kulturních akcí nebo sportovních turnajů."
+    },
+    {
+      "id": 440,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Hele, jestli se na to cítíš, nezašel bys se mnou ráno do fitka?",
+      "answer_Y_cz": "Už jdu na lekci jógy.",
+      "direct_answer_pos": "Ano, zašel bych do fitka.",
+      "direct_answer_neg": "Ne, nezašel bych do fitka.",
+      "distractor_lexical": "Už jdu na personální oddělení odevzdat ty smlouvy.",
+      "distractor_associative": "Ranní cvičení pomáhá lidem nastartovat metabolismus a dodat energii na celý den."
+    },
+    {
+      "id": 442,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Už jsi zkusil tu novou restauraci u nás u práce?",
+      "answer_Y_cz": "Zatím ne, ale slyšel jsem na ni chválu.",
+      "direct_answer_pos": "Ano, zkusil jsem ji.",
+      "direct_answer_neg": "Ne, nezkusil jsem ji.",
+      "distractor_lexical": "Zatím ne, ale tenhle týden jsem v práci zůstal déle.",
+      "distractor_associative": "Internetové recenze jsou pro řadu strávníků rozhodujícím faktorem při výběru podniku."
+    },
+    {
+      "id": 446,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Vycházíš s našimi kolegy dobře?",
+      "answer_Y_cz": "Jsou skvělí.",
+      "direct_answer_pos": "Ano, vycházím s nimi dobře.",
+      "direct_answer_neg": "Ne, nevycházím s nimi dobře.",
+      "distractor_lexical": "Jsou v tomhle novém skladu ty velké krabice?",
+      "distractor_associative": "Dobré vztahy na pracovišti zvyšují celkovou efektivitu a týmovou spolupráci."
+    },
+    {
+      "id": 449,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Chystáš se domů?",
+      "answer_Y_cz": "Musím si nejdřív ještě něco zařídit.",
+      "direct_answer_pos": "Ano, chystám se domů.",
+      "direct_answer_neg": "Ne, zatím se nechystám domů.",
+      "distractor_lexical": "Musím v autě hned po odjezdu vypnout rádio.",
+      "distractor_associative": "Páteční odpoledne je pro mnoho lidí časem pro vyřizování osobních pochůzek v centru."
+    },
+    {
+      "id": 450,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Čekají tě o víkendu domácí práce?",
+      "answer_Y_cz": "Musím o víkendu poklidit kuchyň.",
+      "direct_answer_pos": "Ano, čekají mě domácí práce.",
+      "direct_answer_neg": "Ne, nečekají mě žádné domácí práce.",
+      "distractor_lexical": "Musím v kanceláři v pondělí zalít všechny květiny.",
+      "distractor_associative": "Úklid domácnosti patří k nejčastějším víkendovým aktivitám mnoha českých rodin."
+    },
+    {
+      "id": 455,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Zdají se ti kolegové milí?",
+      "answer_Y_cz": "Řekl bych, že jsou velmi přátelští.",
+      "direct_answer_pos": "Ano, zdají se mi milí.",
+      "direct_answer_neg": "Ne, nezdají se mi milí.",
+      "distractor_lexical": "Řekl bych, že je v téhle budově v zimě hrozná zima.",
+      "distractor_associative": "Pracovní prostředí výrazně ovlivňuje celkovou psychickou pohodu zaměstnanců."
+    },
+    {
+      "id": 490,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Chceš, abych tě doprovodil k autu?",
+      "answer_Y_cz": "Jestli ti to nevadí.",
+      "direct_answer_pos": "Ano, chci doprovodit.",
+      "direct_answer_neg": "Ne, nechci doprovodit.",
+      "distractor_lexical": "Jestli ti to na téhle nové tiskárně funguje dobře.",
+      "distractor_associative": "V areálech velkých firem bývají parkoviště střežena kamerovým systémem."
+    },
+    {
+      "id": 495,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Nezašel bys do kina?",
+      "answer_Y_cz": "Radši bych šla do nákupáku.",
+      "direct_answer_pos": "Ano, zašel bych do kina.",
+      "direct_answer_neg": "Ne, nezašel bych do kina.",
+      "distractor_lexical": "Radši bych si v pondělí vzala víc projektů na starost.",
+      "distractor_associative": "Multiplexy nabízejí v pátek večer premiéry nejnovějších filmových trháků."
+    },
+    {
+      "id": 514,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Musíš být o víkendu ve své druhé práci?",
+      "answer_Y_cz": "Mám dovolenou.",
+      "direct_answer_pos": "Ano, musím tam být.",
+      "direct_answer_neg": "Ne, nemusím tam být.",
+      "distractor_lexical": "Mám na stole ty včerejší firemní zprávy.",
+      "distractor_associative": "Práce na vedlejší úvazek je častým způsobem zvyšování měsíčního příjmu."
+    },
+    {
+      "id": 518,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Máš na dnešní večer nějaké plány?",
+      "answer_Y_cz": "Mám v plánu jít dneska do fitka.",
+      "direct_answer_pos": "Ano, mám plány.",
+      "direct_answer_neg": "Ne, nemám plány.",
+      "distractor_lexical": "Mám v šuplíku ty staré katalogy z veletrhu.",
+      "distractor_associative": "Páteční cvičení po práci pomáhá mnoha lidem oddělit pracovní týden od víkendu."
+    },
+    {
+      "id": 537,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Byla v práci zábava?",
+      "answer_Y_cz": "Práce je vždycky otrava.",
+      "direct_answer_pos": "Ano, byla zábava.",
+      "direct_answer_neg": "Ne, nebyla zábava.",
+      "distractor_lexical": "Práce v téhle nové pobočce je mnohem náročnější.",
+      "distractor_associative": "Společné obědy v kantýně utužují kolegiální vztahy mezi odděleními."
+    },
+    {
+      "id": 548,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Viděl jsi ty sdílené koloběžky?",
+      "answer_Y_cz": "Zatím jsem žádné neviděl.",
+      "direct_answer_pos": "Ano, viděl jsem je.",
+      "direct_answer_neg": "Ne, neviděl jsem je.",
+      "distractor_lexical": "Zatím jsem do téhle firmy nastoupil teprve loni.",
+      "distractor_associative": "Městské půjčovny dopravních prostředků se stávají běžnou součástí dopravy v centrech."
+    },
+    {
+      "id": 550,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Musíš být doma na nějakou konkrétní hodinu?",
+      "answer_Y_cz": "V tom je ta krása, když je člověk nezadaný – můj čas patří jen mně.",
+      "direct_answer_pos": "Ano, musím být doma na konkrétní hodinu.",
+      "direct_answer_neg": "Ne, nemusím být doma na konkrétní hodinu.",
+      "distractor_lexical": "V tom je ten problém, když v budově nefunguje ten moderní výtah.",
+      "distractor_associative": "Flexibilní pracovní doba umožňuje lepší skloubení zaměstnání s rodinnými povinnostmi."
+    },
+    {
+      "id": 560,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Máš na víkend nějaké plány?",
+      "answer_Y_cz": "Sejdu se s pár kamarády.",
+      "direct_answer_pos": "Ano, mám plány.",
+      "direct_answer_neg": "Ne, nemám plány.",
+      "distractor_lexical": "Sejdu se v pondělí ráno se svým novým vedoucím projektu.",
+      "distractor_associative": "Společné víkendové aktivity s přáteli jsou pro mnoho lidí hlavním zdrojem relaxace."
+    },
+    {
+      "id": 566,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Máš v plánu nějakou večeři?",
+      "answer_Y_cz": "Měl jsem, ale zrušilo se to.",
+      "direct_answer_pos": "Ano, mám v plánu večeři.",
+      "direct_answer_neg": "Ne, nemám v plánu večeři.",
+      "distractor_lexical": "Měl jsem včera v kanceláři na stole tu zapomenutou složku.",
+      "distractor_associative": "Páteční večeře v restauracích bývají často doprovázeny živou hudbou."
+    },
+    {
+      "id": 592,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Viděl jsi ty sdílené koloběžky?",
+      "answer_Y_cz": "Zkoušel jsem jednu v San Diegu, je to sranda.",
+      "direct_answer_pos": "Ano, viděl jsem je.",
+      "direct_answer_neg": "Ne, neviděl jsem je.",
+      "distractor_lexical": "Zkoušel jsem včera v naší jídelně to nové thajské jídlo.",
+      "distractor_associative": "Elektrické koloběžky vyžadují od uživatelů dodržování pravidel silničního provozu."
+    },
+    {
+      "id": 595,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Ulevilo se ti, že už je pátek?",
+      "answer_Y_cz": "Z pátku mám radost vždycky.",
+      "direct_answer_pos": "Ano, ulevilo se mi.",
+      "direct_answer_neg": "Ne, neulevilo se mi.",
+      "distractor_lexical": "Z pátku na sobotu v našem městě vždycky funguje noční linka.",
+      "distractor_associative": "Mnoho firem zavádí v pátek zkrácenou pracovní dobu pro své zaměstnance."
+    },
+    {
+      "id": 598,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Nechcete si jít něco dát?",
+      "answer_Y_cz": "Něco malého bych si dal.",
+      "direct_answer_pos": "Ano, chci si jít něco dát.",
+      "direct_answer_neg": "Ne, nechci si jít nic dát.",
+      "distractor_lexical": "Něco v téhle staré skříni hrozně nepříjemně vrže.",
+      "distractor_associative": "Pauzy na kávu nebo drobné občerstvení zvyšují pracovní spokojenost kolektivu."
+    },
+    {
+      "id": 609,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Ahoj, jsi v pohodě?",
+      "answer_Y_cz": "Asi jsem si zrovna zlomila palec.",
+      "direct_answer_pos": "Ano, jsem v pohodě.",
+      "direct_answer_neg": "Ne, nejsem v pohodě.",
+      "distractor_lexical": "Asi jsem včera zapomněla v téhle lednici svůj oběd.",
+      "distractor_associative": "Pracovní úrazy v kancelářském prostředí jsou méně časté, ale přesto k nim dochází."
+    },
+    {
+      "id": 616,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Vy dva už spolu chodíte?",
+      "answer_Y_cz": "Ještě jsme spolu nezačali chodit.",
+      "direct_answer_pos": "Ano, chodíme spolu.",
+      "direct_answer_neg": "Ne, nechodíme spolu.",
+      "distractor_lexical": "Ještě jsme dneska nestihli v kuchyňce doplnit všechny čaje.",
+      "distractor_associative": "Partnerské vztahy na pracovišti jsou v některých korporacích upraveny vnitřními řády."
+    },
+    {
+      "id": 623,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Jsi rozvedený?",
+      "answer_Y_cz": "Nikdy jsem nebyl ženatý.",
+      "direct_answer_pos": "Ano, jsem rozvedený.",
+      "direct_answer_neg": "Ne, nejsem rozvedený.",
+      "distractor_lexical": "Nikdy jsem v tomhle velkém archivu nic důležitého neztratil.",
+      "distractor_associative": "Sdělování informací o osobním stavu je v pracovním prostředí zcela dobrovolné."
+    },
+    {
+      "id": 630,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Dneska večer je celkem chladno, že?",
+      "answer_Y_cz": "Je leden, tak se není čemu divit.",
+      "direct_answer_pos": "Ano, je chladno.",
+      "direct_answer_neg": "Ne, není chladno.",
+      "distractor_lexical": "Je v téhle místnosti v noci opravdu takové ticho?",
+      "distractor_associative": "Zimní měsíce bývají v naší zeměpisné šířce doprovázeny mrazivým počasím."
+    },
+    {
+      "id": 634,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Už jsi byl v tom novém baru u nás ve čtvrti?",
+      "answer_Y_cz": "Zrovna jsem na to viděl reklamu, ale nejsem si jistý, kde přesně to je.",
+      "direct_answer_pos": "Ano, byl jsem tam.",
+      "direct_answer_neg": "Ne, nebyl jsem tam.",
+      "distractor_lexical": "Zrovna jsem v autě slyšel tu tvoji oblíbenou písničku z rádia.",
+      "distractor_associative": "Místní podniky se snaží oslovit zákazníky reklamou v blízkém okolí provozovny."
+    },
+    {
+      "id": 638,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Máš nějaké plány na víkend?",
+      "answer_Y_cz": "V kalendáři nemám vůbec nic.",
+      "direct_answer_pos": "Ano, mám plány.",
+      "direct_answer_neg": "Ne, nemám žádné plány.",
+      "distractor_lexical": "V autě mi včera nefungovalo to staré rádio u volantu.",
+      "distractor_associative": "Víkend bez předem stanoveného programu dává prostor pro spontánní nápady."
+    },
+    {
+      "id": 641,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Podnikneš o víkendu něco zábavného?",
+      "answer_Y_cz": "Jedeme do lázní.",
+      "direct_answer_pos": "Ano, podniknu něco zábavného.",
+      "direct_answer_neg": "Ne, nepodniknu nic zábavného.",
+      "distractor_lexical": "Jedeme v pondělí ráno na tu důležitou poradu v centrále.",
+      "distractor_associative": "Wellness pobyty se v posledních letech staly velmi populární formou relaxace."
+    },
+    {
+      "id": 664,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Máš na tenhle víkend nějaké plány?",
+      "answer_Y_cz": "Chodím na lekce tenisu.",
+      "direct_answer_pos": "Ano, mám plány.",
+      "direct_answer_neg": "Ne, nemám plány.",
+      "distractor_lexical": "Chodím v naší budově do práce vždycky po schodech.",
+      "distractor_associative": "Sportovní aktivity o volných dnech pomáhají odbourávat stres nahromaděný během týdne."
+    },
+    {
+      "id": 668,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Jdeš do fitka?",
+      "answer_Y_cz": "Byl jsem včera.",
+      "direct_answer_pos": "Ano, jdu do fitka.",
+      "direct_answer_neg": "Ne, nejdu do fitka.",
+      "distractor_lexical": "Byl jsem včera u nás v garáži hledat ty letní gumy.",
+      "distractor_associative": "Posilovny v centrech měst bývají po skončení pracovní doby nejvíce vytížené."
+    },
+    {
+      "id": 688,
+      "context_cz": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+      "question_X_cz": "Zajdeme na drink do baru?",
+      "answer_Y_cz": "Možná bychom si k tomu mohli dát i večeři.",
+      "direct_answer_pos": "Ano, zajdeme na drink.",
+      "direct_answer_neg": "Ne, nezajdeme na drink.",
+      "distractor_lexical": "Možná bychom v šatně v pondělí měli doplnit všechna ramínka.",
+      "distractor_associative": "Nabídka moderních barů dnes často zahrnuje i lehké pokrmy a speciality šéfkuchaře."
+    }
+  ]

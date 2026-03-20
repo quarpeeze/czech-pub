@@ -1,0 +1,1442 @@
+[
+    {
+      "id": "presupposition-factive-semifactive-1",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "V napjatém rozhovoru si jeden z mužů ověřuje, zda si druhý pamatuje důležitou informaci, kterou mu už dříve říkal.",
+      "utterance": "Mluvčí: „A ty také, gerefo. Zapomněl jsi, že i já pocházím ze Seaxmund´s Ham?“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí pochází ze Seaxmund´s Ham.",
+        "presupposition_paraphrased": "Mluvčí je původem ze Seaxmund´s Ham.",
+        "DistractorNegation": "Mluvčí nikdy ze Seaxmund´s Ham nepocházel.",
+        "DistractorLexicalEdit": "Mluvčí kdysi v Seaxmund´s Ham přenocoval při cestě na jih.",
+        "DistractorAssociative0": "Seaxmund´s Ham je v této oblasti největším obchodním centrem."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zapomenout"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-2",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Griff si na ulici všiml známého auta a ve spěchu k němu rychle běžel.",
+      "utterance": "Vypravěč: „Griff zapomněl, že se chtěl Lauře Speakmanové omluvit.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Griff se chtěl Lauře Speakmanové omluvit.",
+        "presupposition_paraphrased": "Griff měl v úmyslu omluvit se Lauře Speakmanové.",
+        "DistractorNegation": "Griff neměl v úmyslu se Lauře Speakmanové nikdy omlouvat.",
+        "DistractorLexicalEdit": "Griff měl v úmyslu vrátit Lauře Speakmanové půjčenou knihu.",
+        "DistractorAssociative0": "Laura Speakmanová má v garáži zaparkované nové červené auto."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zapomenout"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-3",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Žena po ranním rozhovoru osloví Onyxe a upozorní ho, že na něco důležitého zapomíná.",
+      "utterance": "Královna: „Zapomněl jsi, že jsem ještě královnou a že slyším a vidím všechno, co se v mé zemi děje.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí je ještě královnou a slyší a vidí všechno, co se v její zemi děje.",
+        "presupposition_paraphrased": "Mluvčí je stále královnou a slyší i vidí všechno, co se v její zemi děje.",
+        "DistractorNegation": "Mluvčí už nikdy žádnou královnou nebyla a ani v zemi nic nevidí.",
+        "DistractorLexicalEdit": "Mluvčí sleduje dění ve své zemi prostřednictvím poslů a rádců.",
+        "DistractorAssociative0": "Královna nosí při slavnostech korunu zdobenou velkými rubíny."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zapomenout"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-4",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "V lehkém škádlení Rebecca projeví obavu, a muž jí připomene svou minulost.",
+      "utterance": "Muž: „Zapomnělas, že jsem byl voják, Becco?“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí byl voják.",
+        "presupposition_paraphrased": "Mluvčí sloužil jako voják.",
+        "DistractorNegation": "Mluvčí nikdy v armádě jako voják nesloužil.",
+        "DistractorLexicalEdit": "Mluvčí po návratu z války pracoval v posádkové kuchyni.",
+        "DistractorAssociative0": "Vojáci mívají obvykle velmi přísný denní režim a disciplínu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zapomenout"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-5",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Při rodinném rozhovoru se řeší plán návštěvy a Charlie se diví, že o něm předtím neslyšel.",
+      "utterance": "Charlie: „Zapomněla jsi, že ti někdo daroval letenky?“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Někdo mluvčí daroval letenky.",
+        "presupposition_paraphrased": "Někdo jí daroval letenky.",
+        "DistractorNegation": "Mluvčí nikdy od nikoho žádné letenky jako dar nedostala.",
+        "DistractorLexicalEdit": "Někdo jí daroval vstupenky na letní hudební festival.",
+        "DistractorAssociative0": "Cestování letadlem je dnes mnohem rychlejší než jízda vlakem."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zapomenout"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-6",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Po uzavření dohody Richard hodnotil výsledek.",
+      "utterance": "Vypravěč: „Zapomněl, že zatímco dosáhl míru na Sicílii, udělal si nepřítele z mocného císaře.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Zatímco dosáhl míru na Sicílii, udělal si nepřítele z mocného císaře.",
+        "presupposition_paraphrased": "Zatímco na Sicílii dosáhl míru, znepřátelil si mocného císaře.",
+        "DistractorNegation": "Na Sicílii nikdy míru nedosáhl a mocného císaře si neznepřátelil.",
+        "DistractorLexicalEdit": "Richard po uzavření dohody poslal na Sicílii nové správce.",
+        "DistractorAssociative0": "Sicílie je největší ostrov ve Středozemním moři s mnoha památkami."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zapomenout"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-7",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "V emotivní hádce o polibek muž reaguje s nadhledem a snaží se situaci odlehčit.",
+      "utterance": "Muž: „Zapomněl jsem, že je ti teprve devatenáct, a proto nechápeš, že láska není k polibku bezpodmínečně nutná.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Dotyčné osobě je teprve devatenáct.",
+        "presupposition_paraphrased": "Dotyčné osobě je teprve devatenáct.",
+        "DistractorNegation": "Této dotyčné osobě nikdy devatenáct let nebylo.",
+        "DistractorLexicalEdit": "Této dotyčné osobě je teprve devatenáct minut do konce směny.",
+        "DistractorAssociative0": "Mnoho mladých lidí v devatenácti letech teprve dokončuje školu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zapomenout"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-8",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Žena po příchodu k domu zabuší na dveře a hned se omlouvá za hluk, který udělala.",
+      "utterance": "Žena: „Omlouvám se. Měla jsem si to rozmyslet, než udělám ten kravál. Zapomněla jsem, že je v domě miminko.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "V domě bylo miminko.",
+        "presupposition_paraphrased": "V tom domě bylo miminko.",
+        "DistractorNegation": "V tomto domě nikdy žádné miminko nebylo.",
+        "DistractorLexicalEdit": "V tom domě stála na polici porcelánová panenka.",
+        "DistractorAssociative0": "Kočárky pro dětí se dnes vyrábějí v mnoha různých barvách."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zapomenout"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-9",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "V živém rozhovoru o knihách si jeden z přátel na něco důležitého vzpomene.",
+      "utterance": "Vypravěč: „Zapomněl jsi, že píšu dědečkovu biografii?“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí píše dědečkovu biografii.",
+        "presupposition_paraphrased": "Mluvčí pracuje na dědečkově biografii.",
+        "DistractorNegation": "Mluvčí na žádné biografii svého dědečka nikdy nepracoval.",
+        "DistractorLexicalEdit": "Mluvčí pracuje na přepisu dědečkových dopisů.",
+        "DistractorAssociative0": "Psaní knihy vyžaduje od autora velké množství trpělivosti a času."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zapomenout"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-10",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "V okamžiku paniky se mluvčí lekla, ucouvla a neuhlídala, kde přesně stojí.",
+      "utterance": "Vypravěč: „Letěly tak rychle, že jsem zavřískla hrůzou a ucouvla ještě o krok, a přitom jsem zapomněla, že už stojím na břehu.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí stála na břehu.",
+        "presupposition_paraphrased": "Mluvčí už stála na břehu.",
+        "DistractorNegation": "Mluvčí na břehu nikdy v tu chvíli nestála.",
+        "DistractorLexicalEdit": "Mluvčí už stála na kluzkém kameni u vody.",
+        "DistractorAssociative0": "Břehy řek bývají po deštích často velmi blátivé a kluzké."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zapomenout"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-11",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Mluvčí popisuje průběžnou péči o zámek, pomoc od dobrovolníků a další nedávné změny, které se tam podařilo uskutečnit.",
+      "utterance": "Mluvčí: „A málem bych zapomněla, že máme nová vstupní vrata.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Na zámku jsou nová vstupní vrata.",
+        "presupposition_paraphrased": "Zámek má nová vstupní vrata.",
+        "DistractorNegation": "Zámek nikdy žádná nová vstupní vrata neměl.",
+        "DistractorLexicalEdit": "Na zámku přibyly nové cedule pro návštěvníky.",
+        "DistractorAssociative0": "Zámecké parky bývají v letních měsících otevřené pro veřejnost."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zapomenout"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-12",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Autor v komentáři upozorňuje na to, že společnost ztrácí soudržnost a že demokratický systém je křehký.",
+      "utterance": "Mluvčí: „Zapomněli na to, že se demokracie neobejde bez loajálních občanů, kteří věří v pospolitost, a proto mají důvod ji podporovat.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Podle mluvčího se demokracie neobejde bez loajálních občanů, kteří věří v pospolitost.",
+        "presupposition_paraphrased": "Podle mluvčího demokracie potřebuje loajální občany, kteří věří v pospolitost.",
+        "DistractorNegation": "Demokracie podle mluvčího nikdy loajální občany nepotřebovala.",
+        "DistractorLexicalEdit": "Podle mluvčího demokracie potřebuje větší financování.",
+        "DistractorAssociative0": "Volební místnosti bývají v pátek a v sobotu obvykle plné."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zapomenout"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-13",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Při domácím incidentu v bytě starší ženy museli večer zasahovat hasiči.",
+      "utterance": "Vypravěč: „Zapomněla, že vařila.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Starší žena vařila.",
+        "presupposition_paraphrased": "Starší žena zrovna vařila.",
+        "DistractorNegation": "Tato starší žena v ten večer nikdy nic nevařila.",
+        "DistractorLexicalEdit": "Tato starší žena zrovna žehlila prádlo v kuchyni.",
+        "DistractorAssociative0": "Hasičské vozy mají výraznou červenou barvu a sirénu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zapomenout"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-14",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "V textu se popisuje, že herečka Iva Janžurová v posledních měsících bojuje s výraznými výpadky paměti.",
+      "utterance": "Vypravěč: „Před časem například zapomněla, že nemluví s vlastní dcerou, a nedávno se dokonce svěřila, že zapomněla na celý dokument o sobě samé…“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Iva Janžurová nemluví s vlastní dcerou.",
+        "presupposition_paraphrased": "Iva Janžurová s vlastní dcerou nemluví.",
+        "DistractorNegation": "Iva Janžurová nikdy nepřestala se svou dcerou mluvit.",
+        "DistractorLexicalEdit": "Iva Janžurová s vlastní dcerou nesdílela fotografie z premiéry.",
+        "DistractorAssociative0": "Iva Janžurová patří k nejvýznamnějším českým divadelním herečkám."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zapomenout"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-15",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Mluvčí popisuje, že ji při zpětném sledování natočeného materiálu překvapily některé momenty, které si sama nepamatovala.",
+      "utterance": "Mluvčí: „Taky jsem úplně zapomněla, že jsem v posledním videu z vrcholu posílala vzkaz svým nejbližším.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí v posledním videu z vrcholu posílala vzkaz svým nejbližším.",
+        "presupposition_paraphrased": "Mluvčí v posledním videu z vrcholu nechala vzkaz svým nejbližším.",
+        "DistractorNegation": "Mluvčí v posledním videu nikdy žádný vzkaz svým nejbližším nenechala.",
+        "DistractorLexicalEdit": "Mluvčí v posledním videu z vrcholu ukazovala směr další cesty.",
+        "DistractorAssociative0": "Videozáznamy z dovolené si lidé často prohlížejí až po návratu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zapomenout"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-16",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Čeští zástupci komentují los Evropské ligy a podmínky vstupu do soutěže.",
+      "utterance": "Mluvčí uvádí: „Čeští zástupci litují, že pohárovou sezonu 17. září neodstartují doma.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Čeští zástupci neodstartují pohárovou sezonu 17. září doma.",
+        "presupposition_paraphrased": "Čeští zástupci nezačnou pohárovou sezonu 17. září na domácím hřišti.",
+        "DistractorNegation": "Čeští zástupci 17. září pohárovou sezonu na domácím hřišti nikdy zahájit neplánovali.",
+        "DistractorLexicalEdit": "Čeští zástupci nezačnou pohárovou sezonu prodejem vstupenek.",
+        "DistractorAssociative0": "Fotbalové stadiony musí splňovat přísná bezpečnostní kritéria UEFA."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "litovat"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-17",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Generální ředitel Monety komentuje změnu situace kolem plánu akvizice.",
+      "utterance": "Tomáš Spurný říká: „Lituji, že plán, na kterém jsme tvrdě pracovali, nakonec nebude realizován.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Plán, na kterém Tomáš Spurný a jeho tým tvrdě pracovali, nakonec nebude realizován.",
+        "presupposition_paraphrased": "Plán, na němž Tomáš Spurný a jeho tým intenzivně pracovali, se nakonec neuskuteční.",
+        "DistractorNegation": "Tento plán se nikdy neuskutečnit neměl a ani se na něm nepracovalo.",
+        "DistractorLexicalEdit": "Plán, na němž intenzivně pracovali, se nakonec vytiskl na papír.",
+        "DistractorAssociative0": "Bankovní akvizice jsou procesy, které trvají i několik měsíců."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "litovat"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-18",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Slavomír Bušina z Českého svazu ochránců přírody Šumperk komentuje situaci kolem zásahu do přírody, který už nejde zvrátit.",
+      "utterance": "Novinář: „Slavomír Bušina lituje, že soud nevydal předběžné opatření, kterým mohl práce zastavit.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Soud nevydal předběžné opatření, kterým mohl práce zastavit.",
+        "presupposition_paraphrased": "Soud žádné předběžné opatření nevydal, takže práce nebylo možné zastavit.",
+        "DistractorNegation": "Soud nikdy žádné předběžné opatření k zastavení prací vydat neodmítl.",
+        "DistractorLexicalEdit": "Soud si vyžádal nový znalecký posudek o stavu porostu.",
+        "DistractorAssociative0": "Šumperk je město ležící v podhůří Jeseníků v Olomouckém kraji."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "litovat"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-19",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Trenér Lovosic Jan Landa hodnotí po utkání průběh zápasu svého týmu proti Karviné.",
+      "utterance": "Novinář: „Trenér Lovosic Jan Landa litoval, že jeho tým nedokázal udržet vývoj zápasu z první půle, ve které neustále vedl.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Tým Lovosic nedokázal udržet vývoj zápasu z první půle, ve které neustále vedl.",
+        "presupposition_paraphrased": "Lovosice nezvládly navázat na průběh první půle, v níž pořád vedly.",
+        "DistractorNegation": "Tým Lovosic v první půli zápasu nikdy nevedl.",
+        "DistractorLexicalEdit": "Lovosice nezvládly navázat na trénink v místní hale.",
+        "DistractorAssociative0": "Karviná je známá svou dlouhou hornickou historií a tradicí."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "litovat"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-20",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Mluvčí hodnotí svou zkušenost s elektrickou odsávačkou mléka a srovnává ji s manuální variantou.",
+      "utterance": "Mluvčí: „Teď lituji, že jsem ji neměla k dispozici od prvního dne.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí elektrickou odsávačku neměla k dispozici od prvního dne.",
+        "presupposition_paraphrased": "Mluvčí elektrickou odsávačku neměla po ruce hned od začátku.",
+        "DistractorNegation": "Mluvčí měla elektrickou odsávačku k dispozici hned od prvního dne a nikdy jí nechyběla.",
+        "DistractorLexicalEdit": "Mluvčí elektrickou odsávačku neměla po ruce v koupelně.",
+        "DistractorAssociative0": "Moderní odsávačky mléka jsou mnohem tišší než starší modely."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "litovat"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-21",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Vypravěč popisuje život Spiridona Putina a jeho postoj k vlastní profesi kuchaře.",
+      "utterance": "Vypravěč: „Spiridon Putin litoval, že se nestal inženýrem nebo architektem.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Spiridon Putin se nestal inženýrem ani architektem.",
+        "presupposition_paraphrased": "Spiridon Putin se nevydal na dráhu inženýra ani architekta.",
+        "DistractorNegation": "Spiridon Putin se v životě inženýrem i architektem stal a nikdy toho nelitoval.",
+        "DistractorLexicalEdit": "Spiridon Putin se nevydal na dráhu inženýra prodeje automobilů.",
+        "DistractorAssociative0": "Profese kuchaře vyžaduje znalost mnoha různých receptů a postupů."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "litovat"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-22",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Novák porovnává přístupy Taina a Hennequina a hodnotí, jak na ně reagovala česká literární kritika.",
+      "utterance": "Mluvčí: „Novák lituje, že čeští kritici a literární vědci nepoužili „dynamickou sociologii literatury“ jako metodu.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Podle Nováka čeští kritici a literární vědci nepoužili „dynamickou sociologii literatury“ jako metodu.",
+        "presupposition_paraphrased": "Podle Nováka čeští kritici a literární vědci „dynamickou sociologii literatury“ ve své práci nevyužili.",
+        "DistractorNegation": "Čeští kritici podle Nováka dynamickou sociologii literatury jako metodu vždy využívali.",
+        "DistractorLexicalEdit": "Podle Nováka čeští kritici dynamickou sociologii literatury četli v novinách.",
+        "DistractorAssociative0": "Literární kritika se v českém prostředí vyvíjela po mnoho desetiletí."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "litovat"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-23",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "V jednotě Sokol Bohuňovice se řeší úpravy a rozšiřování sportovního zázemí.",
+      "utterance": "Mluvčí: „A až o roky později Sokolové ve velkém počtu litovali, že přístavba nebyla provedena.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Přístavba nebyla provedena.",
+        "presupposition_paraphrased": "K přístavbě vůbec nedošlo.",
+        "DistractorNegation": "K přístavbě sokolovny v Bohuňovicích došlo hned v prvním roce.",
+        "DistractorLexicalEdit": "Projekt přístavby navrhl architekt z Olomouce.",
+        "DistractorAssociative0": "Sokol Bohuňovice pořádá každoročně několik sportovních turnajů."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "litovat"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-24",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Vypravěčka cestuje s Jonathanem autem na pobřeží.",
+      "utterance": "Vypravěčka: „Než jsme dorazili do pobřežního města Brookings, napůl jsem litovala, že jsem na jeho návrh kývla.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Vypravěčka kývla na Jonathanův návrh (souhlasila s ním).",
+        "presupposition_paraphrased": "Vypravěčka na Jonathanův návrh přistoupila (souhlasila s ním).",
+        "DistractorNegation": "Vypravěčka nikdy na Jonathanův návrh nekývla a nesouhlasila s ním.",
+        "DistractorLexicalEdit": "Vypravěčka na Jonathanův návrh odpověděla až následující den.",
+        "DistractorAssociative0": "Cesta autem na pobřeží může trvat i několik hodin v kuse."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "litovat"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-25",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Bedřich se zaplete do vztahu s Darjou a snaží se situavi vysvětlit tak, aby ji neurazil.",
+      "utterance": "Mluvčí: „Ale čas běžel a Bedřich litoval, že si to lépe nepromyslel a mluvil jen o půl roce.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Bedřich si to lépe nepromyslel a mluvil jen o půl roce.",
+        "presupposition_paraphrased": "Bedřich to nedomyslel a mluvil jen o půlroční době.",
+        "DistractorNegation": "Bedřich si všechno velmi dobře promyslel a o žádné půlroční době nikdy nemluvil.",
+        "DistractorLexicalEdit": "Bedřich v tom zmatku mluvil jen o půlroční dovolené.",
+        "DistractorAssociative0": "Vztahy mezi lidmi bývají často komplikované a plné nedorozumění."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "litovat"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-26",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Eadulf a bratr Willibrod spolu mluví o smrti Botulfa.",
+      "utterance": "Willibrod: „V tom případě lituji, že jsem tě na tuto smutnou událost nepřipravil.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Bratr Willibrod nepřipravil Eadulfa na smutnou událost (smrt Botulfa).",
+        "presupposition_paraphrased": "Bratr Willibrod Eadulfa na smutnou zprávu o Botulfově smrti nepřipravil.",
+        "DistractorNegation": "Bratr Willibrod Eadulfa na zprávu o Botulfově smrti připravil velmi důkladně.",
+        "DistractorLexicalEdit": "Bratr Willibrod Eadulfa na smutnou zprávu o Botulfově smrti včera upozornil.",
+        "DistractorAssociative0": "Klášterní život ve středověku byl spojen s modlitbou a prací."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "litovat"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-27",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Fidelma přesvéduje Sigerica o správnosti svého postupu v důležité věci.",
+      "utterance": "Sigeric: „Lituji, že jsem tě nevyslechl už dříve.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Sigeric dříve Fidelmu nevyslechl.",
+        "presupposition_paraphrased": "Sigeric Fidelmu dřív nevyslechl.",
+        "DistractorNegation": "Sigeric Fidelmu vyslechl hned při prvním setkání a nikdy ji neodmítl.",
+        "DistractorLexicalEdit": "Sigeric Fidelmu dřív nevyhledal v klášterním archivu.",
+        "DistractorAssociative0": "Fidelma je postava známá svou moudrostí a schopností řešit spory."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "litovat"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-28",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Žena se vrací zpět do domu po napjaté situaci a její společník ji konfrontuje s tím, co dělala venku.",
+      "utterance": "Mluvčí: „Teď docela litovala, že přece jen neprolezla oknem.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Neprolezla oknem.",
+        "presupposition_paraphrased": "Nakonec se do domu nedostala oknem.",
+        "DistractorNegation": "Tato žena oknem do domu prolezla hned napoprvé.",
+        "DistractorLexicalEdit": "Do domu se nakonec nedostala přední brankou.",
+        "DistractorAssociative0": "Okenní rámy se v historických budovách vyráběly převážně ze dřeva."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "litovat"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-29",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Nicholas vzpomíná s druhou postavou na bezstarostné dětství a společné zážitky z minulosti.",
+      "utterance": "Nicholas: „Ale když si ty šťastné dny představím, lituju, že s námi nebyla Isabel.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Isabel s nimi tehdy nebyla (nebyla součástí těch šťastných dnů).",
+        "presupposition_paraphrased": "Isabel s nimi tehdy nebyla.",
+        "DistractorNegation": "Isabel s nimi během všech těch šťastných dnů v dětství vždycky byla.",
+        "DistractorLexicalEdit": "Isabel tehdy trávila čas u příbuzných na venkově.",
+        "DistractorAssociative0": "Vzpomínky na dětství bývají v dospělosti často idealizované."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "litovat"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-30",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Muž v Oxfordu se loučí s doktorem Brunem po událostech, které změnily jejich situaci.",
+      "utterance": "Muž: „Ve světle posledních událostí lituji, že jsem se vám nesvěřil dříve.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí se doktoru Brunovi dříve nesvěřil.",
+        "presupposition_paraphrased": "Mluvčí se doktoru Brunovi dříve nesvěřil.",
+        "DistractorNegation": "Mluvčí se doktoru Brunovi svěřil se vším hned na začátku.",
+        "DistractorLexicalEdit": "Mluvčí doktoru Brunovi dříve nenapsal dopis.",
+        "DistractorAssociative0": "Oxford je světoznámé univerzitní město ležící v jižní Anglii."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "litovat"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-31",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Uprostřed prudké bitvy panovník sleduje vývoj boje na hradbách.",
+      "utterance": "Mluvčí: „Král zjistil, že elfové jsou mnohem silnější bojovníci, než jeho muži.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Elfové byli mnohem silnější bojovníci než královi muži.",
+        "presupposition_paraphrased": "Elfové byli o dost silnější bojovníci než královi muži.",
+        "DistractorNegation": "Elfové nikdy nebyli silnějšími bojovníky než královi muži.",
+        "DistractorLexicalEdit": "Elfové v této zemi nosí výhradně dlouhé zelené pláště.",
+        "DistractorAssociative0": "Král má ve své pokladnici uloženo přesně tisíc zlatých mincí."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zjistit"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-32",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Mluvčí popisuje, jak se postava dostává do neobvyklého domu a zkoumá zařízení, které tam našla.",
+      "utterance": "Mluvčí: „Zjistil, že výtah je mnohem stabilnější, než se na první pohled zdálo.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Výtah byl mnohem stabilnější, než se na první pohled zdálo.",
+        "presupposition_paraphrased": "Výtah byl daleko stabilnější, než se zpočátku zdálo.",
+        "DistractorNegation": "Ten výtah nebyl a nikdy nebude stabilnější, než se zpočátku zdálo.",
+        "DistractorLexicalEdit": "Tenhle výtah je určen pouze pro přepravu těžkých nákladů.",
+        "DistractorAssociative0": "Dům má celkem deset pater a v každém je jen jeden byt."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zjistit"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-33",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Mluvčí popisuje, jak žena po příjezdu do cizího města rychle vyhodnocuje politickou situaci kolem sebe.",
+      "utterance": "Mluvčí: „Když dorazila do Říma, zjistila, že Jindřich Německý se právě chystá na svou korunovaci císařem Svaté říše římské.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Jindřich Německý se právě chystal na svou korunovaci císařem Svaté říše římské.",
+        "presupposition_paraphrased": "Jindřich Německý se právě připravoval na korunovaci císařem Svaté říše římské.",
+        "DistractorNegation": "Jindřich Německý se na žádnou korunovaci nikdy nepřipravoval.",
+        "DistractorLexicalEdit": "Jindřich Německý včera odjel na lov do hlubokých lesů.",
+        "DistractorAssociative0": "V Římě v té době neustále pršelo a foukal silný vítr."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zjistit"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-34",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Mluvčí popisuje, jak služebník v paláci znepokojeně kontroluje tiché místo, kde něco zjevně není v pořádku.",
+      "utterance": "Mluvčí: „Když zvedl oči, zjistil, že dveře jsou pootevřené.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Dveře byly pootevřené.",
+        "presupposition_paraphrased": "Dveře zůstaly pootevřené.",
+        "DistractorNegation": "Ty dveře nebyly nikdy ani na okamžik pootevřené.",
+        "DistractorLexicalEdit": "Tyhle dveře jsou vyrobeny z masivního dubového dřeva.",
+        "DistractorAssociative0": "V paláci bylo ubytováno přesně tři sta ozbrojených strážců."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zjistit"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-35",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Žena se po probuzení rozhlíží kolem sebe a hledá člověka, který byl předtím nablízku.",
+      "utterance": "Mluvčí: „S hrůzou zjistila, že zmizel.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Muž, který byl předtím nablízku, zmizel.",
+        "presupposition_paraphrased": "Muž, který byl předtím poblíž, zmizel.",
+        "DistractorNegation": "Ten muž, který byl poblíž, nikdy nikam nezmizel.",
+        "DistractorLexicalEdit": "Tenhle muž včera pracoval v zahradě až do večera.",
+        "DistractorAssociative0": "Žena má v ložnici na zdi pověšený velký obraz krajiny."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zjistit"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-36",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Mluvčí vypráví o obtížném pokusu rozluštit neznámý zápis.",
+      "utterance": "Mluvčí: „Jenže můj kamarád zjistil, že se makabrózně zmýlil, protože písmo neoznačovalo hlásky, nýbrž celé pojmy v neznámém jazyce.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Její kamarád se makabrózně zmýlil.",
+        "presupposition_paraphrased": "Její kamarád se opravdu zásadně zmýlil.",
+        "DistractorNegation": "Její kamarád se v této věci nikdy ani v nejmenším nezmýlil.",
+        "DistractorLexicalEdit": "Můj kamarád mluví plynně pěti různými světovými jazyky.",
+        "DistractorAssociative0": "Neznámý zápis byl pořízen na kousku starého zažloutlého pergamenu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zjistit"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-37",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Veřejně se komentují pochybnosti kolem státní kontroly dotací.",
+      "utterance": "Bruselští auditoři: „Kontrola zjistila, že centrální Auditní orgán České republiky systematicky upravuje výsledky kontrol tak, aby se v roční kontrolní zprávě snížil podíl chyb pod nebo na dvouprocentní hranici,“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Centrální Auditní orgán České republiky systematicky upravuje výsledky kontrol tak, aby se v roční kontrolní zprávě snížil podíl chyb pod nebo na dvouprocentní hranici.",
+        "presupposition_paraphrased": "Centrální Auditní orgán České republiky systematicky upravuje výsledky kontrol.",
+        "DistractorNegation": "Auditní orgán nikdy žádné výsledky svých kontrol nijak neupravoval.",
+        "DistractorLexicalEdit": "Auditní orgán včera zveřejnil novou výroční zprávu o hospodaření.",
+        "DistractorAssociative0": "Budova Auditního orgánu má nově opravenou fasádu v modré barvě."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zjistit"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-38",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Regulační orgán shrnuje další pochybení banky při interním zajištění povinností.",
+      "utterance": "Mluvčí: „Zároveň ČNB zjistila, že banka nezajistila u některých pracovníků, aby byli držiteli osvědčení o absolvování odborného kurzu o rozpoznávání bankovek a mincí podezřelých z padělání nebo pozměňování.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Banka u některých pracovníků nezajistila, aby byli držiteli osvědčení o absolvování odborného kurzu o rozpoznávání bankovek a mincí podezřelých z padělání nebo pozměňování.",
+        "presupposition_paraphrased": "Banka u některých pracovníků nezajistila, aby byli držiteli osvědčení o absolvování odborného kurzu o rozpoznávání bankovek a mincí podezřelých z padělání nebo pozměňování.",
+        "DistractorNegation": "Banka vždy zajistila, aby úplně všichni pracovníci měli potřebná osvědčení.",
+        "DistractorLexicalEdit": "Tito pracovníci včera absolvovali školení o bezpečnosti práce.",
+        "DistractorAssociative0": "Budova ČNB v centru Prahy je chráněnou kulturní památkou."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zjistit"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-39",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Po bezpečnostním zásahu se vyjasňuje povaha podezřelého předmětu.",
+      "utterance": "Novinář: „Policejní pyrotechnik zjistil, že šlo o prázdný odložený kufr.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Šlo o prázdný odložený kufr.",
+        "presupposition_paraphrased": "Byl to prázdný odložený kufr.",
+        "DistractorNegation": "Nikdy se nejednalo o žádný prázdný odložený kufr.",
+        "DistractorLexicalEdit": "Tenhle černý kufr patří jednomu z cestujících na nádraží.",
+        "DistractorAssociative0": "Pyrotechnik měl na sobě při zásahu speciální oblek vážící padesát kilo."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zjistit"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-40",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Policisté objasňují okolnosti neobvyklého trestného činu, jehož pachatelkou byla žena, která v obchodě vytáhla na prodavače zbraň.",
+      "utterance": "Novinář: „Policisté zjistili, že jejím motivem nebyly peníze.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Motivem ženy nebyly peníze.",
+        "presupposition_paraphrased": "Ženu nevedly peníze.",
+        "DistractorNegation": "Ženu k činu nevedlo nikdy nic jiného než právě peníze.",
+        "DistractorLexicalEdit": "Peníze v pokladně byly včera večer pečlivě přepočítány.",
+        "DistractorAssociative0": "V obchodě byla v době incidentu nainstalována funkční kamera."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zjistit"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-41",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Text shrnuje okolnosti kriminálního případu a způsob, jak byly tyto informace později využívány.",
+      "utterance": "Mluvčí: „Policie zjistila, že Engwichtová byla skutečně těhotná a že udržovala několik sexuálních poměrů.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Engwichtová byla skutečně těhotná a udržovala několik sexuálních poměrů.",
+        "presupposition_paraphrased": "Engwichtová byla opravdu těhotná a měla několik sexuálních poměrů.",
+        "DistractorNegation": "Engwichtová nebyla nikdy těhotná a žádné poměry v té době neměla.",
+        "DistractorLexicalEdit": "Engwichtová byla dříve zaměstnána v místní tkalcovně u řeky.",
+        "DistractorAssociative0": "Policejní spis v tomto případě čítá přes pět set stran textu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zjistit"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-42",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Výzkumníci vyhodnocují stopy po dávné katastrofě a skládají obraz jejího průběhu.",
+      "utterance": "Mluvčí: „Badatelé zjistili, že střecha byla při zhroucení v plamenech a některé z obětí v ten strašlivý den před dvěma a půl tisíci lety uhořely dřív, než je zavalily kameny.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Střecha byla při zhroucení v plamenech a některé z obětí v ten strašlivý den před dvěma a půl tisíci lety uhořely dřív, než je zavalily kameny.",
+        "presupposition_paraphrased": "Střecha byla při zhroucení v plamenech a některé z obětí v ten strašlivý den před dvěma a půl tisíci lety uhořely dřív, než je zavalily kameny.",
+        "DistractorNegation": "Ta střecha nebyla v plamenech a žádné oběti ten den nikdy neuhořely.",
+        "DistractorLexicalEdit": "Střecha této budovy byla vyrobena z hliněných tašek a slámy.",
+        "DistractorAssociative0": "Archeologický průzkum probíhal v této lokalitě přes tři roky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zjistit"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-43",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Vypravěč popisuje náročnou výpravu a nečekané komplikace po příchodu do horského tábora.",
+      "utterance": "Mluvčí: „Jenže jsme zjistili, že tam nikdo není, došlo k nedorozumění.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "V horském táboře nikdo není.",
+        "presupposition_paraphrased": "V horském táboře nikdo nebyl.",
+        "DistractorNegation": "V horském táboře někdo čekal už od rána.",
+        "DistractorLexicalEdit": "Tenhle horský tábor se nachází v nadmořské výšce tři tisíce metrů.",
+        "DistractorAssociative0": "Teplota v noci klesla v táboře na patnáct stupňů pod nulu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zjistit"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-44",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Autor při rekonstrukci starší události dohledává podrobnosti v odborných materiálech.",
+      "utterance": "Mluvčí: „Později jsem v publikaci antropologa profesora Jiřího Malého z roku 1938 zjistil, že Hynek při dopadu narazil i bradou, což mělo za následek větší krvácení pod okostici.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Hynek při dopadu narazil i bradou, což mělo za následek větší krvácení pod okostici.",
+        "presupposition_paraphrased": "Hynek při dopadu narazil i bradou, což vedlo k většímu krvácení pod okosticí.",
+        "DistractorNegation": "Hynek při dopadu do vody nikdy bradou o žádný předmět nenarazil.",
+        "DistractorLexicalEdit": "Hynek se v roce 1938 účastnil velké vědecké expedice do Afriky.",
+        "DistractorAssociative0": "Profesor Jiří Malý zemřel v Praze ve věku osmdesáti dvou let."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zjistit"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-45",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Muž po silném duchovním zážitku odchází z místa proměněný a až dodatečně si všímá praktické věci.",
+      "utterance": "Mluvčí: „Zjistil však, že si u jeslí zapomněl hole.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "U jeslí si zapomněl hole.",
+        "presupposition_paraphrased": "Své hole si zapomněl u jeslí.",
+        "DistractorNegation": "Své hole si u jeslí nikdy v životě nezapomněl.",
+        "DistractorLexicalEdit": "Tyto dřevěné hole byly mluvčímu darovány jeho starým otcem.",
+        "DistractorAssociative0": "Jesle byly vytesány do tvrdého kusu světlého pískovcového kamene."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "zjistit"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-46",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Mluvčí popisuje, jak žena sedí u stolu s mužem a vnímá drobné změny v jeho chování.",
+      "utterance": "Mluvčí: „Uvědomila si, že se na ni Eadulf přes stůl usmívá.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Eadulf se na ni přes stůl usmívá.",
+        "presupposition_paraphrased": "Eadulf se na ni přes stůl usmívá.",
+        "DistractorNegation": "Eadulf se na ni přes stůl nikdy v životě neusmál.",
+        "DistractorLexicalEdit": "Eadulf včera večer seděl u stolu v místním hostinci.",
+        "DistractorAssociative0": "Na stole stála váza s čerstvě natrhanými lučními květinami."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "uvědomit si"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-47",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Mluvčí popisuje, jak se muž po neklidném spánku náhle probírá z dřímoty.",
+      "utterance": "Mluvčí: „Uvědomil si, že na něho někdo volá; hněvivě, rozkazovačně.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Někdo na něho volal hněvivě, rozkazovačně.",
+        "presupposition_paraphrased": "Někdo na něho volal hněvivě a rozkazovačně.",
+        "DistractorNegation": "Nikdy nikdo na něho hněvivě ani rozkazovačně nevolal.",
+        "DistractorLexicalEdit": "Tenhle člověk včera volal z okna na svého souseda.",
+        "DistractorAssociative0": "Muž měl po probuzení v ústech nepříjemný pocit sucha."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "uvědomit si"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-48",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Mluvčí popisuje, jak dívka po silném vnitřním vypětí otevře oči a rozhlédne se kolem sebe.",
+      "utterance": "Mluvčí: „Otevřela oči. Všimla si, že všichni draci na ni upínají své pohledy.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Všichni draci na ni upínají své pohledy.",
+        "presupposition_paraphrased": "Všichni draci na ni upírají své pohledy.",
+        "DistractorNegation": "Žádní draci na ni nikdy své pohledy neupírali.",
+        "DistractorLexicalEdit": "Všichni draci v této jeskyni mají šupiny černé jako uhel.",
+        "DistractorAssociative0": "Dívka měla na sobě staré šaty ušité z hrubého lněného plátna."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "všimnout si"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-49",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Mluvčí popisuje, jak dívka v nebezpečné chvíli zkontroluje vlastní tělo a hledá známky změny.",
+      "utterance": "Mluvčí: „Když otevřela oči, všimla si, že hvězda na její ruce úplně zčernala: „Karkon!“ napadlo ji hned.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Hvězda na její ruce úplně zčernala.",
+        "presupposition_paraphrased": "Hvězda na její ruce úplně zčernala.",
+        "DistractorNegation": "Ta hvězda na její ruce nikdy ani trochu nezčernala.",
+        "DistractorLexicalEdit": "Hvězda na obloze včera večer zářila velmi jasným světlem.",
+        "DistractorAssociative0": "Dívka cítila v pravé ruce nepříjemné a velmi silné brnění."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "všimnout si"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-50",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Mluvčí popisuje, jak lidé v domě po odeznění útoku zjišťují, co po pachatelích zůstalo.",
+      "utterance": "Mluvčí: „Teprve když pachatelé zmizeli, všimli si, že jedno okno je rozbité, a zaslechli ženino volání o pomoc.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Jedno okno je rozbité.",
+        "presupposition_paraphrased": "Jedno okno bylo rozbité.",
+        "DistractorNegation": "Žádné okno v domě nebylo nikdy v ten večer rozbité.",
+        "DistractorLexicalEdit": "Na parapetu toho okna ležel starý květináč s hlínou.",
+        "DistractorAssociative0": "Pachatelé nechali na podlaze v předsíni hromadu špinavých stop."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "všimnout si"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-51",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Mluví se o novináři, který po letech práce přehodnocuje svou další profesní dráhu.",
+      "utterance": "Mluvčí: „Uvědomil si, že už to nechce dál dělat.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Už to nechtěl dál dělat.",
+        "presupposition_paraphrased": "Už v tom nechtěl dál pokračovat.",
+        "DistractorNegation": "On chtěl v té práci vždycky a za každou cenu pokračovat.",
+        "DistractorLexicalEdit": "Mluvčí se včera rozhodl pokračovat ve studiu historie.",
+        "DistractorAssociative0": "Novinář pracoval pro tento deník nepřetržitě patnáct let."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "uvědomit si"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-52",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Mluvčí popisuje, jak žena na rodičovské dovolené přemýšlí o tom, jak dál pokračovat ve své tvůrčí dráze.",
+      "utterance": "Mluvčí: „Uvědomila si, že chce tvořit trochu víc.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Chtěla tvořit trochu víc.",
+        "presupposition_paraphrased": "Chtěla tvořit ještě o něco víc.",
+        "DistractorNegation": "Ona nikdy v životě nechtěla tvořit o nic víc než dosud.",
+        "DistractorLexicalEdit": "Mluvčí si včera večer koupila nový skicák a sadu štětců.",
+        "DistractorAssociative0": "Žena má doma v rohu obývacího pokoje malý malířský ateliér."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "uvědomit si"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-53",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Žena po letech života v zahraničí přemýšlí o svém vztahu k místu, kde pobývá.",
+      "utterance": "Žena: „Uvědomila jsem si, že tam žít nemůžu.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Tam nemohla žít.",
+        "presupposition_paraphrased": "Tam žít nemohla.",
+        "DistractorNegation": "Ona tam mohla žít naprosto bez problémů a nikdy ji to netrápilo.",
+        "DistractorLexicalEdit": "Tahle žena včera mluvila o svém životě v Paříži.",
+        "DistractorAssociative0": "Život v cizím jazykovém prostředí je pro mnoho lidí stresující."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "uvědomit si"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-54",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Žena ve vypjaté situaci rychle ověřuje místo spojené s nečekanou událostí.",
+      "utterance": "Žena: „Viděla jsem, že je to dům, kde žije Evelyna.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Byl to dům, kde žila Evelyna.",
+        "presupposition_paraphrased": "Byl to dům, v němž žila Evelyna.",
+        "DistractorNegation": "V tom domě Evelyna nikdy v životě nebydlela.",
+        "DistractorLexicalEdit": "Evelyna včera v domě uklízela hromadu starého harampádí.",
+        "DistractorAssociative0": "Dům má starou cihlovou fasádu porostlou hustým zeleným břečťanem."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "vidět"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-55",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Žena po těžké operaci popisuje silný okamžik, kdy se začala orientovat v tom, co vnímá.",
+      "utterance": "Žena: „Ale viděla jsem, že za tou mlhou je jasno a něco tam prosvítá.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Za tou mlhou bylo jasno a něco tam prosvítalo.",
+        "presupposition_paraphrased": "Za tou mlhou bylo jasno a něco tam prosvítalo.",
+        "DistractorNegation": "Za tou mlhou nebylo nikdy jasno a nic tam neprosvítalo.",
+        "DistractorLexicalEdit": "Tahle hustá mlha včera trvala až do pozdního odpoledne.",
+        "DistractorAssociative0": "Nemocniční pokoj byl vymalován velmi světlou a uklidňující barvou."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "vidět"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-56",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Lékař na palubě lodi sleduje dění kolem sebe v okamžiku, kdy se situace začíná měnit.",
+      "utterance": "Mluvčí: „Zatímco usrkával svůj drink , všiml si doktor Hanschell , že k boku přirazil motorový člun .“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "K boku přirazil motorový člun.",
+        "presupposition_paraphrased": "K boku lodi přirazil motorový člun.",
+        "DistractorNegation": "K boku lodi nikdy žádný motorový člun nepřirazil.",
+        "DistractorLexicalEdit": "Tenhle motorový člun byl včera k nalezení v přístavu.",
+        "DistractorAssociative0": "Doktor Hanschell nosí na palubě lodi vždy bílý lněný oblek."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "všimnout si"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-57",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Zaměstnanec vstoupí do kanceláře svého nadřízeného a rychle vyhodnotí atmosféru rozhovoru.",
+      "utterance": "Mluvčí: „V kanceláři se posadil a všiml si , že s ním šéf nenavázal oční kontakt .“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Šéf s ním nenavázal oční kontakt.",
+        "presupposition_paraphrased": "Šéf s ním nenavázal oční kontakt.",
+        "DistractorNegation": "Šéf s ním při rozhovoru navázal oční kontakt naprosto okamžitě.",
+        "DistractorLexicalEdit": "Tenhle šéf má ve své kanceláři hromadu moderního nábytku.",
+        "DistractorAssociative0": "Zaměstnanec pracoval ve firmě na pozici vedoucího skladu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "všimnout si"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-58",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Výzkumník během pokusu sleduje vývoj rostlin a začne být znepokojen průběhem měření.",
+      "utterance": "Mluvčí: „Salisburyho ale něco znepokojilo . Všiml si , že listy , které měřili , nikdy nedosáhly své běžné délky .“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Listy, které měřili, nikdy nedosáhly své běžné délky.",
+        "presupposition_paraphrased": "Listy, které měřili, nikdy nedosáhly své obvyklé délky.",
+        "DistractorNegation": "Ty listy dosáhly své obvyklé délky hned v prvním týdnu.",
+        "DistractorLexicalEdit": "Tyto listy včera měřili v místní botanické zahradě.",
+        "DistractorAssociative0": "Pokus probíhal ve speciálně upraveném skleníku s regulací teploty."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "všimnout si"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-59",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Posádka lodi si po opakované zkušenosti nově vyloží zvláštní chování svého velitele.",
+      "utterance": "Mluvčí: „uvědomili si , že to kapitán dělá úmyslně .“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Kapitán to dělal úmyslně.",
+        "presupposition_paraphrased": "Kapitán to dělal schválně.",
+        "DistractorNegation": "Kapitán to nikdy v životě nedělal úmyslně ani schválně.",
+        "DistractorLexicalEdit": "Tenhle kapitán má na lodi k dispozici velkou mapu.",
+        "DistractorAssociative0": "Loď byla vyrobena z pevných ocelových plátů a měla dvě paluby."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "uvědomit si"
+      }
+    },
+    {
+      "id": "presupposition-factive-semifactive-60",
+      "phenomenon": "presupposition",
+      "category": "factive-semifactive",
+      "context": "Během terapeutické práce si žena nově pojmenuje vlastní dlouhodobou emoci.",
+      "utterance": "Mluvčí: „uvědomila si náhle , že má zlost na svého otce .“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Měla zlost na svého otce.",
+        "presupposition_paraphrased": "Cítila zlost vůči svému otci.",
+        "DistractorNegation": "Ona ke svému otci nikdy v životě žádnou zlost necítila.",
+        "DistractorLexicalEdit": "Její otec včera pracoval v místní továrně u lesa.",
+        "DistractorAssociative0": "Žena docházela na terapii pravidelně každé úterý odpoledne."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "uvědomit si"
+      }
+    }
+  ]

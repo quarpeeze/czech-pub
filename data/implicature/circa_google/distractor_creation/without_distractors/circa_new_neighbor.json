@@ -1,0 +1,332 @@
+[
+  {
+    "id": 28,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Grilujete rád?",
+    "answer_Y_cz": "Grilování úplně miluju."
+  },
+  {
+    "id": 42,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Už jste potkal ostatní sousedy?",
+    "answer_Y_cz": "S pár z nich už jsem se seznámil."
+  },
+  {
+    "id": 59,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Jste ve městě nový?",
+    "answer_Y_cz": "Zrovna jsem se přistěhoval."
+  },
+  {
+    "id": 75,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Jste v tomto městě nový?",
+    "answer_Y_cz": "Bydlím tu celý svůj život."
+  },
+  {
+    "id": 96,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Nechcete zajít do parku?",
+    "answer_Y_cz": "Teď zrovna nemám čas."
+  },
+  {
+    "id": 99,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Máte děti?",
+    "answer_Y_cz": "Moje dcera zrovna oslavila šesté narozeniny."
+  },
+  {
+    "id": 119,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Máte nějakého domácího mazlíčka?",
+    "answer_Y_cz": "Můj pes je můj nejlepší přítel."
+  },
+  {
+    "id": 202,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Bydlíte v této čtvrti dlouho?",
+    "answer_Y_cz": "Několik sousedů si mě tu pamatuje ještě v plenkách."
+  },
+  {
+    "id": 214,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Byl jste v poslední době v kině?",
+    "answer_Y_cz": "Pár týdnů jsem tam nebyl."
+  },
+  {
+    "id": 224,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Máte ráda horory?",
+    "answer_Y_cz": "Strašidelné filmy naprosto zbožňuju."
+  },
+  {
+    "id": 226,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Jak se vám tu u nás zatím líbí?",
+    "answer_Y_cz": "Myslím, že je to tu skvělé."
+  },
+  {
+    "id": 244,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Baví vás sekat trávník?",
+    "answer_Y_cz": "Je to pro mě takový zen."
+  },
+  {
+    "id": 246,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Pracujete někde poblíž?",
+    "answer_Y_cz": "Docela blízko."
+  },
+  {
+    "id": 271,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Jsou pro vás sousedská setkání důležitá?",
+    "answer_Y_cz": "Většinou na ně nechodím."
+  },
+  {
+    "id": 275,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Líbí se vám tu u nás?",
+    "answer_Y_cz": "Zatím je to velmi příjemná zkušenost."
+  },
+  {
+    "id": 283,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Líbí se vám v této čtvrti?",
+    "answer_Y_cz": "Zatím to vypadá moc fajn."
+  },
+  {
+    "id": 310,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Cestujete rád?",
+    "answer_Y_cz": "Nikdy jsem nebyl za hranicemi Virginie."
+  },
+  {
+    "id": 315,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Máte rád rodinu nablízku ve městě?",
+    "answer_Y_cz": "Je fajn mít je kousek od sebe."
+  },
+  {
+    "id": 345,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Pracujete tady ve městě?",
+    "answer_Y_cz": "Pracuju na městské střední škole."
+  },
+  {
+    "id": 373,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Jste tu v okolí nový?",
+    "answer_Y_cz": "Bydlím tu odjakživa."
+  },
+  {
+    "id": 376,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Znáte tu v okolí někoho?",
+    "answer_Y_cz": "Seznámil jsem se s pár kolegy z práce."
+  },
+  {
+    "id": 394,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Vadilo by vám, kdyby byla občas slyšet hudba?",
+    "answer_Y_cz": "Já ji poslouchám v jednom kuse."
+  },
+  {
+    "id": 406,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Pocházíte z tohoto města?",
+    "answer_Y_cz": "Přistěhoval jsem se z venkova."
+  },
+  {
+    "id": 436,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Přistěhoval jste se nedávno?",
+    "answer_Y_cz": "Zrovna minulý měsíc jsem si tu koupil dům."
+  },
+  {
+    "id": 461,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Máte ráda hudbu?",
+    "answer_Y_cz": "Hudbu naprosto miluju."
+  },
+  {
+    "id": 470,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Máte nějaká zvířata?",
+    "answer_Y_cz": "Svého psa i kočku mám rád úplně stejně."
+  },
+  {
+    "id": 471,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Grilujete rád?",
+    "answer_Y_cz": "Jsem vegan."
+  },
+  {
+    "id": 476,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Máte hodně koníčků?",
+    "answer_Y_cz": "Raději se držím jedné věci, která mi jde."
+  },
+  {
+    "id": 510,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Koupil jste ten dvoupatrový viktoriánský dům?",
+    "answer_Y_cz": "Nevím, kdo ho koupil, ale já to nebyl."
+  },
+  {
+    "id": 554,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Díváte se rád na filmy?",
+    "answer_Y_cz": "Často chodím do kina tady kousek."
+  },
+  {
+    "id": 556,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Pocházíte z tohoto města?",
+    "answer_Y_cz": "Vyrostl jsem tady."
+  },
+  {
+    "id": 586,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Máte tu v okolí nějaké přátele?",
+    "answer_Y_cz": "Pár jich tu je."
+  },
+  {
+    "id": 589,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Máte odsud odněkud rodinu?",
+    "answer_Y_cz": "Sourozenci bydlí kousek odsud."
+  },
+  {
+    "id": 594,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Pracujete tady v okolí?",
+    "answer_Y_cz": "Pracuju docela kousek odsud."
+  },
+  {
+    "id": 601,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Bydlíte tu už dlouho?",
+    "answer_Y_cz": "Jenom pár měsíců."
+  },
+  {
+    "id": 610,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Přistěhoval jste se z jiného města?",
+    "answer_Y_cz": "Přistěhoval jsem se z vedlejšího města."
+  },
+  {
+    "id": 614,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Baví vás hudba?",
+    "answer_Y_cz": "Hraju na saxofon."
+  },
+  {
+    "id": 618,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Jste v Austinu nový?",
+    "answer_Y_cz": "Zrovna jsem se přistěhoval z Dallasu."
+  },
+  {
+    "id": 622,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Nechtěla byste někdy přijít na večeři?",
+    "answer_Y_cz": "To zní moc hezky."
+  },
+  {
+    "id": 639,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Jste u nás ve čtvrti noví?",
+    "answer_Y_cz": "Bydlíme tu už dva roky."
+  },
+  {
+    "id": 650,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Chodíte ráda na pláž?",
+    "answer_Y_cz": "Miluju pobyt venku v přírodě."
+  },
+  {
+    "id": 661,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Přeložili vás kvůli práci?",
+    "answer_Y_cz": "Stěhoval jsem se, abych byl blíž rodině."
+  },
+  {
+    "id": 680,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Bydlíte v domě už dlouho?",
+    "answer_Y_cz": "Zatím asi měsíc."
+  },
+  {
+    "id": 691,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Bydlí v této čtvrti nějaké mladé rodiny?",
+    "answer_Y_cz": "Mladých rodin je u nás ve čtvrti docela dost."
+  },
+  {
+    "id": 702,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Byl jste v poslední době v kině?",
+    "answer_Y_cz": "Na filmu v kině jsem nebyl už celá léta."
+  },
+  {
+    "id": 731,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Byl jste někdy v jiné zemi?",
+    "answer_Y_cz": "Navštívil jsem tři různé země."
+  },
+  {
+    "id": 745,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Byl jste v této oblasti už dřív?",
+    "answer_Y_cz": "Jen když jsme si to tu byli obhlédnout."
+  },
+  {
+    "id": 747,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Máte manželku nebo partnerku?",
+    "answer_Y_cz": "Se svou ženou jsem ženatý už pět let."
+  },
+  {
+    "id": 749,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Už jste dostal klíč od bazénu?",
+    "answer_Y_cz": "Budu si o něj muset říct."
+  },
+  {
+    "id": 782,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Už jste byli v centru?",
+    "answer_Y_cz": "Zatím jsme toho moc neprozkoumali."
+  },
+  {
+    "id": 797,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Máte ráda umění?",
+    "answer_Y_cz": "Pracuju jako ilustrátorka."
+  },
+  {
+    "id": 806,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Kouříte někdy?",
+    "answer_Y_cz": "Přestal jsem ještě předtím, než se narodil syn."
+  },
+  {
+    "id": 813,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Cestoval jste už mimo republiku?",
+    "answer_Y_cz": "Vlastním nemovitost v Mexiku."
+  },
+  {
+    "id": 816,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Zajímáte se o umění?",
+    "answer_Y_cz": "Vůbec nevím, co bych si v životě bez umělců a umění počala."
+  },
+  {
+    "id": 832,
+    "context_cz": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "question_X_cz": "Máte nějaké děti?",
+    "answer_Y_cz": "S manželem čekáme, až si budeme moct dovolit vlastní bydlení."
+  }
+]

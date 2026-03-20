@@ -1,0 +1,277 @@
+[
+  {
+    "id": 22,
+    "question_X": "Is your family still living in the neighborhood?",
+    "answer_Y": "Just down the street."
+  },
+  {
+    "id": 45,
+    "question_X": "Have you stayed in touch with anyone from school?",
+    "answer_Y": "I really haven't"
+  },
+  {
+    "id": 58,
+    "question_X": "Are your mum and dad still alive ?",
+    "answer_Y": "I'm an orphan."
+  },
+  {
+    "id": 104,
+    "question_X": "Do your remember our block fondly?",
+    "answer_Y": "I enjoyed living there"
+  },
+  {
+    "id": 118,
+    "question_X": "Does it feel strange to see me again?",
+    "answer_Y": "It's weird."
+  },
+  {
+    "id": 127,
+    "question_X": "Are your parents still living in your childhood house?",
+    "answer_Y": "They moved last year"
+  },
+  {
+    "id": 133,
+    "question_X": "Have you gone by to see your old house?",
+    "answer_Y": "I saw they tore it down."
+  },
+  {
+    "id": 136,
+    "question_X": "Do you still play piano?",
+    "answer_Y": "I became a professional."
+  },
+  {
+    "id": 137,
+    "question_X": "D you have plans for later?",
+    "answer_Y": "My slate is full for my whole visit here."
+  },
+  {
+    "id": 140,
+    "question_X": "Have you stayed in contact with any of our other friends?",
+    "answer_Y": "There are a few a speak to online."
+  },
+  {
+    "id": 164,
+    "question_X": "Are you working nearby?",
+    "answer_Y": "I work in this building."
+  },
+  {
+    "id": 165,
+    "question_X": "Does it feel strange to see me again?",
+    "answer_Y": "If feels great to see you again."
+  },
+  {
+    "id": 195,
+    "question_X": "Does your mom still make those delicious chocolate chip cookies?",
+    "answer_Y": "She started a business selling them."
+  },
+  {
+    "id": 200,
+    "question_X": "Is everything good with you?",
+    "answer_Y": "I've been very ill."
+  },
+  {
+    "id": 201,
+    "question_X": "Would you like to exchange numbers?",
+    "answer_Y": "I'll get my contacts open here."
+  },
+  {
+    "id": 252,
+    "question_X": "Do you see any of our old friends?",
+    "answer_Y": "I haven't seen anyone else yet."
+  },
+  {
+    "id": 257,
+    "question_X": "Are you still living in the same house?",
+    "answer_Y": "There are condos where the house was now."
+  },
+  {
+    "id": 260,
+    "question_X": "Are you still in contact with the other neighbors?",
+    "answer_Y": "some of them I am"
+  },
+  {
+    "id": 279,
+    "question_X": "Do you still live with your parents?",
+    "answer_Y": "They moved."
+  },
+  {
+    "id": 335,
+    "question_X": "Do you have kids already?",
+    "answer_Y": "I'm kid free at the moment"
+  },
+  {
+    "id": 337,
+    "question_X": "Have you been living here?",
+    "answer_Y": "I've been here a few months"
+  },
+  {
+    "id": 351,
+    "question_X": "Can I buy you a drink?",
+    "answer_Y": "I am not stopping you."
+  },
+  {
+    "id": 374,
+    "question_X": "Do you have kids?",
+    "answer_Y": "My daughter is five years old."
+  },
+  {
+    "id": 395,
+    "question_X": "Does your mom still make those delicious chocolate chip cookies?",
+    "answer_Y": "She does!"
+  },
+  {
+    "id": 396,
+    "question_X": "Did you get your dream job?",
+    "answer_Y": "sadly I didn't"
+  },
+  {
+    "id": 399,
+    "question_X": "Do you have any children ?",
+    "answer_Y": "I am kid free at the moment"
+  },
+  {
+    "id": 424,
+    "question_X": "Are you living in the city now?",
+    "answer_Y": "I still need to take a train in from home."
+  },
+  {
+    "id": 432,
+    "question_X": "Are you single?",
+    "answer_Y": "I've been married for a few years."
+  },
+  {
+    "id": 437,
+    "question_X": "Want to go grab coffee and catch up?",
+    "answer_Y": "I think I have a little time."
+  },
+  {
+    "id": 452,
+    "question_X": "Are you still working as a lawyer?",
+    "answer_Y": "I'm now a senior partner."
+  },
+  {
+    "id": 465,
+    "question_X": "Did you marry your high school sweetheart?",
+    "answer_Y": "I wasn't that fortunate."
+  },
+  {
+    "id": 469,
+    "question_X": "Do you still like McDonald's?",
+    "answer_Y": "I gave up junk food."
+  },
+  {
+    "id": 475,
+    "question_X": "D you have plans for later?",
+    "answer_Y": "I'm going to help plan a funeral."
+  },
+  {
+    "id": 477,
+    "question_X": "Is it true you got married last year?",
+    "answer_Y": "I have a  wedding ring to prove it."
+  },
+  {
+    "id": 489,
+    "question_X": "Do you have a house?",
+    "answer_Y": "We are in a 9th floor apartment."
+  },
+  {
+    "id": 498,
+    "question_X": "Have you been to the old neighborhood in the last year?",
+    "answer_Y": "Several times, actually."
+  },
+  {
+    "id": 516,
+    "question_X": "Are you going to the high school reunion in June?",
+    "answer_Y": "I can't, I have a wedding to attend."
+  },
+  {
+    "id": 532,
+    "question_X": "You want to catch up over coffee?",
+    "answer_Y": "I'd enjoy a coffee."
+  },
+  {
+    "id": 539,
+    "question_X": "Do you know what happened to Jimmy after he moved away?",
+    "answer_Y": "I haven't heard from him in years."
+  },
+  {
+    "id": 541,
+    "question_X": "Has it been six years since we last saw each other?",
+    "answer_Y": "That's exactly how long it's been."
+  },
+  {
+    "id": 549,
+    "question_X": "Do you remember me?",
+    "answer_Y": "I could never forget my best friend."
+  },
+  {
+    "id": 606,
+    "question_X": "Have you stayed in touch with anyone from school?",
+    "answer_Y": "I haven't heard from anyone in years."
+  },
+  {
+    "id": 645,
+    "question_X": "Have a nice house yet?",
+    "answer_Y": "We just bought one down the road from here."
+  },
+  {
+    "id": 649,
+    "question_X": "Are you still into sci fi movies?",
+    "answer_Y": "I'm not a fan anymore"
+  },
+  {
+    "id": 659,
+    "question_X": "Would you live there again if you had the chance?",
+    "answer_Y": "I have no desire to move back."
+  },
+  {
+    "id": 667,
+    "question_X": "Have you talked to anyone else from our childhood?",
+    "answer_Y": "I haven't for a number of years"
+  },
+  {
+    "id": 675,
+    "question_X": "Are you still in touch with anyone from the neighbourhood?",
+    "answer_Y": "I meet up with a few of them at least once a year."
+  },
+  {
+    "id": 678,
+    "question_X": "Are your brothers and sisters nearby?",
+    "answer_Y": "they are all over the place"
+  },
+  {
+    "id": 695,
+    "question_X": "Do you like the changes around town?",
+    "answer_Y": "I miss the old stuff."
+  },
+  {
+    "id": 699,
+    "question_X": "Do you eat here often?",
+    "answer_Y": "I think I have my own table in the corner."
+  },
+  {
+    "id": 700,
+    "question_X": "Did you go to college abroad?",
+    "answer_Y": "I went to Germany."
+  },
+  {
+    "id": 718,
+    "question_X": "Is it true you adopted four children?",
+    "answer_Y": "I only have the one son."
+  },
+  {
+    "id": 725,
+    "question_X": "Can you still do that funny thing with your tongue?",
+    "answer_Y": "It's genetic, so I'll probably always be able to."
+  },
+  {
+    "id": 753,
+    "question_X": "Do you still live around here?",
+    "answer_Y": "I'm just visiting."
+  },
+  {
+    "id": 760,
+    "question_X": "Is that really you?",
+    "answer_Y": "It's me!"
+  }
+]

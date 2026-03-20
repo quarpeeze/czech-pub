@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Máš rád korejské jídlo?",
+    "answer_Y_cz": "To bych ani neřekl."
+  },
+  {
+    "id": 6,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Chutnají ti cizí kuchyně?",
+    "answer_Y_cz": "Mám rád spoustu různých kuchyní."
+  },
+  {
+    "id": 9,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Měla jsi v poslední době pizzu?",
+    "answer_Y_cz": "Manžel včera večer nějakou objednal."
+  },
+  {
+    "id": 15,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Dáváš si k pizze pivo?",
+    "answer_Y_cz": "To je hrozně nechutné."
+  },
+  {
+    "id": 27,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Máš alergii na ořechy?",
+    "answer_Y_cz": "Nejsem alergický vůbec na nic."
+  },
+  {
+    "id": 32,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Pořád držíš paleo dietu?",
+    "answer_Y_cz": "Přešel jsem na keto dietu."
+  },
+  {
+    "id": 68,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Jíš mořské plody?",
+    "answer_Y_cz": "Miluju, když si můžu chytit vlastní rybu a pak si ji uvařit."
+  },
+  {
+    "id": 71,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Dáváš přednost místním restauracím?",
+    "answer_Y_cz": "V řetězcích v podstatě vůbec nejím."
+  },
+  {
+    "id": 82,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Musíš se teď držet rozpočtu?",
+    "answer_Y_cz": "Momentálně v podstatě ano."
+  },
+  {
+    "id": 87,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Hele, jak se teď ochladilo, nezašel bys na bramboračku?",
+    "answer_Y_cz": "To by bylo fajn."
+  },
+  {
+    "id": 100,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Chutnalo ti v tom sushi baru?",
+    "answer_Y_cz": "Chci tam jíst častěji."
+  },
+  {
+    "id": 111,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Máš rád bufety?",
+    "answer_Y_cz": "Vždycky beru all-you-can-eat."
+  },
+  {
+    "id": 138,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Máš ráda veganské jídlo?",
+    "answer_Y_cz": "Po rostlinné stravě se vždycky cítím dobře."
+  },
+  {
+    "id": 151,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Vadí ti mořské plody?",
+    "answer_Y_cz": "Mám zrovna chuť na krabí klepeta."
+  },
+  {
+    "id": 154,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Jíš rád ve fast foodech?",
+    "answer_Y_cz": "Fast foody vůbec nejím."
+  },
+  {
+    "id": 259,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Baví tě zkoušet nová jídla?",
+    "answer_Y_cz": "Miluju zkoušení nových kuchyní."
+  },
+  {
+    "id": 305,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Máš rád etnickou kuchyni?",
+    "answer_Y_cz": "Chutná mi cokoli z ciziny."
+  },
+  {
+    "id": 312,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Jedl jsi někdy pizzu z pece na dřevo?",
+    "answer_Y_cz": "Dal jsem si ji, když jsem byl v New Yorku."
+  },
+  {
+    "id": 325,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Chutnají ti pálivá jídla?",
+    "answer_Y_cz": "Nedělá mi to dobře na žaludek."
+  },
+  {
+    "id": 327,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Měl jsi někdy nějakou potravinovou alergii?",
+    "answer_Y_cz": "Jsem alergický jenom na včelí bodnutí."
+  },
+  {
+    "id": 342,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Jíš rád pálivá jídla?",
+    "answer_Y_cz": "Raději ne."
+  },
+  {
+    "id": 353,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Chceš něco blízko domova?",
+    "answer_Y_cz": "Vůbec se mi nechce nikam chodit."
+  },
+  {
+    "id": 398,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Dal bys si rybu?",
+    "answer_Y_cz": "Jsem vegetarián."
+  },
+  {
+    "id": 411,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Máš teď vysoký rozpočet?",
+    "answer_Y_cz": "Snažím se teď víc šetřit."
+  },
+  {
+    "id": 414,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Máš chuť na ramen?",
+    "answer_Y_cz": "Radši bych si dal hotpot."
+  },
+  {
+    "id": 488,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Utrácíte hodně za jídlo?",
+    "answer_Y_cz": "Hodně jíme venku."
+  },
+  {
+    "id": 496,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Máš rád rýži?",
+    "answer_Y_cz": "Rýži jím skoro ke každému jídlu!"
+  },
+  {
+    "id": 500,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Piješ alkohol?",
+    "answer_Y_cz": "Sklenici piva si dám moc rád."
+  },
+  {
+    "id": 505,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Zkusil jsi tu novou thajskou restauraci v Gallerii?",
+    "answer_Y_cz": "Včera večer jsem tam byl."
+  },
+  {
+    "id": 511,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Láká tě italská kuchyně?",
+    "answer_Y_cz": "Lasagne jsou moje nejoblíbenější jídlo."
+  },
+  {
+    "id": 520,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Máš rád rodinné restaurace?",
+    "answer_Y_cz": "V rodinných restauracích vaří nejlíp."
+  },
+  {
+    "id": 521,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Nezašel bys na brooklynskou pizzu?",
+    "answer_Y_cz": "To by bylo fajn."
+  },
+  {
+    "id": 529,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Jsou pro tebe pálivá jídla v pohodě?",
+    "answer_Y_cz": "Radši bych si nic pálivého nedával."
+  },
+  {
+    "id": 607,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Fandíš cizokrajným jídlům?",
+    "answer_Y_cz": "Nevybavuju si žádné, které by mi nechutnalo."
+  },
+  {
+    "id": 620,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Jsi vegetarián?",
+    "answer_Y_cz": "To je k smíchu."
+  },
+  {
+    "id": 632,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Jíš úplně všechno?",
+    "answer_Y_cz": "Jsem pescatarián."
+  },
+  {
+    "id": 651,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Utrácíš hodně za jídlo?",
+    "answer_Y_cz": "Se čtyřmi dětmi musím."
+  },
+  {
+    "id": 657,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Máš alergii na česnek?",
+    "answer_Y_cz": "Jsem alergický jenom na pšenici."
+  },
+  {
+    "id": 669,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Máš intoleranci na laktózu?",
+    "answer_Y_cz": "Můžu jíst cokoli."
+  },
+  {
+    "id": 708,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Máš rád červené maso?",
+    "answer_Y_cz": "Jím jenom bílé maso."
+  },
+  {
+    "id": 709,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Máš děti?",
+    "answer_Y_cz": "Mám jenom jedno."
+  },
+  {
+    "id": 764,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Jíš často v restauracích?",
+    "answer_Y_cz": "Snažím se vyrazit aspoň jednou týdně."
+  },
+  {
+    "id": 788,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Chutnalo ti minule v tom all-you-can-eat?",
+    "answer_Y_cz": "Bylo to skvělé!"
+  },
+  {
+    "id": 792,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Baví tě pálivá jídla?",
+    "answer_Y_cz": "Ostrá jídla jsem nikdy nesnášel."
+  },
+  {
+    "id": 801,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Zkusil jsi někdy mexické jídlo?",
+    "answer_Y_cz": "Hned několikrát."
+  },
+  {
+    "id": 802,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Nezkusíme ten rodinný burger bar tady u mě?",
+    "answer_Y_cz": "Dal bych si radši něco trochu méně neformálního."
+  },
+  {
+    "id": 819,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Musíš se teď s jídlem držet rozpočtu?",
+    "answer_Y_cz": "Snažím se teď omezit to, kolik utratím v restauracích."
+  },
+  {
+    "id": 836,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Máš rád biryani?",
+    "answer_Y_cz": "Rýži nejím."
+  },
+  {
+    "id": 852,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Máš rád ryby?",
+    "answer_Y_cz": "Jsem na ryby alergický."
+  },
+  {
+    "id": 871,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Jíš ryby?",
+    "answer_Y_cz": "Jsem pescatarián."
+  },
+  {
+    "id": 880,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Než budeme pokračovat, musím vědět jednu věc: máš ráda lasagne?",
+    "answer_Y_cz": "Lasagne dělám pořád."
+  },
+  {
+    "id": 883,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Jíš maso?",
+    "answer_Y_cz": "Jsem lovec."
+  },
+  {
+    "id": 896,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Snažíte se s jídlem vejít do rozpočtu?",
+    "answer_Y_cz": "Snažíme se o to."
+  },
+  {
+    "id": 913,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Máš rád italské jídlo?",
+    "answer_Y_cz": "Je to moje nejoblíbenější kuchyně."
+  },
+  {
+    "id": 932,
+    "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+    "question_X_cz": "Už jsi někdy zkusil asijské jídlo?",
+    "answer_Y_cz": "Minulý týden jsem byl v japonském steakhousu."
+  }
+]

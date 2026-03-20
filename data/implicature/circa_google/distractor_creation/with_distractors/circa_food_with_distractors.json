@@ -1,0 +1,552 @@
+[
+    {
+      "id": 1,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Máš rád korejské jídlo?",
+      "answer_Y_cz": "To bych ani neřekl.",
+      "direct_answer_pos": "Ano, mám rád korejské jídlo.",
+      "direct_answer_neg": "Ne, nemám rád korejské jídlo.",
+      "distractor_lexical": "To bych ani neřekl o té nové kuchařce.",
+      "distractor_associative": "Korejská kuchyně je známá pálivým jídlem a fermentovanou zeleninou."
+    },
+    {
+      "id": 6,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Chutnají ti cizí kuchyně?",
+      "answer_Y_cz": "Mám rád spoustu různých kuchyní.",
+      "direct_answer_pos": "Ano, chutnají mi cizí kuchyně.",
+      "direct_answer_neg": "Ne, nechutnají mi cizí kuchyně.",
+      "distractor_lexical": "Mám rád spoustu různých druhů exotického koření.",
+      "distractor_associative": "Gastroturistika je populární způsob poznávání jiných kultur skrze jídlo."
+    },
+    {
+      "id": 9,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Měla jsi v poslední době pizzu?",
+      "answer_Y_cz": "Manžel včera večer nějakou objednal.",
+      "direct_answer_pos": "Ano, měla jsem v poslední době pizzu.",
+      "direct_answer_neg": "Ne, neměla jsem v poslední době pizzu.",
+      "distractor_lexical": "Manžel včera večer nějakou novou pánev umýval.",
+      "distractor_associative": "Pizza margherita byla pojmenována po italské královně."
+    },
+    {
+      "id": 15,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Dáváš si k pizze pivo?",
+      "answer_Y_cz": "To je hrozně nechutné.",
+      "direct_answer_pos": "Ano, dávám si k pizze pivo.",
+      "direct_answer_neg": "Ne, nedávám si k pizze pivo.",
+      "distractor_lexical": "To je hrozně ostrý nůž na krájení těsta.",
+      "distractor_associative": "Párování piva s jídlem je v českých restauracích běžnou praxí."
+    },
+    {
+      "id": 27,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Máš alergii na ořechy?",
+      "answer_Y_cz": "Nejsem alergický vůbec na nic.",
+      "direct_answer_pos": "Ano, mám alergii na ořechy.",
+      "direct_answer_neg": "Ne, nemám alergii na ořechy.",
+      "distractor_lexical": "Nejsem hladový vůbec po tom velkém obědě.",
+      "distractor_associative": "Potravinové alergie vyžadují přísné sledování složení potravin."
+    },
+    {
+      "id": 32,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Pořád držíš paleo dietu?",
+      "answer_Y_cz": "Přešel jsem na keto dietu.",
+      "direct_answer_pos": "Ano, pořád držím paleo dietu.",
+      "direct_answer_neg": "Ne, už nedržím paleo dietu.",
+      "distractor_lexical": "Přešel jsem na druhou stranu téhle restaurace.",
+      "distractor_associative": "Různé typy diet omezují konzumaci určitých skupin potravin."
+    },
+    {
+      "id": 68,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Jíš mořské plody?",
+      "answer_Y_cz": "Miluju, když si můžu chytit vlastní rybu a pak si ji uvařit.",
+      "direct_answer_pos": "Ano, jím mořské plody.",
+      "direct_answer_neg": "Ne, nejím mořské plody.",
+      "distractor_lexical": "Miluju, když v kuchyni voní čerstvé bylinky.",
+      "distractor_associative": "Mořské plody jsou bohatým zdrojem jódu a zdravých tuků."
+    },
+    {
+      "id": 71,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Dáváš přednost místním restauracím?",
+      "answer_Y_cz": "V řetězcích v podstatě vůbec nejím.",
+      "direct_answer_pos": "Ano, dávám přednost místním restauracím.",
+      "direct_answer_neg": "Ne, nedávám přednost místním restauracím.",
+      "distractor_lexical": "V řetězcích prodejen s nádobím mají slevy.",
+      "distractor_associative": "Podpora lokálních podniků pomáhá rozvoji regionální ekonomiky."
+    },
+    {
+      "id": 82,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Musíš se teď držet rozpočtu?",
+      "answer_Y_cz": "Momentálně v podstatě ano.",
+      "direct_answer_pos": "Ano, musím se držet rozpočtu.",
+      "direct_answer_neg": "Ne, nemusím se držet rozpočtu.",
+      "distractor_lexical": "Momentálně v podstatě v lednici nic není.",
+      "distractor_associative": "Výdaje za jídlo tvoří významnou část měsíčních nákladů domácnosti."
+    },
+    {
+      "id": 87,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Hele, jak se teď ochladilo, nezašel bys na bramboračku?",
+      "answer_Y_cz": "To by bylo fajn.",
+      "direct_answer_pos": "Ano, zašel bych na bramboračku.",
+      "direct_answer_neg": "Ne, nezašel bych na bramboračku.",
+      "distractor_lexical": "To by bylo dost brambor na celý týden.",
+      "distractor_associative": "Bramboračka je tradiční česká polévka se sušenými houbami."
+    },
+    {
+      "id": 100,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Chutnalo ti v tom sushi baru?",
+      "answer_Y_cz": "Chci tam jíst častěji.",
+      "direct_answer_pos": "Ano, chutnalo mi tam.",
+      "direct_answer_neg": "Ne, nechutnalo mi tam.",
+      "distractor_lexical": "Chci tam v rohu najít volný stůl.",
+      "distractor_associative": "Sushi se obvykle podává se sójovou omáčkou, wasabi a zázvorem."
+    },
+    {
+      "id": 111,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Máš rád bufety?",
+      "answer_Y_cz": "Vždycky beru all-you-can-eat.",
+      "direct_answer_pos": "Ano, mám rád bufety.",
+      "direct_answer_neg": "Ne, nemám rád bufety.",
+      "distractor_lexical": "Vždycky beru nákupní košík hned u vchodu.",
+      "distractor_associative": "Koncept all-you-can-eat umožňuje konzumaci libovolného množství jídla za pevnou cenu."
+    },
+    {
+      "id": 138,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Máš ráda veganské jídlo?",
+      "answer_Y_cz": "Po rostlinné stravě se vždycky cítím dobře.",
+      "direct_answer_pos": "Ano, mám ráda veganské jídlo.",
+      "direct_answer_neg": "Ne, nemám ráda veganské jídlo.",
+      "distractor_lexical": "Po rostlinné zahradě se projdu až zítra.",
+      "distractor_associative": "Veganská strava vylučuje veškeré živočišné produkty včetně vajec a medu."
+    },
+    {
+      "id": 151,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Vadí ti mořské plody?",
+      "answer_Y_cz": "Mám zrovna chuť na krabí klepeta.",
+      "direct_answer_pos": "Ano, vadí mi mořské plody.",
+      "direct_answer_neg": "Ne, nevadí mi mořské plody.",
+      "distractor_lexical": "Mám zrovna klíče od kuchyně v kapse.",
+      "distractor_associative": "Mořské plody jsou v mnoha zemích považovány za luxusní delikatesu."
+    },
+    {
+      "id": 154,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Jíš rád ve fast foodech?",
+      "answer_Y_cz": "Fast foody vůbec nejím.",
+      "direct_answer_pos": "Ano, jím rád ve fast foodech.",
+      "direct_answer_neg": "Ne, nejím rád ve fast foodech.",
+      "distractor_lexical": "Fast foody v našem městě mají nové loga.",
+      "distractor_associative": "Rychlé občerstvení je oblíbené pro svou rychlost a dostupnost."
+    },
+    {
+      "id": 259,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Baví tě zkoušet nová jídla?",
+      "answer_Y_cz": "Miluju zkoušení nových kuchyní.",
+      "direct_answer_pos": "Ano, baví mě to.",
+      "direct_answer_neg": "Ne, nebaví mě to.",
+      "distractor_lexical": "Miluju zkoušení nových kuchařských zástěr v obchodě.",
+      "distractor_associative": "Fusion kuchyně kombinuje prvky různých kulinářských tradic."
+    },
+    {
+      "id": 305,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Máš rád etnickou kuchyni?",
+      "answer_Y_cz": "Chutná mi cokoli z ciziny.",
+      "direct_answer_pos": "Ano, mám rád etnickou kuchyni.",
+      "direct_answer_neg": "Ne, nemám rád etnickou kuchyni.",
+      "distractor_lexical": "Chutná mi, když je jídlo hezky naservírované.",
+      "distractor_associative": "Etnická kuchyně přináší do jídelníčku netradiční kombinace koření."
+    },
+    {
+      "id": 312,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Jedl jsi někdy pizzu z pece na dřevo?",
+      "answer_Y_cz": "Dal jsem si ji, když jsem byl v New Yorku.",
+      "direct_answer_pos": "Ano, jedl jsem ji.",
+      "direct_answer_neg": "Ne, nejedl jsem ji.",
+      "distractor_lexical": "Dal jsem si sklenici vody po tom běhu.",
+      "distractor_associative": "Pečení pizzy na dřevě dodává těstu specifickou chuť a vůni."
+    },
+    {
+      "id": 325,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Chutnají ti pálivá jídla?",
+      "answer_Y_cz": "Nedělá mi to dobře na žaludek.",
+      "direct_answer_pos": "Ano, chutnají mi pálivá jídla.",
+      "direct_answer_neg": "Ne, nechutnají mi pálivá jídla.",
+      "distractor_lexical": "Nedělá mi žádný problém umýt to nádobí.",
+      "distractor_associative": "Kapsaicin obsažený v chilli papričkách vyvolává pocit pálení."
+    },
+    {
+      "id": 327,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Měl jsi někdy nějakou potravinovou alergii?",
+      "answer_Y_cz": "Jsem alergický jenom na včelí bodnutí.",
+      "direct_answer_pos": "Ano, měl jsem potravinovou alergii.",
+      "direct_answer_neg": "Ne, nikdy jsem potravinovou alergii neměl.",
+      "distractor_lexical": "Jsem ospalý jenom z toho ranního vstávání.",
+      "distractor_associative": "Potravinová intolerance se liší od skutečné alergické reakce."
+    },
+    {
+      "id": 342,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Jíš rád pálivá jídla?",
+      "answer_Y_cz": "Raději ne.",
+      "direct_answer_pos": "Ano, jím je rád.",
+      "direct_answer_neg": "Ne, nejím je rád.",
+      "distractor_lexical": "Raději do polévky nepřidávej tolik soli.",
+      "distractor_associative": "Stupeň pálivosti papriček se měří na Scovilleově stupnici."
+    },
+    {
+      "id": 353,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Chceš něco blízko domova?",
+      "answer_Y_cz": "Vůbec se mi nechce nikam chodit.",
+      "direct_answer_pos": "Ano, chci něco blízko domova.",
+      "direct_answer_neg": "Ne, nechci nic blízko domova.",
+      "distractor_lexical": "Vůbec se v téhle nové kuchyni nevyznám.",
+      "distractor_associative": "Rozvážka jídel do domu je pohodlnou alternativou k návštěvě restaurace."
+    },
+    {
+      "id": 398,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Dal bys si rybu?",
+      "answer_Y_cz": "Jsem vegetarián.",
+      "direct_answer_pos": "Ano, dal bych si rybu.",
+      "direct_answer_neg": "Ne, nedal bych si rybu.",
+      "distractor_lexical": "Jsem spokojený s tím novým receptem na salát.",
+      "distractor_associative": "Vegetariánství je způsob stravování vylučující konzumaci masa."
+    },
+    {
+      "id": 411,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Máš teď vysoký rozpočet?",
+      "answer_Y_cz": "Snažím se teď víc šetřit.",
+      "direct_answer_pos": "Ano, mám teď vysoký rozpočet.",
+      "direct_answer_neg": "Ne, nemám teď vysoký rozpočet.",
+      "distractor_lexical": "Snažím se v kuchyni udržovat větší pořádek.",
+      "distractor_associative": "Ekonomické vaření doma šetří peníze oproti stravování v restauracích."
+    },
+    {
+      "id": 414,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Máš chuť na ramen?",
+      "answer_Y_cz": "Radši bych si dal hotpot.",
+      "direct_answer_pos": "Ano, mám chuť na ramen.",
+      "direct_answer_neg": "Ne, nemám chuť na ramen.",
+      "distractor_lexical": "Radši bych si koupil nové talíře na polévku.",
+      "distractor_associative": "Ramen i hotpot jsou oblíbené asijské speciality podávané v miskách."
+    },
+    {
+      "id": 488,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Utrácíte hodně za jídlo?",
+      "answer_Y_cz": "Hodně jíme venku.",
+      "direct_answer_pos": "Ano, utrácíme hodně.",
+      "direct_answer_neg": "Ne, neutrácíme hodně.",
+      "distractor_lexical": "Hodně často používáme při vaření olivový olej.",
+      "distractor_associative": "Ceny v restauracích zahrnují náklady na suroviny i obsluhu a prostor."
+    },
+    {
+      "id": 496,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Máš rád rýži?",
+      "answer_Y_cz": "Rýži jím skoro ke každému jídlu!",
+      "direct_answer_pos": "Ano, mám rád rýži.",
+      "direct_answer_neg": "Ne, nemám rád rýži.",
+      "distractor_lexical": "Rýži v téhle restauraci podávají ve velkých miskách.",
+      "distractor_associative": "Rýže je základní potravinou pro více než polovinu světové populace."
+    },
+    {
+      "id": 500,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Piješ alkohol?",
+      "answer_Y_cz": "Sklenici piva si dám moc rád.",
+      "direct_answer_pos": "Ano, piju alkohol.",
+      "direct_answer_neg": "Ne, nepiju alkohol.",
+      "distractor_lexical": "Sklenici vody piju pravidelně každé ráno.",
+      "distractor_associative": "Konzumace alkoholu v rozumné míře je součástí společenského stolování."
+    },
+    {
+      "id": 505,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Zkusil jsi tu novou thajskou restauraci v Gallerii?",
+      "answer_Y_cz": "Včera večer jsem tam byl.",
+      "direct_answer_pos": "Ano, zkusil jsem ji.",
+      "direct_answer_neg": "Ne, nezkusil jsem ji.",
+      "distractor_lexical": "Včera večer jsem tam u nás na terase griloval.",
+      "distractor_associative": "Thajská kuchyně je vyhlášená svou vyváženou pálivostí a kyselostí."
+    },
+    {
+      "id": 511,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Láká tě italská kuchyně?",
+      "answer_Y_cz": "Lasagne jsou moje nejoblíbenější jídlo.",
+      "direct_answer_pos": "Ano, láká mě italská kuchyně.",
+      "direct_answer_neg": "Ne, neláká mě italská kuchyně.",
+      "distractor_lexical": "Lasagne se v naší rodině dělají jen podle starého receptu.",
+      "distractor_associative": "Italská jídla se zakládají na jednoduchosti a kvalitě surovin."
+    },
+    {
+      "id": 520,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Máš rád rodinné restaurace?",
+      "answer_Y_cz": "V rodinných restauracích vaří nejlíp.",
+      "direct_answer_pos": "Ano, mám je rád.",
+      "direct_answer_neg": "Ne, nemám je rád.",
+      "distractor_lexical": "V rodinných receptech je často hodně česneku.",
+      "distractor_associative": "Rodinné podniky mívají často osobnější přístup k hostům."
+    },
+    {
+      "id": 521,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Nezašel bys na brooklynskou pizzu?",
+      "answer_Y_cz": "To by bylo fajn.",
+      "direct_answer_pos": "Ano, zašel bych.",
+      "direct_answer_neg": "Ne, nezašel bych.",
+      "distractor_lexical": "To by bylo dost těsta na dvě velké pizzy.",
+      "distractor_associative": "Brooklynský styl pizzy se vyznačuje velmi tenkým a křupavým těstem."
+    },
+    {
+      "id": 529,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Jsou pro tebe pálivá jídla v pohodě?",
+      "answer_Y_cz": "Radši bych si nic pálivého nedával.",
+      "direct_answer_pos": "Ano, jsou v pohodě.",
+      "direct_answer_neg": "Ne, nejsou v pohodě.",
+      "distractor_lexical": "Radši bych si v obchodě koupil čerstvé bylinky.",
+      "distractor_associative": "Pocit pálivosti v ústech lze částečně zmírnit pitím mléka."
+    },
+    {
+      "id": 607,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Fandíš cizokrajným jídlům?",
+      "answer_Y_cz": "Nevybavuju si žádné, které by mi nechutnalo.",
+      "direct_answer_pos": "Ano, fandím jim.",
+      "direct_answer_neg": "Ne, nefandím jim.",
+      "distractor_lexical": "Nevybavuju si, kde jsem nechal ten starý recept.",
+      "distractor_associative": "Exotické pokrmy přinášejí do evropského jídelníčku nové suroviny."
+    },
+    {
+      "id": 620,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Jsi vegetarián?",
+      "answer_Y_cz": "To je k smíchu.",
+      "direct_answer_pos": "Ano, jsem vegetarián.",
+      "direct_answer_neg": "Ne, nejsem vegetarián.",
+      "distractor_lexical": "To je skvělý recept na domácí hamburgery.",
+      "distractor_associative": "Mnoho lidí přechází na vegetariánství z etických nebo zdravotních důvodů."
+    },
+    {
+      "id": 632,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Jíš úplně všechno?",
+      "answer_Y_cz": "Jsem pescatarián.",
+      "direct_answer_pos": "Ano, jím všechno.",
+      "direct_answer_neg": "Ne, nejím všechno.",
+      "distractor_lexical": "Jsem unavený z toho věčného vymýšlení jídelníčku.",
+      "distractor_associative": "Pescatariánství je strava, která z masa zahrnuje pouze ryby a mořské plody."
+    },
+    {
+      "id": 651,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Utrácíš hodně za jídlo?",
+      "answer_Y_cz": "Se čtyřmi dětmi musím.",
+      "direct_answer_pos": "Ano, utrácím hodně.",
+      "direct_answer_neg": "Ne, neutrácím hodně.",
+      "distractor_lexical": "Se čtyřmi hrnci na plotně musím dávat velký pozor.",
+      "distractor_associative": "Velké rodiny často využívají velkoobchodní nákupy potravin pro úsporu."
+    },
+    {
+      "id": 657,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Máš alergii na česnek?",
+      "answer_Y_cz": "Jsem alergický jenom na pšenici.",
+      "direct_answer_pos": "Ano, mám alergii na česnek.",
+      "direct_answer_neg": "Ne, nemám alergii na česnek.",
+      "distractor_lexical": "Jsem překvapený z toho nového způsobu vaření rýže.",
+      "distractor_associative": "Nesnášenlivost lepku vyžaduje používání speciálních druhů mouky."
+    },
+    {
+      "id": 669,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Máš intoleranci na laktózu?",
+      "answer_Y_cz": "Můžu jíst cokoli.",
+      "direct_answer_pos": "Ano, mám intoleranci.",
+      "direct_answer_neg": "Ne, nemám intoleranci.",
+      "distractor_lexical": "Můžu jít dneska pomoct s přípravou té oslavy.",
+      "distractor_associative": "Laktózová intolerance je způsobena nedostatkem enzymu štěpícího mléčný cukr."
+    },
+    {
+      "id": 708,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Máš rád červené maso?",
+      "answer_Y_cz": "Jím jenom bílé maso.",
+      "direct_answer_pos": "Ano, mám rád červené maso.",
+      "direct_answer_neg": "Ne, nemám rád červené maso.",
+      "distractor_lexical": "Jím u nás v kuchyni u toho starého stolu.",
+      "distractor_associative": "Červené maso zahrnuje hovězí, vepřové, skopové nebo zvěřinu."
+    },
+    {
+      "id": 709,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Máš děti?",
+      "answer_Y_cz": "Mám jenom jedno.",
+      "direct_answer_pos": "Ano, mám děti.",
+      "direct_answer_neg": "Ne, nemám děti.",
+      "distractor_lexical": "Mám v kuchyni jenom jedno volné struhadlo.",
+      "distractor_associative": "Stravovací návyky v dětství zásadně ovlivňují zdraví v dospělosti."
+    },
+    {
+      "id": 764,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Jíš často v restauracích?",
+      "answer_Y_cz": "Snažím se vyrazit aspoň jednou týdně.",
+      "direct_answer_pos": "Ano, jím tam často.",
+      "direct_answer_neg": "Ne, nejím tam často.",
+      "distractor_lexical": "Snažím se narovnat příbory na stole před obědem.",
+      "distractor_associative": "Česká gastronomická scéna nabízí čím dál kvalitnější zážitky."
+    },
+    {
+      "id": 788,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Chutnalo ti minule v tom all-you-can-eat?",
+      "answer_Y_cz": "Bylo to skvělé!",
+      "direct_answer_pos": "Ano, chutnalo mi.",
+      "direct_answer_neg": "Ne, nechutnalo mi.",
+      "distractor_lexical": "Bylo to nové menu v té restauraci na rohu.",
+      "distractor_associative": "Švédské stoly jsou oblíbené pro možnost výběru z mnoha různých jídel."
+    },
+    {
+      "id": 792,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Baví tě pálivá jídla?",
+      "answer_Y_cz": "Ostrá jídla jsem nikdy nesnášel.",
+      "direct_answer_pos": "Ano, baví mě.",
+      "direct_answer_neg": "Ne, nebaví mě.",
+      "distractor_lexical": "Ostrá slova v té kuchařce mě docela překvapila.",
+      "distractor_associative": "Některé asijské kuchyně používají koření pro konzervaci potravin v horkém podnebí."
+    },
+    {
+      "id": 801,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Zkusil jsi někdy mexické jídlo?",
+      "answer_Y_cz": "Hned několikrát.",
+      "direct_answer_pos": "Ano, zkusil jsem ho.",
+      "direct_answer_neg": "Ne, nezkusil jsem ho.",
+      "distractor_lexical": "Hned u vjezdu do téhle restaurace je velké parkoviště.",
+      "distractor_associative": "Mexická kuchyně je zapsána na seznamu světového dědictví UNESCO."
+    },
+    {
+      "id": 802,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Nezkusíme ten rodinný burger bar tady u mě?",
+      "answer_Y_cz": "Dal bych si radši něco trochu méně neformálního.",
+      "direct_answer_pos": "Ano, zkusíme ho.",
+      "direct_answer_neg": "Ne, nezkusíme ho.",
+      "distractor_lexical": "Dal bych si do sklenice jen čistou studenou vodu.",
+      "distractor_associative": "Kvalita hovězího masa a čerstvost housky jsou základem dobrého burgeru."
+    },
+    {
+      "id": 819,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Musíš se teď s jídlem držet rozpočtu?",
+      "answer_Y_cz": "Snažím se teď omezit to, kolik utratím v restauracích.",
+      "direct_answer_pos": "Ano, musím se držet rozpočtu.",
+      "direct_answer_neg": "Ne, nemusím se držet rozpočtu.",
+      "distractor_lexical": "Snažím se v kuchyni používat méně soli.",
+      "distractor_associative": "Plánování nákupů podle akčních letáků pomáhá snižovat výdaje."
+    },
+    {
+      "id": 836,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Máš rád biryani?",
+      "answer_Y_cz": "Rýži nejím.",
+      "direct_answer_pos": "Ano, mám rád biryani.",
+      "direct_answer_neg": "Ne, nemám rád biryani.",
+      "distractor_lexical": "Rýži v téhle indické restauraci podávají v malých miskách.",
+      "distractor_associative": "Biryani je aromatický rýžový pokrm pocházející z indického subkontinentu."
+    },
+    {
+      "id": 852,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Máš rád ryby?",
+      "answer_Y_cz": "Jsem na ryby alergický.",
+      "direct_answer_pos": "Ano, mám rád ryby.",
+      "direct_answer_neg": "Ne, nemám rád ryby.",
+      "distractor_lexical": "Jsem naštvaný z toho připáleného kousku masa na pánvi.",
+      "distractor_associative": "Ryby jsou důležitou součástí zdravého jídelníčku díky omega-3 mastným kyselinám."
+    },
+    {
+      "id": 871,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Jíš ryby?",
+      "answer_Y_cz": "Jsem pescatarián.",
+      "direct_answer_pos": "Ano, jím ryby.",
+      "direct_answer_neg": "Ne, nejím ryby.",
+      "distractor_lexical": "Jsem unavený z té včerejší dlouhé návštěvy v restauraci.",
+      "distractor_associative": "Někteří lidé se stávají pescatariány ze zdravotních nebo etických důvodů."
+    },
+    {
+      "id": 880,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Než budeme pokračovat, musím vědět jednu věc: máš ráda lasagne?",
+      "answer_Y_cz": "Lasagne dělám pořád.",
+      "direct_answer_pos": "Ano, mám je ráda.",
+      "direct_answer_neg": "Ne, nemám ráda lasagne.",
+      "distractor_lexical": "Lasagne se v téhle restauraci podávají i s malým salátem.",
+      "distractor_associative": "Lasagne se tradičně skládají z vrstev těsta, mletého masa a bešamelu."
+    },
+    {
+      "id": 883,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Jíš maso?",
+      "answer_Y_cz": "Jsem lovec.",
+      "direct_answer_pos": "Ano, jím maso.",
+      "direct_answer_neg": "Ne, nejím maso.",
+      "distractor_lexical": "Jsem naštvaný z toho nepořádku na jídelním stole.",
+      "distractor_associative": "Zvěřina je ceněna pro svou specifickou chuť a nízký obsah tuku."
+    },
+    {
+      "id": 896,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Snažíte se s jídlem vejít do rozpočtu?",
+      "answer_Y_cz": "Snažíme se o to.",
+      "direct_answer_pos": "Ano, snažíme se.",
+      "direct_answer_neg": "Ne, nesnažíme se.",
+      "distractor_lexical": "Snažíme se v téhle restauraci najít volný stůl pro pět osob.",
+      "distractor_associative": "Rozpočet na potraviny bývá u velkých rodin pečlivě sledován."
+    },
+    {
+      "id": 913,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Máš rád italské jídlo?",
+      "answer_Y_cz": "Je to moje nejoblíbenější kuchyně.",
+      "direct_answer_pos": "Ano, mám rád italské jídlo.",
+      "direct_answer_neg": "Ne, nemám rád italské jídlo.",
+      "distractor_lexical": "Je to v téhle nové kuchařce napsané velmi přehledně.",
+      "distractor_associative": "Italská gastronomie patří k celosvětově nejrozšířenějším a nejoblíbenějším."
+    },
+    {
+      "id": 932,
+      "context_cz": "X se chce dozvědět, co Y nejraději jí.",
+      "question_X_cz": "Už jsi někdy zkusil asijské jídlo?",
+      "answer_Y_cz": "Minulý týden jsem byl v japonském steakhousu.",
+      "direct_answer_pos": "Ano, zkusil jsem ho.",
+      "direct_answer_neg": "Ne, nezkusil jsem ho.",
+      "distractor_lexical": "Minulý týden jsem v našem parku viděl kvést stromy.",
+      "distractor_associative": "Asijská kuchyně je typická důrazem na čerstvost a vyváženost chutí."
+    }
+  ]

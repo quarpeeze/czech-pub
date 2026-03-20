@@ -1,0 +1,387 @@
+[
+    {
+      "id": 22,
+      "question_X": "Is your family still living in the neighborhood?",
+      "answer_Y": "Just down the street.",
+      "question_X_cz": "Bydlí tvoje rodina pořád u nás ve čtvrti?",
+      "answer_Y_cz": "Přímo tady v ulici."
+    },
+    {
+      "id": 45,
+      "question_X": "Have you stayed in touch with anyone from school?",
+      "answer_Y": "I really haven't",
+      "question_X_cz": "Zůstal jsi v kontaktu s někým ze školy?",
+      "answer_Y_cz": "To teda vůbec."
+    },
+    {
+      "id": 58,
+      "question_X": "Are your mum and dad still alive ?",
+      "answer_Y": "I'm an orphan.",
+      "question_X_cz": "Žijí tvoje máma a táta ještě?",
+      "answer_Y_cz": "Jsem sirotek."
+    },
+    {
+      "id": 104,
+      "question_X": "Do your remember our block fondly?",
+      "answer_Y": "I enjoyed living there",
+      "question_X_cz": "Vzpomínáš na naši ulici v dobrém?",
+      "answer_Y_cz": "Bydlelo se mi tam moc dobře."
+    },
+    {
+      "id": 118,
+      "question_X": "Does it feel strange to see me again?",
+      "answer_Y": "It's weird.",
+      "question_X_cz": "Je ti divné mě zase vidět?",
+      "answer_Y_cz": "Je to zvláštní pocit."
+    },
+    {
+      "id": 127,
+      "question_X": "Are your parents still living in your childhood house?",
+      "answer_Y": "They moved last year",
+      "question_X_cz": "Bydlí tvoji rodiče pořád v domě, kde jste vyrůstali?",
+      "answer_Y_cz": "Loni se přestěhovali."
+    },
+    {
+      "id": 133,
+      "question_X": "Have you gone by to see your old house?",
+      "answer_Y": "I saw they tore it down.",
+      "question_X_cz": "Byl ses podívat na váš starý dům?",
+      "answer_Y_cz": "Viděl jsem, že ho zbourali."
+    },
+    {
+      "id": 136,
+      "question_X": "Do you still play piano?",
+      "answer_Y": "I became a professional.",
+      "question_X_cz": "Hraješ pořád na klavír?",
+      "answer_Y_cz": "Stal se ze mě profesionál."
+    },
+    {
+      "id": 137,
+      "question_X": "D you have plans for later?",
+      "answer_Y": "My slate is full for my whole visit here.",
+      "question_X_cz": "Máš na později nějaké plány?",
+      "answer_Y_cz": "Mám úplně plno po celou dobu, co tu budu."
+    },
+    {
+      "id": 140,
+      "question_X": "Have you stayed in contact with any of our other friends?",
+      "answer_Y": "There are a few a speak to online.",
+      "question_X_cz": "Zůstala jsi v kontaktu s někým z našich dalších kamarádů?",
+      "answer_Y_cz": "S pár lidmi si píšu na internetu."
+    },
+    {
+      "id": 164,
+      "question_X": "Are you working nearby?",
+      "answer_Y": "I work in this building.",
+      "question_X_cz": "Pracuješ tady někde poblíž?",
+      "answer_Y_cz": "Pracuju přímo v téhle budově."
+    },
+    {
+      "id": 165,
+      "question_X": "Does it feel strange to see me again?",
+      "answer_Y": "If feels great to see you again.",
+      "question_X_cz": "Je ti divné mě zase vidět?",
+      "answer_Y_cz": "Je to skvělý pocit tě znovu vidět."
+    },
+    {
+      "id": 195,
+      "question_X": "Does your mom still make those delicious chocolate chip cookies?",
+      "answer_Y": "She started a business selling them.",
+      "question_X_cz": "Peče tvoje máma pořád ty skvělé sušenky s čokoládou?",
+      "answer_Y_cz": "Založila si na to firmu."
+    },
+    {
+      "id": 200,
+      "question_X": "Is everything good with you?",
+      "answer_Y": "I've been very ill.",
+      "question_X_cz": "Daří se ti dobře?",
+      "answer_Y_cz": "Byl jsem hodně nemocný."
+    },
+    {
+      "id": 201,
+      "question_X": "Would you like to exchange numbers?",
+      "answer_Y": "I'll get my contacts open here.",
+      "question_X_cz": "Chceš si vyměnit čísla?",
+      "answer_Y_cz": "Hned si tady otevřu kontakty."
+    },
+    {
+      "id": 252,
+      "question_X": "Do you see any of our old friends?",
+      "answer_Y": "I haven't seen anyone else yet.",
+      "question_X_cz": "Vídáš někoho z našich starých známých?",
+      "answer_Y_cz": "Zatím jsem nikoho jiného nepotkal."
+    },
+    {
+      "id": 257,
+      "question_X": "Are you still living in the same house?",
+      "answer_Y": "There are condos where the house was now.",
+      "question_X_cz": "Bydlíš pořád ve stejném domě?",
+      "answer_Y_cz": "Tam, kde stál náš dům, jsou teď bytovky."
+    },
+    {
+      "id": 260,
+      "question_X": "Are you still in contact with the other neighbors?",
+      "answer_Y": "some of them I am",
+      "question_X_cz": "Jsi pořád v kontaktu s ostatními sousedy?",
+      "answer_Y_cz": "S některými ano."
+    },
+    {
+      "id": 279,
+      "question_X": "Do you still live with your parents?",
+      "answer_Y": "They moved.",
+      "question_X_cz": "Bydlíš pořád u rodičů?",
+      "answer_Y_cz": "Odstěhovali se."
+    },
+    {
+      "id": 335,
+      "question_X": "Do you have kids already?",
+      "answer_Y": "I'm kid free at the moment",
+      "question_X_cz": "Už máš děti?",
+      "answer_Y_cz": "Momentálně jsem bezdětná."
+    },
+    {
+      "id": 337,
+      "question_X": "Have you been living here?",
+      "answer_Y": "I've been here a few months",
+      "question_X_cz": "Bydlíš tady?",
+      "answer_Y_cz": "Jsem tu teprve pár měsíců."
+    },
+    {
+      "id": 351,
+      "question_X": "Can I buy you a drink?",
+      "answer_Y": "I am not stopping you.",
+      "question_X_cz": "Můžu tě pozvat na skleničku?",
+      "answer_Y_cz": "Bránit ti v tom nebudu."
+    },
+    {
+      "id": 374,
+      "question_X": "Do you have kids?",
+      "answer_Y": "My daughter is five years old.",
+      "question_X_cz": "Máš děti?",
+      "answer_Y_cz": "Moje dcera má pět let."
+    },
+    {
+      "id": 395,
+      "question_X": "Does your mom still make those delicious chocolate chip cookies?",
+      "answer_Y": "She does!",
+      "question_X_cz": "Peče tvoje máma pořád ty skvělé sušenky s čokoládou?",
+      "answer_Y_cz": "To si piš!"
+    },
+    {
+      "id": 396,
+      "question_X": "Did you get your dream job?",
+      "answer_Y": "sadly I didn't",
+      "question_X_cz": "Dostal jsi svou vysněnou práci?",
+      "answer_Y_cz": "Bohužel ne."
+    },
+    {
+      "id": 399,
+      "question_X": "Do you have any children ?",
+      "answer_Y": "I am kid free at the moment",
+      "question_X_cz": "Máš nějaké děti?",
+      "answer_Y_cz": "Zatím jsem bez závazků."
+    },
+    {
+      "id": 424,
+      "question_X": "Are you living in the city now?",
+      "answer_Y": "I still need to take a train in from home.",
+      "question_X_cz": "Bydlíš teď ve městě?",
+      "answer_Y_cz": "Pořád musím dojíždět vlakem."
+    },
+    {
+      "id": 432,
+      "question_X": "Are you single?",
+      "answer_Y": "I've been married for a few years.",
+      "question_X_cz": "Jsi nezadaný?",
+      "answer_Y_cz": "Už pár let jsem ženatý."
+    },
+    {
+      "id": 437,
+      "question_X": "Want to go grab coffee and catch up?",
+      "answer_Y": "I think I have a little time.",
+      "question_X_cz": "Nechceš zajít na kafe a probrat, co je nového?",
+      "answer_Y_cz": "Myslím, že chvilku času mám."
+    },
+    {
+      "id": 452,
+      "question_X": "Are you still working as a lawyer?",
+      "answer_Y": "I'm now a senior partner.",
+      "question_X_cz": "Pracuješ pořád jako právník?",
+      "answer_Y_cz": "Teď už jsem vedoucí partner."
+    },
+    {
+      "id": 465,
+      "question_X": "Did you marry your high school sweetheart?",
+      "answer_Y": "I wasn't that fortunate.",
+      "question_X_cz": "Vzal jsi si svou lásku ze střední?",
+      "answer_Y_cz": "Takový klikař jsem nebyl."
+    },
+    {
+      "id": 469,
+      "question_X": "Do you still like McDonald's?",
+      "answer_Y": "I gave up junk food.",
+      "question_X_cz": "Máš pořád rád McDonald?",
+      "answer_Y_cz": "S nezdravým jídlem jsem skončil."
+    },
+    {
+      "id": 475,
+      "question_X": "D you have plans for later?",
+      "answer_Y": "I'm going to help plan a funeral.",
+      "question_X_cz": "Máš na později nějaké plány?",
+      "answer_Y_cz": "Budu pomáhat s plánováním pohřbu."
+    },
+    {
+      "id": 477,
+      "question_X": "Is it true you got married last year?",
+      "answer_Y": "I have a  wedding ring to prove it.",
+      "question_X_cz": "Je pravda, že ses loni vdala?",
+      "answer_Y_cz": "Můj snubní prstýnek je toho důkazem."
+    },
+    {
+      "id": 489,
+      "question_X": "Do you have a house?",
+      "answer_Y": "We are in a 9th floor apartment.",
+      "question_X_cz": "Máš dům?",
+      "answer_Y_cz": "Bydlíme v bytě v devátém patře."
+    },
+    {
+      "id": 498,
+      "question_X": "Have you been to the old neighborhood in the last year?",
+      "answer_Y": "Several times, actually.",
+      "question_X_cz": "Byl ses za poslední rok podívat v naší staré čtvrti?",
+      "answer_Y_cz": "Vlastně hned několikrát."
+    },
+    {
+      "id": 516,
+      "question_X": "Are you going to the high school reunion in June?",
+      "answer_Y": "I can't, I have a wedding to attend.",
+      "question_X_cz": "Půjdeš v červnu na sraz ze střední?",
+      "answer_Y_cz": "Nemůžu, musím jít na svatbu."
+    },
+    {
+      "id": 532,
+      "question_X": "You want to catch up over coffee?",
+      "answer_Y": "I'd enjoy a coffee.",
+      "question_X_cz": "Chceš probrat, co je nového, u kafe?",
+      "answer_Y_cz": "Kafe si dám rád."
+    },
+    {
+      "id": 539,
+      "question_X": "Do you know what happened to Jimmy after he moved away?",
+      "answer_Y": "I haven't heard from him in years.",
+      "question_X_cz": "Víš, co se stalo s Jimmym potom, co se odstěhoval?",
+      "answer_Y_cz": "Už roky jsem o něm neslyšel."
+    },
+    {
+      "id": 541,
+      "question_X": "Has it been six years since we last saw each other?",
+      "answer_Y": "That's exactly how long it's been.",
+      "question_X_cz": "Je to už šest let, co jsme se viděli naposled?",
+      "answer_Y_cz": "Je to přesně tak dlouho."
+    },
+    {
+      "id": 549,
+      "question_X": "Do you remember me?",
+      "answer_Y": "I could never forget my best friend.",
+      "question_X_cz": "Pamatuješ si na mě?",
+      "answer_Y_cz": "Na svoji nejlepší kamarádku bych nikdy nezapomněla."
+    },
+    {
+      "id": 606,
+      "question_X": "Have you stayed in touch with anyone from school?",
+      "answer_Y": "I haven't heard from anyone in years.",
+      "question_X_cz": "Zůstal jsi v kontaktu s někým ze školy?",
+      "answer_Y_cz": "O nikom jsem už roky neslyšel."
+    },
+    {
+      "id": 645,
+      "question_X": "Have a nice house yet?",
+      "answer_Y": "We just bought one down the road from here.",
+      "question_X_cz": "Už máte nějaký pěkný dům?",
+      "answer_Y_cz": "Zrovna jsme jeden koupili kousek odsud."
+    },
+    {
+      "id": 649,
+      "question_X": "Are you still into sci fi movies?",
+      "answer_Y": "I'm not a fan anymore",
+      "question_X_cz": "Pořád tě berou sci-fi filmy?",
+      "answer_Y_cz": "Už jim zrovna nefandím."
+    },
+    {
+      "id": 659,
+      "question_X": "Would you live there again if you had the chance?",
+      "answer_Y": "I have no desire to move back.",
+      "question_X_cz": "Bydlel bys tam znovu, kdybys měl tu možnost?",
+      "answer_Y_cz": "Vůbec netoužím se tam vracet."
+    },
+    {
+      "id": 667,
+      "question_X": "Have you talked to anyone else from our childhood?",
+      "answer_Y": "I haven't for a number of years",
+      "question_X_cz": "Mluvila jsi s někým jiným z našeho dětství?",
+      "answer_Y_cz": "Už pěkných pár let ne."
+    },
+    {
+      "id": 675,
+      "question_X": "Are you still in touch with anyone from the neighbourhood?",
+      "answer_Y": "I meet up with a few of them at least once a year.",
+      "question_X_cz": "Jsi v kontaktu s někým z naší čtvrti?",
+      "answer_Y_cz": "S pár lidmi se aspoň jednou ročně vídám."
+    },
+    {
+      "id": 678,
+      "question_X": "Are your brothers and sisters nearby?",
+      "answer_Y": "they are all over the place",
+      "question_X_cz": "Máš sourozence někde poblíž?",
+      "answer_Y_cz": "Jsou rozsetí všude možně."
+    },
+    {
+      "id": 695,
+      "question_X": "Do you like the changes around town?",
+      "answer_Y": "I miss the old stuff.",
+      "question_X_cz": "Líbí se ti, jak se to tady změnilo?",
+      "answer_Y_cz": "Stýská se mi po tom, jak to bylo dřív."
+    },
+    {
+      "id": 699,
+      "question_X": "Do you eat here often?",
+      "answer_Y": "I think I have my own table in the corner.",
+      "question_X_cz": "Jíš tady často?",
+      "answer_Y_cz": "Myslím, že tu mám v rohu vlastní stůl."
+    },
+    {
+      "id": 700,
+      "question_X": "Did you go to college abroad?",
+      "answer_Y": "I went to Germany.",
+      "question_X_cz": "Chodil jsi na vejšku do ciziny?",
+      "answer_Y_cz": "Studoval jsem v Německu."
+    },
+    {
+      "id": 718,
+      "question_X": "Is it true you adopted four children?",
+      "answer_Y": "I only have the one son.",
+      "question_X_cz": "Je pravda, že jsi adoptoval čtyři děti?",
+      "answer_Y_cz": "Mám jen jednoho syna."
+    },
+    {
+      "id": 725,
+      "question_X": "Can you still do that funny thing with your tongue?",
+      "answer_Y": "It's genetic, so I'll probably always be able to.",
+      "question_X_cz": "Ještě pořád umíš tu vtipnou věc s jazykem?",
+      "answer_Y_cz": "Je to v genech, takže to asi budu umět vždycky."
+    },
+    {
+      "id": 753,
+      "question_X": "Do you still live around here?",
+      "answer_Y": "I'm just visiting.",
+      "question_X_cz": "Pořád tu bydlíš?",
+      "answer_Y_cz": "Jsem tu jen na návštěvě."
+    },
+    {
+      "id": 760,
+      "question_X": "Is that really you?",
+      "answer_Y": "It's me!",
+      "question_X_cz": "Jsi to fakt ty?",
+      "answer_Y_cz": "Jsem to já!"
+    }
+  ]

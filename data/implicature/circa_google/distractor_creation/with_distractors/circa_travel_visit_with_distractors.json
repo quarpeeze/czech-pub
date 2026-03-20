@@ -1,0 +1,552 @@
+[
+    {
+      "id": 0,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Máš teď práci?",
+      "answer_Y_cz": "Pracuju jako veterinární technik.",
+      "direct_answer_pos": "Ano, mám teď práci.",
+      "direct_answer_neg": "Ne, nemám teď práci.",
+      "distractor_lexical": "Pracuju dneska v zahradě jenom do tří hodin.",
+      "distractor_associative": "Veterinární kliniky bývají i v centrech měst."
+    },
+    {
+      "id": 7,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Jde ti to v nové práci dobře?",
+      "answer_Y_cz": "To, co dělám, mě hrozně baví.",
+      "direct_answer_pos": "Ano, jde mi to dobře.",
+      "direct_answer_neg": "Ne, nejde mi to dobře.",
+      "distractor_lexical": "To, co dělám s těmi kufry, je hrozná dřina.",
+      "distractor_associative": "Nová práce vyžaduje čas na zaučení."
+    },
+    {
+      "id": 17,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Nezugrilujeme dneska večer něco?",
+      "answer_Y_cz": "Už něco mám.",
+      "direct_answer_pos": "Ano, můžeme.",
+      "direct_answer_neg": "Ne, dneska už něco mám.",
+      "distractor_lexical": "Už něco málo o tomhle městě vím.",
+      "distractor_associative": "Grilování k návštěvám neodmyslitelně patří."
+    },
+    {
+      "id": 25,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Jel jsi sem rovnou?",
+      "answer_Y_cz": "Musel jsem se ještě stavit u mámy.",
+      "direct_answer_pos": "Ano, jel jsem sem rovnou.",
+      "direct_answer_neg": "Ne, nejel jsem sem rovnou.",
+      "distractor_lexical": "Musel jsem se včera v obchodě dlouho ptát.",
+      "distractor_associative": "Návštěva rodiny bývá častou součástí cest."
+    },
+    {
+      "id": 35,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Pořád tě baví turistika?",
+      "answer_Y_cz": "Snažím se vyrazit na hory aspoň jednou za měsíc.",
+      "direct_answer_pos": "Ano, baví.",
+      "direct_answer_neg": "Ne, nebaví.",
+      "distractor_lexical": "Snažím se vyrazit z bytu vždycky včas.",
+      "distractor_associative": "Hory nabízejí čerstvý vzduch a klid."
+    },
+    {
+      "id": 36,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Chodíš často vymetat bary?",
+      "answer_Y_cz": "Už vůbec nepiju.",
+      "direct_answer_pos": "Ano, chodím často.",
+      "direct_answer_neg": "Ne, nechodím často.",
+      "distractor_lexical": "Už vůbec nevím, kam jsem včera dal batoh.",
+      "distractor_associative": "Noční život ve městech bývá velmi pestrý."
+    },
+    {
+      "id": 43,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Byla ta cesta únavná?",
+      "answer_Y_cz": "Bylo to vzrušující.",
+      "direct_answer_pos": "Ano, byla únavná.",
+      "direct_answer_neg": "Ne, nebyla únavná.",
+      "distractor_lexical": "Bylo to včera v parku docela horko.",
+      "distractor_associative": "Cestování vlakem trvá někdy příliš dlouho."
+    },
+    {
+      "id": 69,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Baví tě bydlet mimo město?",
+      "answer_Y_cz": "Život na venkově naprosto miluju.",
+      "direct_answer_pos": "Ano, baví.",
+      "direct_answer_neg": "Ne, nebaví.",
+      "distractor_lexical": "Život na cestách bývá někdy dost drahý.",
+      "distractor_associative": "Venkov nabízí více prostoru než město."
+    },
+    {
+      "id": 74,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Těšíš se na tenhle víkend?",
+      "answer_Y_cz": "Mám z něj spíš hrůzu.",
+      "direct_answer_pos": "Ano, těším se.",
+      "direct_answer_neg": "Ne, netěším se.",
+      "distractor_lexical": "Mám v autě schovanou tu tvoji mapu.",
+      "distractor_associative": "Plánování víkendu může být stresující."
+    },
+    {
+      "id": 90,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Vzal jsi si všechno, co potřebuješ?",
+      "answer_Y_cz": "Všechno se mi do kufru nevešlo.",
+      "direct_answer_pos": "Ano, vzal.",
+      "direct_answer_neg": "Ne, nevzal jsem všechno.",
+      "distractor_lexical": "Všechno se v té nové mapě zdálo být blízko.",
+      "distractor_associative": "Balení zavazadel vyžaduje dobrou přípravu."
+    },
+    {
+      "id": 120,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Chceš si projít to muzeum?",
+      "answer_Y_cz": "Nemohl bych jít radši do parku?",
+      "direct_answer_pos": "Ano, chci.",
+      "direct_answer_neg": "Ne, nechci.",
+      "distractor_lexical": "Nemohl bych si tady koupit jízdenku na vlak?",
+      "distractor_associative": "Muzea mívají v pondělí často zavřeno."
+    },
+    {
+      "id": 131,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Nechtěl bys jít dneska večer do kina?",
+      "answer_Y_cz": "Jsem pro.",
+      "direct_answer_pos": "Ano, chtěl.",
+      "direct_answer_neg": "Ne, nechtěl.",
+      "distractor_lexical": "Jsem už z té dlouhé cesty unavený.",
+      "distractor_associative": "Večerní program bývá po příjezdu vítaný."
+    },
+    {
+      "id": 139,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Nechceš zajít na film?",
+      "answer_Y_cz": "To beru.",
+      "direct_answer_pos": "Ano, chci.",
+      "direct_answer_neg": "Ne, nechci.",
+      "distractor_lexical": "To auto jsem včera nechal v servisu.",
+      "distractor_associative": "Kina nabízejí nejnovější světové filmy."
+    },
+    {
+      "id": 155,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Nechceš jít do nákupáku?",
+      "answer_Y_cz": "Nakupování nesnáším.",
+      "direct_answer_pos": "Ano, chci.",
+      "direct_answer_neg": "Ne, nechci.",
+      "distractor_lexical": "Nakupování jízdenek na internetu je snazší.",
+      "distractor_associative": "Velká nákupní centra jsou v každém městě."
+    },
+    {
+      "id": 163,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Chceš jít o víkendu po památkách?",
+      "answer_Y_cz": "To by bylo fajn.",
+      "direct_answer_pos": "Ano, chci.",
+      "direct_answer_neg": "Ne, nechci.",
+      "distractor_lexical": "To by v pondělí mohlo konečně pršet.",
+      "distractor_associative": "Historická centra měst jsou plná turistů."
+    },
+    {
+      "id": 198,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Vyspal jsi se cestou sem?",
+      "answer_Y_cz": "V letadle byl hrozný hluk.",
+      "direct_answer_pos": "Ano, vyspal.",
+      "direct_answer_neg": "Ne, nevyspal.",
+      "distractor_lexical": "V letadle se včera podávaly jenom sýry.",
+      "distractor_associative": "Spánek v letadle není příliš pohodlný."
+    },
+    {
+      "id": 207,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Byl jsi v poslední době na nějaké velké dovolené?",
+      "answer_Y_cz": "Loni na podzim jsem byl na tři týdny v Evropě.",
+      "direct_answer_pos": "Ano, byl jsem.",
+      "direct_answer_neg": "Ne, nebyl jsem.",
+      "distractor_lexical": "Loni na podzim jsem si koupil nový kufr.",
+      "distractor_associative": "Evropa nabízí mnoho historických památek."
+    },
+    {
+      "id": 208,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Chceš si pohladit mého psa?",
+      "answer_Y_cz": "Mám alergii.",
+      "direct_answer_pos": "Ano, chci.",
+      "direct_answer_neg": "Ne, nechci.",
+      "distractor_lexical": "Mám v kapse klíče od hotelového pokoje.",
+      "distractor_associative": "Psi jsou u cestovatelů oblíbení společníci."
+    },
+    {
+      "id": 209,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Už jsi někdy viděl moje nové bydlení?",
+      "answer_Y_cz": "Zatím ještě nikdy.",
+      "direct_answer_pos": "Ano, už jsem ho viděl.",
+      "direct_answer_neg": "Ne, ještě jsem ho neviděl.",
+      "distractor_lexical": "Zatím ještě v tomhle domě neteče voda.",
+      "distractor_associative": "Nové bydlení bývá pro přátele zajímavé."
+    },
+    {
+      "id": 232,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Ulevilo se ti, že sis dal na chvíli od všeho pohov?",
+      "answer_Y_cz": "Je to skvělý pocit!",
+      "direct_answer_pos": "Ano, ulevilo.",
+      "direct_answer_neg": "Ne, neulevilo.",
+      "distractor_lexical": "Je to skvělý recept na ten ranní čaj.",
+      "distractor_associative": "Dovolená pomáhá načerpat nové síly."
+    },
+    {
+      "id": 249,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Mrkneme pak na nějaký vánoční film?",
+      "answer_Y_cz": "Doufám, že to bude sranda.",
+      "direct_answer_pos": "Ano, mrkneme.",
+      "direct_answer_neg": "Ne, nemrkneme.",
+      "distractor_lexical": "Doufám, že to v pondělí v práci stihnu.",
+      "distractor_associative": "Vánoční filmy patří k zimní atmosféře."
+    },
+    {
+      "id": 272,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Daří se ti dobře?",
+      "answer_Y_cz": "Život je teď vážně fajn.",
+      "direct_answer_pos": "Ano, daří.",
+      "direct_answer_neg": "Ne, nedaří.",
+      "distractor_lexical": "Život ve městě mi přijde hrozně hlučný.",
+      "distractor_associative": "Spokojenost v životě ovlivňuje náladu."
+    },
+    {
+      "id": 280,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Chceš se jít podívat na památky?",
+      "answer_Y_cz": "Moc rád.",
+      "direct_answer_pos": "Ano, chci.",
+      "direct_answer_neg": "Ne, nechci.",
+      "distractor_lexical": "Moc často na výletech v parcích nesedím.",
+      "distractor_associative": "Památky lákají návštěvníky z celého světa."
+    },
+    {
+      "id": 281,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Zahrajeme si nějaké hry?",
+      "answer_Y_cz": "Mám epilepsii a nemůžu se dívat na rychle se měnící obraz.",
+      "direct_answer_pos": "Ano, zahrajeme.",
+      "direct_answer_neg": "Ne, nezahrajeme.",
+      "distractor_lexical": "Mám v tašce ty včerejší noviny z vlaku.",
+      "distractor_associative": "Společenské hry jsou fajn na večer u přátel."
+    },
+    {
+      "id": 286,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Měl bys zájem zajít na nějakou komedii?",
+      "answer_Y_cz": "Komedie miluju.",
+      "direct_answer_pos": "Ano, měl.",
+      "direct_answer_neg": "Ne, neměl.",
+      "distractor_lexical": "Komedie v televizi mě obvykle vůbec nebaví.",
+      "distractor_associative": "Humor pomáhá uvolnit se po dlouhé cestě."
+    },
+    {
+      "id": 297,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Koukáš na nějaké nové seriály?",
+      "answer_Y_cz": "Teď ujíždím na Úžasné paní Maiselové.",
+      "direct_answer_pos": "Ano, koukám.",
+      "direct_answer_neg": "Ne, nekoukám.",
+      "distractor_lexical": "Teď ujíždím hned v sobotu brzy ráno.",
+      "distractor_associative": "Sledování seriálů je oblíbený způsob relaxu."
+    },
+    {
+      "id": 308,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Máš v hlavě nějaká místa, kam bys chtěl zajít?",
+      "answer_Y_cz": "Moc rád bych viděl ty nejnovější umělecké výstavy.",
+      "direct_answer_pos": "Ano, mám.",
+      "direct_answer_neg": "Ne, nemám.",
+      "distractor_lexical": "Moc rád bych v archivu našel tu starou mapu.",
+      "distractor_associative": "Výstavy umění nabízejí nevšední zážitky."
+    },
+    {
+      "id": 320,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Viděl jsi ten nový film?",
+      "answer_Y_cz": "Zatím ještě ne.",
+      "direct_answer_pos": "Ano, viděl.",
+      "direct_answer_neg": "Ne, neviděl.",
+      "distractor_lexical": "Zatím ještě v tomhle hotelu nikdo nebydlí.",
+      "distractor_associative": "Nové filmy v kinech bývají rychle vyprodané."
+    },
+    {
+      "id": 362,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Chceš si projít muzeum?",
+      "answer_Y_cz": "Pojďme se podívat na tu výstavu o starověkém Egyptě.",
+      "direct_answer_pos": "Ano, chci.",
+      "direct_answer_neg": "Ne, nechci.",
+      "distractor_lexical": "Pojďme se ubytovat hned po příjezdu vlaku.",
+      "distractor_associative": "Starověký Egypt je fascinující historické téma."
+    },
+    {
+      "id": 389,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Chceš se před večeří převléknout?",
+      "answer_Y_cz": "V tomhle se cítím dobře.",
+      "direct_answer_pos": "Ano, chci.",
+      "direct_answer_neg": "Ne, nechci.",
+      "distractor_lexical": "V tomhle letadle je hrozně málo místa.",
+      "distractor_associative": "Pohodlné oblečení je při cestování nutností."
+    },
+    {
+      "id": 393,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Chceš se najíst v restauraci?",
+      "answer_Y_cz": "Moc rád bych zašel na italskou kuchyni.",
+      "direct_answer_pos": "Ano, chci.",
+      "direct_answer_neg": "Ne, nechci.",
+      "distractor_lexical": "Moc rád bych u nás v kuchyni brzy vymaloval.",
+      "distractor_associative": "Italská jídla patří k těm nejoblíbenějším."
+    },
+    {
+      "id": 397,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Máš už hlad?",
+      "answer_Y_cz": "Celý den myslím na ten tvůj tajný recept na brownies.",
+      "direct_answer_pos": "Ano, mám.",
+      "direct_answer_neg": "Ne, nemám.",
+      "distractor_lexical": "Celý den včera venku hrozně silně foukalo.",
+      "distractor_associative": "Domácí jídlo je po cestě vždycky vítané."
+    },
+    {
+      "id": 407,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Přijde ti to počasí příjemné?",
+      "answer_Y_cz": "Teď je tam krásně.",
+      "direct_answer_pos": "Ano, přijde.",
+      "direct_answer_neg": "Ne, nepřijde.",
+      "distractor_lexical": "Teď je v hotelu v noci hrozně moc lidí.",
+      "distractor_associative": "Počasí má vliv na plány během návštěvy."
+    },
+    {
+      "id": 408,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Půjdeme nakupovat?",
+      "answer_Y_cz": "Klidně můžeme.",
+      "direct_answer_pos": "Ano, půjdeme.",
+      "direct_answer_neg": "Ne, nepůjdeme.",
+      "distractor_lexical": "Klidně v téhle čtvrti můžeme i zabloudit.",
+      "distractor_associative": "Nákupy suvenýrů jsou oblíbenou aktivitou."
+    },
+    {
+      "id": 431,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Máš rád venkov?",
+      "answer_Y_cz": "Ten vzduch je tam mnohem lepší.",
+      "direct_answer_pos": "Ano, mám.",
+      "direct_answer_neg": "Ne, nemám.",
+      "distractor_lexical": "Ten vlak tam včera dojel s velkým zpožděním.",
+      "distractor_associative": "Život mimo město je klidnější a tišší."
+    },
+    {
+      "id": 434,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Chceš se před večeří převléknout?",
+      "answer_Y_cz": "Půjdu prostě tak, jak jsem.",
+      "direct_answer_pos": "Ano, chci.",
+      "direct_answer_neg": "Ne, nechci.",
+      "distractor_lexical": "Půjdu na krátkou procházku hned vedle hotelu.",
+      "distractor_associative": "Večeře v restauraci vyžaduje někdy styl."
+    },
+    {
+      "id": 459,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Máš nějaké oblečení na převlečení?",
+      "answer_Y_cz": "Všechno, co potřebuju, mám v téhle tašce.",
+      "direct_answer_pos": "Ano, mám.",
+      "direct_answer_neg": "Ne, nemám.",
+      "distractor_lexical": "Všechno, co o tom městě vím, je z mapy.",
+      "distractor_associative": "Cestovní tašky jsou praktické na víkendy."
+    },
+    {
+      "id": 464,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Stavoval jsi se cestou někde?",
+      "answer_Y_cz": "Neměl jsem na to čas.",
+      "direct_answer_pos": "Ano, stavoval.",
+      "direct_answer_neg": "Ne, nestavoval.",
+      "distractor_lexical": "Neměl jsem v tom vlaku včera dost místa.",
+      "distractor_associative": "Zastávky na kávu cestu příjemně prodlouží."
+    },
+    {
+      "id": 484,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Chtěl bys vidět naše staré známé?",
+      "answer_Y_cz": "Bylo by super s nimi probrat, co je nového.",
+      "direct_answer_pos": "Ano, chtěl.",
+      "direct_answer_neg": "Ne, nechtěl.",
+      "distractor_lexical": "Bylo by v téhle mapě dobré se brzy vyznat.",
+      "distractor_associative": "Setkání s přáteli bývají hlavní částí návštěv."
+    },
+    {
+      "id": 524,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Chceš chvíli čas pro sebe na průzkum?",
+      "answer_Y_cz": "Budu rád za společnost.",
+      "direct_answer_pos": "Ano, chci.",
+      "direct_answer_neg": "Ne, nechci.",
+      "distractor_lexical": "Budu v tomhle hotelu zítra čekat na recepci.",
+      "distractor_associative": "Prohlídka města je ve dvou zábavnější."
+    },
+    {
+      "id": 531,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Ty zítra odjíždíš?",
+      "answer_Y_cz": "Zítra přece jdeme na tu komedii, pamatuješ?",
+      "direct_answer_pos": "Ano, zítra odjíždím.",
+      "direct_answer_neg": "Ne, zítra neodjíždím.",
+      "distractor_lexical": "Zítra v tom letadle nebude žádné volné místo.",
+      "distractor_associative": "Komedie v divadle je skvělý víkendový plán."
+    },
+    {
+      "id": 535,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Půjdeme se projít?",
+      "answer_Y_cz": "Moc rád se procházím po městě.",
+      "direct_answer_pos": "Ano, půjdeme.",
+      "direct_answer_neg": "Ne, nepůjdeme.",
+      "distractor_lexical": "Moc často se v noci po lese neprocházím.",
+      "distractor_associative": "Pěší procházky odhalí skrytá zákoutí města."
+    },
+    {
+      "id": 551,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Máš zítra chuť na delší procházku?",
+      "answer_Y_cz": "Procházka venku by mě osvěžila.",
+      "direct_answer_pos": "Ano, mám.",
+      "direct_answer_neg": "Ne, nemám.",
+      "distractor_lexical": "Procházka po tom letišti mi včera dala zabrat.",
+      "distractor_associative": "Čerstvý vzduch pomáhá proti únavě z cesty."
+    },
+    {
+      "id": 570,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Ty zítra odjíždíš?",
+      "answer_Y_cz": "Zůstávám tu dva týdny.",
+      "direct_answer_pos": "Ano, odjíždím.",
+      "direct_answer_neg": "Ne, neodjíždím.",
+      "distractor_lexical": "Zůstávám v tomhle hotelu až do pondělí.",
+      "distractor_associative": "Dvoutýdenní návštěva dovolí vidět hodně míst."
+    },
+    {
+      "id": 572,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Už jsi zkusil tu Sweetish Hill na Šesté?",
+      "answer_Y_cz": "To zní jako místo, které bych rád vyzkoušel.",
+      "direct_answer_pos": "Ano, zkusil.",
+      "direct_answer_neg": "Ne, nezkusil.",
+      "distractor_lexical": "To zní v tomhle starém rádiu jako hlučný motor.",
+      "distractor_associative": "Místní kavárny mají často svoji atmosféru."
+    },
+    {
+      "id": 575,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Bydlíš v hotelu?",
+      "answer_Y_cz": "Zatím ano.",
+      "direct_answer_pos": "Ano, bydlím.",
+      "direct_answer_neg": "Ne, nebydlím.",
+      "distractor_lexical": "Zatím v tomhle vlaku včera nikdo jiný neseděl.",
+      "distractor_associative": "Hotely nabízejí cestovatelům plný komfort."
+    },
+    {
+      "id": 579,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Šel bys zítra ráno na túru?",
+      "answer_Y_cz": "Beru cokoli.",
+      "direct_answer_pos": "Ano, šel.",
+      "direct_answer_neg": "Ne, nešel.",
+      "distractor_lexical": "Beru si s sebou na cesty jenom ty nové mapy.",
+      "distractor_associative": "Ranní výšlapy nabízejí nejkrásnější výhledy."
+    },
+    {
+      "id": 599,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Byla ta cesta dobrá?",
+      "answer_Y_cz": "Byla sice krátká, ale stála za to!",
+      "direct_answer_pos": "Ano, byla dobrá.",
+      "direct_answer_neg": "Ne, nebyla dobrá.",
+      "distractor_lexical": "Byla v tomhle hotelu včera hrozně velká zima.",
+      "distractor_associative": "Krátké výlety jsou fajn na víkendový restart."
+    },
+    {
+      "id": 625,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Pořád jsi zasnoubený?",
+      "answer_Y_cz": "Minulý měsíc ty zásnuby zrušila.",
+      "direct_answer_pos": "Ano, pořád jsem.",
+      "direct_answer_neg": "Ne, už nejsem.",
+      "distractor_lexical": "Minulý měsíc v tomhle hotelu měnili všechna okna.",
+      "distractor_associative": "Osobní život přátel je častým tématem hovorů."
+    },
+    {
+      "id": 662,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Měl jsi přímý let?",
+      "answer_Y_cz": "Měl jsem dvouhodinové mezipřistání.",
+      "direct_answer_pos": "Ano, měl jsem.",
+      "direct_answer_neg": "Ne, neměl jsem.",
+      "distractor_lexical": "Měl jsem v tom letadle včera hrozně málo místa.",
+      "distractor_associative": "Lety s mezipřistáním bývají někdy levnější."
+    },
+    {
+      "id": 666,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Jsi připravená si to užít?",
+      "answer_Y_cz": "To si piš!",
+      "direct_answer_pos": "Ano, jsem.",
+      "direct_answer_neg": "Ne, nejsem.",
+      "distractor_lexical": "To si piš do svého cestovního deníku tužkou.",
+      "distractor_associative": "Dobrá nálada je na výletě to nejdůležitější."
+    },
+    {
+      "id": 681,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Jde ti to v nové práci dobře?",
+      "answer_Y_cz": "Zatím mě to moc baví.",
+      "direct_answer_pos": "Ano, jde.",
+      "direct_answer_neg": "Ne, nejde.",
+      "distractor_lexical": "Zatím mě ta nová cesta v mapě docela mate.",
+      "distractor_associative": "Zaučení v nové práci vyžaduje hodně energie."
+    },
+    {
+      "id": 694,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Nedáš si po té dlouhé cestě drink?",
+      "answer_Y_cz": "To by mě osvěžilo.",
+      "direct_answer_pos": "Ano, dám.",
+      "direct_answer_neg": "Ne, nedám.",
+      "distractor_lexical": "To by v tomhle letadle včera nikdo nečekal.",
+      "distractor_associative": "Osvěžující nápoj po příjezdu přijde k chuti."
+    },
+    {
+      "id": 706,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Chtěla bys se mnou zajít do muzea?",
+      "answer_Y_cz": "Ráda bych viděla tu novou výstavu v galerii.",
+      "direct_answer_pos": "Ano, chtěla.",
+      "direct_answer_neg": "Ne, nechtěla.",
+      "distractor_lexical": "Ráda bych v tomhle vlaku včera měla víc klidu.",
+      "distractor_associative": "Umělecké galerie nabízejí inspirativní zážitek."
+    },
+    {
+      "id": 711,
+      "context_cz": "Y právě přijel z jiného města, aby se viděl s X.",
+      "question_X_cz": "Víš o tomhle městě hodně?",
+      "answer_Y_cz": "Jenom to, cos mi řekl ty.",
+      "direct_answer_pos": "Ano, vím.",
+      "direct_answer_neg": "Ne, nevím.",
+      "distractor_lexical": "Jenom to v tomhle letadle včera hrozně moc drncalo.",
+      "distractor_associative": "Průvodce městem pomůže odhalit zajímavá místa."
+    }
+  ]

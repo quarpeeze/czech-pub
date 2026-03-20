@@ -1,0 +1,277 @@
+[
+  {
+    "id": 2,
+    "question_X": "Are you bringing any pets into the flat?",
+    "answer_Y": "I do not own any pets"
+  },
+  {
+    "id": 16,
+    "question_X": "Are you taking any animals?",
+    "answer_Y": "I'll bring my dog."
+  },
+  {
+    "id": 37,
+    "question_X": "Did you consult with your partner/parents?",
+    "answer_Y": "I haven't spoken to my partner in ages."
+  },
+  {
+    "id": 39,
+    "question_X": "Do you need a lot of space?",
+    "answer_Y": "I could do with a small studio."
+  },
+  {
+    "id": 46,
+    "question_X": "Have you lived in New York before?",
+    "answer_Y": "I've only been there for vacation."
+  },
+  {
+    "id": 52,
+    "question_X": "Have you researched the areas you are interested in?",
+    "answer_Y": "I've been looking a lot online."
+  },
+  {
+    "id": 54,
+    "question_X": "Do you have any pets?",
+    "answer_Y": "I have a cat."
+  },
+  {
+    "id": 92,
+    "question_X": "Does it have to be in the city itself?",
+    "answer_Y": "It can be on the outskirts"
+  },
+  {
+    "id": 95,
+    "question_X": "Is is close to the Subway station?",
+    "answer_Y": "It's just down the street."
+  },
+  {
+    "id": 97,
+    "question_X": "Will you have to share the flat with anyone?",
+    "answer_Y": "I'm excited to live on my own."
+  },
+  {
+    "id": 110,
+    "question_X": "Is it in a safe area?",
+    "answer_Y": "The neighborhood doesn't see much crime."
+  },
+  {
+    "id": 117,
+    "question_X": "Want to live in a more affordable area of town?",
+    "answer_Y": "I would like something a little cheaper."
+  },
+  {
+    "id": 128,
+    "question_X": "Do you have a limit of what you want to pay?",
+    "answer_Y": "Three hundred dollars maximum,"
+  },
+  {
+    "id": 146,
+    "question_X": "Would you like a building with a doorman?",
+    "answer_Y": "That would be nice"
+  },
+  {
+    "id": 175,
+    "question_X": "Are you open to having roommates?",
+    "answer_Y": "I will need the extra cash."
+  },
+  {
+    "id": 181,
+    "question_X": "Are you comfortable with a busy city?",
+    "answer_Y": "I can handle it."
+  },
+  {
+    "id": 188,
+    "question_X": "Do you like spacious apartments?",
+    "answer_Y": "I think it's great"
+  },
+  {
+    "id": 190,
+    "question_X": "Can you afford the expensive rent?",
+    "answer_Y": "I have plenty of cash to keep me going for a while."
+  },
+  {
+    "id": 197,
+    "question_X": "Can you show proof of income?",
+    "answer_Y": "I should be able to"
+  },
+  {
+    "id": 248,
+    "question_X": "Have you started looking yet?",
+    "answer_Y": "I'll look when we arrive."
+  },
+  {
+    "id": 255,
+    "question_X": "Can you show proof of income?",
+    "answer_Y": "I haven't gotten a job there yet."
+  },
+  {
+    "id": 263,
+    "question_X": "Are you getting a flat in the city?",
+    "answer_Y": "I can only afford New Jersey."
+  },
+  {
+    "id": 290,
+    "question_X": "Do you have any kids?",
+    "answer_Y": "With such over-population, I made a conscientious choice to not add to the problem."
+  },
+  {
+    "id": 291,
+    "question_X": "Are you planning on walking to work?",
+    "answer_Y": "I bought a bike."
+  },
+  {
+    "id": 293,
+    "question_X": "Is New York your only option?",
+    "answer_Y": "There is also an opening in Boston."
+  },
+  {
+    "id": 294,
+    "question_X": "Did you look at what's out there?",
+    "answer_Y": "I had a peek"
+  },
+  {
+    "id": 301,
+    "question_X": "Did you figure out the commute times to work from different boroughs?",
+    "answer_Y": "I still need to do those calculations."
+  },
+  {
+    "id": 326,
+    "question_X": "Have you lived in New York before?",
+    "answer_Y": "I've lived in three borroughs."
+  },
+  {
+    "id": 329,
+    "question_X": "Do you want to live close to a subway stop?",
+    "answer_Y": "That's a given."
+  },
+  {
+    "id": 341,
+    "question_X": "Are you thinking about moving to New York permanently ?",
+    "answer_Y": "I don't want to retire there."
+  },
+  {
+    "id": 357,
+    "question_X": "Do you mind a long subway ride?",
+    "answer_Y": "Riding the subway gives me a chance to read more."
+  },
+  {
+    "id": 361,
+    "question_X": "Do you have friends or family in New York?",
+    "answer_Y": "Most of my friends live there."
+  },
+  {
+    "id": 364,
+    "question_X": "Does it have two bedrooms?",
+    "answer_Y": "It's a studio."
+  },
+  {
+    "id": 367,
+    "question_X": "Is a basement flat okay?",
+    "answer_Y": "I need to be above ground."
+  },
+  {
+    "id": 379,
+    "question_X": "Are you interested in calling some Realtors?",
+    "answer_Y": "That'd be helpful."
+  },
+  {
+    "id": 380,
+    "question_X": "Do you think you can get a job in New York?",
+    "answer_Y": "It's a place with a lot of opportunities"
+  },
+  {
+    "id": 386,
+    "question_X": "Are you wanting to move into the capital?",
+    "answer_Y": "My first choice is Manhattan."
+  },
+  {
+    "id": 426,
+    "question_X": "Can you afford to live in New York?",
+    "answer_Y": "I need a second job."
+  },
+  {
+    "id": 453,
+    "question_X": "Will you be spending Christmas in Calgary?",
+    "answer_Y": "I'll be Naples."
+  },
+  {
+    "id": 479,
+    "question_X": "Is the neighborhood good?",
+    "answer_Y": "It's upscale with low crime."
+  },
+  {
+    "id": 527,
+    "question_X": "Have you decided which one you want?",
+    "answer_Y": "I found a flat"
+  },
+  {
+    "id": 540,
+    "question_X": "Do you intend to live in the flat ?",
+    "answer_Y": "The flat is for me and my husband."
+  },
+  {
+    "id": 587,
+    "question_X": "Are you offering the asking price?",
+    "answer_Y": "just a little below it"
+  },
+  {
+    "id": 591,
+    "question_X": "Do you have a mortgage right now?",
+    "answer_Y": "I paid my mortgage off last year."
+  },
+  {
+    "id": 619,
+    "question_X": "Would you like to have a balcony?",
+    "answer_Y": "that would be ideal"
+  },
+  {
+    "id": 642,
+    "question_X": "Are you available to move in April?",
+    "answer_Y": "I won't be able to move until July."
+  },
+  {
+    "id": 643,
+    "question_X": "Are you thinking of moving soon?",
+    "answer_Y": "As soon as possible"
+  },
+  {
+    "id": 656,
+    "question_X": "Have you decided which neighborhood you want to buy in?",
+    "answer_Y": "I'm still deciding."
+  },
+  {
+    "id": 685,
+    "question_X": "Are you offering the asking price?",
+    "answer_Y": "I asked for a move-in discount."
+  },
+  {
+    "id": 696,
+    "question_X": "Isn't it really expensive?",
+    "answer_Y": "It is more than I thought"
+  },
+  {
+    "id": 710,
+    "question_X": "Are you going to drive your car to work?",
+    "answer_Y": "That's the plan"
+  },
+  {
+    "id": 737,
+    "question_X": "Have you ever been to New York?",
+    "answer_Y": "This will be my first time."
+  },
+  {
+    "id": 738,
+    "question_X": "Does the neighborhood have a good reputation?",
+    "answer_Y": "Every website I've looked at has great reviews for the area."
+  },
+  {
+    "id": 741,
+    "question_X": "Does it have to be in the city itself?",
+    "answer_Y": "That's the plan."
+  },
+  {
+    "id": 750,
+    "question_X": "Are you looking at an expensive apartment?",
+    "answer_Y": "I need something on the cheaper side."
+  }
+]

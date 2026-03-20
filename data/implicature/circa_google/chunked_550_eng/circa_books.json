@@ -1,0 +1,277 @@
+[
+  {
+    "id": 5,
+    "question_X": "Do you like to read self-help books?",
+    "answer_Y": "I'm not a fan of them"
+  },
+  {
+    "id": 8,
+    "question_X": "Are long books your thing?",
+    "answer_Y": "I rarely read any other type of book."
+  },
+  {
+    "id": 23,
+    "question_X": "Did you buy any sci-fi books recently?",
+    "answer_Y": "I picked up two last weekend."
+  },
+  {
+    "id": 55,
+    "question_X": "Do you enjoy sci-fi books?",
+    "answer_Y": "My husband has gotten me into them."
+  },
+  {
+    "id": 76,
+    "question_X": "Was that biography that you read any good?",
+    "answer_Y": "I thought it was forgettable."
+  },
+  {
+    "id": 81,
+    "question_X": "Have you ever read horror novel books?",
+    "answer_Y": "I have read a few."
+  },
+  {
+    "id": 103,
+    "question_X": "Do you like novels based in World War 2?",
+    "answer_Y": "I love any war novels."
+  },
+  {
+    "id": 108,
+    "question_X": "Do you have a library card?",
+    "answer_Y": "I do."
+  },
+  {
+    "id": 109,
+    "question_X": "Do you prefer happy endings?",
+    "answer_Y": "I can only handle good endings."
+  },
+  {
+    "id": 129,
+    "question_X": "Are you a fan of the Harry Potter series?",
+    "answer_Y": "I wouldn't say that"
+  },
+  {
+    "id": 147,
+    "question_X": "Do you like illustrations?",
+    "answer_Y": "Pictures make a book more interesting."
+  },
+  {
+    "id": 148,
+    "question_X": "Are you into non-fiction?",
+    "answer_Y": "I enjoy true stories."
+  },
+  {
+    "id": 150,
+    "question_X": "Are you an avid reader?",
+    "answer_Y": "I read constantly."
+  },
+  {
+    "id": 160,
+    "question_X": "Do like readers digest?",
+    "answer_Y": "I've never gotten into them."
+  },
+  {
+    "id": 167,
+    "question_X": "Are you into fiction?",
+    "answer_Y": "I really am"
+  },
+  {
+    "id": 173,
+    "question_X": "Do you like books about astrology?",
+    "answer_Y": "I don't believe in that stuff."
+  },
+  {
+    "id": 176,
+    "question_X": "Are you into novels with a complicated plot?",
+    "answer_Y": "I like something simple."
+  },
+  {
+    "id": 215,
+    "question_X": "Have you ever ready Stephen King books?",
+    "answer_Y": "I read The Shining when I was a teen."
+  },
+  {
+    "id": 217,
+    "question_X": "Want to go to the library to browse?",
+    "answer_Y": "More than you know."
+  },
+  {
+    "id": 240,
+    "question_X": "Ever read any Russian literature?",
+    "answer_Y": "It always seemed to hard to read."
+  },
+  {
+    "id": 241,
+    "question_X": "Do you read alot?",
+    "answer_Y": "I try to read every evening."
+  },
+  {
+    "id": 245,
+    "question_X": "Have you been to a book reading lately?",
+    "answer_Y": "I prefer to read novels in the comfort of my own home."
+  },
+  {
+    "id": 247,
+    "question_X": "Have you read Stephen King?",
+    "answer_Y": "His writing is too scary for me."
+  },
+  {
+    "id": 284,
+    "question_X": "Are you interested in politics?",
+    "answer_Y": "I hate politics."
+  },
+  {
+    "id": 378,
+    "question_X": "Did you ever read any books by Robert Ludlum?",
+    "answer_Y": "I have not heard of Robert Ludlum"
+  },
+  {
+    "id": 385,
+    "question_X": "Enjoy reading books that make you laugh?",
+    "answer_Y": "I love it when something makes me chuckle."
+  },
+  {
+    "id": 425,
+    "question_X": "Do you like children books?",
+    "answer_Y": "I reread all my favorites at Christmas."
+  },
+  {
+    "id": 447,
+    "question_X": "Did you ever read Tolstoy in school?",
+    "answer_Y": "I read Tolstoy at home."
+  },
+  {
+    "id": 528,
+    "question_X": "Are you interested in politics?",
+    "answer_Y": "Politics have never interest me."
+  },
+  {
+    "id": 542,
+    "question_X": "Was that biography that you read any good?",
+    "answer_Y": "One of the best books ever."
+  },
+  {
+    "id": 547,
+    "question_X": "Did you read The Help?",
+    "answer_Y": "I've never heard of it."
+  },
+  {
+    "id": 559,
+    "question_X": "Ever read any Russian literature?",
+    "answer_Y": "I can't say I have"
+  },
+  {
+    "id": 573,
+    "question_X": "Are you an avid reader?",
+    "answer_Y": "I read every night before bed."
+  },
+  {
+    "id": 585,
+    "question_X": "Have you read \\\\\\\\Harry Potter\\\\\\\\\\\\?\\\\",
+    "answer_Y": "These books were a favorite in my book club."
+  },
+  {
+    "id": 593,
+    "question_X": "Are you a fan of horror books?",
+    "answer_Y": "The scarier, the better"
+  },
+  {
+    "id": 605,
+    "question_X": "Do you like books by Steven King?",
+    "answer_Y": "I prefer books by Stephen King."
+  },
+  {
+    "id": 611,
+    "question_X": "Do you like scary contents?",
+    "answer_Y": "I love horror fiction."
+  },
+  {
+    "id": 624,
+    "question_X": "Are you in to mystery books?",
+    "answer_Y": "I prefer non fiction."
+  },
+  {
+    "id": 628,
+    "question_X": "Do you prefer to hold a book?",
+    "answer_Y": "I prefer an E-reader."
+  },
+  {
+    "id": 629,
+    "question_X": "Want to lend a self help book?",
+    "answer_Y": "of course that's fine"
+  },
+  {
+    "id": 640,
+    "question_X": "Are you a fan of classics?",
+    "answer_Y": "I prefer contemporary books."
+  },
+  {
+    "id": 652,
+    "question_X": "Have you heard of the Father Brown mysteries?",
+    "answer_Y": "I am not familiar."
+  },
+  {
+    "id": 671,
+    "question_X": "Are you into novels with a complicated plot?",
+    "answer_Y": "Plot twists make most books more enjoyable."
+  },
+  {
+    "id": 697,
+    "question_X": "Do you like reading biographies?",
+    "answer_Y": "I prefer high fantasy."
+  },
+  {
+    "id": 751,
+    "question_X": "Have you ever read Dean Koontz?",
+    "answer_Y": "I have tried a few."
+  },
+  {
+    "id": 767,
+    "question_X": "Want to recommend me any non-fiction book?",
+    "answer_Y": "I have a list on my phone"
+  },
+  {
+    "id": 773,
+    "question_X": "Did you read The Help?",
+    "answer_Y": "I have never read any books by Kathryn Stockett.."
+  },
+  {
+    "id": 794,
+    "question_X": "Do you read mystery novels",
+    "answer_Y": "I'm bored by mystery novels."
+  },
+  {
+    "id": 817,
+    "question_X": "Are you looking for books that pull you in right away?",
+    "answer_Y": "I love books that get me hooked right at the start."
+  },
+  {
+    "id": 833,
+    "question_X": "Do you like novels?",
+    "answer_Y": "I like longer stories because they hold my attention."
+  },
+  {
+    "id": 838,
+    "question_X": "Do you like to read self-help books?",
+    "answer_Y": "Improving myself is my favorite thing."
+  },
+  {
+    "id": 854,
+    "question_X": "Want to go to the library to browse?",
+    "answer_Y": "thats a good idea"
+  },
+  {
+    "id": 873,
+    "question_X": "Do you follow the best sellers lists?",
+    "answer_Y": "I glance over the NYT list every week."
+  },
+  {
+    "id": 888,
+    "question_X": "Are you into biographies?",
+    "answer_Y": "I find it fascinating to read the story of someone else's life."
+  },
+  {
+    "id": 890,
+    "question_X": "Do you prefer biographies?",
+    "answer_Y": "I do not read them"
+  }
+]

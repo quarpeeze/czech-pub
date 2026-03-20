@@ -1,0 +1,552 @@
+[
+    {
+      "id": 5,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Čteš rád motivační knížky?",
+      "answer_Y_cz": "Zrovna jejich fanoušek nejsem.",
+      "direct_answer_pos": "Ano, čtu rád motivační knížky.",
+      "direct_answer_neg": "Ne, nečtu rád motivační knížky.",
+      "distractor_lexical": "Zrovna jejich názvy si hledám v online katalogu.",
+      "distractor_associative": "Motivační literatura se často zaměřuje na kariérní růst."
+    },
+    {
+      "id": 8,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Baví tě tlusté knihy?",
+      "answer_Y_cz": "Skoro žádný jiný typ knížek ani nečtu.",
+      "direct_answer_pos": "Ano, baví mě tlusté knihy.",
+      "direct_answer_neg": "Ne, nebaví mě tlusté knihy.",
+      "distractor_lexical": "Skoro žádný jiný regál v knihovně není tak plný.",
+      "distractor_associative": "Počet stran v knize často ovlivňuje její konečnou váhu."
+    },
+    {
+      "id": 23,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Koupil jsi si v poslední době nějaké sci-fi?",
+      "answer_Y_cz": "Minulý víkend jsem si dvě pořídil.",
+      "direct_answer_pos": "Ano, koupil jsem si v poslední době nějaké sci-fi.",
+      "direct_answer_neg": "Ne, nekoupil jsem si v poslední době žádné sci-fi.",
+      "distractor_lexical": "Minulý víkend jsem v jedné staré knize dlouho listoval.",
+      "distractor_associative": "Vědeckofantastické romány se často odehrávají v daleké budoucnosti."
+    },
+    {
+      "id": 55,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Baví tě sci-fi knížky?",
+      "answer_Y_cz": "Můj manžel mě k nim přivedl.",
+      "direct_answer_pos": "Ano, baví mě sci-fi knížky.",
+      "direct_answer_neg": "Ne, nebaví mě sci-fi knížky.",
+      "distractor_lexical": "Můj manžel mě do té nové knihovny včera doprovodil.",
+      "distractor_associative": "Technologický pokrok je častým tématem moderní sci-fi prózy."
+    },
+    {
+      "id": 76,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Byla ta biografie, co jsi četl, dobrá?",
+      "answer_Y_cz": "Přišla mi celkem o ničem.",
+      "direct_answer_pos": "Ano, byla dobrá.",
+      "direct_answer_neg": "Ne, nebyla dobrá.",
+      "distractor_lexical": "Přišla mi včera domů zásilka s objednanými romány.",
+      "distractor_associative": "Životopisy slavných lidí se často drží na seznamech bestsellerů."
+    },
+    {
+      "id": 81,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Četl jsi někdy nějaké horory?",
+      "answer_Y_cz": "Pár jsem jich četla.",
+      "direct_answer_pos": "Ano, četla jsem nějaké horory.",
+      "direct_answer_neg": "Ne, nikdy jsem horory nečetla.",
+      "distractor_lexical": "Pár jsem jich včera zahlédla na polici v antikvariátu.",
+      "distractor_associative": "Atmosféra strachu je v hororových knihách budována postupně."
+    },
+    {
+      "id": 103,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Máš rád romány z druhé světové války?",
+      "answer_Y_cz": "Miluju jakékoli válečné romány.",
+      "direct_answer_pos": "Ano, mám rád romány z druhé světové války.",
+      "direct_answer_neg": "Ne, nemám rád romány z druhé světové války.",
+      "distractor_lexical": "Miluju jakékoli ilustrace v historických encyklopediích.",
+      "distractor_associative": "Druhá světová válka je jedním z nejčastějších námětů beletrie."
+    },
+    {
+      "id": 108,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Máš průkazku do knihovny?",
+      "answer_Y_cz": "Mám.",
+      "direct_answer_pos": "Ano, mám průkazku do knihovny.",
+      "direct_answer_neg": "Ne, nemám průkazku do knihovny.",
+      "distractor_lexical": "Mám doma v poličce několik literárních časopisů.",
+      "distractor_associative": "Půjčování knih v knihovnách je dostupné pro širokou veřejnost."
+    },
+    {
+      "id": 109,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Dáváš přednost šťastným koncům?",
+      "answer_Y_cz": "Zvládám jenom dobré konce.",
+      "direct_answer_pos": "Ano, dávám přednost šťastným koncům.",
+      "direct_answer_neg": "Ne, nedávám přednost šťastným koncům.",
+      "distractor_lexical": "Zvládám jenom ranní listování novou sbírkou básní.",
+      "distractor_associative": "Závěry románů mohou být uzavřené nebo nechat prostor fantazii."
+    },
+    {
+      "id": 129,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Patříš mezi fanoušky Harryho Pottera?",
+      "answer_Y_cz": "To bych ani neřekl.",
+      "direct_answer_pos": "Ano, patřím mezi fanoušky Harryho Pottera.",
+      "direct_answer_neg": "Ne, nepatřím mezi fanoušky Harryho Pottera.",
+      "distractor_lexical": "To bych ani neřekl o té nové obálce prvního dílu.",
+      "distractor_associative": "Příběhy o mladém čaroději byly přeloženy do desítek jazyků."
+    },
+    {
+      "id": 147,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Máš rád ilustrace?",
+      "answer_Y_cz": "Obrázky dělají knížku zajímavější.",
+      "direct_answer_pos": "Ano, mám rád ilustrace.",
+      "direct_answer_neg": "Ne, nemám rád ilustrace.",
+      "distractor_lexical": "Dělají knížku v téhle malé prodejně hrozně drahou.",
+      "distractor_associative": "Grafické zpracování knihy hraje roli v jejím celkovém vnímání."
+    },
+    {
+      "id": 148,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Baví tě literatura faktu?",
+      "answer_Y_cz": "Mám ráda skutečné příběhy.",
+      "direct_answer_pos": "Ano, baví mě literatura faktu.",
+      "direct_answer_neg": "Ne, nebaví mě literatura faktu.",
+      "distractor_lexical": "Mám ráda, když jsou v knize uvedeny i dobové fotky.",
+      "distractor_associative": "Literatura faktu se zakládá na ověřených historických informacích."
+    },
+    {
+      "id": 150,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Jsi vášnivý čtenář?",
+      "answer_Y_cz": "Čtu v jednom kuse.",
+      "direct_answer_pos": "Ano, jsem vášnivý čtenář.",
+      "direct_answer_neg": "Ne, nejsem vášnivý čtenář.",
+      "distractor_lexical": "Čtu jména autorů na hřbetech knih v naší poličce.",
+      "distractor_associative": "Pravidelné čtení rozšiřuje slovní zásobu a zlepšuje soustředění."
+    },
+    {
+      "id": 160,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Máš rád Reader's Digest?",
+      "answer_Y_cz": "Nikdy jsem jim nepřišel na chuť.",
+      "direct_answer_pos": "Ano, mám rád Reader's Digest.",
+      "direct_answer_neg": "Ne, nemám rád Reader's Digest.",
+      "distractor_lexical": "Nikdy jsem nenašel správný klíč k té staré knihovně.",
+      "distractor_associative": "Výběry z literatury jsou vhodné pro čtenáře s málem volného času."
+    },
+    {
+      "id": 167,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Baví tě beletrie?",
+      "answer_Y_cz": "To teda jo.",
+      "direct_answer_pos": "Ano, baví mě beletrie.",
+      "direct_answer_neg": "Ne, nebaví mě beletrie.",
+      "distractor_lexical": "To teda vyjde nová kniha mého oblíbeného autora brzy.",
+      "distractor_associative": "Beletrie tvoří největší část produkce moderních nakladatelství."
+    },
+    {
+      "id": 173,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Máš rád knížky o astrologii?",
+      "answer_Y_cz": "Na tyhle věci nevěřím.",
+      "direct_answer_pos": "Ano, mám rád knížky o astrologii.",
+      "direct_answer_neg": "Ne, nemám rád knížky o astrologii.",
+      "distractor_lexical": "Na tyhle věci v knihkupectví jsem včera úplně zapomněl.",
+      "distractor_associative": "Znamení zvěrokruhu jsou základem pro tvorbu mnoha publikací."
+    },
+    {
+      "id": 176,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Baví tě romány s komplikovaným dějem?",
+      "answer_Y_cz": "Mám radši něco jednoduchého.",
+      "direct_answer_pos": "Ano, baví mě romány s komplikovaným dějem.",
+      "direct_answer_neg": "Ne, nebaví mě romány s komplikovaným dějem.",
+      "distractor_lexical": "Mám radši, když je v knize použitý větší typ písma.",
+      "distractor_associative": "Složité kompozice románů vyžadují od čtenářů zvýšenou pozornost."
+    },
+    {
+      "id": 215,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Četla jsi někdy knížky od Stephena Kinga?",
+      "answer_Y_cz": "Jako puberťačka jsem četla Osvícení.",
+      "direct_answer_pos": "Ano, četla jsem knížky od Stephena Kinga.",
+      "direct_answer_neg": "Ne, nikdy jsem knížky od Stephena Kinga nečetla.",
+      "distractor_lexical": "Jako puberťačka jsem si často prohlížela atlasy světa.",
+      "distractor_associative": "Stephen King je známý neuvěřitelnou literární produktivitou."
+    },
+    {
+      "id": 217,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Nechceš zajít do knihovny se jen tak porozhlédnout?",
+      "answer_Y_cz": "Víc, než si myslíš.",
+      "direct_answer_pos": "Ano, chci zajít do knihovny.",
+      "direct_answer_neg": "Ne, nechci zajít do knihovny.",
+      "distractor_lexical": "Víc, než si myslíš, mě včera v tom antikvariátu bolela záda.",
+      "distractor_associative": "Veřejné knihovny nabízejí tiché prostředí vhodné pro studium."
+    },
+    {
+      "id": 240,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Četl jsi někdy ruskou literaturu?",
+      "answer_Y_cz": "Vždycky se mi to zdálo hrozně těžké na čtení.",
+      "direct_answer_pos": "Ano, četl jsem ruskou literaturu.",
+      "direct_answer_neg": "Ne, nečetl jsem ruskou literaturu.",
+      "distractor_lexical": "Vždycky se mi to pletlo s tou knihou v kožené vazbě.",
+      "distractor_associative": "Autoři jako Tolstoj nebo Dostojevskij jsou pilíři světové prózy."
+    },
+    {
+      "id": 241,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Čteš hodně?",
+      "answer_Y_cz": "Snažím se číst každý večer.",
+      "direct_answer_pos": "Ano, čtu hodně.",
+      "direct_answer_neg": "Ne, nečtu hodně.",
+      "distractor_lexical": "Snažím se narovnat knihy v regálu každý týden.",
+      "distractor_associative": "Večerní čtení před spaním pomáhá mnoha lidem lépe relaxovat."
+    },
+    {
+      "id": 245,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Byl jsi v poslední době na autorském čtení?",
+      "answer_Y_cz": "Dávám přednost čtení románů v pohodlí domova.",
+      "direct_answer_pos": "Ano, byl jsem na autorském čtení.",
+      "direct_answer_neg": "Ne, nebyl jsem na autorském čtení.",
+      "distractor_lexical": "Dávám přednost nákupu knih v kamenných prodejnách.",
+      "distractor_associative": "Autorská čtení umožňují fanouškům osobní setkání se spisovateli."
+    },
+    {
+      "id": 247,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Četla jsi Stephena Kinga?",
+      "answer_Y_cz": "Jeho styl je na mě moc děsivý.",
+      "direct_answer_pos": "Ano, četla jsem Stephena Kinga.",
+      "direct_answer_neg": "Ne, nečetla jsem Stephena Kinga.",
+      "distractor_lexical": "Jeho styl psaní poznámek do marží knih je nečitelný.",
+      "distractor_associative": "Mnoho románů od Stephena Kinga bylo úspěšně zfilmováno."
+    },
+    {
+      "id": 284,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Zajímáš se o politiku?",
+      "answer_Y_cz": "Politiku nesnáším.",
+      "direct_answer_pos": "Ano, zajímám se o politiku.",
+      "direct_answer_neg": "Ne, nezajímám se o politiku.",
+      "distractor_lexical": "Politiku v historických románech málokdy vynechávám.",
+      "distractor_associative": "Knihy o politické historii pomáhají lidem pochopit současné dění."
+    },
+    {
+      "id": 378,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Četl jsi někdy nějaké knížky od Roberta Ludluma?",
+      "answer_Y_cz": "O Robertu Ludlumovi jsem nikdy neslyšel.",
+      "direct_answer_pos": "Ano, četl jsem knížky od Roberta Ludluma.",
+      "direct_answer_neg": "Ne, nečetl jsem knížky od Roberta Ludluma.",
+      "distractor_lexical": "O Robertu Ludlumovi psali v tom literárním časopise u nás.",
+      "distractor_associative": "Robert Ludlum se proslavil především svými špionážními thrillery."
+    },
+    {
+      "id": 385,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Baví tě knížky, u kterých se zasměješ?",
+      "answer_Y_cz": "Miluju, když mě něco donutí se pousmát.",
+      "direct_answer_pos": "Ano, baví mě takové knížky.",
+      "direct_answer_neg": "Ne, nebaví mě takové knížky.",
+      "distractor_lexical": "Miluju, když v knihkupectví voní čerstvě vytištěný papír.",
+      "distractor_associative": "Humoristická literatura je účinným prostředkem k odbourání stresu."
+    },
+    {
+      "id": 425,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Máš ráda dětské knížky?",
+      "answer_Y_cz": "O Vánocích si vždycky znovu přečtu všechny své oblíbené kousky.",
+      "direct_answer_pos": "Ano, mám ráda dětské knížky.",
+      "direct_answer_neg": "Ne, nemám ráda dětské knížky.",
+      "distractor_lexical": "O Vánocích si vždycky srovnám knihy podle velikosti.",
+      "distractor_associative": "Pohádky hrají klíčovou roli v rozvoji dětské představivosti a etiky."
+    },
+    {
+      "id": 447,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Četl jsi ve škole Tolstého?",
+      "answer_Y_cz": "Tolstého jsem četl doma.",
+      "direct_answer_pos": "Ano, četl jsem ho ve škole.",
+      "direct_answer_neg": "Ne, nečetl jsem ho ve škole.",
+      "distractor_lexical": "Tolstého jméno se objevuje na hřbetu téhle tlusté knihy.",
+      "distractor_associative": "Povinná školní četba bývá pro studenty zdrojem kontaktu s klasikou."
+    },
+    {
+      "id": 528,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Zajímáš se o politiku?",
+      "answer_Y_cz": "Politika mě nikdy nezajímala.",
+      "direct_answer_pos": "Ano, zajímám se o politiku.",
+      "direct_answer_neg": "Ne, nezajímám se o politiku.",
+      "distractor_lexical": "Politika se v téhle detektivce vůbec neřeší.",
+      "distractor_associative": "Knihy o politické teorii jsou často studovány na vysokých školách."
+    },
+    {
+      "id": 542,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Byla ta biografie, co jsi četl, dobrá?",
+      "answer_Y_cz": "Jedna z nejlepších knížek, co jsem kdy četl.",
+      "direct_answer_pos": "Ano, byla dobrá.",
+      "direct_answer_neg": "Ne, nebyla dobrá.",
+      "distractor_lexical": "Jedna z nejlepších věcí na knihách je jejich nezaměnitelná vůně.",
+      "distractor_associative": "Psaní životopisů vyžaduje roky důkladného historického výzkumu."
+    },
+    {
+      "id": 547,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Četl jsi Černobílý svět?",
+      "answer_Y_cz": "O tom jsem nikdy neslyšel.",
+      "direct_answer_pos": "Ano, četl jsem ho.",
+      "direct_answer_neg": "Ne, nečetl jsem ho.",
+      "distractor_lexical": "O tom starém vydání jsem včera mluvil s knihovnicí.",
+      "distractor_associative": "Román Černobílý svět se odehrává v americkém Mississippi v 60. letech."
+    },
+    {
+      "id": 559,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Četla jsi někdy ruskou literaturu?",
+      "answer_Y_cz": "To nemůžu říct, že bych četla.",
+      "direct_answer_pos": "Ano, četla jsem ruskou literaturu.",
+      "direct_answer_neg": "Ne, nečetla jsem ruskou literaturu.",
+      "distractor_lexical": "To nemůžu najít v té hromadě nepřečtených časopisů.",
+      "distractor_associative": "Ruská klasika je často součástí studijních plánů na fakultách."
+    },
+    {
+      "id": 573,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Jsi vášnivý čtenář?",
+      "answer_Y_cz": "Čtu každý večer před spaním.",
+      "direct_answer_pos": "Ano, jsem vášnivý čtenář.",
+      "direct_answer_neg": "Ne, nejsem vášnivý čtenář.",
+      "distractor_lexical": "Čtu každý čtvrtek seznam novinek v našem knihkupectví.",
+      "distractor_associative": "Dostupnost elektronických knih změnila návyky moderních čtenářů."
+    },
+    {
+      "id": 585,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Četla jsi Harryho Pottera?",
+      "answer_Y_cz": "Tyhle knížky byly v mém čtenářském klubu nejoblíbenější.",
+      "direct_answer_pos": "Ano, četla jsem ho.",
+      "direct_answer_neg": "Ne, nečetla jsem ho.",
+      "distractor_lexical": "Tyhle knížky v naší poličce potřebují co nejdříve utřít.",
+      "distractor_associative": "Čtenářské kluby jsou skvělým místem pro sdílení dojmů z literatury."
+    },
+    {
+      "id": 593,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Fandíš hororům?",
+      "answer_Y_cz": "Čím děsivější, tím lepší.",
+      "direct_answer_pos": "Ano, fandím hororům.",
+      "direct_answer_neg": "Ne, nefandím hororům.",
+      "distractor_lexical": "Čím starší je ta kniha, tím opatrněji ji musím otevírat.",
+      "distractor_associative": "Hororové příběhy se snaží vyvolat pocit napětí a strachu u čtenáře."
+    },
+    {
+      "id": 605,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Máš rád knížky od Stevena Kinga?",
+      "answer_Y_cz": "Dávám přednost knížkám od Stephena Kinga.",
+      "direct_answer_pos": "Ano, mám rád jeho knížky.",
+      "direct_answer_neg": "Ne, nemám rád jeho knížky.",
+      "distractor_lexical": "Dávám přednost knihám v brožované vazbě před těmi v pevné.",
+      "distractor_associative": "Stephen King je známý svou neuvěřitelnou literární produktivitou."
+    },
+    {
+      "id": 611,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Máš ráda strašidelné věci?",
+      "answer_Y_cz": "Miluju horory.",
+      "direct_answer_pos": "Ano, mám ráda strašidelné věci.",
+      "direct_answer_neg": "Ne, nemám ráda strašidelné věci.",
+      "distractor_lexical": "Miluju, když v knihkupectví narazím na knihu, kterou hledám.",
+      "distractor_associative": "Pocit strachu při čtení vyvolává v těle specifické reakce."
+    },
+    {
+      "id": 624,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Baví tě detektivky?",
+      "answer_Y_cz": "Mám radši literaturu faktu.",
+      "direct_answer_pos": "Ano, baví mě detektivky.",
+      "direct_answer_neg": "Ne, nebaví mě detektivky.",
+      "distractor_lexical": "Mám radši, když jsou v knize široké okraje pro poznámky.",
+      "distractor_associative": "Detektivní romány se často soustředí na logické řešení zločinu."
+    },
+    {
+      "id": 628,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Držíš radši knihu v ruce?",
+      "answer_Y_cz": "Dávám přednost čtečce.",
+      "direct_answer_pos": "Ano, držím radši knihu v ruce.",
+      "direct_answer_neg": "Ne, nedržím radši knihu v ruce.",
+      "distractor_lexical": "Dávám přednost nákupu knih v kamenných prodejnách než online.",
+      "distractor_associative": "Elektronické čtečky využívají technologii elektronického inkoustu."
+    },
+    {
+      "id": 629,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Půjčíš mi nějakou motivační knížku?",
+      "answer_Y_cz": "Jasně, to není problém.",
+      "direct_answer_pos": "Ano, půjčím ti ji.",
+      "direct_answer_neg": "Ne, nepůjčím ti ji.",
+      "distractor_lexical": "Jasně, to by se v téhle nové knihovně dalo snadno najít.",
+      "distractor_associative": "Půjčování knih mezi přáteli je v české kultuře velmi běžné."
+    },
+    {
+      "id": 640,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Fandíš klasice?",
+      "answer_Y_cz": "Mám radši současné knížky.",
+      "direct_answer_pos": "Ano, fandím klasice.",
+      "direct_answer_neg": "Ne, nefandím klasice.",
+      "distractor_lexical": "Mám radši, když má kniha moderní a minimalistickou obálku.",
+      "distractor_associative": "Klasická díla jsou považována za pilíře národní kultury a vzdělanosti."
+    },
+    {
+      "id": 652,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Slyšela jsi o detektivkách s otcem Brownem?",
+      "answer_Y_cz": "Ty neznám.",
+      "direct_answer_pos": "Ano, slyšela jsem o nich.",
+      "direct_answer_neg": "Ne, neslyšela jsem o nich.",
+      "distractor_lexical": "Ty včerejší noviny jsem si v knihovně nestihla prolistovat.",
+      "distractor_associative": "Postavu otce Browna vytvořil britský spisovatel G. K. Chesterton."
+    },
+    {
+      "id": 671,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Baví tě romány s komplikovaným dějem?",
+      "answer_Y_cz": "Díky nečekaným zvratům mě většina knížek baví víc.",
+      "direct_answer_pos": "Ano, baví mě.",
+      "direct_answer_neg": "Ne, nebaví mě.",
+      "distractor_lexical": "Většina knížek v naší školní knihovně má modrou vazbu.",
+      "distractor_associative": "Dějové zvraty jsou klíčovým prvkem pro udržení pozornosti čtenáře."
+    },
+    {
+      "id": 697,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Čteš rád biografie?",
+      "answer_Y_cz": "Mám radši high fantasy.",
+      "direct_answer_pos": "Ano, čtu rád biografie.",
+      "direct_answer_neg": "Ne, nečtu rád biografie.",
+      "distractor_lexical": "Mám radši, když jsou v knize přehledné mapy nových světů.",
+      "distractor_associative": "High fantasy se vyznačuje budováním zcela nových komplexních světů."
+    },
+    {
+      "id": 751,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Četl jsi někdy Deana Koontze?",
+      "answer_Y_cz": "Pár jsem jich zkusil.",
+      "direct_answer_pos": "Ano, četl jsem ho.",
+      "direct_answer_neg": "Ne, nikdy jsem ho nečetl.",
+      "distractor_lexical": "Pár jsem jich včera zapomněl při odchodu z knihovny na stole.",
+      "distractor_associative": "Dean Koontz je autorem mnoha thrillerů s prvky hororu a sci-fi."
+    },
+    {
+      "id": 767,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Doporučíš mi nějakou literaturu faktu?",
+      "answer_Y_cz": "Mám v telefonu seznam.",
+      "direct_answer_pos": "Ano, doporučím ti nějakou.",
+      "direct_answer_neg": "Ne, nedoporučím ti žádnou.",
+      "distractor_lexical": "Mám v kapse klíče od naší staré rodinné knihovny.",
+      "distractor_associative": "Moderní aplikace umožňují vést si digitální deníky přečtených knih."
+    },
+    {
+      "id": 773,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Četla jsi Černobílý svět?",
+      "answer_Y_cz": "Od Kathryn Stockettové jsem nikdy nic nečetla.",
+      "direct_answer_pos": "Ano, četla jsem ho.",
+      "direct_answer_neg": "Ne, nečetla jsem ho.",
+      "distractor_lexical": "Od Kathryn Stockettové jména se mi v antikvariátu nic nevybavilo.",
+      "distractor_associative": "Kniha Černobílý svět se zabývá rasovými problémy na americkém jihu."
+    },
+    {
+      "id": 794,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Čteš detektivky?",
+      "answer_Y_cz": "Detektivky mě nudí.",
+      "direct_answer_pos": "Ano, čtu detektivky.",
+      "direct_answer_neg": "Ne, nečtu detektivky.",
+      "distractor_lexical": "Detektivky se v naší ulici včera vyprodaly hned ráno.",
+      "distractor_associative": "Severská krimi se v posledním desetiletí stala velmi populární."
+    },
+    {
+      "id": 817,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Hledáš knížky, co tě hned vtáhnou do děje?",
+      "answer_Y_cz": "Miluju knížky, co mě chytnou hned na začátku.",
+      "direct_answer_pos": "Ano, hledám takové knížky.",
+      "direct_answer_neg": "Ne, nehledám takové knížky.",
+      "distractor_lexical": "Miluju, když v knize narazím na zajímavý citát o přátelství.",
+      "distractor_associative": "Hned první kapitola románu je pro udržení pozornosti čtenáře klíčová."
+    },
+    {
+      "id": 833,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Máš rád romány?",
+      "answer_Y_cz": "Mám rád delší příběhy, protože mě dokážou udržet v napětí.",
+      "direct_answer_pos": "Ano, mám rád romány.",
+      "direct_answer_neg": "Ne, nemám rád romány.",
+      "distractor_lexical": "Mám rád delší úvody v odborných publikacích o historii umění.",
+      "distractor_associative": "Délka románu umožňuje hluboký rozvoj psychologie postav."
+    },
+    {
+      "id": 838,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Čteš ráda motivační knížky?",
+      "answer_Y_cz": "Práce na sobě je moje nejoblíbenější činnost.",
+      "direct_answer_pos": "Ano, čtu je ráda.",
+      "direct_answer_neg": "Ne, nečtu je ráda.",
+      "distractor_lexical": "Práce v tomhle zapadlém knihkupectví mě včera stála hodně sil.",
+      "distractor_associative": "Mnoho motivačních knih čerpá inspiraci ze starověké filozofie."
+    },
+    {
+      "id": 854,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Nechceš zajít do knihovny se jen tak porozhlédnout?",
+      "answer_Y_cz": "To je dobrý nápad.",
+      "direct_answer_pos": "Ano, chci zajít do knihovny.",
+      "direct_answer_neg": "Ne, nechci zajít do knihovny.",
+      "distractor_lexical": "To je nové vydání té encyklopedie, co vyšlo minulý týden.",
+      "distractor_associative": "Městské knihovny nabízejí tiché prostředí vhodné pro studium."
+    },
+    {
+      "id": 873,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Sleduješ žebříčky bestsellerů?",
+      "answer_Y_cz": "Každý týden projíždím seznam New York Times.",
+      "direct_answer_pos": "Ano, sleduju je.",
+      "direct_answer_neg": "Ne, nesleduju je.",
+      "distractor_lexical": "Každý týden projíždím v autě přes naše staré náměstí.",
+      "distractor_associative": "Komerční úspěch díla nemusí vždy vypovídat o jeho umělecké kvalitě."
+    },
+    {
+      "id": 888,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Baví tě biografie?",
+      "answer_Y_cz": "Přijde mi fascinující číst životní příběh někoho jiného.",
+      "direct_answer_pos": "Ano, baví mě.",
+      "direct_answer_neg": "Ne, nebaví mě.",
+      "distractor_lexical": "Přijde mi zbytečné schovávat všechny ty staré reklamní letáky.",
+      "distractor_associative": "V životopisech se často objevují dříve nepublikované fotografie."
+    },
+    {
+      "id": 890,
+      "context_cz": "X chce vědět, jaké knížky Y rád čte.",
+      "question_X_cz": "Dáváš přednost biografiím?",
+      "answer_Y_cz": "Ty nečtu.",
+      "direct_answer_pos": "Ano, dávám přednost biografiím.",
+      "direct_answer_neg": "Ne, nedávám přednost biografiím.",
+      "distractor_lexical": "Ty věci v mém šuplíku s knihami včera někdo přerovnal.",
+      "distractor_associative": "Čtenáři životopisů často hledají inspiraci pro vlastní cestu."
+    }
+  ]

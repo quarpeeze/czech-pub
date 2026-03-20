@@ -1,0 +1,387 @@
+[
+    {
+      "id": 28,
+      "question_X": "Do you like to BBQ?",
+      "answer_Y": "I love to bbq",
+      "question_X_cz": "Grilujete rád?",
+      "answer_Y_cz": "Grilování úplně miluju."
+    },
+    {
+      "id": 42,
+      "question_X": "Have you met the other neighbors?",
+      "answer_Y": "I have met a few of them",
+      "question_X_cz": "Už jste potkal ostatní sousedy?",
+      "answer_Y_cz": "S pár z nich už jsem se seznámil."
+    },
+    {
+      "id": 59,
+      "question_X": "Are you new in town?",
+      "answer_Y": "I've just got here.",
+      "question_X_cz": "Jste ve městě nový?",
+      "answer_Y_cz": "Zrovna jsem se přistěhoval."
+    },
+    {
+      "id": 75,
+      "question_X": "Are you new to this city?",
+      "answer_Y": "I've been here all my life.",
+      "question_X_cz": "Jste v tomto městě nový?",
+      "answer_Y_cz": "Bydlím tu celý svůj život."
+    },
+    {
+      "id": 96,
+      "question_X": "Want to go to the park?",
+      "answer_Y": "I don't have time at the moment.",
+      "question_X_cz": "Nechcete zajít do parku?",
+      "answer_Y_cz": "Teď zrovna nemám čas."
+    },
+    {
+      "id": 99,
+      "question_X": "Do you have any kids?",
+      "answer_Y": "My daughter just turned six.",
+      "question_X_cz": "Máte děti?",
+      "answer_Y_cz": "Moje dcera zrovna oslavila šesté narozeniny."
+    },
+    {
+      "id": 119,
+      "question_X": "Do you own a pet?",
+      "answer_Y": "My dog is my best friend.",
+      "question_X_cz": "Máte nějakého domácího mazlíčka?",
+      "answer_Y_cz": "Můj pes je můj nejlepší přítel."
+    },
+    {
+      "id": 202,
+      "question_X": "Have you lived in this area long?",
+      "answer_Y": "Several of my neighbors remember me in diapers.",
+      "question_X_cz": "Bydlíte v této čtvrti dlouho?",
+      "answer_Y_cz": "Několik sousedů si mě tu pamatuje ještě v plenkách."
+    },
+    {
+      "id": 214,
+      "question_X": "Have you been to the cinema lately?",
+      "answer_Y": "I haven't been for a few weeks",
+      "question_X_cz": "Byl jste v poslední době v kině?",
+      "answer_Y_cz": "Pár týdnů jsem tam nebyl."
+    },
+    {
+      "id": 224,
+      "question_X": "Do you like horror movies?",
+      "answer_Y": "Oh I love scary movies.",
+      "question_X_cz": "Máte ráda horory?",
+      "answer_Y_cz": "Strašidelné filmy naprosto zbožňuju."
+    },
+    {
+      "id": 226,
+      "question_X": "Do you like the neighborhood so far",
+      "answer_Y": "I think its great",
+      "question_X_cz": "Jak se vám tu u nás zatím líbí?",
+      "answer_Y_cz": "Myslím, že je to tu skvělé."
+    },
+    {
+      "id": 244,
+      "question_X": "Do you enjoy mowing the lawn?",
+      "answer_Y": "It's very zen.",
+      "question_X_cz": "Baví vás sekat trávník?",
+      "answer_Y_cz": "Je to pro mě takový zen."
+    },
+    {
+      "id": 246,
+      "question_X": "Do you work close?",
+      "answer_Y": "Quite close",
+      "question_X_cz": "Pracujete někde poblíž?",
+      "answer_Y_cz": "Docela blízko."
+    },
+    {
+      "id": 271,
+      "question_X": "Are community gatherings important?",
+      "answer_Y": "I don't usually go to them.",
+      "question_X_cz": "Jsou pro vás sousedská setkání důležitá?",
+      "answer_Y_cz": "Většinou na ně nechodím."
+    },
+    {
+      "id": 275,
+      "question_X": "Are you enjoying living here?",
+      "answer_Y": "It has been an enjoyable experience so far",
+      "question_X_cz": "Líbí se vám tu u nás?",
+      "answer_Y_cz": "Zatím je to velmi příjemná zkušenost."
+    },
+    {
+      "id": 283,
+      "question_X": "Are you enjoying the neighborhood?",
+      "answer_Y": "It seems nice so far",
+      "question_X_cz": "Líbí se vám v této čtvrti?",
+      "answer_Y_cz": "Zatím to vypadá moc fajn."
+    },
+    {
+      "id": 310,
+      "question_X": "Are you a traveler?",
+      "answer_Y": "I've never been outside the state of Virginia.",
+      "question_X_cz": "Cestujete rád?",
+      "answer_Y_cz": "Nikdy jsem nebyl za hranicemi Virginie."
+    },
+    {
+      "id": 315,
+      "question_X": "Do you like to have family in town?",
+      "answer_Y": "It's nice having them nearby.",
+      "question_X_cz": "Máte rád rodinu nablízku ve městě?",
+      "answer_Y_cz": "Je fajn mít je kousek od sebe."
+    },
+    {
+      "id": 345,
+      "question_X": "Do you work in town?",
+      "answer_Y": "I work at the city high school.",
+      "question_X_cz": "Pracujete tady ve městě?",
+      "answer_Y_cz": "Pracuju na městské střední škole."
+    },
+    {
+      "id": 373,
+      "question_X": "Are you new to the area?",
+      "answer_Y": "I've lived here forever.",
+      "question_X_cz": "Jste tu v okolí nový?",
+      "answer_Y_cz": "Bydlím tu odjakživa."
+    },
+    {
+      "id": 376,
+      "question_X": "Do you know anyone in the area?",
+      "answer_Y": "I've met a few co-workers.",
+      "question_X_cz": "Znáte tu v okolí někoho?",
+      "answer_Y_cz": "Seznámil jsem se s pár kolegy z práce."
+    },
+    {
+      "id": 394,
+      "question_X": "Do you mind hearing music from time to time?",
+      "answer_Y": "I listen to it all the time.",
+      "question_X_cz": "Vadilo by vám, kdyby byla občas slyšet hudba?",
+      "answer_Y_cz": "Já ji poslouchám v jednom kuse."
+    },
+    {
+      "id": 406,
+      "question_X": "Are you from this city?",
+      "answer_Y": "I moved here from the counrty",
+      "question_X_cz": "Pocházíte z tohoto města?",
+      "answer_Y_cz": "Přistěhoval jsem se z venkova."
+    },
+    {
+      "id": 436,
+      "question_X": "Did you move here recently?",
+      "answer_Y": "I just bought my place last month.",
+      "question_X_cz": "Přistěhoval jste se nedávno?",
+      "answer_Y_cz": "Zrovna minulý měsíc jsem si tu koupil dům."
+    },
+    {
+      "id": 461,
+      "question_X": "Are you into music?",
+      "answer_Y": "I love my music",
+      "question_X_cz": "Máte ráda hudbu?",
+      "answer_Y_cz": "Hudbu naprosto miluju."
+    },
+    {
+      "id": 470,
+      "question_X": "Do you have pets?",
+      "answer_Y": "I love my dog, and my cat equally.",
+      "question_X_cz": "Máte nějaká zvířata?",
+      "answer_Y_cz": "Svého psa i kočku mám rád úplně stejně."
+    },
+    {
+      "id": 471,
+      "question_X": "Do you like to BBQ?",
+      "answer_Y": "I'm vegan.",
+      "question_X_cz": "Grilujete rád?",
+      "answer_Y_cz": "Jsem vegan."
+    },
+    {
+      "id": 476,
+      "question_X": "Do you have a lot of hobbies?",
+      "answer_Y": "I prefer do stick to one thing I'm good at.",
+      "question_X_cz": "Máte hodně koníčků?",
+      "answer_Y_cz": "Raději se držím jedné věci, která mi jde."
+    },
+    {
+      "id": 510,
+      "question_X": "Did you buy the 2 story victorian",
+      "answer_Y": "I don't know who bought that one but it was't me.",
+      "question_X_cz": "Koupil jste ten dvoupatrový viktoriánský dům?",
+      "answer_Y_cz": "Nevím, kdo ho koupil, ale já to nebyl."
+    },
+    {
+      "id": 554,
+      "question_X": "Do you like to watch movies?",
+      "answer_Y": "I frequently go the cinema nearby.",
+      "question_X_cz": "Díváte se rád na filmy?",
+      "answer_Y_cz": "Často chodím do kina tady kousek."
+    },
+    {
+      "id": 556,
+      "question_X": "Are you from this city?",
+      "answer_Y": "I grew up here.",
+      "question_X_cz": "Pocházíte z tohoto města?",
+      "answer_Y_cz": "Vyrostl jsem tady."
+    },
+    {
+      "id": 586,
+      "question_X": "Do you have friends that live around here?",
+      "answer_Y": "A few.",
+      "question_X_cz": "Máte tu v okolí nějaké přátele?",
+      "answer_Y_cz": "Pár jich tu je."
+    },
+    {
+      "id": 589,
+      "question_X": "Do you have family from around here?",
+      "answer_Y": "My siblings live close by.",
+      "question_X_cz": "Máte odsud odněkud rodinu?",
+      "answer_Y_cz": "Sourozenci bydlí kousek odsud."
+    },
+    {
+      "id": 594,
+      "question_X": "Do you work in the area?",
+      "answer_Y": "I work pretty close to here.",
+      "question_X_cz": "Pracujete tady v okolí?",
+      "answer_Y_cz": "Pracuju docela kousek odsud."
+    },
+    {
+      "id": 601,
+      "question_X": "Have you lived here long?",
+      "answer_Y": "only a few months",
+      "question_X_cz": "Bydlíte tu už dlouho?",
+      "answer_Y_cz": "Jenom pár měsíců."
+    },
+    {
+      "id": 610,
+      "question_X": "Have you moved from out of town?",
+      "answer_Y": "I moved in from the next town over.",
+      "question_X_cz": "Přistěhoval jste se z jiného města?",
+      "answer_Y_cz": "Přistěhoval jsem se z vedlejšího města."
+    },
+    {
+      "id": 614,
+      "question_X": "Are you into music?",
+      "answer_Y": "I play the saxophone.",
+      "question_X_cz": "Baví vás hudba?",
+      "answer_Y_cz": "Hraju na saxofon."
+    },
+    {
+      "id": 618,
+      "question_X": "Are you new to Austin?",
+      "answer_Y": "Just moved from Dallas.",
+      "question_X_cz": "Jste v Austinu nový?",
+      "answer_Y_cz": "Zrovna jsem se přistěhoval z Dallasu."
+    },
+    {
+      "id": 622,
+      "question_X": "Would you like to come around for dinner?",
+      "answer_Y": "That sounds lovely.",
+      "question_X_cz": "Nechtěla byste někdy přijít na večeři?",
+      "answer_Y_cz": "To zní moc hezky."
+    },
+    {
+      "id": 639,
+      "question_X": "Are you new in the neighborhood?",
+      "answer_Y": "We've been here 2 years now.",
+      "question_X_cz": "Jste u nás ve čtvrti noví?",
+      "answer_Y_cz": "Bydlíme tu už dva roky."
+    },
+    {
+      "id": 650,
+      "question_X": "Is the beach a place you like to go?",
+      "answer_Y": "I love the outdoors",
+      "question_X_cz": "Chodíte ráda na pláž?",
+      "answer_Y_cz": "Miluju pobyt venku v přírodě."
+    },
+    {
+      "id": 661,
+      "question_X": "Did you transfer for work?",
+      "answer_Y": "I moved to be closer to family.",
+      "question_X_cz": "Přeložili vás kvůli práci?",
+      "answer_Y_cz": "Stěhoval jsem se, abych byl blíž rodině."
+    },
+    {
+      "id": 680,
+      "question_X": "Have you lived in the building long?",
+      "answer_Y": "About a month now.",
+      "question_X_cz": "Bydlíte v domě už dlouho?",
+      "answer_Y_cz": "Zatím asi měsíc."
+    },
+    {
+      "id": 691,
+      "question_X": "Are there young families in this neighborhood?",
+      "answer_Y": "There are quite a lot of young families in the neighbourhood",
+      "question_X_cz": "Bydlí v této čtvrti nějaké mladé rodiny?",
+      "answer_Y_cz": "Mladých rodin je u nás ve čtvrti docela dost."
+    },
+    {
+      "id": 702,
+      "question_X": "Have you been to the cinema lately?",
+      "answer_Y": "It's been years since I've been out to see a movie at the theatre.",
+      "question_X_cz": "Byl jste v poslední době v kině?",
+      "answer_Y_cz": "Na filmu v kině jsem nebyl už celá léta."
+    },
+    {
+      "id": 731,
+      "question_X": "Have you ever been to a different country?",
+      "answer_Y": "I've been tho three countries.",
+      "question_X_cz": "Byl jste někdy v jiné zemi?",
+      "answer_Y_cz": "Navštívil jsem tři různé země."
+    },
+    {
+      "id": 745,
+      "question_X": "Have you been to this area before?",
+      "answer_Y": "Just when we were checking out the place.",
+      "question_X_cz": "Byl jste v této oblasti už dřív?",
+      "answer_Y_cz": "Jen když jsme si to tu byli obhlédnout."
+    },
+    {
+      "id": 747,
+      "question_X": "Do you have a spouse/significant other?",
+      "answer_Y": "I've been married to my wife for five years.",
+      "question_X_cz": "Máte manželku nebo partnerku?",
+      "answer_Y_cz": "Se svou ženou jsem ženatý už pět let."
+    },
+    {
+      "id": 749,
+      "question_X": "Did you get the pool key?",
+      "answer_Y": "I need to ask for it.",
+      "question_X_cz": "Už jste dostal klíč od bazénu?",
+      "answer_Y_cz": "Budu si o něj muset říct."
+    },
+    {
+      "id": 782,
+      "question_X": "Have you been downtown yet?",
+      "answer_Y": "We haven't explored much yet.",
+      "question_X_cz": "Už jste byli v centru?",
+      "answer_Y_cz": "Zatím jsme toho moc neprozkoumali."
+    },
+    {
+      "id": 797,
+      "question_X": "Do you like in arts?",
+      "answer_Y": "I'm an illustrator.",
+      "question_X_cz": "Máte ráda umění?",
+      "answer_Y_cz": "Pracuju jako ilustrátorka."
+    },
+    {
+      "id": 806,
+      "question_X": "Do you ever smoke?",
+      "answer_Y": "I quit before my son was born.",
+      "question_X_cz": "Kouříte někdy?",
+      "answer_Y_cz": "Přestal jsem ještě předtím, než se narodil syn."
+    },
+    {
+      "id": 813,
+      "question_X": "Have you traveled out of the country?",
+      "answer_Y": "I own a place in Mexico.",
+      "question_X_cz": "Cestoval jste už mimo republiku?",
+      "answer_Y_cz": "Vlastním nemovitost v Mexiku."
+    },
+    {
+      "id": 816,
+      "question_X": "Do you like in arts?",
+      "answer_Y": "I don't know what I would do without artists and art in my life.",
+      "question_X_cz": "Zajímáte se o umění?",
+      "answer_Y_cz": "Vůbec nevím, co bych si v životě bez umělců a umění počala."
+    },
+    {
+      "id": 832,
+      "question_X": "Do you have any children?",
+      "answer_Y": "The husband and I are waiting till we can afford our own place.",
+      "question_X_cz": "Máte nějaké děti?",
+      "answer_Y_cz": "S manželem čekáme, až si budeme moct dovolit vlastní bydlení."
+    }
+  ]

@@ -1,0 +1,1502 @@
+[
+    {
+      "id": "presupposition-counterfactual-1",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluvčí mluví s Mabel o starším příbuzném, od kterého nedávno dostala dopis.",
+      "utterance": "Mluvčí: A i kdyby byl umřel, nemohl by mi odkázat balík, neboť žije z penze a jinak nemá ani floka.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Ten starší příbuzný neumřel.",
+        "presupposition_paraphrased": "Ten starší příbuzný pořád žije.",
+        "DistractorNegation": "Ten starší příbuzný umřel.",
+        "DistractorLexicalEdit": "Ten starší příbuzný neodcestoval do daleké ciziny.",
+        "DistractorAssociative0": "Ten starší příbuzný posílá dopisy své rodině každých čtrnáct dní."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-2",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Jane a Samuel spolu mluví o Eustaceovi a o tom, jaký k němu mají vztah.",
+      "utterance": "Jane: „Kdybych byla věděla, že máte tak rád Eustaceho...“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Jane nevěděla, že Samuel má tak rád Eustaceho.",
+        "presupposition_paraphrased": "Jane nevěděla, že má Samuel Eustaceho tak rád.",
+        "DistractorNegation": "Jane věděla, že Samuel má tak rád Eustaceho.",
+        "DistractorLexicalEdit": "Jane nevěděla, že Samuel má tak rád historické romány.",
+        "DistractorAssociative0": "Jane si se Samuelem často povídala o svých společných známých."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-3",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Ring přemýšlí o napjaté situaci kolem stanu a o tom, jak se zachovala žena, která je s ním.",
+      "utterance": "Mluvčí: Ring si uvědomil, že kdyby mu byla dovolila vejít, nepřipravenému na útok, možná by už nebyl mezi živými.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Ta žena mu nedovolila vejít.",
+        "presupposition_paraphrased": "Ta žena ho nepustila dovnitř.",
+        "DistractorNegation": "Ta žena mu dovolila vejít.",
+        "DistractorLexicalEdit": "Ta žena mu nedovolila zapálit v noci ohniště.",
+        "DistractorAssociative0": "Ta žena stála před stanem a bedlivě pozorovala okolní les."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-4",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Advokát rozrušeně mluví o událostech při soudním jednání.",
+      "utterance": "Advokát: „Ujišťuju vás, že kdybych tam byl zůstal, donutil bych tu bláznivou ženskou vyplivnout ten kousek mýdla, co si dala do úst.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Advokát tam nezůstal.",
+        "presupposition_paraphrased": "Advokát tam tehdy nezůstal.",
+        "DistractorNegation": "Advokát tam zůstal.",
+        "DistractorLexicalEdit": "Advokát tam nepřišel v doprovodu své asistentky.",
+        "DistractorAssociative0": "Advokát bedlivě sledoval reakce všech přítomných v soudní síni."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-5",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "V místnosti probíhá vyhrocená hádka a jeden muž je terčem výčitek ostatních.",
+      "utterance": "Mluvčí: „Kdybyste byl mlčel, nic se nestalo!“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Obviňovaný muž nemlčel.",
+        "presupposition_paraphrased": "Ten muž tehdy nemlčel.",
+        "DistractorNegation": "Obviňovaný muž mlčel.",
+        "DistractorLexicalEdit": "Obviňovaný muž neprotestoval proti nespravedlivému rozsudku.",
+        "DistractorAssociative0": "Obviňovaný muž se snažil vysvětlit svůj názor na politiku lidem."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-6",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Muž se hádá s rektorem a líčí mu, co se mohlo stát.",
+      "utterance": "Mluvčí: Kdyby Cobbett nebyl odmítl Slythursta poslechnout a nenechal doručit naléhavý vzkaz siru Philipovi, byl bych nyní mrtvý stejně jako vaše dcera!",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Cobbett odmítl Slythursta poslechnout a nenechal doručit naléhavý vzkaz siru Philipovi.",
+        "presupposition_paraphrased": "Cobbett Slythursta neposlechl a ten vzkaz siru Philipovi neposlal.",
+        "DistractorNegation": "Cobbett neodmítl Slythursta poslechnout a nechal doručit naléhavý vzkaz siru Philipovi.",
+        "DistractorLexicalEdit": "Cobbett odmítl Slythursta ubytovat v jednom ze svých hostinských pokojů.",
+        "DistractorAssociative0": "Cobbett pracoval u sira Philipa jako věrný správce celého panství."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-7",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Neznámá žena osloví muže v domě a omlouvá se, že ho ruší.",
+      "utterance": "Žena: Kdybych byla věděla, že odjíždíte, přišla bych samozřejmě dřív, ale řekli mi, že někdo v tomhle domě je snad přítel mého otce, jehož jsem měla navštívit…",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Žena nevěděla, že ten muž odjíždí.",
+        "presupposition_paraphrased": "Ta žena nevěděla, že ten muž odjíždí.",
+        "DistractorNegation": "Žena věděla, že ten muž odjíždí.",
+        "DistractorLexicalEdit": "Žena nevěděla, že ten muž vlastní tenhle starý dům.",
+        "DistractorAssociative0": "Žena chtěla navštívit starého přítele svého otce po mnoha letech."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": "v oslovení je plurál; v presuppozici zjednodušeno na jednoho adresáta"
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-8",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Scott vede spor o to, jestli se události mohly vyvinout jinak.",
+      "utterance": "Scott: Všechno tohle se mohlo stát, i kdyby byl vzal svou rodinu do Kanady s sebou.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Dotyčný muž nevzal svou rodinu do Kanady s sebou.",
+        "presupposition_paraphrased": "Ten muž s sebou rodinu do Kanady nevzal.",
+        "DistractorNegation": "Dotyčný muž vzal svou rodinu do Kanady s sebou.",
+        "DistractorLexicalEdit": "Dotyčný muž nevzal své osobní dokumenty do Kanady s sebou.",
+        "DistractorAssociative0": "Dotyčný muž uvažoval o emigraci do Kanady už velmi dlouhou dobu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-9",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Baron mluví s mužem v napjaté situaci a upozorňuje ho na možné následky.",
+      "utterance": "Baron: Chápeš, že kdyby tě byli chytili, nebo kdybys tam nechal nějaký důkaz o účasti Harkonnenů, namočíme se do příšerné krize?",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Ten muž nebyl chycen.",
+        "presupposition_paraphrased": "Toho muže tehdy nechytili.",
+        "DistractorNegation": "Ten muž byl chycen.",
+        "DistractorLexicalEdit": "Ten muž nebyl zraněn při pronikání do baronova paláce.",
+        "DistractorAssociative0": "Ten muž se snažil zamaskovat všechny stopy svého nočního útěku."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": "antecedent je koordinovaný; negace je zjednodušená"
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-10",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Žena v rozhovoru s vypravěčem vzpomíná na komplikovaný vztah se svým bývalým mužem.",
+      "utterance": "Žena: „Kdyby byl nezmizel, stejně bychom se rozešli.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Ten muž zmizel.",
+        "presupposition_paraphrased": "Ten muž tehdy zmizel.",
+        "DistractorNegation": "Ten muž nezmizel.",
+        "DistractorLexicalEdit": "Ten muž tehdy nečekaně zbohatl.",
+        "DistractorAssociative0": "Ten muž zemřel kvůli ženě."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-11",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Rodič vyčítá dítěti, že neuposlechlo radu, a spojuje to s nepříjemným následkem.",
+      "utterance": "Rodič: Kdybys mě byl poslechl, tak by se to nestalo.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Dítě rodiče neposlechlo.",
+        "presupposition_paraphrased": "Dítě toho rodiče neposlechlo.",
+        "DistractorNegation": "Dítě rodiče poslechlo.",
+        "DistractorLexicalEdit": "Dítě rodiče neslyšelo při ranním odchodu do školy.",
+        "DistractorAssociative0": "Dítě se snažilo celou nepříjemnou situaci později nějak napravit."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-12",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Zuzana Kirchnerová mluví o natáčení a o podpoře, která je pro projekt důležitá.",
+      "utterance": "Zuzana Kirchnerová: Na druhou stranu kdybychom tu podporu byli dostali, touhle dobou bychom asi zrovna natáčeli.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Zuzana Kirchnerová a její tým tu podporu nedostali.",
+        "presupposition_paraphrased": "Projekt tu podporu nedostal.",
+        "DistractorNegation": "Zuzana Kirchnerová a její tým tu podporu dostali.",
+        "DistractorLexicalEdit": "Zuzana Kirchnerová a její tým tu zakázku neodmítli.",
+        "DistractorAssociative0": "Zuzana Kirchnerová připravovala scénář pro svůj nový projekt celé léto."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-13",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Fidel Castro hodnotí strategii kubánské revoluce a uvažuje o tom, jak se situace mohla vyvíjet.",
+      "utterance": "Fidel Castro: Myslím, že kdybychom byli zlikvidovali Batistu v roce 1953, imperialismus by nás byl rozdrtil.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Fidel Castro a jeho lidé Batistu v roce 1953 nezlikvidovali.",
+        "presupposition_paraphrased": "Castro a jeho lidé Batistu v roce 1953 nezlikvidovali.",
+        "DistractorNegation": "Fidel Castro a jeho lidé Batistu v roce 1953 zlikvidovali.",
+        "DistractorLexicalEdit": "Fidel Castro a jeho lidé Batistu v roce 1953 nepropustili.",
+        "DistractorAssociative0": "Fidel Castro tehdy podrobně studoval taktiku pro boj v horách."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-14",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluvčí komentuje situaci v KDU-ČSL a zmiňuje volbu předsedy strany.",
+      "utterance": "Mluvčí: Kdybych byl býval měl hlas, volil bych Honzu Bartoška.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí neměl hlas.",
+        "presupposition_paraphrased": "Mluvčí tehdy neměl hlas.",
+        "DistractorNegation": "Mluvčí měl hlas.",
+        "DistractorLexicalEdit": "Mluvčí neměl čas na účast na stranickém sjezdu.",
+        "DistractorAssociative0": "Mluvčí sledoval průběh celého jednání pouze prostřednictvím online přenosu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-15",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Ingram popisuje situaci, kdy má podezření na pokus o rekrutování.",
+      "utterance": "Ingram: Kdybych se byl rozhodl jet do Číny, poslali by mě zpátky.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Ingram se nerozhodl jet do Číny.",
+        "presupposition_paraphrased": "Ingram se nerozhodl, že do té Číny pojede.",
+        "DistractorNegation": "Ingram se rozhodl jet do Číny.",
+        "DistractorLexicalEdit": "Ingram se nerozhodl prodat svůj starý dům v Číně.",
+        "DistractorAssociative0": "Ingram měl v té době platné vízum pro cesty do zahraničí."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-16",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluvčí vzpomíná na události roku 1968 a zmiňuje vojska Varšavské smlouvy.",
+      "utterance": "Mluvčí: Bůhví, jak by to se mnou dopadlo, kdyby nebyli přišli,",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Vojska Varšavské smlouvy přišla.",
+        "presupposition_paraphrased": "Vojska Varšavské smlouvy tehdy skutečně přišla.",
+        "DistractorNegation": "Vojska Varšavské smlouvy nepřišla.",
+        "DistractorLexicalEdit": "Vojska Varšavské smlouvy neodešla z hlavního města dobrovolně.",
+        "DistractorAssociative0": "Vojska Varšavské smlouvy obsadila všechna důležitá strategická místa ve městě."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": "antecedent má nejasný referent „oni“; v presuppozici upřesněno podle kontextu"
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-17",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Nikodém popisuje, proč pro něj bylo důležité v určité chvíli neustoupit.",
+      "utterance": "Nikodém: Kdybych byl ustoupil, styděl bych se sám před sebou,",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Nikodém neustoupil.",
+        "presupposition_paraphrased": "Nikodém tehdy neustoupil.",
+        "DistractorNegation": "Nikodém ustoupil.",
+        "DistractorLexicalEdit": "Nikodém nepromluvil na tiskové konferenci před všemi novináři.",
+        "DistractorAssociative0": "Nikodém si stál za svým názorem i přes velký nátlak okolí."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-18",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluví se o Bayrouovi a o jeho politickém postupu v době Macronova nástupu.",
+      "utterance": "Mluvčí: Je pravda, že Bayrou by byl ani tentokrát neprosadil svou odvěkou touhu stát se jedním z politických lídrů Francie, kdyby se byl nepřidal k muži, kterému jeho vítězství nad Marine Le Penovovou v prezidentské volbě, otevřelo bránu Elysejského paláce zcela dokořán.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Bayrou se k tomu muži přidal.",
+        "presupposition_paraphrased": "Bayrou se k tomu muži přidal.",
+        "DistractorNegation": "Bayrou se k tomu muži nepřidal.",
+        "DistractorLexicalEdit": "Bayrou se k té straně nepřihlásil před svými voliči.",
+        "DistractorAssociative0": "Bayrou usiloval o zásadní změnu celého francouzského volebního systému."
+      },
+      "meta_general": {
+        "corpus": "SYN2020",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-19",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluvčí popisuje svou každodenní práci a prostředí, ve kterém se pohybuje.",
+      "utterance": "Mluvčí: Kdybych byl šel po kariéře, v tuhle chvíli bych byl univerzitním profesorem nebo ředitelem nemocnice.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí nešel po kariéře.",
+        "presupposition_paraphrased": "Mluvčí tehdy nešel po kariéře.",
+        "DistractorNegation": "Mluvčí šel po kariéře.",
+        "DistractorLexicalEdit": "Mluvčí nehledal vysoké postavení v místní politické straně.",
+        "DistractorAssociative0": "Mluvčí trávil většinu svého volného času dobrovolnickou prací v terénu."
+      },
+      "meta_general": {
+        "corpus": "SYN2020",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-20",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Kosiński mluví o své knize Nabarvené ptáče.",
+      "utterance": "Kosiński: Kdybych byl tušil, co se z něho vyklube, možná bych Nabarvené ptáče nikdy nenapsal.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Kosiński netušil, co se z toho románu vyklube.",
+        "presupposition_paraphrased": "Kosiński tehdy netušil, co se z té knížky vyklube.",
+        "DistractorNegation": "Kosiński tušil, co se z toho románu vyklube.",
+        "DistractorLexicalEdit": "Kosiński neslyšel kritiku, která se na ten román snesla.",
+        "DistractorAssociative0": "Kosiński psal svůj nejslavnější román v době svého pobytu v USA."
+      },
+      "meta_general": {
+        "corpus": "SYN2020",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-21",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluví se o Hildegard a o postoji jejího manžela.",
+      "utterance": "Mluvčí: Kdyby ji byl udal, vypadal by jako slabý manžel.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Hildegardin manžel ji neudal.",
+        "presupposition_paraphrased": "Hildegardin manžel ji neudal.",
+        "DistractorNegation": "Hildegardin manžel ji udal.",
+        "DistractorLexicalEdit": "Hildegardin manžel ji neviděl v doprovodu žádného cizího muže.",
+        "DistractorAssociative0": "Hildegardin manžel byl v té době vlivným úředníkem na radnici."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-22",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluví se o Keplerovi a o jeho cestě do Prahy.",
+      "utterance": "Mluvčí: Kepler by byl vyjížděl na cestu v Hoffmannově kočáře s daleko větší sebedůvěrou, kdyby byl věděl o dopise od Tychona, který přišel krátce po jeho odjezdu.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Kepler o dopise od Tychona nevěděl.",
+        "presupposition_paraphrased": "Kepler o tom dopise od Tychona tehdy nevěděl.",
+        "DistractorNegation": "Kepler o dopise od Tychona věděl.",
+        "DistractorLexicalEdit": "Kepler o návštěvě u Tychona nikdy dříve neuvažoval.",
+        "DistractorAssociative0": "Kepler s sebou vezl důležité astronomické tabulky pro další výzkum."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-23",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluví se o Gelliovi a o přípravách na svatbu v okruhu Tychona.",
+      "utterance": "Mluvčí: I kdyby byl předvídal, že Tycho bude chtít uspořádat svatbu v takovém stylu, jako by šlo o šlechtický svazek, neměl žádnou zkušenost s tím, jak nákladná taková věc je.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Gellius nepředvídal, že Tycho bude chtít uspořádat svatbu v takovém stylu.",
+        "presupposition_paraphrased": "Gellius nečekal, že Tycho bude chtít takovou svatbu.",
+        "DistractorNegation": "Gellius předvídal, že Tycho bude chtít uspořádat svatbu v takovém stylu.",
+        "DistractorLexicalEdit": "Gellius neplánoval, že Tycho bude chtít koupit dům v takovém stylu.",
+        "DistractorAssociative0": "Gellius pomáhal s přípravou bohatého pohoštění pro všechny hosty."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": "paraphrase"
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-24",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluví se o Keplerovi a o jeho možnostech dalšího působení.",
+      "utterance": "Mluvčí: Ačkoli se Keplerovi otevíraly i jiné možnosti, kdyby byl měl dost času a energie za nimi jít, nakonec přijal v Linci místo učitele na podobné škole, jako byla ta, v níž svou učitelskou dráhu začal.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Kepler neměl dost času a energie za jinými možnostmi jít.",
+        "presupposition_paraphrased": "Kepler neměl dost času ani energie, aby se věnoval jiným možnostem.",
+        "DistractorNegation": "Kepler měl dost času a energie za jinými možnostmi jít.",
+        "DistractorLexicalEdit": "Kepler neměl dost peněz a energie na nákup nových knih.",
+        "DistractorAssociative0": "Kepler se intenzivně zajímal o matematické výpočty drah planet."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-25",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluví se o Ilghazim a o situaci kolem Antiochie.",
+      "utterance": "Mluvčí: Kdyby byl zaútočil ihned, Antiochie, která zůstala bez bojovníků, by asi padla.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Ilghazi nezaútočil ihned.",
+        "presupposition_paraphrased": "Ilghazi na ně nezaútočil hned.",
+        "DistractorNegation": "Ilghazi zaútočil ihned.",
+        "DistractorLexicalEdit": "Ilghazi neodjel z obléhaného města okamžitě po bitvě.",
+        "DistractorAssociative0": "Ilghazi shromažďoval své vojsko na hranicích po několik týdnů."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-26",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluví se o plánech jedné mladé ženy a o Jane.",
+      "utterance": "Mluvčí: A kdyby byla mohla pojmout do svých plánů i Jane, nebylo by jim chybělo nic na dokonalosti.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Podle mluvčího ta mladá žena nemohla pojmout do svých plánů i Jane.",
+        "presupposition_paraphrased": "Ta mladá žena nemohla zahrnout Jane do svých plánů.",
+        "DistractorNegation": "Podle mluvčího ta mladá žena mohla pojmout do svých plánů i Jane.",
+        "DistractorLexicalEdit": "Podle mluvčího ta mladá žena nemohla do svých plánů zahrnout i svou sestru.",
+        "DistractorAssociative0": "Ta mladá žena znala Jane velmi dobře už od raného dětství."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-27",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluví se o Karlu Sabinovi a o tom, jak vznikalo libreto k Prodané nevěstě.",
+      "utterance": "Sabina: „Kdybych byl tušil, co Smetana z té mé operety udělá, byl bych si také já dal větší práci a napsal mu lepší, obsažnější libreto.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Karel Sabina netušil, co Smetana z té jeho operety udělá.",
+        "presupposition_paraphrased": "Sabina netušil, co Smetana z té jeho operety nakonec udělá.",
+        "DistractorNegation": "Karel Sabina tušil, co Smetana z té jeho operety udělá.",
+        "DistractorLexicalEdit": "Karel Sabina nečetl, co Smetana o té jeho operetě napsal.",
+        "DistractorAssociative0": "Karel Sabina napsal libreta pro několik dalších českých skladatelů."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": "paraphrase"
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-28",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluví se o Blance a o jejím životním příběhu.",
+      "utterance": "Blanka: „Nejdůležitějším úspěchem však je, že jsem šťastná. A to bych nikdy nebyla, kdybych se nebyla rozhodla začít,“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Blanka se rozhodla začít.",
+        "presupposition_paraphrased": "Blanka se tehdy rozhodla, že začne.",
+        "DistractorNegation": "Blanka se nerozhodla začít.",
+        "DistractorLexicalEdit": "Blanka se rozhodla odejít z téhle náročné práce.",
+        "DistractorAssociative0": "Blanka pracovala na svém osobním rozvoji intenzivně několik let."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-29",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluví se o společnosti Merrill Lynch a o roli Bank of America.",
+      "utterance": "Mluvčí: Kdyby byl zůstal napospas trhům, kdyby jej BoA byla nezachránila, skončili by jeho zaměstnanci na ulici.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Merrill Lynch nezůstal napospas trhům.",
+        "presupposition_paraphrased": "Merrill Lynch nezůstal napospas trhům.",
+        "DistractorNegation": "Merrill Lynch zůstal napospas trhům.",
+        "DistractorLexicalEdit": "Merrill Lynch nezůstal v rukou svých původních zakladatelů.",
+        "DistractorAssociative0": "Merrill Lynch čelil v té době velmi vážným finančním potížím."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-30",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluví se o rozvoji průmyslu v Brně a Olomouci.",
+      "utterance": "Mluvčí: Brno by jistě nebylo tak průmyslově rozvinuté, kdyby se byl vyskytl dostatek prostoru pro rozvoj průmyslu v Olomouci.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Podle mluvčího v Olomouci se nevyskytl dostatek prostoru pro rozvoj průmyslu.",
+        "presupposition_paraphrased": "V Olomouci tehdy nebylo pro rozvoj průmyslu dost místa.",
+        "DistractorNegation": "Podle mluvčího v Olomouci se vyskytl dostatek prostoru pro rozvoj průmyslu.",
+        "DistractorLexicalEdit": "Podle mluvčího v Olomouci se nevyskytl dostatek peněz na stavbu nových škol.",
+        "DistractorAssociative0": "V Olomouci se v té době rozvíjela především oblast vzdělávání."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby_byt",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-31",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Bratr Eadulf se s hostinským baví v hostinci o cestě k opatství.",
+      "utterance": "Eadulf: „Kdybychom měli koně, byli bychom tam hned.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Bratr Eadulf a jeho společníci neměli koně.",
+        "presupposition_paraphrased": "Eadulf a jeho lidé v tu chvíli neměli koně.",
+        "DistractorNegation": "Bratr Eadulf a jeho společníci měli koně.",
+        "DistractorLexicalEdit": "Bratr Eadulf a jeho společníci neměli mapu okolního kraje.",
+        "DistractorAssociative0": "Bratr Eadulf chtěl dorazit k opatství ještě před úplným setměním."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-32",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Eadulf mluví o bratrovi Botulfovi v souvislosti s obviněními proti opatovi Cildovi.",
+      "utterance": "Mluvčí: „Kdyby byl živ, byl by opata Cilda dokázal proti těmto obviněním obhájit.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Bratr Botulf nebyl živ.",
+        "presupposition_paraphrased": "Bratr Botulf tehdy už nežil.",
+        "DistractorNegation": "Bratr Botulf byl živ.",
+        "DistractorLexicalEdit": "Bratr Botulf nebyl přítomen na důležitém církevním sněmu.",
+        "DistractorAssociative0": "Bratr Botulf byl známý svou velkou moudrostí a rozvahou."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-33",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Starší žena mluví s Griffem o minulosti a o tom, jak se kvůli němu trápila.",
+      "utterance": "Mluvčí: Kdybys byl můj vlastní syn, tak bych se pro tebe nemohla trápit víc.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Griff nebyl jejím vlastním synem.",
+        "presupposition_paraphrased": "Griff nebyl její vlastní syn.",
+        "DistractorNegation": "Griff byl jejím vlastním synem.",
+        "DistractorLexicalEdit": "Griff nebyl jejím vlastním synovcem z druhého kolena.",
+        "DistractorAssociative0": "Griff se do svého rodného města vrátil až po mnoha letech."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-34",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Žena mluví o medailonu a o tom, proč je pronásledují.",
+      "utterance": "Mluvčí: Kdybych ho neukradla, nechali by nás na pokoji.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Žena medailon ukradla.",
+        "presupposition_paraphrased": "Ta žena ten medailon ukradla.",
+        "DistractorNegation": "Žena medailon neukradla.",
+        "DistractorLexicalEdit": "Žena medailon neztratila v hustém lese u cesty.",
+        "DistractorAssociative0": "Žena schovala medailon na bezpečné místo hluboko v lesích."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-35",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Marek sedí doma u stolu s Dianou a vedle leží černý netbook Lenovo.",
+      "utterance": "Mluvčí: Kdyby jim ho včera nepřivezli, neměl by už nic.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Někdo Markovi a Dianě ten netbook Lenovo včera přivezl.",
+        "presupposition_paraphrased": "Někdo Markovi a Dianě ten netbook Lenovo včera přivezl.",
+        "DistractorNegation": "Nikdo Markovi a Dianě ten netbook Lenovo včera nepřivezl.",
+        "DistractorLexicalEdit": "Někdo Markovi a Dianě ten starý počítač včera daroval.",
+        "DistractorAssociative0": "Někdo zaklepal na dveře bytu právě ve chvíli, kdy obědvali."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-36",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Žena přemýšlí o Oliverovi a o tom, co se dělo předchozí den.",
+      "utterance": "Mluvčí: A kdybych ho včera nezarazila, klidně by to na mě zkoušel na pokoji.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Žena včera Olivera zarazila.",
+        "presupposition_paraphrased": "Ta žena včera Olivera zarazila.",
+        "DistractorNegation": "Žena včera Olivera nezarazila.",
+        "DistractorLexicalEdit": "Žena včera Olivera nepozvala na pracovní schůzku.",
+        "DistractorAssociative0": "Žena se s Oliverem seznámila na velké společenské recepci."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-37",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Bella mluví s Edwardem a mezi nimi padne výčitka.",
+      "utterance": "Edward: „Kdybych neodešel, nemusela bys riskovat život hledáním útěchy u psa.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Edward odešel.",
+        "presupposition_paraphrased": "Edward tehdy odešel.",
+        "DistractorNegation": "Edward neodešel.",
+        "DistractorLexicalEdit": "Edward nepromluvil o svých skutečných plánech do budoucna.",
+        "DistractorAssociative0": "Edward sledoval Bellu z velké dálky, aby se ujistil o jejím bezpečí."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-38",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Bella sedí s Jacobem v autě a hádají se.",
+      "utterance": "Jacob: „Děláš si legraci? Kdybys nezačala křičet, možná bych ani nepřišel na to, že ses mě snažila praštit. Možná nejsem z kamene, ale taky nejsem tak měkký, jak si myslíš.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Bella začala křičet.",
+        "presupposition_paraphrased": "Bella v tu chvíli začala křičet.",
+        "DistractorNegation": "Bella nezačala křičet.",
+        "DistractorLexicalEdit": "Bella začala zpívat svou oblíbenou písničku z dětství.",
+        "DistractorAssociative0": "Bella se snažila potlačit svůj hněv během celé cesty autem."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-39",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Edward a Bella řeší, jak se bezpečně pohybovat v krajině.",
+      "utterance": "Edward: I kdybych ji nesl, zanechali bychom stopu.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Edward Bellu nenesl.",
+        "presupposition_paraphrased": "Edward tehdy Bellu nenesl.",
+        "DistractorNegation": "Edward Bellu nesl.",
+        "DistractorLexicalEdit": "Edward Bellu neviděl v hustém lesním podrostu u cesty.",
+        "DistractorAssociative0": "Edward se pohyboval v náročném terénu s neuvěřitelnou lehkostí."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-40",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Nichols sleduje situaci s vězněm Jenkinsinem a reaguje na jeho řeči.",
+      "utterance": "Nichols: Kdyby celá věc nebyla tak naléhavá, Jenkins by z toho udělal obyčejnou klukovinu: ve svobodné zemi mohou žít i antisemité, obdivující německý nacismus.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Celá věc byla naléhavá.",
+        "presupposition_paraphrased": "Ta situace byla tehdy naléhavá.",
+        "DistractorNegation": "Celá věc nebyla naléhavá.",
+        "DistractorLexicalEdit": "Celá věc byla veřejná a široce diskutovaná v tisku.",
+        "DistractorAssociative0": "Celá věc vyvolala vlnu pobouření mezi všemi obyvateli města."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "beletrie",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-41",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluví se o tom, jak Kukal vystupuje na veřejnosti.",
+      "utterance": "Mluvčí: Ironie celého příběhu je zjevná – Kukal se chytil do pasti, protože jako mluvčí se naladil na veřejné normy dominující současnému diskursu; kdyby zůstal akademikem, byl by v bezpečí, ale nebyl by efektivní jako mluvčí.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Kukal nezůstal akademikem.",
+        "presupposition_paraphrased": "Kukal jako akademik nezůstal.",
+        "DistractorNegation": "Kukal zůstal akademikem.",
+        "DistractorLexicalEdit": "Kukal nezůstal politikem v rámci krajské samosprávy.",
+        "DistractorAssociative0": "Kukal dříve vyučoval na univerzitě teorii moderní komunikace."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-42",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Ve straně proběhne jednání grémia a následně se řeší jeho výsledek.",
+      "utterance": "Petr Vícha: „Kdybych tam byl, hlasoval bych proti.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Petr Vícha na grémiu nebyl.",
+        "presupposition_paraphrased": "Petr Vícha na tom grémiu tehdy nebyl.",
+        "DistractorNegation": "Petr Vícha na grémiu byl.",
+        "DistractorLexicalEdit": "Petr Vícha na grémiu nemluvil o ekonomických reformách.",
+        "DistractorAssociative0": "Petr Vícha se o výsledku tajného hlasování dozvěděl z tiskové zprávy."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-43",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Vedení strany vysvětluje, proč zveřejnilo jméno volebního manažera.",
+      "utterance": "Veselý: Kdyby vedení strany Haškovo jméno nezveřejnilo, lidé by se o jeho funkci nedozvěděli, řekl Veselý.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Vedení strany Haškovo jméno zveřejnilo.",
+        "presupposition_paraphrased": "Vedení strany Haškovo jméno tehdy zveřejnilo.",
+        "DistractorNegation": "Vedení strany Haškovo jméno nezveřejnilo.",
+        "DistractorLexicalEdit": "Vedení strany Haškovo jméno nezměnilo v oficiálních dokumentech.",
+        "DistractorAssociative0": "Vedení strany se rozhodlo pro zcela novou strategii volební kampaně."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-44",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluvčí mluví o ocenění za knihu Sladký život.",
+      "utterance": "Mluvčí: Kdybych se nepochlubil, málokdo by o tom věděl",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí se pochlubil.",
+        "presupposition_paraphrased": "Mluvčí se s tím oceněním pochlubil.",
+        "DistractorNegation": "Mluvčí se nepochlubil.",
+        "DistractorLexicalEdit": "Mluvčí se neomluvil za zpoždění své nové knihy.",
+        "DistractorAssociative0": "Mluvčí napsal svůj poslední román během letního pobytu na venkově."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-45",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluvčí popisuje, kde vyrůstal a jaký život vede.",
+      "utterance": "Mluvčí: Kdybych zůstal v Halenkově, měl bych jiné dětství, volné víkendy, svátky...",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí nezůstal v Halenkově.",
+        "presupposition_paraphrased": "Mluvčí v Halenkově nezůstal.",
+        "DistractorNegation": "Mluvčí zůstal v Halenkově.",
+        "DistractorLexicalEdit": "Mluvčí nezůstal v Praze u svých starých přátel.",
+        "DistractorAssociative0": "Mluvčí do Halenkova jezdí už jen velmi zřídka za svými příbuznými."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-46",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluvčí porovnává ekonomické výsledky Česka a Německa.",
+      "utterance": "Mluvčí: Kdybychom na tom byli jako Němci, ztratili bychom loni o 63 miliard korun méně.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Česko na tom nebylo jako Německo.",
+        "presupposition_paraphrased": "Česko na tom nebylo jako Německo.",
+        "DistractorNegation": "Česko na tom bylo jako Německo.",
+        "DistractorLexicalEdit": "Česko na tom nebylo jako sousední Rakousko před krizí.",
+        "DistractorAssociative0": "Česko v posledních letech zaznamenalo mírný nárůst exportu do zemí EU."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-47",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "V zoologické zahradě se řeší dopady nižší návštěvnosti na rozpočet.",
+      "utterance": "Mluvčí: A kdyby nás lidé nepodporovali, byla by ztráta více než 100 milionů.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Lidé zoologickou zahradu podporovali.",
+        "presupposition_paraphrased": "Lidé tu zoologickou zahradu podporovali.",
+        "DistractorNegation": "Lidé zoologickou zahradu nepodporovali.",
+        "DistractorLexicalEdit": "Lidé zoologickou zahradu nenavštěvovali jen o víkendech.",
+        "DistractorAssociative0": "Lidé si do zoologické zahrady chodí prohlížet hlavně vzácné druhy zvířat."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-48",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluví se o Donu Kingovi a o jeho vztahu s Donem Elbaumem.",
+      "utterance": "Don King: „Kdybys se mnou zůstal, vydělali bychom miliardy,“ měl Elbaumovi později Don King říct.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Don Elbaum s Donem Kingem nezůstal.",
+        "presupposition_paraphrased": "Don Elbaum s Donem Kingem nezůstal.",
+        "DistractorNegation": "Don Elbaum s Donem Kingem zůstal.",
+        "DistractorLexicalEdit": "Don Elbaum s Donem Kingem nepracoval na nové smlouvě pro zápasníky.",
+        "DistractorAssociative0": "Don Elbaum se rozhodl pro úplně samostatnou profesní dráhu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-49",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Popisují se technické vlastnosti jednoho automobilu.",
+      "utterance": "Mluvčí: Kdyby mělo těžší naftový motor, tlačila by ho na přídi větší síla k zemi.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Auto nemělo těžší naftový motor.",
+        "presupposition_paraphrased": "Auto nemělo těžší naftový motor.",
+        "DistractorNegation": "Auto mělo těžší naftový motor.",
+        "DistractorLexicalEdit": "Auto nemělo těžší benzinový motor od německého výrobce.",
+        "DistractorAssociative0": "Auto se při testech na okruhu chovalo velmi stabilně i ve vysokých rychlostech."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-50",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "V kraji se řeší tempo očkování a dostupnost vakcín.",
+      "utterance": "Mauritzová: „Kdyby bylo dostatek vakcín, stihli bychom všechny naočkovat za tři měsíce, tedy zhruba do poloviny června, bohužel není zatím dostatek vakcín.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Nebyl dostatek vakcín.",
+        "presupposition_paraphrased": "Vakcín tehdy nebylo dost.",
+        "DistractorNegation": "Byl dostatek vakcín.",
+        "DistractorLexicalEdit": "Nebyl dostatek lůžek pro pacienty s těžkým průběhem.",
+        "DistractorAssociative0": "Nebyl v kraji v té době dostatek zkušeného zdravotnického personálu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-51",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluvčí hodnotí své stravovací návyky a jejich dopady.",
+      "utterance": "Mluvčí: Bohužel dnes již vím, že kdybych si příjem soli nechal změřit, zjistil bych, že je vysoko nad úrovní Janomamů a ne o moc nižší než u běžných Američanů, kteří si jídlo solí hodně.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí si příjem soli nenechal změřit.",
+        "presupposition_paraphrased": "Mluvčí si příjem soli tehdy nenechal změřit.",
+        "DistractorNegation": "Mluvčí si příjem soli nechal změřit.",
+        "DistractorLexicalEdit": "Mluvčí si příjem cukru nenechal změřit u svého lékaře.",
+        "DistractorAssociative0": "Mluvčí se v poslední době snažil vyhýbat všem průmyslově zpracovaným potravinám."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-52",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluvčí popisuje, jak se snaží přežít v krajně nebezpečném prostředí.",
+      "utterance": "Mluvčí: Kdybych řekla ano, zabili by mě.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí neřekla ano.",
+        "presupposition_paraphrased": "Mluvčí tehdy neřekla ano.",
+        "DistractorNegation": "Mluvčí řekla ano.",
+        "DistractorLexicalEdit": "Mluvčí se v klíčovém momentu celého výslechu rozplakala.",
+        "DistractorAssociative0": "Mluvčí se po celou dobu snažila zůstat v naprostém utajení před úřady."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-53",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluvčí přemýšlí o tom, jaké důsledky mají její každodenní činnosti pro rodinu.",
+      "utterance": "Mluvčí: „Kdybych to nedělala, všichni by umřeli hlady.“",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí to dělala.",
+        "presupposition_paraphrased": "Mluvčí to skutečně dělala.",
+        "DistractorNegation": "Mluvčí to nedělala.",
+        "DistractorLexicalEdit": "Mluvčí to dělala jen občas.",
+        "DistractorAssociative0": "Mluvčí připravovala pro celou svou rodinu každý den teplé večeře."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-54",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluvčí hodnotí, jak instituce reaguje na problém.",
+      "utterance": "Mluvčí: Kdyby to bylo v pořádku, škola by nepodala podnět k šetření.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "To nebylo v pořádku.",
+        "presupposition_paraphrased": "To tehdy nebylo v pořádku.",
+        "DistractorNegation": "To bylo v pořádku.",
+        "DistractorLexicalEdit": "To nebylo v zápisu z poslední pedagogické rady školy.",
+        "DistractorAssociative0": "To vyvolalo u rodičů dětí vlnu velmi nepříjemných a kritických dotazů."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-55",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluví se o místních aparátčících a o tom, jak chrání své postavení.",
+      "utterance": "Mluvčí: Místní aparátčíci připustili, že to, co dělali, bylo špatné, ale neřeknou to veřejně, protože kdyby to udělali, ztratili by tvář.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Místní aparátčíci to veřejně neřekli.",
+        "presupposition_paraphrased": "Místní aparátčíci to veřejně neřekli.",
+        "DistractorNegation": "Místní aparátčíci to veřejně řekli.",
+        "DistractorLexicalEdit": "Místní aparátčíci to veřejně nepopsali ve své výroční zprávě pro vedení.",
+        "DistractorAssociative0": "Místní aparátčíci se obávali především o svá vlivná a dobře placená místa."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-56",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluvčí popisuje násilné prostředí a strach z trestu, se kterým se setkala v minulosti.",
+      "utterance": "Mluvčí: Kdybych řekla ano, čekal by mě trest: musela bych klečet na struhadle či na prahu, dostala bych facku.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Mluvčí v té situaci neřekla ano.",
+        "presupposition_paraphrased": "Mluvčí tehdy neřekla ano.",
+        "DistractorNegation": "Mluvčí v té situaci řekla ano.",
+        "DistractorLexicalEdit": "Mluvčí v té situaci řekla, že má strach.",
+        "DistractorAssociative0": "Mluvčí si na tyto události ze svého dětství vzpomínala s velkým děsem."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-57",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Po jedné dřívější události si dva lidé zpětně vyjasňují, proč tehdy neodjel.",
+      "utterance": "Mluvčí: Chceš říct, že kdyby ti ho neroztrhl, tak bys odjel?",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Podle mluvčího adresátovi někdo tu věc roztrhl.",
+        "presupposition_paraphrased": "Tomu člověku tehdy někdo tu věc roztrhl.",
+        "DistractorNegation": "Podle mluvčího adresátovi nikdo tu věc neroztrhl.",
+        "DistractorLexicalEdit": "Podle mluvčího adresátovi někdo tu věc nenašel v jeho osobním kufru.",
+        "DistractorAssociative0": "Podle mluvčího byla celá ta věc pro plánovaný odjezd zcela zásadní."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-58",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluvčí mluví o muži, který se po zabití ukryl v domě náčelníka a jeho nepřátelé tehdy hlídkovali venku.",
+      "utterance": "Mluvčí: Kdyby udělal tu chybu, že by náčelníkův dům opustil, probodli by ho oštěpem.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Podle mluvčího ten muž náčelníkův dům neopustil.",
+        "presupposition_paraphrased": "Ten muž dům náčelníka tehdy neopustil.",
+        "DistractorNegation": "Podle mluvčího ten muž náčelníkův dům opustil.",
+        "DistractorLexicalEdit": "Podle mluvčího ten muž náčelníkův dům neviděl z protějšího břehu řeky.",
+        "DistractorAssociative0": "Podle mluvčího nepřátelé čekali venku před domem po celou noc."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-59",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "V zákulisí sboru si lidé mezi sebou předávají kusé informace o jednom sólistovi, o kterém se delší dobu nemluví.",
+      "utterance": "Mluvčí: Ale neboj, kdyby se mu něco stalo, tak by se to tu rozneslo.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Podle mluvčího se tomu sólistovi nic nestalo.",
+        "presupposition_paraphrased": "Tomu sólistovi se nic nestalo.",
+        "DistractorNegation": "Podle mluvčího se tomu sólistovi něco stalo.",
+        "DistractorLexicalEdit": "Podle mluvčího se tomu sólistovi nic neřeklo o chystaných změnách.",
+        "DistractorAssociative0": "Podle mluvčího byl sólista v souboru velmi oblíbený pro svou skromnost."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "oborova literatura",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    },
+    {
+      "id": "presupposition-counterfactual-60",
+      "phenomenon": "presupposition",
+      "category": "counterfactual",
+      "context": "Mluvčí po úrazu vzpomíná na to, že jeho pracovní výjezd do Afghánistánu mohl být ohrožen, a na to, jak k tomu v CNN přistupovali.",
+      "utterance": "Mluvčí: Kdyby to věděli, poslali by někoho jiného.",
+      "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+      "options": {
+        "presupposition_true": "Lidé z CNN nevěděli, že výjezd mluvčího může být v ohrožení.",
+        "presupposition_paraphrased": "V CNN tehdy nevěděli, že mluvčího výjezd může být v ohrožení.",
+        "DistractorNegation": "Lidé z CNN věděli, že výjezd mluvčího může být v ohrožení.",
+        "DistractorLexicalEdit": "Lidé z CNN nepochybovali o tom, že výjezd mluvčího přinese stanici rekordní sledovanost.",
+        "DistractorAssociative0": "Lidé z CNN připravovali speciální reportáž o situaci v odlehlých horách."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "publicistika",
+        "extraction_method": "cql_query",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "kdyby",
+        "negation": ""
+      }
+    }
+  ]

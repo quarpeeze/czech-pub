@@ -1,0 +1,627 @@
+[
+    {
+      "id": "implicature-scalar-quant-declarative-1",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Jedná se o mnicha, který hovoří o osudu skupiny misionářů po náboženském sporu.",
+      "utterance": "Mnich: Někteří z nich založili další středisko na pevnině, které se jmenuje Saské Maigh Eo.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mnich se nehlásí k tomu, že všichni z nich založili další středisko na pevnině.",
+        "implicature_paraphrased": "Mnich se nehlásí k tomu, že všichni z nich na pevnině založili další středisko.",
+        "DistractorNegation": "Mnich se hlásí k tomu, že všichni z nich na pevnině založili další středisko.",
+        "DistractorLexicalEdit": "Mnich se nehlásí k tomu, že všichni z nich na pevnině postavili kamenný most.",
+        "DistractorAssociative0": "Mnich se nehlásí k tomu, že všichni z nich dorazili na pevninu za úsvitu."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-2",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Mluví se o chaosu a propukajícím šílenství v jednotce vojáků.",
+      "utterance": "Mluvčí: Někteří stříleli ze svých pušek a smáli se přitom jako imbecilové.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že všichni stříleli ze svých pušek a smáli se přitom jako imbecilové.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že všichni stříleli z pušek a zároveň se smáli jako imbecilové.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že všichni stříleli z pušek a zároveň se smáli jako imbecilové.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že všichni stříleli z pušek a přitom křičeli rozkazy.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že všichni měli na sobě promočené uniformy."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-3",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Mluví se o situaci na bojišti při kontrole zraněných po skončení bitvy.",
+      "utterance": "Mluvčí: Někteří ze zraněných byli stále ještě naživu.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že všichni ze zraněných byli stále ještě naživu.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že všichni zranění byli ještě naživu.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že všichni zranění byli ještě naživu.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že všichni zranění byli pokrytí bahnem.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že všichni zranění leželi na nosítkách."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-4",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Mluví se o sporech v křižáckém ležení ohledně dalšího postupu vojenské výpravy.",
+      "utterance": "Mluvčí: Někteří z křižáků chtěli pokračovat k Jeruzalému a oblehnout ho.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že všichni křižáci chtěli pokračovat k Jeruzalému a oblehnout ho.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že všichni křižáci chtěli pokračovat k Jeruzalému a oblehnout ho.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že všichni křižáci chtěli pokračovat k Jeruzalému a oblehnout ho.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že všichni křižáci chtěli obrátit vojsko zpět k pobřeží.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že všichni křižáci měli na přilbách bílé kříže."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-5",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Jedná se o Billyho, který vypráví o osudech synů náčelníka v dávné legendě.",
+      "utterance": "Billy: Někteří ze synů se stali válečníky jako Taha Aki.",
+      "question": "",
+      "options": {
+        "implicature_true": "Billy se nehlásí k tomu, že všichni ze synů se stali válečníky.",
+        "implicature_paraphrased": "Billy se nehlásí k tomu, že ze všech synů se stali válečníci.",
+        "DistractorNegation": "Billy se hlásí k tomu, že ze všech synů se stali válečníci.",
+        "DistractorLexicalEdit": "Billy se nehlásí k tomu, že ze všech synů se stali lovci.",
+        "DistractorAssociative0": "Billy se nehlásí k tomu, že všichni synové nosili kožené náramky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-6",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Jedná se o Mirandu, která hodnotí postoje a drby starších dam ve vyšší společnosti.",
+      "utterance": "Miranda: Sdělili mi, že některé mamá ze společnosti mají dojem, že ke mně Turner chová romantické city.",
+      "question": "",
+      "options": {
+        "implicature_true": "Miranda se nehlásí k tomu, že všechny mamá ze společnosti mají dojem, že k ní Turner chová romantické city.",
+        "implicature_paraphrased": "Miranda se nehlásí k tomu, že všechny mamá ze společnosti mají pocit, že k ní Turner chová romantické city.",
+        "DistractorNegation": "Miranda se hlásí k tomu, že všechny mamá ze společnosti mají pocit, že k ní Turner chová romantické city.",
+        "DistractorLexicalEdit": "Miranda se nehlásí k tomu, že všechny mamá ze společnosti mají pocit, že je Turner příliš chudý.",
+        "DistractorAssociative0": "Miranda se nehlásí k tomu, že všechny mamá ze společnosti nosí na plesech perly."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-7",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Jedná se o Philippu, která vzpomíná na chování bohatých lidí během krize na stanici.",
+      "utterance": "Philippa: Někteří z těch boháčů ale pořádali večírky.",
+      "question": "",
+      "options": {
+        "implicature_true": "Philippa se nehlásí k tomu, že všichni z těch boháčů pořádali večírky.",
+        "implicature_paraphrased": "Philippa se nehlásí k tomu, že všichni z těch boháčů pořádali večírky.",
+        "DistractorNegation": "Philippa se hlásí k tomu, že všichni z těch boháčů pořádali večírky.",
+        "DistractorLexicalEdit": "Philippa se nehlásí k tomu, že všichni z těch boháčů rozdávali almužny.",
+        "DistractorAssociative0": "Philippa se nehlásí k tomu, že všichni z těch boháčů přijeli na stanici vlastními auty."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-8",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Jedná se o Miacha, který informuje bratra Eadulfa o přípravách mužů na stavbu pohřební hranice.",
+      "utterance": "Miach: Někteří z mých mužů už odešli s bratrem Berrihertem do hor, aby mu pomohli zbudovat pohřební hranici.",
+      "question": "",
+      "options": {
+        "implicature_true": "Miach se nehlásí k tomu, že všichni z jeho mužů už odešli s bratrem Berrihertem do hor.",
+        "implicature_paraphrased": "Miach se nehlásí k tomu, že všichni jeho muži už s bratrem Berrihertem odešli do hor.",
+        "DistractorNegation": "Miach se hlásí k tomu, že všichni jeho muži už s bratrem Berrihertem odešli do hor.",
+        "DistractorLexicalEdit": "Miach se nehlásí k tomu, že všichni jeho muži odnesli do hor zásoby obilí.",
+        "DistractorAssociative0": "Miach se nehlásí k tomu, že všichni jeho muži měli u pasu krátké meče."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-9",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Mluví se o situaci v kabině letadla po vniknutí ozbrojených únosců.",
+      "utterance": "Mluvčí: Někteří z únosců se zřejmě probojovali i do pilotní kabiny.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že všichni únosci se probojovali i do pilotní kabiny.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že se všichni únosci dostali i do pilotní kabiny.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že se všichni únosci dostali i do pilotní kabiny.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že se všichni únosci dostali do zavazadlového prostoru.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že všichni únosci měli přes obličej tmavé šátky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-10",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Mluví se o chování služebných, které během evakuace kradou cennosti.",
+      "utterance": "Mluvčí: Některé z nich strčily do kapsy nějaký ten klenot nebo zlatý řetěz.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že všechny z nich strčily do kapsy klenot nebo zlatý řetěz.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že si všechny do kapsy schovaly nějaký klenot nebo zlatý řetěz.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že si všechny do kapsy schovaly nějaký klenot nebo zlatý řetěz.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že si všechny do kapsy schovaly stříbrnou lžíci.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že všechny měly na sobě zástěry se skvrnami od popela."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-11",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Mluví se o ambicích a projevech víry určité skupiny věřících.",
+      "utterance": "Mluvčí: Někteří z ambicióznějších věřících stavěli kostely a památníky.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že všichni z ambicióznějších věřících stavěli kostely a památníky.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že všichni ambicióznější věřící stavěli kostely a památníky.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že všichni ambicióznější věřící stavěli kostely a památníky.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že všichni ambicióznější věřící psali náboženské traktáty.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že všichni ambicióznější věřící nosili tmavé roucho."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-12",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Mluví se o osudu a úmrtnosti zajatců během jejich mučení.",
+      "utterance": "Mluvčí: Některé z obětí zemřely okamžitě.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že všechny oběti zemřely okamžitě.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že všechny oběti zemřely okamžitě.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že všechny oběti zemřely okamžitě.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že všechny oběti křičely bolestí.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že v šechny oběti ležely na kamenné podlaze."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-13",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Mluví se o reakci obyvatel na noční rozruch u vily.",
+      "utterance": "Mluvčí: Někteří však vyhlédli z oken, aby zjistili, co je příčinou onoho rozruchu ve vile.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že všichni vyhlédli z oken.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že všichni vykoukli z oken.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že všichni vykoukli z oken.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že všichni otevřeli dveře na ulici.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že všichni drželi v rukou svíčky."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-14",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Jedná se o Anjine, která mluví o rozdělení úkolů v rámci městské stráže.",
+      "utterance": "Anjine: Někteří muži z městské stráže slouží v lodních posádkách.",
+      "question": "",
+      "options": {
+        "implicature_true": "Anjine se nehlásí k tomu, že všichni muži z městské stráže slouží v lodních posádkách.",
+        "implicature_paraphrased": "Anjine se nehlásí k tomu, že všichni muži z městské stráže slouží na lodích.",
+        "DistractorNegation": "Anjine se hlásí k tomu, že všichni muži z městské stráže slouží na lodích.",
+        "DistractorLexicalEdit": "Anjine se nehlásí k tomu, že všichni muži z městské stráže hlídají tržiště.",
+        "DistractorAssociative0": "Anjine se nehlásí k tomu, že všichni muži z městské stráže nosí modré pláště."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-15",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Mluví se o potížích dvořanů při náročné cestě pouští.",
+      "utterance": "Mluvčí: Někteří z dvořanů si stěžovali na nepohodlí cesty.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že všichni dvořané si stěžovali na nepohodlí cesty.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že si všichni dvořané stěžovali na nepohodlí při cestě.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že si všichni dvořané stěžovali na nepohodlí při cestě.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že všichni dvořané žádali zastávku.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že všichni dvořané cestovali na bílých koních."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-16",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Jedná se o Speakmana, který reaguje na instinktivní odpor lidí ke kolečkovému křeslu.",
+      "utterance": "Speakman: Některé lidi odpuzuje.",
+      "question": "",
+      "options": {
+        "implicature_true": "Speakman se nehlásí k tomu, že všechny lidi odpuzuje.",
+        "implicature_paraphrased": "Speakman se nehlásí k tomu, že odpuzuje všechny lidi.",
+        "DistractorNegation": "Speakman se hlásí k tomu, že odpuzuje všechny lidi.",
+        "DistractorLexicalEdit": "Speakman se nehlásí k tomu, že odpuzuje všechny lidi svým hlasitým smíchem.",
+        "DistractorAssociative0": "Speakman se nehlásí k tomu, že všechny lidi zaujalo jeho kolečkové křeslo."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-17",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Jedná se o Kassandru, která se obává netvorů pronikajících do věží.",
+      "utterance": "Kassandra: Situace venku musela být opravdu zlá, když už se někteří netvoři dostali i do věží.",
+      "question": "",
+      "options": {
+        "implicature_true": "Kassandra se nehlásí k tomu, že se všichni netvoři dostali i do věží.",
+        "implicature_paraphrased": "Kassandra se nehlásí k tomu, že se všichni netvoři dostali až do věží.",
+        "DistractorNegation": "Kassandra se hlásí k tomu, že se všichni netvoři dostali až do věží.",
+        "DistractorLexicalEdit": "Kassandra se nehlásí k tomu, že se všichni netvoři dostali až na hradby.",
+        "DistractorAssociative0": "Kassandra se nehlásí k tomu, že všichni netvoři vydávali pronikavý křik."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-18",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Mluví se o problémech a obavách lidí v důsledku rušení dopravních spojů.",
+      "utterance": "Mluvčí: Některým lidem to však působí potíže a bojí se, že přijdou o práci.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že všem lidem to působí potíže.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že to všem lidem působí potíže.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že to všem lidem působí potíže.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že to všem lidem zvyšuje výplatu.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že všichni lidé do práce jezdí autobusem."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-19",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Mluví se o nabídkách a aktivitách gastronomických podniků v době svátku zamilovaných.",
+      "utterance": "Mluvčí: Některé restaurace nabízejí i speciální valentýnské menu.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že všechny restaurace nabízejí speciální valentýnské menu.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že speciální valentýnské menu nabízejí všechny restaurace.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že speciální valentýnské menu nabízejí všechny restaurace.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že polední menu nabízejí všechny restaurace.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že všechny restaurace zdobí výlohy červenými srdci."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-20",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Mluví se o náladách mezi dělníky po příjezdu výpravy do přístavu.",
+      "utterance": "Mluvčí: Někteří z dělníků se už nemohli dočkat, až vstoupí na svatou půdu.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že všichni z dělníků se nemohli dočkat.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že se všichni dělníci už nemohli dočkat.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že se všichni dělníci už nemohli dočkat.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že se všichni dělníci báli vystoupit na břeh.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že všichni dělníci měli promočené boty."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-21",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Mluví se o časové náročnosti diagnostického rozhovoru v rámci lékařské psychologie.",
+      "utterance": "Mluvčí: U některých pacientů trvá rozhovor i déle.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že u všech pacientů trvá rozhovor i déle.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že rozhovor trvá déle u všech pacientů.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že rozhovor trvá déle u všech pacientů.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že rozhovor u všech pacientů začíná přesně v osm hodin.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že všichni pacienti čekají před ambulancí."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-22",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Mluví se o různých odborných přístupech ke sdělování diagnózy nemocnému.",
+      "utterance": "Mluvčí: Někteří autoři však doporučují opak.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že všichni autoři doporučují opak.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že všichni autoři doporučují opak.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že všichni autoři doporučují opak.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že všichni autoři doporučují podrobné testování.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že všichni autoři publikovali své texty v zahraničí."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-23",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Jedná se o mluvčího, který komentuje význam týmové spolupráce ve vrcholovém sportu.",
+      "utterance": "Mluvčí: Zdůrazňují to i někteří experti v Česku.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že to zdůrazňují všichni experti v Česku.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že to zdůrazňují všichni experti v Česku.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že to zdůrazňují všichni experti v Česku.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že to všichni experti v Česku popírají.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že všichni experti v Česku pravidelně vystupují v televizi."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-24",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Mluví se o postojích majitelů továren vůči jejich podřízeným v historickém kontextu.",
+      "utterance": "Mluvčí: Někteří průmyslníci podlehli pokušení ovlivňovat smýšlení svých zaměstnanců.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že všichni průmyslníci podlehli pokušení ovlivňovat smýšlení svých zaměstnanců.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že všichni průmyslníci podlehli pokušení ovlivňovat myšlení svých zaměstnanců.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že všichni průmyslníci podlehli pokušení ovlivňovat myšlení svých zaměstnanců.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že všichni průmyslníci zvyšovali svým zaměstnancům mzdy.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že všichni průmyslníci nosili drahé cylindry."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    },
+    {
+      "id": "implicature-scalar-quant-declarative-25",
+      "phenomenon": "implicature",
+      "category": "scalar-quantifier",
+      "context": "Mluví se o vizuálních doplňcích lidí na společenském setkání pro osoby s poruchou autistického spektra.",
+      "utterance": "Mluvčí: Některým účastníkům se na batohu pohupuje měkký chlupatý přívěsek na klíče.",
+      "question": "",
+      "options": {
+        "implicature_true": "Mluvčí se nehlásí k tomu, že všem účastníkům se na batohu pohupuje měkký chlupatý přívěsek na klíče.",
+        "implicature_paraphrased": "Mluvčí se nehlásí k tomu, že se všem účastníkům na batohu pohupuje měkký chlupatý přívěsek.",
+        "DistractorNegation": "Mluvčí se hlásí k tomu, že se všem účastníkům na batohu pohupuje měkký chlupatý přívěsek.",
+        "DistractorLexicalEdit": "Mluvčí se nehlásí k tomu, že se všem účastníkům na batohu houpe reflexní páska.",
+        "DistractorAssociative0": "Mluvčí se nehlásí k tomu, že všichni účastníci přišli na setkání s doprovodem rodičů."
+      },
+      "meta_general": {
+        "corpus": "SYN2025",
+        "genre": "",
+        "extraction_method": "corpus_mining",
+        "note": ""
+      },
+      "meta_special": {
+        "trigger": "",
+        "subtype": "declarative"
+      }
+    }
+  ]

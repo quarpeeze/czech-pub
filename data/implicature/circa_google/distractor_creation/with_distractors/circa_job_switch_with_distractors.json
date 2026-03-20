@@ -1,0 +1,552 @@
+[
+    {
+      "id": 30,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Cestuješ v práci hodně?",
+      "answer_Y_cz": "Jednou týdně.",
+      "direct_answer_pos": "Ano, cestuju v práci hodně.",
+      "direct_answer_neg": "Ne, necestuju v práci hodně.",
+      "distractor_lexical": "Jednou týdně si v kanceláři zalévám květiny.",
+      "distractor_associative": "Služební cesty bývají často únavné."
+    },
+    {
+      "id": 51,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Máš práci blízko domova?",
+      "answer_Y_cz": "Je to hodinu cesty.",
+      "direct_answer_pos": "Ano, mám práci blízko domova.",
+      "direct_answer_neg": "Ne, nemám práci blízko domova.",
+      "distractor_lexical": "Je to hodinu cesty na nejbližší letiště.",
+      "distractor_associative": "Dojíždění hromadnou dopravou je levnější."
+    },
+    {
+      "id": 78,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Hledáš už dlouho?",
+      "answer_Y_cz": "Zrovna dneska jsem začal.",
+      "direct_answer_pos": "Ano, hledám už dlouho.",
+      "direct_answer_neg": "Ne, nehledám už dlouho.",
+      "distractor_lexical": "Zrovna dneska jsem si v práci zapomněl telefon.",
+      "distractor_associative": "Výpovědní lhůta trvá obvykle dva měsíce."
+    },
+    {
+      "id": 122,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Chceš pracovat pro jinou firmu?",
+      "answer_Y_cz": "Chci si založit vlastní podnik.",
+      "direct_answer_pos": "Ano, chci pracovat pro jinou firmu.",
+      "direct_answer_neg": "Ne, nechci pracovat pro jinou firmu.",
+      "distractor_lexical": "Chci si v pondělí vzít v práci dovolenou.",
+      "distractor_associative": "Vlastní podnikání vyžaduje dobrý plán."
+    },
+    {
+      "id": 162,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Chceš novou výzvu?",
+      "answer_Y_cz": "Výzva by byla skvělá.",
+      "direct_answer_pos": "Ano, chci novou výzvu.",
+      "direct_answer_neg": "Ne, nechci novou výzvu.",
+      "distractor_lexical": "Výzva k úhradě faktury mi přišla včera.",
+      "distractor_associative": "Změna zaměstnání přináší nové zkušenosti."
+    },
+    {
+      "id": 193,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Vycházíš se svými současnými kolegy?",
+      "answer_Y_cz": "S kolegy vycházíme docela dobře.",
+      "direct_answer_pos": "Ano, vycházím s nimi dobře.",
+      "direct_answer_neg": "Ne, nevycházím s nimi dobře.",
+      "distractor_lexical": "S kolegy z marketingu se uvidíme na obědě.",
+      "distractor_associative": "Dobré vztahy na pracovišti jsou důležité."
+    },
+    {
+      "id": 205,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Musíš v práci bývat dlouho do večera?",
+      "answer_Y_cz": "Často tam zůstávám jako poslední.",
+      "direct_answer_pos": "Ano, musím tam bývat dlouho.",
+      "direct_answer_neg": "Ne, nemusím tam bývat dlouho.",
+      "distractor_lexical": "Často tam v kuchyňce doplňuju papírové utěrky.",
+      "distractor_associative": "Práce přesčas bývá obvykle proplácena."
+    },
+    {
+      "id": 218,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Máš pětiletou praxi?",
+      "answer_Y_cz": "Jenom tři roky.",
+      "direct_answer_pos": "Ano, mám pětiletou praxi.",
+      "direct_answer_neg": "Ne, nemám pětiletou praxi.",
+      "distractor_lexical": "Jenom tři klíče od kanceláře mám u sebe.",
+      "distractor_associative": "Délka praxe ovlivňuje výši nástupního platu."
+    },
+    {
+      "id": 220,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Máš už nárok na povýšení?",
+      "answer_Y_cz": "Budu ho mít až za půl roku.",
+      "direct_answer_pos": "Ano, mám na něj nárok.",
+      "direct_answer_neg": "Ne, nemám na něj nárok.",
+      "distractor_lexical": "Budu v práci v pondělí až od deseti hodin.",
+      "distractor_associative": "Kariérní postup motivuje k lepším výsledkům."
+    },
+    {
+      "id": 242,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Je to pořád tak stresující?",
+      "answer_Y_cz": "Stresující je to jen málokdy.",
+      "direct_answer_pos": "Ano, je to pořád stresující.",
+      "direct_answer_neg": "Ne, není to stresující.",
+      "distractor_lexical": "Stresující situace v televizi mě vůbec nebaví.",
+      "distractor_associative": "Dlouhodobý stres škodí lidskému zdraví."
+    },
+    {
+      "id": 250,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Budeš vedoucím oddělení?",
+      "answer_Y_cz": "To místo už je obsazené.",
+      "direct_answer_pos": "Ano, budu vedoucím.",
+      "direct_answer_neg": "Ne, nebudu vedoucím.",
+      "distractor_lexical": "To místo u okna je v kanceláři nejlepší.",
+      "distractor_associative": "Vedoucí pozice vyžaduje manažerské dovednosti."
+    },
+    {
+      "id": 288,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Dělá ti starosti tvůj plat?",
+      "answer_Y_cz": "Je až příliš nízký.",
+      "direct_answer_pos": "Ano, dělá mi starosti.",
+      "direct_answer_neg": "Ne, nedělá mi starosti.",
+      "distractor_lexical": "Je až příliš horko na to, abychom tu seděli.",
+      "distractor_associative": "Platové ohodnocení je hlavním motivem změny."
+    },
+    {
+      "id": 303,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Chtěl bys v práci víc benefitů?",
+      "answer_Y_cz": "Bodlo by mi lepší hrazení zubaře.",
+      "direct_answer_pos": "Ano, chtěl bych víc benefitů.",
+      "direct_answer_neg": "Ne, nechtěl bych víc benefitů.",
+      "distractor_lexical": "Bodlo by mi v pondělí přijít do práce později.",
+      "distractor_associative": "Benefity zvyšují atraktivitu zaměstnavatele."
+    },
+    {
+      "id": 304,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Baví tě pracovat na lince?",
+      "answer_Y_cz": "Docela mě to naplňuje.",
+      "direct_answer_pos": "Ano, baví mě to.",
+      "direct_answer_neg": "Ne, nebaví mě to.",
+      "distractor_lexical": "Docela mě včera překvapilo to nové zadání.",
+      "distractor_associative": "Práce v továrně bývá často stereotypní."
+    },
+    {
+      "id": 306,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Máš nárok na povýšení?",
+      "answer_Y_cz": "Jsem na té nejvyšší pozici.",
+      "direct_answer_pos": "Ano, mám nárok.",
+      "direct_answer_neg": "Ne, nemám nárok.",
+      "distractor_lexical": "Jsem v téhle práci teprve dva krátké měsíce.",
+      "distractor_associative": "Hierarchie ve firmách bývá jasně daná."
+    },
+    {
+      "id": 328,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Zkusil jsi někdy práci venku?",
+      "answer_Y_cz": "Nikdy jsem nic takového nedělal.",
+      "direct_answer_pos": "Ano, zkusil jsem ji.",
+      "direct_answer_neg": "Ne, nezkusil jsem ji.",
+      "distractor_lexical": "Nikdy jsem v kanceláři nenechával klíče ve dveřích.",
+      "distractor_associative": "Práce na čerstvém vzduchu je fyzicky náročná."
+    },
+    {
+      "id": 348,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Máš to blízko domů?",
+      "answer_Y_cz": "Dojíždění mi trvá jen chvilku.",
+      "direct_answer_pos": "Ano, mám to blízko.",
+      "direct_answer_neg": "Ne, nemám to blízko.",
+      "distractor_lexical": "Dojíždění do obchodu je teď hrozně zdlouhavé.",
+      "distractor_associative": "Dostupnost práce ovlivňuje volbu bydliště."
+    },
+    {
+      "id": 349,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Trávíš čas u počítače?",
+      "answer_Y_cz": "U počítače sedím deset hodin denně.",
+      "direct_answer_pos": "Ano, trávím u počítače čas.",
+      "direct_answer_neg": "Ne, netrávím u počítače čas.",
+      "distractor_lexical": "U počítače v kuchyni si obvykle čtu recepty.",
+      "distractor_associative": "Práce s PC vyžaduje ergonomickou židli."
+    },
+    {
+      "id": 350,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Měl jsi fajn šéfy?",
+      "answer_Y_cz": "Moji nadřízení nebyli zrovna lidi, pod kterými se dalo dobře pracovat.",
+      "direct_answer_pos": "Ano, měl jsem fajn šéfy.",
+      "direct_answer_neg": "Ne, neměl jsem fajn šéfy.",
+      "distractor_lexical": "Moji nadřízení včera schválili ten nový projekt.",
+      "distractor_associative": "Vedení týmu má vliv na fluktuaci zaměstnanců."
+    },
+    {
+      "id": 370,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Je to ve stejném oboru?",
+      "answer_Y_cz": "Přecházím k něčemu úplně jinému.",
+      "direct_answer_pos": "Ano, je to ve stejném oboru.",
+      "direct_answer_neg": "Ne, není to ve stejném oboru.",
+      "distractor_lexical": "Přecházím přes cestu k té nové budově úřadu.",
+      "distractor_associative": "Rekvalifikace pomáhá najít uplatnění jinde."
+    },
+    {
+      "id": 371,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Hledáš něco náročnějšího?",
+      "answer_Y_cz": "To by bylo skvělé.",
+      "direct_answer_pos": "Ano, hledám něco náročnějšího.",
+      "direct_answer_neg": "Ne, nehledám nic náročnějšího.",
+      "distractor_lexical": "To by v pondělí v práci mělo konečně pršet.",
+      "distractor_associative": "Ambiciózní lidé vyhledávají profesní výzvy."
+    },
+    {
+      "id": 372,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Jsi na podpůrné pozici?",
+      "answer_Y_cz": "Vedu celé oddělení.",
+      "direct_answer_pos": "Ano, jsem na podpůrné pozici.",
+      "direct_answer_neg": "Ne, nejsem na podpůrné pozici.",
+      "distractor_lexical": "Vedu si v práci záznamy o všech schůzkách.",
+      "distractor_associative": "Administrativa tvoří základ každé kanceláře."
+    },
+    {
+      "id": 383,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Chceš zkusit něco nového?",
+      "answer_Y_cz": "Všechno ostatní už mi přijde takové ohrané.",
+      "direct_answer_pos": "Ano, chci zkusit něco nového.",
+      "direct_answer_neg": "Ne, nechci zkusit nic nového.",
+      "distractor_lexical": "Všechno ostatní v kanceláři jsme už včera uklidili.",
+      "distractor_associative": "Stereotyp v práci vede k demotivaci."
+    },
+    {
+      "id": 384,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Hledáš ve stejném oboru?",
+      "answer_Y_cz": "Pořád chci pracovat v tom stejném oboru.",
+      "direct_answer_pos": "Ano, hledám ve stejném oboru.",
+      "direct_answer_neg": "Ne, nehledám ve stejném oboru.",
+      "distractor_lexical": "Pořád mi v práci nefunguje ten starý skener.",
+      "distractor_associative": "Odbornost se buduje dlouholetou praxí v oboru."
+    },
+    {
+      "id": 423,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Zkusila jsi tuhle práci už někdy dřív?",
+      "answer_Y_cz": "V tomhle jsem profík.",
+      "direct_answer_pos": "Ano, zkusila jsem ji.",
+      "direct_answer_neg": "Ne, nezkusila jsem ji.",
+      "distractor_lexical": "V tomhle novém křesle se sedí hrozně dobře.",
+      "distractor_associative": "Zkušenosti jsou pro zaměstnavatele klíčové."
+    },
+    {
+      "id": 428,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Budeš pracovat na plný úvazek?",
+      "answer_Y_cz": "Zatím je to jen na zkrácený.",
+      "direct_answer_pos": "Ano, budu pracovat na plný úvazek.",
+      "direct_answer_neg": "Ne, nebudu pracovat na plný úvazek.",
+      "distractor_lexical": "Zatím je v kanceláři hrobové ticho a klid.",
+      "distractor_associative": "Zkrácený úvazek je vhodný pro rodiče s dětmi."
+    },
+    {
+      "id": 441,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Býváš v práci dlouho?",
+      "answer_Y_cz": "Většinou pracuju padesát hodin týdně.",
+      "direct_answer_pos": "Ano, bývám tam dlouho.",
+      "direct_answer_neg": "Ne, nebývám tam dlouho.",
+      "distractor_lexical": "Většinou piju v práci jenom neslazený čaj.",
+      "distractor_associative": "Dlouhá pracovní doba omezuje volný čas."
+    },
+    {
+      "id": 474,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Nemáš ráda svou šéfovou?",
+      "answer_Y_cz": "Ona mě taky zrovna nemusí.",
+      "direct_answer_pos": "Ano, nemám ji ráda.",
+      "direct_answer_neg": "Ne, mám ji ráda.",
+      "distractor_lexical": "Ona včera v kuchyňce zapomněla svůj hrnek.",
+      "distractor_associative": "Konflikty s nadřízeným bývají častým důvodem odchodu."
+    },
+    {
+      "id": 478,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Musíš dojíždět daleko?",
+      "answer_Y_cz": "Byla by to docela dlouhá cesta.",
+      "direct_answer_pos": "Ano, musím dojíždět daleko.",
+      "direct_answer_neg": "Ne, nemusím dojíždět daleko.",
+      "distractor_lexical": "Byla včera v kanceláři docela velká oslava.",
+      "distractor_associative": "Vzdálenost do práce ovlivňuje únavu zaměstnance."
+    },
+    {
+      "id": 503,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Bavila tě tvoje předchozí práce?",
+      "answer_Y_cz": "Nesnášel jsem ji, proto jsem potřeboval změnu.",
+      "direct_answer_pos": "Ano, bavila mě.",
+      "direct_answer_neg": "Ne, nebavila mě.",
+      "distractor_lexical": "Nesnášel jsem včera v práci tu hroznou zimu.",
+      "distractor_associative": "Nespokojenost v práci vede k hledání nových cest."
+    },
+    {
+      "id": 507,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Pracuješ s hodně lidmi?",
+      "answer_Y_cz": "Náš tým je malý.",
+      "direct_answer_pos": "Ano, pracuju s hodně lidmi.",
+      "direct_answer_neg": "Ne, nepracuju s hodně lidmi.",
+      "distractor_lexical": "Náš tým včera vyhrál ten velký firemní turnaj.",
+      "distractor_associative": "Práce v týmu vyžaduje schopnost komunikace."
+    },
+    {
+      "id": 555,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Je to technická pozice?",
+      "answer_Y_cz": "Ta pozice je kreativní.",
+      "direct_answer_pos": "Ano, je to technická pozice.",
+      "direct_answer_neg": "Ne, není to technická pozice.",
+      "distractor_lexical": "Ta pozice u okna je v zimě hrozně chladná.",
+      "distractor_associative": "Kreativní profese nabízejí prostor pro sebevyjádření."
+    },
+    {
+      "id": 564,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Vzal jsi si někdy neschopenku, i když ti nic nebylo?",
+      "answer_Y_cz": "Nedovedu si představit, že bych něco takového udělal.",
+      "direct_answer_pos": "Ano, vzal jsem si ji.",
+      "direct_answer_neg": "Ne, nevzal jsem si ji.",
+      "distractor_lexical": "Nedovedu si v pondělí v práci najít volnou židli.",
+      "distractor_associative": "Zneužívání nemocenské je porušením pracovní kázně."
+    },
+    {
+      "id": 571,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Pracoval jsi v tomhle oboru vždycky?",
+      "answer_Y_cz": "V tomhle oboru nemám žádnou praxi.",
+      "direct_answer_pos": "Ano, pracoval jsem v něm vždycky.",
+      "direct_answer_neg": "Ne, nepracoval jsem v něm vždycky.",
+      "distractor_lexical": "V tomhle novém skladu máme hromadu prázdných krabic.",
+      "distractor_associative": "Odborná praxe je v inzerátech často vyžadována."
+    },
+    {
+      "id": 578,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Vyžaduje tvoje práce cestování?",
+      "answer_Y_cz": "Jenom to dojíždění.",
+      "direct_answer_pos": "Ano, vyžaduje cestování.",
+      "direct_answer_neg": "Ne, nevyžaduje cestování.",
+      "distractor_lexical": "Jenom to pondělní ráno bývá v práci náročné.",
+      "distractor_associative": "Cestování za prací může být finančně nákladné."
+    },
+    {
+      "id": 596,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Děláš vedoucího?",
+      "answer_Y_cz": "Jsem manažer.",
+      "direct_answer_pos": "Ano, dělám vedoucího.",
+      "direct_answer_neg": "Ne, nedělám vedoucího.",
+      "distractor_lexical": "Jsem v pondělí ráno v práci obvykle jako první.",
+      "distractor_associative": "Manažerské pozice nesou velkou odpovědnost."
+    },
+    {
+      "id": 627,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Máš práci blízko domova?",
+      "answer_Y_cz": "Mám to daleko, čeká mě dlouhé dojíždění.",
+      "direct_answer_pos": "Ano, mám práci blízko domova.",
+      "direct_answer_neg": "Ne, nemám práci blízko domova.",
+      "distractor_lexical": "Mám v autě včera zapomenuté pracovní složky.",
+      "distractor_associative": "Čas strávený na cestě do práce se neproplácí."
+    },
+    {
+      "id": 636,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Musíš v práci tahat těžké věci?",
+      "answer_Y_cz": "Sedím u stolu, takže nic nezvedám.",
+      "direct_answer_pos": "Ano, musím tahat těžké věci.",
+      "direct_answer_neg": "Ne, nemusím tahat těžké věci.",
+      "distractor_lexical": "Sedím u okna a pozoruju lidi na ulici.",
+      "distractor_associative": "Fyzická práce vyžaduje dobrou tělesnou kondici."
+    },
+    {
+      "id": 655,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Je tam dobrý plat?",
+      "answer_Y_cz": "Mám skvělou mzdu.",
+      "direct_answer_pos": "Ano, je tam dobrý plat.",
+      "direct_answer_neg": "Ne, není tam dobrý plat.",
+      "distractor_lexical": "Mám v šuplíku skvělou sbírku starých známek.",
+      "distractor_associative": "Mzda se obvykle vyplácí k patnáctému dni v měsíci."
+    },
+    {
+      "id": 689,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Hledáš něco intelektuálně náročnějšího?",
+      "answer_Y_cz": "V poslední době jsem se nudil.",
+      "direct_answer_pos": "Ano, hledám.",
+      "direct_answer_neg": "Ne, nehledám.",
+      "distractor_lexical": "V poslední řadě v kině se sedí nejlépe.",
+      "distractor_associative": "Intelektuální práce vyžaduje neustálé vzdělávání."
+    },
+    {
+      "id": 729,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Potřebuješ na tu práci vysokou školu?",
+      "answer_Y_cz": "Vyžadují bakaláře.",
+      "direct_answer_pos": "Ano, potřebuju.",
+      "direct_answer_neg": "Ne, nepotřebuju.",
+      "distractor_lexical": "Vyžadují v pondělí ráno včasný příchod do kanceláře.",
+      "distractor_associative": "Vysokoškolský titul otevírá cestu k lepším pozicím."
+    },
+    {
+      "id": 734,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Je to v technice?",
+      "answer_Y_cz": "Pracuju v umění.",
+      "direct_answer_pos": "Ano, je to v technice.",
+      "direct_answer_neg": "Ne, není to v technice.",
+      "distractor_lexical": "Pracuju v pondělí obvykle až do pozdního večera.",
+      "distractor_associative": "Technické obory jsou na trhu práce velmi žádané."
+    },
+    {
+      "id": 735,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Jsi se svými současnými kolegy spokojený?",
+      "answer_Y_cz": "Všichni jsou hrozně ochotní!",
+      "direct_answer_pos": "Ano, jsem spokojený.",
+      "direct_answer_neg": "Ne, nejsem spokojený.",
+      "distractor_lexical": "Všichni v kanceláři včera jedli ty sladké koláče.",
+      "distractor_associative": "Kolektiv na pracovišti ovlivňuje celkovou spokojenost."
+    },
+    {
+      "id": 744,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Jsi už teď vedoucí?",
+      "answer_Y_cz": "Brzy budu.",
+      "direct_answer_pos": "Ano, jsem vedoucí.",
+      "direct_answer_neg": "Ne, nejsem vedoucí.",
+      "distractor_lexical": "Brzy v naší firmě proběhne velká rekonstrukce.",
+      "distractor_associative": "Vedoucí zaměstnanci musí umět delegovat úkoly."
+    },
+    {
+      "id": 762,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Pracuješ někdy z domova?",
+      "answer_Y_cz": "Už jsem to zkoušel, ale moc mě to nebaví.",
+      "direct_answer_pos": "Ano, pracuju z domova.",
+      "direct_answer_neg": "Ne, nepracuju z domova.",
+      "distractor_lexical": "Už jsem včera v práci konečně opravil tu tiskárnu.",
+      "distractor_associative": "Home office se v mnoha firmách stal standardním benefitem."
+    },
+    {
+      "id": 777,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Pracuješ rád s lidmi?",
+      "answer_Y_cz": "Je fajn mít kolem sebe tým.",
+      "direct_answer_pos": "Ano, pracuju rád s lidmi.",
+      "direct_answer_neg": "Ne, nepracuju rád s lidmi.",
+      "distractor_lexical": "Je fajn v pondělí ráno v kanceláři vyvětrat.",
+      "distractor_associative": "Práce s lidmi vyžaduje velkou dávku trpělivosti."
+    },
+    {
+      "id": 784,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Pracuješ ve své firmě už dlouho?",
+      "answer_Y_cz": "Tohle bude můj devatenáctý rok.",
+      "direct_answer_pos": "Ano, pracuju tam dlouho.",
+      "direct_answer_neg": "Ne, nepracuju tam dlouho.",
+      "distractor_lexical": "Tohle bude v pondělí v práci hodně náročný den.",
+      "distractor_associative": "Loajalita k firmě se v dnešní době cení čím dál méně."
+    },
+    {
+      "id": 809,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Chtěl bys vlastní kancelář?",
+      "answer_Y_cz": "Místo s dveřmi, které můžu zavřít, by bylo super.",
+      "direct_answer_pos": "Ano, chtěl bych.",
+      "direct_answer_neg": "Ne, nechtěl bych.",
+      "distractor_lexical": "Místo v lednici u nás v kuchyňce už vůbec není.",
+      "distractor_associative": "Open space kanceláře bývají často velmi hlučné."
+    },
+    {
+      "id": 815,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Zahrnuje tvoje práce služby zákazníkům?",
+      "answer_Y_cz": "Se zákazníky jednat nemusím.",
+      "direct_answer_pos": "Ano, zahrnuje.",
+      "direct_answer_neg": "Ne, nezahrnuje.",
+      "distractor_lexical": "Se zákazníky v naší jídelně se včera nikdo nebavil.",
+      "distractor_associative": "Zákaznický servis vyžaduje výborné komunikační dovednosti."
+    },
+    {
+      "id": 841,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Pracuješ rád s počítači?",
+      "answer_Y_cz": "Práce s počítači je jednodušší než práce s lidmi.",
+      "direct_answer_pos": "Ano, pracuju s nimi rád.",
+      "direct_answer_neg": "Ne, nepracuju s nimi rád.",
+      "distractor_lexical": "Práce v tomhle novém skladu je hrozně náročná.",
+      "distractor_associative": "Počítačová gramotnost je dnes základním požadavkem."
+    },
+    {
+      "id": 887,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Máš ranní směny?",
+      "answer_Y_cz": "Dělám noční.",
+      "direct_answer_pos": "Ano, mám ranní směny.",
+      "direct_answer_neg": "Ne, nemám ranní směny.",
+      "distractor_lexical": "Dělám v pondělí ráno v práci pořádek v papírech.",
+      "distractor_associative": "Práce na směny negativně ovlivňuje spánkový cyklus."
+    },
+    {
+      "id": 901,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Zajímal by tě úplně jiný obor?",
+      "answer_Y_cz": "Moc rád bych zkusil něco nového.",
+      "direct_answer_pos": "Ano, zajímal.",
+      "direct_answer_neg": "Ne, nezajímal.",
+      "distractor_lexical": "Moc často v naší kuchyňce v práci neuklízíme.",
+      "distractor_associative": "Změna kariéry je v dnešní době běžným životním krokem."
+    },
+    {
+      "id": 917,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Chceš z té práce odejít?",
+      "answer_Y_cz": "Tento týden rozesílám životopisy.",
+      "direct_answer_pos": "Ano, chci.",
+      "direct_answer_neg": "Ne, nechci.",
+      "distractor_lexical": "Tento týden v kanceláři nefunguje v kuse internet.",
+      "distractor_associative": "Kvalitní životopis je vizitkou každého uchazeče o práci."
+    },
+    {
+      "id": 918,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Myslíš, že ta druhá práce ti nabídne víc?",
+      "answer_Y_cz": "Platí tam víc.",
+      "direct_answer_pos": "Ano, myslím si to.",
+      "direct_answer_neg": "Ne, nemyslím si to.",
+      "distractor_lexical": "Platí v téhle budově v noci přísná bezpečnostní pravidla.",
+      "distractor_associative": "Mzdové podmínky jsou hlavním faktorem při výběru zaměstnání."
+    },
+    {
+      "id": 930,
+      "context_cz": "Y právě řekl X, že zvažuje změnu práce.",
+      "question_X_cz": "Rozumíš počítačům?",
+      "answer_Y_cz": "Na počítačích jsem vyrostl.",
+      "direct_answer_pos": "Ano, rozumím jim.",
+      "direct_answer_neg": "Ne, nerozumím jim.",
+      "distractor_lexical": "Na počítačích u nás v práci je hrozně moc prachu.",
+      "distractor_associative": "Programování patří k nejlépe placeným profesím na trhu."
+    }
+  ]

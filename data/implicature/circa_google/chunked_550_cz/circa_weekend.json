@@ -1,0 +1,387 @@
+[
+    {
+      "id": 3,
+      "question_X": "Would you like to get some fresh air in your free time?",
+      "answer_Y": "I am desperate to get out of the city.",
+      "question_X_cz": "Chtěl byste se ve volném čase dostat na čerstvý vzduch?",
+      "answer_Y_cz": "Zoufale se potřebuju dostat ven z města."
+    },
+    {
+      "id": 12,
+      "question_X": "Do you enjoy playing any sports?",
+      "answer_Y": "Basketball is a lot of fun.",
+      "question_X_cz": "Baví tě hrát nějaké sporty?",
+      "answer_Y_cz": "Basketbal je super zábava."
+    },
+    {
+      "id": 18,
+      "question_X": "Do you like any sports?",
+      "answer_Y": "Tennis is fun to play.",
+      "question_X_cz": "Máš rád nějaké sporty?",
+      "answer_Y_cz": "Tenis se hraje skvěle."
+    },
+    {
+      "id": 21,
+      "question_X": "Do you enjoy art?",
+      "answer_Y": "Going to art museums is my favorite pastime.",
+      "question_X_cz": "Máte ráda umění?",
+      "answer_Y_cz": "Chození do muzeí umění je moje nejoblíbenější zábava."
+    },
+    {
+      "id": 24,
+      "question_X": "Do you like sports?",
+      "answer_Y": "I play tennis every weekend.",
+      "question_X_cz": "Máš rád sporty?",
+      "answer_Y_cz": "Hraju tenis každý víkend."
+    },
+    {
+      "id": 57,
+      "question_X": "Have you been bowling before?",
+      "answer_Y": "Years ago, and haven't been back since.",
+      "question_X_cz": "Byl jsi už někdy na bowlingu?",
+      "answer_Y_cz": "Před lety, a od té doby jsem tam nebyl."
+    },
+    {
+      "id": 61,
+      "question_X": "Do you like being outdoors?",
+      "answer_Y": "I prefer outdoors",
+      "question_X_cz": "Jsi rád venku?",
+      "answer_Y_cz": "Venku je mi líp."
+    },
+    {
+      "id": 79,
+      "question_X": "Do you play golf on weekends?",
+      "answer_Y": "I vowed I'd never play golf.",
+      "question_X_cz": "Hraješ o víkendech golf?",
+      "answer_Y_cz": "Zařekl jsem se, že golf nikdy hrát nebudu."
+    },
+    {
+      "id": 116,
+      "question_X": "Do you like being creative?",
+      "answer_Y": "I like to draw.",
+      "question_X_cz": "Tvoříte ráda něco kreativního?",
+      "answer_Y_cz": "Ráda kreslím."
+    },
+    {
+      "id": 130,
+      "question_X": "Are you in any weekend leisure sports teams?",
+      "answer_Y": "I'm in a city volleyball league.",
+      "question_X_cz": "Jsi v nějakém víkendovém sportovním týmu?",
+      "answer_Y_cz": "Hraju městskou volejbalovou ligu."
+    },
+    {
+      "id": 135,
+      "question_X": "Do you like arts and crafts?",
+      "answer_Y": "It's my favorite pastime.",
+      "question_X_cz": "Baví tě ruční práce?",
+      "answer_Y_cz": "Je to moje nejoblíbenější činnost."
+    },
+    {
+      "id": 152,
+      "question_X": "Do you have any pets?",
+      "answer_Y": "My cat just turned one year old.",
+      "question_X_cz": "Máš nějaké domácí mazlíčky?",
+      "answer_Y_cz": "Moje kočka zrovna oslavila rok."
+    },
+    {
+      "id": 172,
+      "question_X": "Are you into the outdoors?",
+      "answer_Y": "I prefer it to being indoors",
+      "question_X_cz": "Táhlo tě to vždycky ven do přírody?",
+      "answer_Y_cz": "Mám to radši než být zavřený doma."
+    },
+    {
+      "id": 196,
+      "question_X": "Have you been to that new restaurant?",
+      "answer_Y": "I've been really busy lately.",
+      "question_X_cz": "Už jste byl v té nové restauraci?",
+      "answer_Y_cz": "V poslední době jsem měl hrozně moc práce."
+    },
+    {
+      "id": 203,
+      "question_X": "Are you going to the high school football game tonight?",
+      "answer_Y": "I'd rather do anything else.",
+      "question_X_cz": "Jdeš dneska večer na ten středoškolský fotbal?",
+      "answer_Y_cz": "To bych radši dělal cokoli jiného."
+    },
+    {
+      "id": 212,
+      "question_X": "Are you looking to meet people?",
+      "answer_Y": "I'm happy on my own.",
+      "question_X_cz": "Chceš se s někým seznámit?",
+      "answer_Y_cz": "Jsem spokojený o samotě."
+    },
+    {
+      "id": 234,
+      "question_X": "Do you play football on weekends?",
+      "answer_Y": "I gave that up.",
+      "question_X_cz": "Hraješ o víkendech fotbal?",
+      "answer_Y_cz": "S tím už jsem seknul."
+    },
+    {
+      "id": 237,
+      "question_X": "Do you follow the local sports teams?",
+      "answer_Y": "I do have a team I follow",
+      "question_X_cz": "Sleduješ místní sportovní týmy?",
+      "answer_Y_cz": "Mám jeden tým, kterému fandím."
+    },
+    {
+      "id": 238,
+      "question_X": "Are you entering the christmas parade?",
+      "answer_Y": "I've got no plans to do so.",
+      "question_X_cz": "Půjdete v tom vánočním průvodu?",
+      "answer_Y_cz": "Vůbec to nemám v plánu."
+    },
+    {
+      "id": 253,
+      "question_X": "Do you prefer to relax on the weekends?",
+      "answer_Y": "I pack my weekends with activities.",
+      "question_X_cz": "Odpočíváš o víkendech raději?",
+      "answer_Y_cz": "Víkendy mám nabité aktivitami."
+    },
+    {
+      "id": 256,
+      "question_X": "Are you free this weekend?",
+      "answer_Y": "I have a full weekend.",
+      "question_X_cz": "Máš tento víkend čas?",
+      "answer_Y_cz": "Mám celý víkend plno."
+    },
+    {
+      "id": 265,
+      "question_X": "Are you dating anyone right now?",
+      "answer_Y": "I have been married for several years.",
+      "question_X_cz": "Randíš teď s někým?",
+      "answer_Y_cz": "Jsem už několik let ženatý."
+    },
+    {
+      "id": 295,
+      "question_X": "Do you like going to movies?",
+      "answer_Y": "It's one of my hobbies",
+      "question_X_cz": "Chodíš rád do kina?",
+      "answer_Y_cz": "Je to jeden z mých koníčků."
+    },
+    {
+      "id": 298,
+      "question_X": "Can you swim?",
+      "answer_Y": "I swim like a fish.",
+      "question_X_cz": "Umíš plavat?",
+      "answer_Y_cz": "Plavu jako ryba."
+    },
+    {
+      "id": 311,
+      "question_X": "Do you like to take some time for yourself on the weekends?",
+      "answer_Y": "It's important to me.",
+      "question_X_cz": "Vyhradíte si o víkendu čas jen pro sebe?",
+      "answer_Y_cz": "Je to pro mě důležité."
+    },
+    {
+      "id": 313,
+      "question_X": "Are you into art and culture?",
+      "answer_Y": "I have an interest in it",
+      "question_X_cz": "Zajímáš se o umění a kulturu?",
+      "answer_Y_cz": "Docela mě to zajímá."
+    },
+    {
+      "id": 318,
+      "question_X": "Do you enjoy the theater?",
+      "answer_Y": "I love live performances.",
+      "question_X_cz": "Baví vás divadlo?",
+      "answer_Y_cz": "Miluju živá představení."
+    },
+    {
+      "id": 366,
+      "question_X": "Would you ever be willing to volunteer?",
+      "answer_Y": "That's a terrible idea.",
+      "question_X_cz": "Byl byste ochotný dělat dobrovolníka?",
+      "answer_Y_cz": "To je hrozný nápad."
+    },
+    {
+      "id": 369,
+      "question_X": "Would you like to go out for a drink?",
+      "answer_Y": "Let's go to your favorite bar.",
+      "question_X_cz": "Nezašel bys na drink?",
+      "answer_Y_cz": "Pojďme do tvého oblíbeného baru."
+    },
+    {
+      "id": 377,
+      "question_X": "Are you partying this weekend?",
+      "answer_Y": "I'm going to go out every night.",
+      "question_X_cz": "Chystáš se o víkendu pařit?",
+      "answer_Y_cz": "Plánuju vyrazit ven každý večer."
+    },
+    {
+      "id": 387,
+      "question_X": "Do you like to run?",
+      "answer_Y": "I can't stop running.",
+      "question_X_cz": "Běháš rád?",
+      "answer_Y_cz": "Nemůžu s běháním přestat."
+    },
+    {
+      "id": 409,
+      "question_X": "Do you have a lot of free time on the weekends?",
+      "answer_Y": "The kids keep me busy.",
+      "question_X_cz": "Máš o víkendech hodně volného času?",
+      "answer_Y_cz": "Děti mě zaměstnávají naplno."
+    },
+    {
+      "id": 430,
+      "question_X": "Are you a fan of mountain climbing?",
+      "answer_Y": "I prefer swimming.",
+      "question_X_cz": "Fandíš horolezectví?",
+      "answer_Y_cz": "Mám radši plavání."
+    },
+    {
+      "id": 438,
+      "question_X": "Do you like to drink?",
+      "answer_Y": "I usually have a cocktail on the weekend.",
+      "question_X_cz": "Piješ rád?",
+      "answer_Y_cz": "O víkendu si většinou nějaký koktejl dám."
+    },
+    {
+      "id": 451,
+      "question_X": "Do you enjoy being outdoor?",
+      "answer_Y": "I love to hike and ski.",
+      "question_X_cz": "Baví tě být venku?",
+      "answer_Y_cz": "Hrozně rád chodím na túry a lyžuju."
+    },
+    {
+      "id": 480,
+      "question_X": "Have you been downtown to any of the museums?",
+      "answer_Y": "I'm a member of the art museum.",
+      "question_X_cz": "Byl jsi v centru v některém z muzeí?",
+      "answer_Y_cz": "Mám členství v muzeu umění."
+    },
+    {
+      "id": 494,
+      "question_X": "Do you like arts and crafts?",
+      "answer_Y": "I often knit things.",
+      "question_X_cz": "Baví tě ruční práce?",
+      "answer_Y_cz": "Často pletu."
+    },
+    {
+      "id": 561,
+      "question_X": "Is karaoke something you enjoy?",
+      "answer_Y": "I find it extremely embarrassing.",
+      "question_X_cz": "Baví tě karaoke?",
+      "answer_Y_cz": "Přijde mi to strašně trapné."
+    },
+    {
+      "id": 580,
+      "question_X": "Will you be participating in any sporting activities on Saturday ?",
+      "answer_Y": "I have a root canal scheduled that day.",
+      "question_X_cz": "Budeš se v sobotu účastnit nějakých sportovních aktivit?",
+      "answer_Y_cz": "Na ten den mám naplánované čištění kanálků u zubaře."
+    },
+    {
+      "id": 602,
+      "question_X": "Do you enjoy Alamo draft house?",
+      "answer_Y": "I am a regular there.",
+      "question_X_cz": "Máš rád Alamo Draft House?",
+      "answer_Y_cz": "Chodím tam pravidelně."
+    },
+    {
+      "id": 603,
+      "question_X": "Do you ever go hiking?",
+      "answer_Y": "I've done it once or twice",
+      "question_X_cz": "Chodíš někdy na túry?",
+      "answer_Y_cz": "Jednou nebo dvakrát jsem byl."
+    },
+    {
+      "id": 621,
+      "question_X": "Is shopping up your alley?",
+      "answer_Y": "I prefer free activities.",
+      "question_X_cz": "Je nakupování tvoje parketa?",
+      "answer_Y_cz": "Mám radši aktivity, co jsou zadarmo."
+    },
+    {
+      "id": 646,
+      "question_X": "Do you like to swim?",
+      "answer_Y": "I swim on a weekly basis.",
+      "question_X_cz": "Plaveš rád?",
+      "answer_Y_cz": "Chodím plavat každý týden."
+    },
+    {
+      "id": 722,
+      "question_X": "Are you into hiking?",
+      "answer_Y": "I was never into hiking",
+      "question_X_cz": "Baví tě turistika?",
+      "answer_Y_cz": "Té jsem nikdy nepřišel na chuť."
+    },
+    {
+      "id": 723,
+      "question_X": "Want to go to the farmer's market with me this weekend?",
+      "answer_Y": "I need to pick up some onions.",
+      "question_X_cz": "Nechceš jít se mnou o víkendu na farmářské trhy?",
+      "answer_Y_cz": "Potřebuju koupit cibuli."
+    },
+    {
+      "id": 727,
+      "question_X": "Do you like art galleries and museums?",
+      "answer_Y": "I can't think of a better Saturday.",
+      "question_X_cz": "Máte ráda galerie a muzea?",
+      "answer_Y_cz": "Lepší sobotu si ani nedokážu představit."
+    },
+    {
+      "id": 732,
+      "question_X": "Would you like to be outdoors?",
+      "answer_Y": "I love being outside.",
+      "question_X_cz": "Chtěl byste být venku?",
+      "answer_Y_cz": "Venku jsem hrozně rád."
+    },
+    {
+      "id": 733,
+      "question_X": "Do you like being out on the water?",
+      "answer_Y": "I'm scared of drowning.",
+      "question_X_cz": "Jste rád na vodě?",
+      "answer_Y_cz": "Mám strach, že se utopím."
+    },
+    {
+      "id": 757,
+      "question_X": "Do you ever go hanging out at the local bar?",
+      "answer_Y": "Every weekend",
+      "question_X_cz": "Chodíváš do místního baru?",
+      "answer_Y_cz": "Každý víkend."
+    },
+    {
+      "id": 759,
+      "question_X": "Do you like trivia?",
+      "answer_Y": "I'm a trivia champion.",
+      "question_X_cz": "Máš rád vědomostní kvízy?",
+      "answer_Y_cz": "Jsem šampion v pub kvízech."
+    },
+    {
+      "id": 781,
+      "question_X": "Do you enjoy outdoor activities?",
+      "answer_Y": "I love to feel the wind in my face and the sun on my back.",
+      "question_X_cz": "Baví vás outdoorové aktivity?",
+      "answer_Y_cz": "Miluju, když mi vítr fouká do tváře a slunce hřeje do zad."
+    },
+    {
+      "id": 790,
+      "question_X": "Have you ever gone kayaking?",
+      "answer_Y": "I've kayaked in Sweden.",
+      "question_X_cz": "Byl jsi někdy na kajaku?",
+      "answer_Y_cz": "Jezdil jsem na kajaku ve Švédsku."
+    },
+    {
+      "id": 803,
+      "question_X": "Are you planning to have a busy weekend?",
+      "answer_Y": "More of a quiet one",
+      "question_X_cz": "Plánuješ mít nabitý víkend?",
+      "answer_Y_cz": "Spíš takový klidnější."
+    },
+    {
+      "id": 805,
+      "question_X": "Have you seen the new Stephen King movie?",
+      "answer_Y": "Chapter Two of It  was one of the best films I have seen recently.",
+      "question_X_cz": "Viděl jsi ten nový film podle Stephena Kinga?",
+      "answer_Y_cz": "Druhá kapitola To byl jeden z nejlepších filmů, co jsem v poslední době viděl."
+    },
+    {
+      "id": 821,
+      "question_X": "Are outside activities something you enjoy?",
+      "answer_Y": "I love strolling through a meadow.",
+      "question_X_cz": "Baví tě venkovní aktivity?",
+      "answer_Y_cz": "Miluju procházky po louce."
+    }
+  ]

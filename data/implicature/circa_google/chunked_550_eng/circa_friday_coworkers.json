@@ -1,0 +1,277 @@
+[
+  {
+    "id": 44,
+    "question_X": "Has this work week gone quickly for you?",
+    "answer_Y": "It's gone very slowly."
+  },
+  {
+    "id": 48,
+    "question_X": "Do you want me to walk you to your car?",
+    "answer_Y": "That would be really nice, thanks."
+  },
+  {
+    "id": 94,
+    "question_X": "Do you have a date?",
+    "answer_Y": "I'm meeting my kids."
+  },
+  {
+    "id": 112,
+    "question_X": "Will you be at work tomorrow?",
+    "answer_Y": "I never work on weekends."
+  },
+  {
+    "id": 132,
+    "question_X": "Are you going out tonight?",
+    "answer_Y": "I am not"
+  },
+  {
+    "id": 145,
+    "question_X": "Want to grab something to eat?",
+    "answer_Y": "Let's get tacos."
+  },
+  {
+    "id": 149,
+    "question_X": "Want to go get a drink??",
+    "answer_Y": "I want to have 3 drinks."
+  },
+  {
+    "id": 166,
+    "question_X": "Is it the end of the day already?",
+    "answer_Y": "It's hard to believe."
+  },
+  {
+    "id": 169,
+    "question_X": "Do you have a date?",
+    "answer_Y": "I have a date with my wife."
+  },
+  {
+    "id": 186,
+    "question_X": "Are you doing something fun this weekend?",
+    "answer_Y": "We're going to the zoo."
+  },
+  {
+    "id": 204,
+    "question_X": "Got anything going on on Saturday?",
+    "answer_Y": "I am planting the garden."
+  },
+  {
+    "id": 210,
+    "question_X": "Do you work near by?",
+    "answer_Y": "We work together."
+  },
+  {
+    "id": 264,
+    "question_X": "Will you be going out at the weekend ?",
+    "answer_Y": "I'm headed out to the slopes."
+  },
+  {
+    "id": 266,
+    "question_X": "Are you ready for the weekend?",
+    "answer_Y": "I certainly am"
+  },
+  {
+    "id": 282,
+    "question_X": "Will you be in tomorrow?",
+    "answer_Y": "I don't come back till next week."
+  },
+  {
+    "id": 285,
+    "question_X": "Are you going out this weekend?",
+    "answer_Y": "I'm going out of town."
+  },
+  {
+    "id": 316,
+    "question_X": "Do you want to walk to the bus stop together?",
+    "answer_Y": "That would be nice."
+  },
+  {
+    "id": 334,
+    "question_X": "Do you have your keys?",
+    "answer_Y": "I forgot them upstairs."
+  },
+  {
+    "id": 336,
+    "question_X": "Do you want to hang out later?",
+    "answer_Y": "I could do with a stiff drink."
+  },
+  {
+    "id": 339,
+    "question_X": "Are you spending time with friends or family over the weekend?",
+    "answer_Y": "I have too much work to do."
+  },
+  {
+    "id": 359,
+    "question_X": "Are you doing anything fun tonight?",
+    "answer_Y": "I'm going to hit the hay early."
+  },
+  {
+    "id": 382,
+    "question_X": "Heading home?",
+    "answer_Y": "I am off to the horse track."
+  },
+  {
+    "id": 401,
+    "question_X": "Do you have your kids this weekend?",
+    "answer_Y": "They are at their dad's house."
+  },
+  {
+    "id": 415,
+    "question_X": "Wanna hang out at the weekend?",
+    "answer_Y": "I'm going out of town."
+  },
+  {
+    "id": 417,
+    "question_X": "Is your department busy this time of year?",
+    "answer_Y": "There's not much work."
+  },
+  {
+    "id": 418,
+    "question_X": "Have you made dinner plans yet?",
+    "answer_Y": "I have reservations at the new French place."
+  },
+  {
+    "id": 419,
+    "question_X": "Would hanging out this weekend be something you're into?",
+    "answer_Y": "I don't think I have time this weekend."
+  },
+  {
+    "id": 440,
+    "question_X": "Hey if you're up to it, would you like to hit the gym with me in the morning?",
+    "answer_Y": "I'm already going to a yoga class."
+  },
+  {
+    "id": 442,
+    "question_X": "Have you tried the new restaurant by work?",
+    "answer_Y": "I haven't, but I've heard good things."
+  },
+  {
+    "id": 446,
+    "question_X": "Do you get along with our colleagues?",
+    "answer_Y": "They're wonderful."
+  },
+  {
+    "id": 449,
+    "question_X": "Do you plan on going home?",
+    "answer_Y": "I have errands to run first."
+  },
+  {
+    "id": 450,
+    "question_X": "Do you have house chores to do this weekend?",
+    "answer_Y": "I've got to tidy up my kitchen this weekend."
+  },
+  {
+    "id": 455,
+    "question_X": "Do you find your coworkers pleasant?",
+    "answer_Y": "I'd say they are very amicable."
+  },
+  {
+    "id": 490,
+    "question_X": "Do you want me to walk you to your car?",
+    "answer_Y": "If you don't mind."
+  },
+  {
+    "id": 495,
+    "question_X": "Want to go to the movies?",
+    "answer_Y": "I'd rather go to the mall."
+  },
+  {
+    "id": 514,
+    "question_X": "Do you have to work your other job this weekend?",
+    "answer_Y": "I am on holidays."
+  },
+  {
+    "id": 518,
+    "question_X": "Do you have plans for this evening?",
+    "answer_Y": "I plan to head to the gym tonight."
+  },
+  {
+    "id": 537,
+    "question_X": "Was work fun?",
+    "answer_Y": "Work is always a chore."
+  },
+  {
+    "id": 548,
+    "question_X": "How you seen the scooter rentals?",
+    "answer_Y": "I haven't seen any yet"
+  },
+  {
+    "id": 550,
+    "question_X": "Do you have to be home for a certain time?",
+    "answer_Y": "The joy of being single, my time is my own."
+  },
+  {
+    "id": 560,
+    "question_X": "Do you have plans for this weekend?",
+    "answer_Y": "I'm meeting up with a few friends."
+  },
+  {
+    "id": 566,
+    "question_X": "Do you have dinner plans?",
+    "answer_Y": "I did but thery were cancelled."
+  },
+  {
+    "id": 592,
+    "question_X": "How you seen the scooter rentals?",
+    "answer_Y": "I tried one in San Diego -- they're fun."
+  },
+  {
+    "id": 595,
+    "question_X": "Are you relieved it's Friday?",
+    "answer_Y": "I am always happy to see Friday"
+  },
+  {
+    "id": 598,
+    "question_X": "Do you guys want to go get something to eat?",
+    "answer_Y": "I could grab a bite."
+  },
+  {
+    "id": 609,
+    "question_X": "Hi, are you okay?",
+    "answer_Y": "I think I just broke my toe."
+  },
+  {
+    "id": 616,
+    "question_X": "Are the two of you dating now?",
+    "answer_Y": "We haven't starting dating."
+  },
+  {
+    "id": 623,
+    "question_X": "Are you divorced?",
+    "answer_Y": "I've never been married."
+  },
+  {
+    "id": 630,
+    "question_X": "Chilly tonight isn't it?",
+    "answer_Y": "It's January, so that makes sense."
+  },
+  {
+    "id": 634,
+    "question_X": "Have you been to the new bar in the neighborhood?",
+    "answer_Y": "I just saw an ad for that place, but I'm not sure where exactly it is."
+  },
+  {
+    "id": 638,
+    "question_X": "Have any weekend plans?",
+    "answer_Y": "I've got nothing on my calendar."
+  },
+  {
+    "id": 641,
+    "question_X": "Are you doing something fun this weekend?",
+    "answer_Y": "We're going to a spa."
+  },
+  {
+    "id": 664,
+    "question_X": "Do you have any plans for this weekend?",
+    "answer_Y": "I'm tacking tennis lessons."
+  },
+  {
+    "id": 668,
+    "question_X": "Are you going to the gym?",
+    "answer_Y": "I went yesterday."
+  },
+  {
+    "id": 688,
+    "question_X": "Shall we go for a drink at a bar?",
+    "answer_Y": "Maybe we could have dinner as well"
+  }
+]

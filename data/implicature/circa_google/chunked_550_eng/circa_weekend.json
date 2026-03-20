@@ -1,0 +1,277 @@
+[
+  {
+    "id": 3,
+    "question_X": "Would you like to get some fresh air in your free time?",
+    "answer_Y": "I am desperate to get out of the city."
+  },
+  {
+    "id": 12,
+    "question_X": "Do you enjoy playing any sports?",
+    "answer_Y": "Basketball is a lot of fun."
+  },
+  {
+    "id": 18,
+    "question_X": "Do you like any sports?",
+    "answer_Y": "Tennis is fun to play."
+  },
+  {
+    "id": 21,
+    "question_X": "Do you enjoy art?",
+    "answer_Y": "Going to art museums is my favorite pastime."
+  },
+  {
+    "id": 24,
+    "question_X": "Do you like sports?",
+    "answer_Y": "I play tennis every weekend."
+  },
+  {
+    "id": 57,
+    "question_X": "Have you been bowling before?",
+    "answer_Y": "Years ago, and haven't been back since."
+  },
+  {
+    "id": 61,
+    "question_X": "Do you like being outdoors?",
+    "answer_Y": "I prefer outdoors"
+  },
+  {
+    "id": 79,
+    "question_X": "Do you play golf on weekends?",
+    "answer_Y": "I vowed I'd never play golf."
+  },
+  {
+    "id": 116,
+    "question_X": "Do you like being creative?",
+    "answer_Y": "I like to draw."
+  },
+  {
+    "id": 130,
+    "question_X": "Are you in any weekend leisure sports teams?",
+    "answer_Y": "I'm in a city volleyball league."
+  },
+  {
+    "id": 135,
+    "question_X": "Do you like arts and crafts?",
+    "answer_Y": "It's my favorite pastime."
+  },
+  {
+    "id": 152,
+    "question_X": "Do you have any pets?",
+    "answer_Y": "My cat just turned one year old."
+  },
+  {
+    "id": 172,
+    "question_X": "Are you into the outdoors?",
+    "answer_Y": "I prefer it to being indoors"
+  },
+  {
+    "id": 196,
+    "question_X": "Have you been to that new restaurant?",
+    "answer_Y": "I've been really busy lately."
+  },
+  {
+    "id": 203,
+    "question_X": "Are you going to the high school football game tonight?",
+    "answer_Y": "I'd rather do anything else."
+  },
+  {
+    "id": 212,
+    "question_X": "Are you looking to meet people?",
+    "answer_Y": "I'm happy on my own."
+  },
+  {
+    "id": 234,
+    "question_X": "Do you play football on weekends?",
+    "answer_Y": "I gave that up."
+  },
+  {
+    "id": 237,
+    "question_X": "Do you follow the local sports teams?",
+    "answer_Y": "I do have a team I follow"
+  },
+  {
+    "id": 238,
+    "question_X": "Are you entering the christmas parade?",
+    "answer_Y": "I've got no plans to do so."
+  },
+  {
+    "id": 253,
+    "question_X": "Do you prefer to relax on the weekends?",
+    "answer_Y": "I pack my weekends with activities."
+  },
+  {
+    "id": 256,
+    "question_X": "Are you free this weekend?",
+    "answer_Y": "I have a full weekend."
+  },
+  {
+    "id": 265,
+    "question_X": "Are you dating anyone right now?",
+    "answer_Y": "I have been married for several years."
+  },
+  {
+    "id": 295,
+    "question_X": "Do you like going to movies?",
+    "answer_Y": "It's one of my hobbies"
+  },
+  {
+    "id": 298,
+    "question_X": "Can you swim?",
+    "answer_Y": "I swim like a fish."
+  },
+  {
+    "id": 311,
+    "question_X": "Do you like to take some time for yourself on the weekends?",
+    "answer_Y": "It's important to me."
+  },
+  {
+    "id": 313,
+    "question_X": "Are you into art and culture?",
+    "answer_Y": "I have an interest in it"
+  },
+  {
+    "id": 318,
+    "question_X": "Do you enjoy the theater?",
+    "answer_Y": "I love live performances."
+  },
+  {
+    "id": 366,
+    "question_X": "Would you ever be willing to volunteer?",
+    "answer_Y": "That's a terrible idea."
+  },
+  {
+    "id": 369,
+    "question_X": "Would you like to go out for a drink?",
+    "answer_Y": "Let's go to your favorite bar."
+  },
+  {
+    "id": 377,
+    "question_X": "Are you partying this weekend?",
+    "answer_Y": "I'm going to go out every night."
+  },
+  {
+    "id": 387,
+    "question_X": "Do you like to run?",
+    "answer_Y": "I can't stop running."
+  },
+  {
+    "id": 409,
+    "question_X": "Do you have a lot of free time on the weekends?",
+    "answer_Y": "The kids keep me busy."
+  },
+  {
+    "id": 430,
+    "question_X": "Are you a fan of mountain climbing?",
+    "answer_Y": "I prefer swimming."
+  },
+  {
+    "id": 438,
+    "question_X": "Do you like to drink?",
+    "answer_Y": "I usually have a cocktail on the weekend."
+  },
+  {
+    "id": 451,
+    "question_X": "Do you enjoy being outdoor?",
+    "answer_Y": "I love to hike and ski."
+  },
+  {
+    "id": 480,
+    "question_X": "Have you been downtown to any of the museums?",
+    "answer_Y": "I'm a member of the art museum."
+  },
+  {
+    "id": 494,
+    "question_X": "Do you like arts and crafts?",
+    "answer_Y": "I often knit things."
+  },
+  {
+    "id": 561,
+    "question_X": "Is karaoke something you enjoy?",
+    "answer_Y": "I find it extremely embarrassing."
+  },
+  {
+    "id": 580,
+    "question_X": "Will you be participating in any sporting activities on Saturday ?",
+    "answer_Y": "I have a root canal scheduled that day."
+  },
+  {
+    "id": 602,
+    "question_X": "Do you enjoy Alamo draft house?",
+    "answer_Y": "I am a regular there."
+  },
+  {
+    "id": 603,
+    "question_X": "Do you ever go hiking?",
+    "answer_Y": "I've done it once or twice"
+  },
+  {
+    "id": 621,
+    "question_X": "Is shopping up your alley?",
+    "answer_Y": "I prefer free activities."
+  },
+  {
+    "id": 646,
+    "question_X": "Do you like to swim?",
+    "answer_Y": "I swim on a weekly basis."
+  },
+  {
+    "id": 722,
+    "question_X": "Are you into hiking?",
+    "answer_Y": "I was never into hiking"
+  },
+  {
+    "id": 723,
+    "question_X": "Want to go to the farmer's market with me this weekend?",
+    "answer_Y": "I need to pick up some onions."
+  },
+  {
+    "id": 727,
+    "question_X": "Do you like art galleries and museums?",
+    "answer_Y": "I can't think of a better Saturday."
+  },
+  {
+    "id": 732,
+    "question_X": "Would you like to be outdoors?",
+    "answer_Y": "I love being outside."
+  },
+  {
+    "id": 733,
+    "question_X": "Do you like being out on the water?",
+    "answer_Y": "I'm scared of drowning."
+  },
+  {
+    "id": 757,
+    "question_X": "Do you ever go hanging out at the local bar?",
+    "answer_Y": "Every weekend"
+  },
+  {
+    "id": 759,
+    "question_X": "Do you like trivia?",
+    "answer_Y": "I'm a trivia champion."
+  },
+  {
+    "id": 781,
+    "question_X": "Do you enjoy outdoor activities?",
+    "answer_Y": "I love to feel the wind in my face and the sun on my back."
+  },
+  {
+    "id": 790,
+    "question_X": "Have you ever gone kayaking?",
+    "answer_Y": "I've kayaked in Sweden."
+  },
+  {
+    "id": 803,
+    "question_X": "Are you planning to have a busy weekend?",
+    "answer_Y": "More of a quiet one"
+  },
+  {
+    "id": 805,
+    "question_X": "Have you seen the new Stephen King movie?",
+    "answer_Y": "Chapter Two of It  was one of the best films I have seen recently."
+  },
+  {
+    "id": 821,
+    "question_X": "Are outside activities something you enjoy?",
+    "answer_Y": "I love strolling through a meadow."
+  }
+]

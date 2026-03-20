@@ -1,0 +1,2282 @@
+[
+  {
+    "id": "presupposition-implicative-1",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "V novinovém článku se vysvětluje, proč jsou kosmické technologie klíčové pro budoucí dopravu.",
+    "utterance": "Autor: Technologická společnost SpaceX Elona Muska dokázala srazit ceny za kilogram nákladu na nízkou oběžnou dráhu z dvaceti na dva tisíce dolarů.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Společnost SpaceX usilovala o snížení cen za vynesení nákladu na oběžnou dráhu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Společnost SpaceX se nepokusila srazit ceny za kilogram nákladu na nízkou oběžnou dráhu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Společnost SpaceX se pokusila srazit ceny za kilogram nákladu na geostacionární oběžnou dráhu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Společnost SpaceX se zároveň věnuje vývoji satelitního internetu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "dokázat",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-2",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "V policejní zprávě se popisuje průběh incidentu, při němž došlo k napadení dívky.",
+    "utterance": "Autor: Ta se mu dokázala ubránit, když ho kopla do rozkroku.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Napadená dívka se snažila útočníkovi ubránit."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Napadená dívka se nepokusila ubránit se útočníkovi."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Napadená dívka se pokusila ubránit se dvěma útočníkům."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Útočník z místa utekl."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "dokázat",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-3",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "V rozhovoru po zápase trenér hodnotí situaci svého týmu.",
+    "utterance": "Kameník: Jihlava věří, že se případně obejde i bez obou klíčových hráčů. „Už jsme se s jejich absencí dokázali vypořádat. Hráči, kteří v Ústí nastoupili místo nich, ukázali kvalitu,“ těší Kameníka.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Kameníkův tým se snažil vyrovnat s absencí klíčových hráčů."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Tým trenéra Kameníka se nepokusila vypořádat se s absencí obou klíčových hráčů."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Tým trenéra Kameníka se pokusil vypořádat s nepřízní fanoušků."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "V kabině po zápase panovala dobrá nálada."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "dokázat",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-4",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Ve sportovní zprávě se komentuje rivalita mezi Švýcary a českou reprezentací.",
+    "utterance": "Autor: Švýcaři dokázali pokořit českou reprezentaci poprvé po šesti soubojích.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Švýcaři usilovali o to, aby českou reprezentaci porazili."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Švýcaři se nepokoušeli pokořit českou reprezentaci."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Švýcaři se pokoušeli pokořit slovenskou reprezentaci."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Na stadionu bylo téměř vyprodáno."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "dokázat",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-5",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "V reportáži o změnách v nemocnici se popisují personální otázky vedení.",
+    "utterance": "Mluvčí nemocnice: „Dokázali jsme najít šéfkuchaře a ten si přivedl svůj tým.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Vedení nemocnice se snažilo sehnat nového šéfkuchaře."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Vedení nemocnice se nepokoušelo najít šéfkuchaře."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Vedení nemocnice se pokoušelo najít primáře."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Vedení nemocnice plánovalo upravit jídelníček pro pacienty."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "dokázat",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-6",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Po zápase trenér Baníku v rozhovoru hodnotí hru svého týmu proti soupeři.",
+    "utterance": "Trenér Baníku: „Dostali nás pod tlak. Nedokázali jsme se přizpůsobit jejich stylu.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Baník se snažil přizpůsobit hernímu stylu soupeře."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Tým Baníku se nepokoušel přizpůsobit stylu soupeře."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Tým Baníku se pokoušel přizpůsobit stylu rozhodčího."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Trenér zvažoval změnu rozestavení."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "dokázat",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-7",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "V článku komentátor rozebírá politické působení Theresy Mayové v souvislosti s brexitem.",
+    "utterance": "Komentátor: Theresa Mayová? Dohodu o podobě brexitu nedokázala v parlamentu prosadit a odstoupila.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Theresa Mayová usilovala o prosazení brexitové dohody v parlamentu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Theresa Mayová se nepokusila v parlamentu prosadit dohodu o podobě brexitu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Theresa Mayová se pokusila v parlamentu prosadit dohodu o podobě volební reformy."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Opozice její postup ostře kritizovala."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "dokázat",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-8",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "V novinovém článku se rozebírá situace ve švédských zařízeních během pandemie.",
+    "utterance": "Autor: Úřady šíření nemoci do těchto zařízení nedokázaly zabránit.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Úřady se snažily zamezit šíření nákazy do těchto zařízení."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Úřady se nepokusily zabránit šíření nemoci do těchto zařízení."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Úřady se pokusily zabránit uzavření těchto zařízení."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Personál v zařízeních dostával průběžně nová doporučení."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "dokázat",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-9",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "V publicistickém textu se uvádí příklad nesrozumitelné věty z elektrotechnických skript.",
+    "utterance": "Autor: Ve skriptech elektrofakulty stála kdysi podobně krásná věta: „Budiž trojcestný generátor propojený obojí.“ Žádný student ji nedokázal vysvětlit.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Studenti se snažili pochopit a objasnit význam té věty."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Studenti se nepokoušeli tuto větu vysvětlit."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Studenti se pokoušeli tuto větu opravit."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Studenti z celé univerzity se o významu věty dohadovali i po hodině."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "dokázat",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-10",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "V textu se popisuje průběh lyžařského závodu a výkony jednotlivých závodnic.",
+    "utterance": "Autor: Gutová-Behramiová se startovním číslem pět nasadila v té době jasně nejrychlejší čas. Nikdo ho nedokázal překonat.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Ostatní závodnice se snažily zajet lepší čas než ona."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Ostatní závodnice se nepokoušely překonat tento čas."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Ostatní závodnice se pokoušely překonat rekord trati z minulého roku."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Na trati se během jízdy změnil vítr."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "dokázat",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-11",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "V mluvčího vyprávění se objevuje motiv záhadných tibetských textů.",
+    "utterance": "Mluvčí: Něco znamenala, ale já tibetsky neumím, nedokázal jsem ty texty přečíst.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí se ty texty snažil přečíst."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se nepokoušel ty texty přečíst."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se pokoušel ty texty napsat."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Texty měly na okrajích drobné ilustrace."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova_literatura",
+      "trigger": "dokázat",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-12",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "V historickém textu se rozebírá, jak nuncius Giovanni Delfino sledoval zdravotní stav panovníka.",
+    "utterance": "Autor: Příčiny dlouhotrvajících bolestí žaludku nedokázal objasnit, ale před jejich projevy rozhodně nezavíral oči.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Giovanni Delfino se snažil najít vysvětlení pro ty dlouhotrvající žaludeční potíže."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Giovanni Delfino se nepokoušel objasnit příčiny dlouhotrvajících bolestí žaludku."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Giovanni Delfino se pokoušel objasnit příčiny dlouhotrvajících bolestí hlavy."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Delfino si k závěrům vyžádal další zprávy."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova_literatura",
+      "trigger": "dokázat",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-13",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Cesta v husté mlze zásadně ovlivnila mluvčí a její schopnost orientace.",
+    "utterance": "Mluvčí: Všechno se koupalo v mlze. Nedokázala jsem rozeznat budovy a ztrácela jsem cestu.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí se v té mlze snažila rozeznat obrysy budov."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se nepokoušela rozeznat budovy."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se pokoušela rozeznat dopravní značky."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "V kapse měla jen malou mapu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova_literatura",
+      "trigger": "dokázat",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-14",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Mluvčí popisuje svou reakci na situaci, kdy nalezla těžce zraněného člověka.",
+    "utterance": "Mluvčí: Nedokázala jsem se ovládnout.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí se snažila zachovat klid a ovládnout své emoce."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se nepokoušela ovládnout se."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se pokoušela ovládnout emoce zraněného."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí zavolala o pomoc."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova_literatura",
+      "trigger": "dokázat",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-15",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Mluvčí se svými spolupracovníky řešili s Gorbačovem otázku dodávek plynu na zimu.",
+    "utterance": "Mluvčí: A jsme se nedokázali domluvit s Gorbačovem.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí se svými kolegy usiloval o dohodu s Gorbačovem."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí a jeho kolegové se nepokoušeli domluvit s Gorbačovem."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí a jeho kolegové se pokoušeli domluvit s Jelcinem."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Schůzka probíhala za zavřenými dveřmi."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova_literatura",
+      "trigger": "dokázat",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-16",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Text popisuje historický konflikt mezi majetnými skupinami, obchodníky a panovníky.",
+    "utterance": "Obchodníci a lichváři se dokázali ubránit.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Obchodníci a lichváři se snažili bránit tlaku panovníků."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Obchodníci a lichváři se nepokoušeli ubránit."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Obchodníci a lichváři se pokoušeli ubránit zásahům městské rady."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Ve městech se mezitím vedly spory o daně."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova_literatura",
+      "trigger": "dokázat",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-17",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Odborný text se zabývá anomáliemi v rámci teorií o racionálním rozhodování.",
+    "utterance": "Kahneman a Tversky dokázali na tuto anomálii najít odpověď.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Kahneman a Tversky se snažili najít pro tuto anomálii vysvětlení."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Kahneman a Tversky se nepokusili na tuto anomálii najít odpověď."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Kahneman a Tversky se pokusili tuto anomálii experimentálně zopakovat."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Ve své studii použili jednoduchý experiment."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova_literatura",
+      "trigger": "dokázat",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-18",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Po nástupu nového trenéra se analyzuje aktuální sportovní směřování klubu.",
+    "utterance": "Xaviho strategie funguje. Bývalý španělský reprezentant dokázal značně vylepšit sportovní výkony klubu.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Xavi usiloval o výrazné zlepšení sportovních výkonů týmu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Xavi se nepokusil značně vylepšit sportovní výkony klubu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Xavi se pokusil značně vylepšit finanční výsledky klubu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Tým si postupně zvykl na jeho metody."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova_literatura",
+      "trigger": "dokázat",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-19",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Mluvčí zpětně hodnotí své prožívání během terapeutického procesu.",
+    "utterance": "Mluvčí: Došlo mi, kdo jsem, dokázala jsem to přijmout a dosáhla klidu.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí se snažila smířit s tím, kým skutečně je."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se nepokoušela přijmout, kdo je."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se pokoušela přijmout pozvání na terapii."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se účastnila také skupinových sezení."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova_literatura",
+      "trigger": "dokázat",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-20",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "V textu se rozebírá postavení žen v minulosti a různá společenská omezení, kterým čelily.",
+    "utterance": "Vynalézavé ženy se, jak jinak, dokázaly zbavit i tohoto pouta.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Vynalézavé ženy se snažily vymanit z tohoto konkrétního omezení."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Vynalézavé ženy se nepokoušely zbavit i tohoto pouta."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Vynalézavé ženy se pokoušely zbavit svého majetku."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Některé z nich si vedly tajné zápisky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova_literatura",
+      "trigger": "dokázat",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-21",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Muž na parkovišti pozoruje neznámé auto.",
+    "utterance": "Značka na víku kufru mu nic neříkala a nedokázal ani určit výrobce.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Muž se snažil podle značky poznat, o jakého výrobce jde."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Muž se nepokoušel určit výrobce."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Muž se pokoušel určit majitele."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Auto mělo na karoserii several škrábanců."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "dokázat",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-22",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Muž prožívá nový silný pocit, na který dříve nebyl zvyklý.",
+    "utterance": "Nikdy předtím nic podobného nezažil, takže to nedokázal pojmenovat.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Muž se ten neznámý pocit snažil nějak definovat nebo pojmenovat."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Muž se ničeho nebál."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Muž se pokoušel pojmenovat tu vůni."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Muž o tom raději nikomu neřekl."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "dokázat",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-23",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Manuelo se účastní prudkého výpadu a situace se začne rychle měnit.",
+    "utterance": "„Manuelo už se v rozběhu nedokázal zastavit.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Manuelo se snažil svůj rozběh ubrzdit a zastavit."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Manuelo se nepokoušel v rozběhu zastavit."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Manuelo se pokoušel v rozběhu dohnat soupeře."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Z davu se ozýval křik."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "dokázat",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-24",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "V prudkém boji se na obránce valí vlny útočících kirlopů.",
+    "utterance": "Proti němu se jako stádo zuřivých bizonů hnala další z desítek skupin kirlopů s dlouhým žebříkem nad hlavami. Nikdo je nedokázal zastavit, ani on ne.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Muž usiloval o to, aby postupující kirlopy zastavil."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Muž se nepokoušel zastavit kirlopy."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Muž se pokoušel zastavit obránce u brány."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Vzduch byl plný prachu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "dokázat",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-25",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Falien se nachází uprostřed chaosu u brány pod palbou z hradeb.",
+    "utterance": "Brána už nemohla dlouho vydržet a Falien to věděl. Ale nedokázal se k ní dostat.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Falien se snažil prodrat davem až k bráně."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Falien se nepokoušel dostat se k bráně."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Falien se pokoušel dostat se k hradbám."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Z hradeb se ozývaly výkřiky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "dokázat",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-26",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Poté, co se u jezera objevil posvátný jednorožec, nálada v Alantě se proměnila.",
+    "utterance": "Dokázal probudit radost a štěstí v celé Alantě!",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Posvátný jednorožec svou přítomností vnesl do Alanty radost a štěstí."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Posvátný jednorožec se nepokusil probudit radost a štěstí v celé Alantě."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Posvátný jednorožec se pokusil probudit strach a úctu v celé Alantě."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Obyvatelé se shromáždili u jezera."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "dokázat",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-27",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Při popisu vývoje civilizací se mluví o tom, jak Marťané čelili extrémním podmínkám.",
+    "utterance": "Marťané si dokázali vyvinout strategie pro přežití.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Marťané se snažili vymyslet způsoby, jak v náročných podmínkách přežít."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Marťané se nepokoušeli vyvinout strategie pro přežití."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Marťané se pokoušeli vyvinout svá podzemní města."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Jejich města byla ukrytá pod povrchem."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "dokázat",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-28",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Mluvčí studuje okolí Oko a neobvyklé gravitační projevy v jeho blízkosti.",
+    "utterance": "Mluvčí: Vlastně jsem v tom tady dokázala rozeznat určitou strukturu.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí se snažila v té gravitační anomálii vypozorovat nějaký řád."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se nepokoušela v gravitační anomálii rozeznat určitou strukturu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se pokoušela v magnetické anomálii rozeznat určitou strukturu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí měla v ruce měřicí přístroj."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "dokázat",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-29",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Mluvčí se postupně zklidňovala a její stav se po silném otřesu začal lepšit.",
+    "utterance": "Mluvčí: Konečně jsem dokázala jasně promluvit.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí se ze všech sil snažila promluvit srozumitelně."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí se nepokoušela jasně promluvit."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se pokoušela stručně promluvit."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Někdo jí podal sklenici vody."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "dokázat",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-30",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Jason se ocitl uprostřed své první rvačky, kde musel okamžitě reagovat.",
+    "utterance": "Dokázal udeřit tvrdě.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Jason se snažil dát ránu s co největší silou."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Jason se nepokusil udeřit tvrdě."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Jason se pokusil udeřit lehce."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Jason měl odřený kloub."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "dokázat",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-31",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Michal P. zpětně hodnotí svůj kontroverzní příspěvek na sociálních sítích.",
+    "utterance": "Michal P.: „Zapomněl jsem to poupravit.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Michal P. měl v plánu komentář ještě upravit."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Michal P. nikdy ani neměl v plánu poupravit komentář."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Michal P. chtěl poupravit nastavení sociálních sítí."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Komentář obsahoval několik překlepů."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "zapomenout",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-32",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Žena při vracení firemní elektroniky prochází standardní prověrkou obsahu zařízení.",
+    "utterance": "Autor: V zařízení ale zapomněla smazat přihlašovací údaje do e-mailu.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Žena zamýšlela odstranit přihlašovací údaje k e-mailu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Žena nikdy ani neměla v úmyslu smazat přihlašovací údaje do e-mailu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Žena měla v úmyslu smazat přihlašovací údaje do internetového bankovnictví."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Notebook předávala někomu dalšímu bez dlouhé kontroly obsahu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "zapomenout",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-33",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Jiřina D. se vyjadřuje k incidentu, ke kterému došlo u východu z prodejny.",
+    "utterance": "Jiřina D.: „Vzala jsem si zboží, ale zapomněla jsem ho zaplatit.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Jiřina D. chtěla za zboží zaplatit."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Jiřina D. nikdy ani neměla v úmyslu zaplatit zboží."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Jiřina D. měla v úmyslu zaplatit pokutu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "V obchodě byla dlouhá fronta."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "zapomenout",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-34",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Během výletu si Zuzana stěžuje na různé nepříjemnosti a nervózně komentuje situaci.",
+    "utterance": "Zuzana: Zapomněla jsem si vypnout data.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Zuzana chtěla data vypnout."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Zuzana nikdy ani neměla v úmyslu vypnout data."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Zuzana měla v úmyslu vypnout Wi-Fi."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Zuzana si během výletu vůbec nekontrolovala telefon."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "zapomenout",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-35",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Před začátkem vaření se ukáže, že Tomáš nebude připraven včas kvůli organizační chybě v práci.",
+    "utterance": "Autor: V práci si zapomněl na úterý vyřídit volno, a začne tak vařit se zpožděním.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Tomáš si chtěl na úterý zařídit volno."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Tomáš nikdy ani neměl v úmyslu vyřídit si na úterý volno."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Tomáš měl v úmyslu vyřídit si na středu volno."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Tomáš měl v práci nabitý program."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "zapomenout",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-36",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Mluvčí popisuje svou letní zahradu a radost z přítomnosti opylovačů.",
+    "utterance": "Mluvčí: Miluji motýlí rej a bzučení včel, proto jsem nezapomněla sázet motýlí keře a v létě nepřehlédnutelné agastache.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí měla v plánu vysazovat motýlí keře i agastache."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí nikdy ani neměla v úmyslu sázet motýlí keře a agastache."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí měla v úmyslu sázet motýlí keře a v létě slunečnice."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Na zahradě se objevovali i čmeláci."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "zapomenout",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-37",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Monika si připravuje věci na odpoledne strávené u vody.",
+    "utterance": "Autor: Čtenářka Monika si nezapomněla přibalit letní vydání Ženy a život.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Monika chtěla přibalit letní číslo Ženy a život."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Čtenářka Monika nikdy ani neměla v úmyslu přibalit letní vydání Ženy a život."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Čtenářka Monika měla v úmyslu přibalit letní vydání Blesku pro ženy."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Do tašky už se jí vešlo jen pár věcí."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "zapomenout",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-38",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Při ocenění sportovní legendy se připomínal i vítěz hlavní ankety.",
+    "utterance": "Autor: Panenka při té příležitosti nezapomněl pochválit vítěze hlavní ankety, Davida Pastrňáka.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Panenka chtěl vyzdvihnout vítěze hlavní ankety Davida Pastrňáka."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Panenka nikdy ani neměl v úmyslu pochválit vítěze hlavní ankety, Davida Pastrňáka."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Panenka měl v úmyslu pochválit vítěze hlavní ankety, Romana Červenku."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Na pódiu stálo více oceněných."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "zapomenout",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-39",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "V textu se popisuje, jak zkušenější moderátor předával kolegovi rady při převzetí moderování soutěže.",
+    "utterance": "Autor: Štafetu převzal právě po už zmiňovaném Marku Ebenovi. Ten mu opět nezapomněl dát mnoho užitečných rad.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Marek Eben se chystal dát kolegovi řadu užitečných rad."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Marek Eben nikdy ani neměl v úmyslu dát mnoho užitečných rad."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Marek Eben měl v úmyslu dát mnoho ostrých výtek."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Rozhovor mezi nimi působil přátelsky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "zapomenout",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-40",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Při přípravách na cestu si Spicer zařizoval vybavení a různé praktické záležitosti, ale udělal jednu důležitou chybu.",
+    "utterance": "Spicer však naneštěstí zapomněl objednat zásoby potravin do Lukugy, o nichž se měl dohodnout s vrchním zásobovačem vojenského námořnictva.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Spicer měl v plánu objednat zásoby potravin do Lukugy."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Spicer nikdy ani neměl v úmyslu objednat zásoby potravin do Lukugy."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Spicer měl v úmyslu objednat zásoby munice do Lukugy."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Spicer měl před odjezdem mnoho jiných povinností."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "zapomenout",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-41",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Mluvčí na závěr poděkování uznává, že při výčtu lidí mohl některé opomenout.",
+    "utterance": "Mluvčí: Zajisté jsem zapomněl zmínit mnoho dalších jmen a žádám o prominutí ty, které jsem zde neuvedl.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí chtěl uvést ještě řadu dalších jmen."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí nikdy ani neměl v úmyslu zmínit mnoho dalších jmen."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí měl v úmyslu zmínit mnoho dalších míst."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Poděkování působilo velmi dlouze."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "zapomenout",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-42",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Po návratu z jednání se muž náhle začal chovat úplně jinak a působil nečekaně vlídně.",
+    "utterance": "Najednou zapomněl být namyšleným římským hejskem, který sňatkem s Mussoliniho dcerou udělal snadnou a rychlou kariéru.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Muž chtěl i nadále působit jako namyšlený římský hejsek."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Muž se nikdy nesnažil udržovat masku namyšleného římského hejska."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Muž se snažil udržovat masku přísného římského legionáře."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Muž měl na sobě drahý oblek."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "zapomenout",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-43",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "V napjaté situaci se Day na chvíli zamyslel a ztratil nit svého dosavadního jednání.",
+    "utterance": "Day hodnou chvíli přemýšlel, a dokonce zapomněl klamat promrzlé špiony dalším posunem vozu kolem Mallu od Lincolna zpět k Washingtonovi.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Day zamýšlel klamat promrzlé špiony dalším posunem vozu kolem Mallu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Day nikdy ani neměl v plánu klamat promrzlé špiony dalším posunem vozu kolem Mallu od Lincolna zpět k Washingtonovi."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Day měl v plánu klamat promrzlé špiony dalším posunem vozu kolem Mallu od Lincolna zpět k Arlingtonu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Day se opíral o volant a mlčel."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "zapomenout",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-44",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Po několika dnech mluvčí zjistil, že v dětském pokoji zůstala na stolku nevhodná věc.",
+    "utterance": "Paní Cornwallová zapomněla odklidit ze stolku v dětském pokoji láhev whiskey J & B.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Paní Cornwallová zamýšlela odnést z dětského pokoje láhev whiskey."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Paní Cornwallová nikdy ani neměla v plánu odklidit ze stolku v dětském pokoji láhev whiskey J & B."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Paní Cornwallová měla v plánu odklidit ze stolku v dětském pokoji láhev vína."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Na stolku ležela i dětská knížka."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "zapomenout",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-45",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Mluvčí vzpomíná na Weisse, který byl válečným pilotem a během bitvy o Británii natáčel letecké souboje.",
+    "utterance": "Mluvčí: Škoda, že jsem se ho zapomněl zeptat, co bylo k večeři.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí se chtěl Weisse zeptat, co měli k večeři."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí nikdy neměl v úmyslu zeptat se Weisse, co bylo k večeři."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí měl v úmyslu zeptat se Weisse, jaké bylo tehdy počasí."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mluvčí se s Weissem poprvé setkal až několik let po skončení války."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "zapomenout",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-46",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Při přípravě slavnostní ceremonie mluvčí zařizoval mnoho detailů, ale jeden důležitý krok mu unikl.",
+    "utterance": "Mluvčí: Jediné, co jsem zapomněl zkontrolovat, byl výběr hudby, kterou měla hrát kapela námořní pěchoty Spojených států na závěr ceremonie.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí se chystal zkontrolovat výběr hudby pro závěr ceremonie."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí nikdy ani neměl v plánu zkontrolovat výběr hudby, kterou měla hrát kapela námořní pěchoty Spojených států na závěr ceremonie."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí měl v plánu zkontrolovat seznam hostů na závěr ceremonie."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Přípravy zahrnovaly mnoho drobných detailů."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "zapomenout",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-47",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Při práci kolem hospodářství děti mezi svými povinnostmi zároveň kontrolovaly zvířata a jejich mláďata.",
+    "utterance": "Mluvčí: Přitom jsme nezapomněli obhlédnout králičí pelíšky, zvláště když se tam pod chuchvalci jemných chlupů ozýval nový život v podobě ještě holých a nevidoucích mláďat.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Děti měly v úmyslu zkontrolovat králičí pelíšky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Děti nikdy ani neměly v plánu obhlédnout králičí pelíšky."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Děti měly v plánu obhlédnout slepičí kurník."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Děti měly na práci i krmení zvířat."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "zapomenout",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-48",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Během prohlídky areálu průvodci popisovali opravy zámku a související investice.",
+    "utterance": "Naši průvodci nezapomněli zdůraznit, že se investovalo také do kostelíku sv. Vojtěcha, díky jehož odkazu má Zelená hora dosud nepříliš využitý potenciál poutního místa.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Průvodci chtěli vypíchnout, že se investovalo i do kostelíku sv. Vojtěcha."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Naši průvodci nikdy ani neměli v úmyslu zdůraznit, že se investovalo také do kostelíku sv. Vojtěcha."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Naši průvodci měli v úmyslu zdůraznit, že se investovalo také do parkoviště."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Průvodci mluvili i o historii areálu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "zapomenout",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-49",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Před cestou do Ruska Majskij sdělil britskému politikovi praktické informace a domlouval se na dalším kontaktu.",
+    "utterance": "Současně nezapomněl informovat starého liberála o místě svého pobytu v Rusku a poprosil jej, přestože si byl dobře vědom toho, že je sledován, aby s ním udržoval nepřetržitou korespondenci po dobu, co bude pryč.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Majskij zamýšlel sdělit starému liberálovi, kde bude v Rusku pobývat."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Majskij nikdy ani neměl v plánu informovat starého liberála o místě svého pobytu v Rusku."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Majskij měl v plánu informovat starého liberála o datu svého návratu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Korespondence byla vedena přes důvěryhodného prostředníka."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "zapomenout",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-50",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Při návštěvě sociálních pracovnic doma mluvčí řeší situaci s dětmi a chystá se vyzvednout nejmladší ze školky.",
+    "utterance": "Zatím přišly starší děti domů ze školy a já se chystala jít pro nejmladší do školky. Paní ze sociálky se jich nezapomněly zeptat, zda se těší do azylového domu.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Sociální pracovnice se chtěly dětí zeptat, jestli se těší do azylového domu."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Paní ze sociálky nikdy ani neměly v plánu zeptat se starších dětí, zda se těší do azylového domu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Paní ze sociálky měly v plánu zeptat se starších dětí, zda se těší do školy."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Paní ze sociálky přišly v doprovodu další kolegyně."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova literatura",
+      "trigger": "zapomenout",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-51",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Při večerní kontrole na cele byl Rosamunda tak nervózní a zaměstnaný prací, že zareagoval pozdě.",
+    "utterance": "Rosamunda se tolik soustředil na dokončení úkonu, že úplně zapomněl křiknout heslo na dobrou noc.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Rosamunda se chystal zakřičet heslo na dobrou noc."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Rosamunda nikdy ani neměl v plánu křiknout heslo na dobrou noc."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Rosamunda měl v plánu křiknout rozkaz k nástupu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Na chodbě bylo slyšet kroky dozorce."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "zapomenout",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-52",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Po nečekaném komplimentu byla Miranda tak zaskočená, že na něj nedokázala hned zareagovat.",
+    "utterance": "Miranda se na místě zamilovala. Byl to tak pronikavý pocit, že mu úplně zapomněla poděkovat za kompliment.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Miranda mu chtěla za kompliment poděkovat."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Miranda nikdy ani neměla v plánu poděkovat za kompliment."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Miranda měla v plánu poděkovat za pozvání."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Miranda zůstala na chvíli stát beze slova."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "zapomenout",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-53",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Po výsleších několika lidí mluvčí doplňuje vyšetřovatelům další důležitou informaci.",
+    "utterance": "Mluvčí: „A já jsem jim zapomněl oznámit, že jejich podpisy neexistují.“",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí jim chtěl říct, že jejich podpisy neexistují."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Mluvčí nikdy ani neměl v plánu oznámit jim, že jejich podpisy neexistují."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Mluvčí měl v plánu oznámit jim, že jejich doklady neexistují."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Vyšetřovatelé měli před sebou otevřené složky."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "zapomenout",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-54",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Po nešťastné události někdo vysvětluje, že zvíře se dovnitř dostalo kvůli nedbalosti.",
+    "utterance": "Vrátný zapomněl zamknout branku a zdivočelé toulavé zvíře se dostalo dovnitř.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Vrátný zamýšlel branku zamknout."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Vrátný nikdy ani neměl v plánu zamknout branku."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Vrátný měl v plánu zamknout hlavní dveře."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Branka měla nový zámek."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "zapomenout",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-55",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Eric se ve špatném stavu snažil co nejrychleji dostat do hotelu, ale cestou ztrácel orientaci.",
+    "utterance": "Zapomněl projít parkoviště kasina, do westbadenského hotelu se tedy trmácel přes celé město.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Eric se chystal projít přes parkoviště kasina."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Eric nikdy ani neměl v plánu projít parkoviště kasina."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Eric měl v plánu projít parkoviště hotelu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Hotel ležel daleko od kasina."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "zapomenout",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-implicative-56",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Když ji policista doprovodil ke dveřím pokoje, připomněl jí ještě jednu praktickou věc.",
+    "utterance": "Policista přede dveřmi jejího pokoje nezapomněl požádat, aby mu odevzdala klíčky od vozu.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Policista se ji chystal požádat o odevzdání klíčků od auta."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Policista nikdy ani neměl v plánu požádat ji, aby mu odevzdala klíčky od vozu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Policista měl v plánu požádat ji, aby mu ukázala doklady."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Policista mluvil věcným tónem."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "zapomenout",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-57",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Anna si všimla kouře u kamen a spěchala zasáhnout, aby zabránila dalším škodám.",
+    "utterance": "Anna s polekaným výkřikem vyskočila na nohy a pospíšila si ke kamnům. Tentokrát si nezapomněla vzít utěrku ani dřevěný naběrák, než je otevřela.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Anna si chtěla vzít utěrku i dřevěný naběrák."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Anna nikdy ani neměla v plánu vzít si utěrku ani dřevěný naběrák."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Anna měla v plánu vzít si kuchyňské rukavice."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "V místnosti bylo horko od kamen."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "zapomenout",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-58",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Slaton vede venku napjatý rozhovor.",
+    "utterance": "Autor: Když Slaton přednášel své teorie, nezapomněl pozorovat ulici a okolní budovy.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Slaton se chystal sledovat ulici i okolní budovy."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Slaton nikdy ani neměl v plánu pozorovat ulici a okolní budovy."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Slaton měl v plánu pozorovat stav vozovky a SPZ projíždějících aut."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Slaton měl rozepnutý kabát."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "zapomenout",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-59",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Dva profesoři při snídani popíjeli a debatovali o tom, jak si na univerzitě udržet grant.",
+    "utterance": "Chapman a Boerio snídali už třetí skleničku makové pálenky a z toho, co zaslechl, debatovali o tom, jak zabránit, aby jim na univerzitě sebrali grant na popularizaci jaderné chemie. Přitom samozřejmě nezapomněli pomluvit profesora Billeka a profesora Švarce.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Chapman a Boerio chtěli probrat a pomluvit profesora Billeka i Švarce."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Chapman a Boerio nikdy ani neměli v plánu pomluvit profesora Billeka a profesora Švarce."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Chapman a Boerio měli v plánu pomluvit profesora Billeka a profesora Nováka."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Na stole ležely poznámky ke grantu."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "zapomenout",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "presupposition-implicative-60",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Loupežník Zuřivous spěchal domů s bednou na zádech a nevšiml si, že za ním vzniká nápadná stopa.",
+    "utterance": "Tolik spěchal, aby už byl doma, že si vůbec nevšiml, že bedna na jeho zádech je postupem času stále lehčí a lehčí. Kašpárek totiž v poslední chvíli opravdu nezapomněl vytáhnout zápalku a teď se otvorem ve dnu bedny bez přestání sypal jemný bílý písek a zanechával za loupežníkem Zuřivousem tenoučkou stopu.",
+    "question": "Co je bráno jako samozřejmý předpoklad, aby výpověď dávala smysl?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Kašpárek se chystal zápalku vytáhnout."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Kašpárek nikdy ani neměl v plánu vytáhnout zápalku."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Kašpárek měl v plánu vytáhnout provázek."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Bedna byla ze starého dřeva."
+      }
+    ],
+    "correct_option": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "zapomenout",
+      "negation": "True"
+    }
+  }
+]
