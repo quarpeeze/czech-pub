@@ -10,10 +10,11 @@ from ..model_client import GenerationResult, Model
 
 
 @lru_cache(maxsize=4)
-def _load_tokenizer_and_model(model_name: str):
-    """
-    Loads tokenizer fot the given model.
-    """
+def _load_tokenizer_and_model(
+    model_name: str,
+    torch_dtype: str = "auto", # torch.float16 if running on GPU (?)
+    device: str = "cpu", # "cuda" if running on GPU
+):
     tokenizer = AutoTokenizer.from_pretrained(model_name)
 
     if tokenizer.pad_token is None and tokenizer.eos_token is not None:
@@ -21,9 +22,10 @@ def _load_tokenizer_and_model(model_name: str):
 
     model = AutoModelForCausalLM.from_pretrained(
         model_name,
-        torch_dtype="auto",
-        device_map="auto",
+        torch_dtype=torch_dtype,
     )
+
+    model = model.to(device)
     model.eval()
 
     return tokenizer, model
@@ -56,7 +58,6 @@ def _build_model_inputs(
             return_dict=True,
         )
 
-    # Fallback for non-chat models or models without a chat template
     full_prompt = prompt.strip()
     if system_prompt and system_prompt.strip():
         full_prompt = f"{system_prompt.strip()}\n\n{prompt.strip()}"
@@ -78,27 +79,25 @@ def generate_hf_local(
         system_prompt=system_prompt,
     )
 
-    # Move tokenized inputs to the model device when possible.
-    # With device_map="auto", model may be sharded, but input tensors still need
-    # an initial device; model.device is usually fine for the entry tensors.
     if hasattr(inputs, "to"):
         inputs = inputs.to(hf_model.device)
     else:
         inputs = {k: v.to(hf_model.device) for k, v in inputs.items()}
 
+    do_sample = model.temperature not in (None, 0, 0.0)
+
     generate_kwargs = {
         "max_new_tokens": model.max_tokens,
-        "do_sample": False if model.temperature in (None, 0, 0.0) else True,
+        "do_sample": do_sample,
         "pad_token_id": tokenizer.pad_token_id,
     }
 
-    if model.temperature is not None:
-        generate_kwargs["temperature"] = model.temperature
+    if do_sample:
+        if model.temperature is not None:
+            generate_kwargs["temperature"] = model.temperature
+        if model.top_p is not None:
+            generate_kwargs["top_p"] = model.top_p
 
-    if model.top_p is not None:
-        generate_kwargs["top_p"] = model.top_p
-
-    # Allow provider-specific extras later without polluting the common Model fields
     for key in ["top_k", "repetition_penalty"]:
         if key in model.extra:
             generate_kwargs[key] = model.extra[key]
@@ -108,7 +107,6 @@ def generate_hf_local(
         output_ids = hf_model.generate(**inputs, **generate_kwargs)
     latency_sec = perf_counter() - started
 
-    # Decode only newly generated tokens, not the original prompt
     input_len = inputs["input_ids"].shape[1]
     new_token_ids = output_ids[0][input_len:]
     text = tokenizer.decode(new_token_ids, skip_special_tokens=True).strip()
@@ -125,3 +123,30 @@ def generate_hf_local(
             "generated_token_count": int(new_token_ids.shape[0]),
         },
     )
+
+
+
+def run_local_model(model_name: str, prompt: str, max_new_tokens: int = 32) -> str:
+    """ run model on single prompt """
+    tokenizer, model = _load_tokenizer_and_model(model_name)
+
+    inputs = tokenizer(prompt, return_tensors="pt")
+
+    if hasattr(inputs, "to"):
+        inputs = inputs.to(model.device)
+    else:
+        inputs = {k: v.to(model.device) for k, v in inputs.items()}
+
+    with torch.no_grad():
+        output_ids = model.generate(
+            **inputs,
+            max_new_tokens=max_new_tokens,
+            do_sample=False,
+            pad_token_id=tokenizer.pad_token_id,
+        )
+
+    input_len = inputs["input_ids"].shape[1]
+    new_token_ids = output_ids[0][input_len:]
+
+    text = tokenizer.decode(new_token_ids, skip_special_tokens=True).strip()
+    return text

@@ -14,7 +14,6 @@ def generate_google(
 ) -> GenerationResult:
     client = genai.Client()
 
-    # 
     config_kwargs: dict = {}
 
     if system_prompt and system_prompt.strip():
@@ -29,7 +28,6 @@ def generate_google(
     if model.top_p is not None:
         config_kwargs["top_p"] = model.top_p
 
-    # Optional provider-specific extras
     if "top_k" in model.extra:
         config_kwargs["top_k"] = model.extra["top_k"]
 

@@ -4,7 +4,7 @@ from .entities import Model, GenerationResult
 
 from .providers.openai_client import generate_openai
 from .providers.anthropic_client import generate_anthropic
-# from .providers.google_client import generate_google
+from .providers.google_client import generate_google
 # from .providers.hf_local_client import generate_hf_local
 
 
@@ -41,13 +41,11 @@ def generate(
             system_prompt=system_prompt,
         )
 
-    if provider == "hf_local":
-        return generate_hf_local(
-            prompt=prompt,
-            model=model,
-            system_prompt=system_prompt,
-        )
-
-    # #TODO add antrhopic, gemini etc.
+    # if provider == "hf_local":
+    #     return generate_hf_local(
+    #         prompt=prompt,
+    #         model=model,
+    #         system_prompt=system_prompt,
+    #     )
 
     raise ValueError(f"unsupported provider: {model.provider}")
