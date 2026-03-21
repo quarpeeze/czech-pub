@@ -25,6 +25,26 @@ def _safe_model_dir_name(model: Model) -> str:
     """
     return model.model_name.replace("/", "__").replace("\\", "__").strip()
 
+
+def extract_item_metadata(item: dict) -> dict:
+    return {
+        "creation_method": item.get("creation_method"),
+        "phenomenon": item.get("phenomenon"),
+        "category": item.get("category"),
+        "metadata": item.get("metadata", {}),
+    }
+
+
+def get_option_type_by_label(item: dict, label: str | None) -> str | None:
+    if label is None:
+        return None
+
+    for option in item.get("options", []):
+        if option.get("label") == label:
+            return option.get("type")
+
+    return None
+
 def run_benchmark(
     *,
     data_path: str | Path,
@@ -56,8 +76,10 @@ def run_benchmark(
 
     for i, item in enumerate(items, start=1):
         item_id = item.get("id")
+        item_meta = extract_item_metadata(item)
         valid_labels = get_valid_labels(item)
         gold_label = get_gold_label(item)
+        gold_type = get_option_type_by_label(item, gold_label)
         prompt = build_prompt(item)
 
         try:
@@ -68,6 +90,7 @@ def run_benchmark(
             )
 
             parse_result = parse_mcq_answer(gen_result.text, valid_labels)
+            parsed_type = get_option_type_by_label(item, parse_result.label)
 
             is_correct = None
             if gold_label is not None:
@@ -75,6 +98,7 @@ def run_benchmark(
 
             row = {
                 "id": item_id,
+                "item_meta": item_meta,
                 "provider": gen_result.provider,
                 "model_name": gen_result.model_name,
                 "prompt": prompt,
@@ -83,27 +107,32 @@ def run_benchmark(
                 "usage_prompt_tokens": gen_result.usage_prompt_tokens,
                 "usage_completion_tokens": gen_result.usage_completion_tokens,
                 "parsed_label": parse_result.label,
+                "parsed_type": parsed_type,
                 "parse_status": parse_result.status,
                 "parse_matched_text": parse_result.matched_text,
                 "gold_label": gold_label,
+                "gold_type": gold_type,
                 "is_correct": is_correct,
             }
 
         except Exception as e:
             row = {
                 "id": item_id,
+                "item_meta": item_meta,
                 "provider": model.provider,
                 "model_name": model.model_name,
                 "prompt": prompt,
                 "raw_output": None,
-                "finish_reason": None,
+                "finish_reason": "error",
                 "usage_prompt_tokens": None,
                 "usage_completion_tokens": None,
                 "parsed_label": None,
+                "parsed_type": None,
                 "parse_status": "model_error",
                 "parse_matched_text": None,
                 "gold_label": gold_label,
-                "is_correct": False if gold_label is not None else None,
+                "gold_type": gold_type,
+                "is_correct": False,
                 "error": f"{type(e).__name__}: {e}",
             }
 
