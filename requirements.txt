@@ -1,0 +1,20 @@
+
+
+# base
+python-dotenv
+pandas
+
+# jupyter
+jupyter
+ipykernel
+
+# llm providers
+openai
+anthropic
+google-genai
+
+# local llm stack
+transformers
+accelerate
+huggingface_hub
+# torch - install locally 
