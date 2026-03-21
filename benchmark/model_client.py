@@ -5,7 +5,8 @@ from .entities import Model, GenerationResult
 from .providers.openai_client import generate_openai
 from .providers.anthropic_client import generate_anthropic
 from .providers.google_client import generate_google
-# from .providers.hf_local_client import generate_hf_local
+from .providers.hf_local_client import generate_hf_local
+from .providers.random_baseline import generate_random_baseline
 
 
 def generate(
@@ -41,11 +42,21 @@ def generate(
             system_prompt=system_prompt,
         )
 
-    # if provider == "hf_local":
-    #     return generate_hf_local(
-    #         prompt=prompt,
-    #         model=model,
-    #         system_prompt=system_prompt,
-    #     )
+    if provider == "hf_local":
+        return generate_hf_local(
+            prompt=prompt,
+            model=model,
+            system_prompt=system_prompt,
+        )
+
+    if provider == "random_baseline":
+        return generate_random_baseline(
+            prompt=prompt,
+            model=model,
+            system_prompt=system_prompt,
+        )
+
+
+    
 
     raise ValueError(f"unsupported provider: {model.provider}")
