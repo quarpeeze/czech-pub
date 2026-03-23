@@ -1,12 +1,100 @@
 {
   "n_items": 60,
-  "n_with_gold": 60,
-  "n_correct": 49,
-  "accuracy": 0.8166666666666667,
+  "n_correct": 51,
+  "accuracy": 0.85,
   "parse_status_counts": {
     "ok": 60
   },
   "parse_ok_rate": 1.0,
   "provider": "openai",
-  "model_name": "gpt-5.4-nano"
+  "model_name": "gpt-5.4-nano",
+  "n_model_errors": 0,
+  "n_parse_invalid": 0,
+  "parsed_type_counts": {
+    "presupposition": 51,
+    "distractor_negation": 8,
+    "distractor_lexical": 1
+  },
+  "by_phenomenon": {
+    "presupposition": {
+      "n_items": 60,
+      "n_correct": 51,
+      "accuracy": 0.85,
+      "parse_status_counts": {
+        "ok": 60
+      },
+      "parse_ok_rate": 1.0
+    }
+  },
+  "by_category": {
+    "change-of-state": {
+      "n_items": 60,
+      "n_correct": 51,
+      "accuracy": 0.85,
+      "parse_status_counts": {
+        "ok": 60
+      },
+      "parse_ok_rate": 1.0
+    }
+  },
+  "by_creation_method": {
+    "corpus_mining": {
+      "n_items": 60,
+      "n_correct": 51,
+      "accuracy": 0.85,
+      "parse_status_counts": {
+        "ok": 60
+      },
+      "parse_ok_rate": 1.0
+    }
+  },
+  "by_genre": {
+    "publicistika": {
+      "n_items": 30,
+      "n_correct": 24,
+      "accuracy": 0.8,
+      "parse_status_counts": {
+        "ok": 30
+      },
+      "parse_ok_rate": 1.0
+    },
+    "beletrie": {
+      "n_items": 30,
+      "n_correct": 27,
+      "accuracy": 0.9,
+      "parse_status_counts": {
+        "ok": 30
+      },
+      "parse_ok_rate": 1.0
+    }
+  },
+  "by_trigger": {
+    "přestat": {
+      "n_items": 20,
+      "n_correct": 18,
+      "accuracy": 0.9,
+      "parse_status_counts": {
+        "ok": 20
+      },
+      "parse_ok_rate": 1.0
+    },
+    "začít": {
+      "n_items": 20,
+      "n_correct": 13,
+      "accuracy": 0.65,
+      "parse_status_counts": {
+        "ok": 20
+      },
+      "parse_ok_rate": 1.0
+    },
+    "departure": {
+      "n_items": 20,
+      "n_correct": 20,
+      "accuracy": 1.0,
+      "parse_status_counts": {
+        "ok": 20
+      },
+      "parse_ok_rate": 1.0
+    }
+  }
 }
