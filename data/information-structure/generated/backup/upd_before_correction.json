@@ -1,0 +1,402 @@
+[
+  {
+    "id": 89,
+    "context": "Z historie změn vyšlo najevo, že redaktor sice něco upravil, ale nikdo nevěděl, o co šlo. Petr jen tak prohodil, že redaktor upravil titulek.",
+    "utterance": "Marek se ohradil: „Ne,“"
+  },
+  {
+    "id": 90,
+    "context": "Z hlášení vyšlo najevo, že technik sice něco vyměnil, ale nikdo nevěděl, o co se jednalo. Lukáš poznamenal, že technik vyměnil zdroj.",
+    "utterance": "Jana hlasitě odporovala: „Ne,“"
+  },
+  {
+    "id": 91,
+    "context": "Ukázalo se, že Marek sice něco podepsal, ale nikdo nevěděl, o co přesně šlo. Filip nadnesl, že Marek podepsal omluvenku.",
+    "utterance": "Eva se ohradila: „Ne,“"
+  },
+  {
+    "id": 92,
+    "context": "Z evidence vyšlo najevo, že asistentka sice něco vynesla, ale nikdo nevěděl, o co šlo. Klára uvedla, že asistentka vynesla krabice.",
+    "utterance": "Tomáš se ohradil: „Ne,“"
+  },
+  {
+    "id": 93,
+    "context": "V kuchyni se ukázalo, že kuchař sice něco zamíchal, ale nikdo nevěděl, o co přesně se jednalo. Martin řekl, že kuchař zamíchal těsto.",
+    "utterance": "Lucie se ohradila: „Ne,“"
+  },
+  {
+    "id": 94,
+    "context": "Z hlášení vyšlo najevo, že správce sice něco odemkl, ale nikdo nevěděl, o co přesně šlo. Dana poznamenala, že správce odemkl bránu.",
+    "utterance": "Pavel se ohradil: „Ne,“"
+  },
+  {
+    "id": 95,
+    "context": "Z historie zásilek vyšlo najevo, že asistent sice něco odeslal, ale nikdo nevěděl, o co přesně šlo. Petr uvedl, že asistent odeslal dopis.",
+    "utterance": "Jana hlasitě odporovala: „Ne,“"
+  },
+  {
+    "id": 96,
+    "context": "Z historie souborů vyšlo najevo, že studentka sice něco přepsala, ale nikdo nevěděl, o co šlo. Michal nadnesl, že studentka přepsala referát.",
+    "utterance": "Marek se ohradil: „Ne,“"
+  },
+  {
+    "id": 97,
+    "context": "V dílně bylo vidět hobliny a ukázalo se, že truhlář sice něco ohobloval, ale nikdo nevěděl, o co šlo. Klára říkala, že truhlář ohobloval polici.",
+    "utterance": "Eva se ohradila: „Ne,“"
+  },
+  {
+    "id": 98,
+    "context": "Z protokolu vyšlo najevo, že úřednice sice něco skartovala, ale nikdo nevěděl, o co přesně šlo. Tomáš poznamenal, že úřednice skartovala žádost.",
+    "utterance": "Filip se ohradil: „Ne,“"
+  },
+  {
+    "id": 99,
+    "context": "Z historie úprav vyšlo najevo, že grafik sice něco upravil, ale nikdo nevěděl, o co šlo. Petr uvedl, že grafik upravil vizitku.",
+    "utterance": "Marek se ohradil: „Ne,“"
+  },
+  {
+    "id": 100,
+    "context": "V kuchyni se ukázalo, že kuchařka sice něco připravila, ale nikdo nevěděl, o co šlo. Jana jen tak prohodila, že kuchařka připravila těsto.",
+    "utterance": "Eva se ohradila: „Ne,“"
+  },
+  {
+    "id": 101,
+    "context": "Z hlášení vyšlo najevo, že mechanik sice něco vyčistil, ale nikdo nevěděl, o co šlo. Martin podotkl, že mechanik vyčistil nádrž.",
+    "utterance": "Jiří se ohradil: „Ne,“"
+  },
+  {
+    "id": 102,
+    "context": "Z historie skeneru vyšlo najevo, že sekretářka sice něco naskenovala, ale nikdo nevěděl, o co šlo. Lucie promluvila a řekla, že sekretářka naskenovala formulář.",
+    "utterance": "Marek se ohradil: „Ne,“"
+  },
+  {
+    "id": 103,
+    "context": "Ukázalo se, že správce sice něco zamkl, ale nikdo nevěděl, o co přesně šlo. David nadnesl, že správce zamkl kůlnu.",
+    "utterance": "Filip se ohradil: „Ne,“"
+  },
+  {
+    "id": 104,
+    "context": "Z evidence vyšlo najevo, že pokladní sice něco orazítkovala, ale nikdo nevěděl, o co šlo. Lucie poznamenala, že pokladní orazítkovala průkazku.",
+    "utterance": "Eva se ohradila: „Ne,“"
+  },
+  {
+    "id": 105,
+    "context": "V zahradě bylo vidět úpravy a ukázalo se, že zahradník sice něco ostříhal, ale nikdo nevěděl, o co šlo. Tomáš nadnesl, že zahradník ostříhal stromky.",
+    "utterance": "Marek se ohradil: „Ne,“"
+  },
+  {
+    "id": 106,
+    "context": "Z evidence vyšlo najevo, že úředník sice něco podepsal, ale nikdo nevěděl, o co šlo. Martin uvedl, že úředník podepsal rozhodnutí.",
+    "utterance": "Jana hlasitě odporovala: „Ne,“"
+  },
+  {
+    "id": 107,
+    "context": "Z hlášení tiskárny vyšlo najevo, že asistentka sice něco vytiskla, ale nikdo nevěděl, o co šlo. Petr řekl, že asistentka vytiskla prezentaci.",
+    "utterance": "Jiří se ohradil: „Ne,“"
+  },
+  {
+    "id": 108,
+    "context": "V dílně se ukázalo, že automechanik sice něco vypustil, ale nikdo nevěděl, o co přesně šlo. Marek podotkl, že automechanik vypustil vodu.",
+    "utterance": "Filip se ohradil: „Ne,“"
+  },
+  {
+    "id": 109,
+    "context": "V obývacím pokoji byl slyšet hluk a ukázalo se, že Martina sice něco rozbila, ale nikdo nevěděl, o co šlo. Petr poznamenal, že Martina rozbila vázu.",
+    "utterance": "Jana se ohradila: „Ne,“"
+  },
+  {
+    "id": 110,
+    "context": "Ukázalo se, že Lukáš sice něco schoval, ale nikdo nevěděl, o co přesně šlo. Lucie nadnesla, že Lukáš schoval mobil.",
+    "utterance": "Petr se ohradil: „Ne,“"
+  },
+  {
+    "id": 111,
+    "context": "V pokoji se ukázalo, že Klára sice něco ztratila, ale nikdo nevěděl, o co se jednalo. David uvedl, že Klára ztratila náušnici.",
+    "utterance": "Jana namítla: „Ne,“"
+  },
+  {
+    "id": 112,
+    "context": "V pokoji bylo něco jinak a ukázalo se, že Ondřej sice něco posunul, ale nikdo nevěděl, o co šlo. Filip řekl, že Ondřej posunul stůl.",
+    "utterance": "Monika se ohradila: „Ne,“"
+  },
+  {
+    "id": 113,
+    "context": "Na stole byla skvrna a ukázalo se, že Hana sice něco rozlila, ale nikdo nevěděl, o co šlo. Petr prohodil, že Hana rozlila kávu.",
+    "utterance": "Lucie se ohradila: „Ne,“"
+  },
+  {
+    "id": 114,
+    "context": "Z výpisu z účtu vyšlo najevo, že Marek sice něco koupil, ale nikdo nevěděl, o co šlo. Petr nadnesl, že Marek koupil popcorn.",
+    "utterance": "Pavel se ohradil: „Ne,“"
+  },
+  {
+    "id": 115,
+    "context": "Na stole ležely kousky papíru a ukázalo se, že Lucie sice něco rozstříhala, ale nikdo nevěděl, o co šlo. Martin poznamenal, že Lucie rozstříhala fotku.",
+    "utterance": "Marek se ohradil: „Ne,“"
+  },
+  {
+    "id": 116,
+    "context": "Z kuchyně se ozval hluk a ukázalo se, že Filip sice něco upustil, ale nikdo nevěděl, o co se jednalo. Klára prohodila, že Filip upustil sklenici.",
+    "utterance": "Eva se ohradila: „Ne,“"
+  },
+  {
+    "id": 117,
+    "context": "Z historie chatu vyšlo najevo, že Veronika sice něco smazala, ale nikdo nevěděl, o co přesně šlo. Ondřej podotkl, že Veronika smazala fotku.",
+    "utterance": "Filip se ohradil: „Ne,“"
+  },
+  {
+    "id": 118,
+    "context": "Dveře se už pohybovaly lehce a ukázalo se, že Tomáš sice něco namazal, ale nikdo nevěděl, o co šlo. Eva uvedla, že Tomáš namazal zámek.",
+    "utterance": "Lucie se ohradila: „Ne,“"
+  },
+  {
+    "id": 119,
+    "context": "V lednici ubylo pití a ukázalo se, že David sice něco vypil, ale nikdo nevěděl, o co šlo. Jana nadnesla, že David vypil limonádu.",
+    "utterance": "Marek se ohradil: „Ne,“"
+  },
+  {
+    "id": 120,
+    "context": "Z koše vyčníval papír a ukázalo se, že Klára sice něco vyhodila, ale nikdo nevěděl, o co se jednalo. Lukáš poznamenal, že Klára vyhodila účtenku.",
+    "utterance": "Lucie namítla: „Ne,“"
+  },
+  {
+    "id": 121,
+    "context": "Do místnosti proudil vzduch a ukázalo se, že Martin sice něco otevřel, ale nikdo nevěděl, o co šlo. Eva uvedla, že Martin otevřel dveře.",
+    "utterance": "Jana se ohradila: „Ne,“"
+  },
+  {
+    "id": 122,
+    "context": "V počítači se objevila nová kopie a ukázalo se, že Simona sice něco naskenovala, ale nikdo nevěděl, o co šlo. Filip podotkl, že Simona naskenovala průkazku.",
+    "utterance": "Tomáš poznamenal: „Ne,“"
+  },
+  {
+    "id": 123,
+    "context": "Z evidence banky vyšlo najevo, že Jiří sice něco podepsal, ale nikdo nevěděl, o co přesně šlo. Hana řekla, že Jiří podepsal smlouvu.",
+    "utterance": "Eva se ohradila: „Ne,“"
+  },
+  {
+    "id": 124,
+    "context": "V kanceláři nastal rozruch a ukázalo se, že Petr sice něco zamkl, ale nikdo nevěděl, o co šlo. Jana poznamenala, že Petr zamkl skříň.",
+    "utterance": "Marek se ohradil: „Ne,“"
+  },
+  {
+    "id": 125,
+    "context": "Před domem stála čistá věc a ukázalo se, že Alena sice něco umyla, ale nikdo nevěděl, o co šlo. Lucie podotkla, že Alena umyla motorku.",
+    "utterance": "Jiří se ohradil: „Ne,“"
+  },
+  {
+    "id": 126,
+    "context": "Ukázalo se, že Michal sice něco nalezl, ale nikdo nevěděl, o co přesně se jednalo. Ondřej nadnesl, že Michal nalezl klíče.",
+    "utterance": "Eva se ohradila: „Ne,“"
+  },
+  {
+    "id": 127,
+    "context": "V koši byly kousky papíru a ukázalo se, že Petra sice něco roztrhala, ale nikdo nevěděl, o co šlo. Dana uvedla, že Petra roztrhala dopis.",
+    "utterance": "Filip se ohradil: „Ne,“"
+  },
+  {
+    "id": 128,
+    "context": "V počítači se objevil nový soubor a ukázalo se, že Honza sice něco naskenoval, ale nikdo nevěděl, o co šlo. David poznamenal, že Honza naskenoval smlouvu.",
+    "utterance": "Lucie namítla: „Ne,“"
+  },
+  {
+    "id": 129,
+    "context": "Na stole byla louže a ukázalo se, že Vojta sice něco rozlil, ale nikdo nevěděl, o co přesně šlo. Petr nadnesl, že Vojta rozlil kávu.",
+    "utterance": "Eva se ohradila: „Ne,“"
+  },
+  {
+    "id": 130,
+    "context": "Kuchyň byla uklizená a ukázalo se, že Klára sice něco vynesla, ale nikdo nevěděl, o co šlo. David řekl, že Klára vynesla papír.",
+    "utterance": "Pavel namítl: „Ne,“"
+  },
+  {
+    "id": 131,
+    "context": "Z historie změn vyšlo najevo, že Ondřej sice něco smazal, ale nikdo nevěděl, o co přesně šlo. Filip poznamenal, že Ondřej smazal tabulku.",
+    "utterance": "Lucie se ohradila: „Ne,“"
+  },
+  {
+    "id": 132,
+    "context": "Koupelna prokoukla a ukázalo se, že Jana sice něco vyleštila, ale nikdo nevěděl, o co šlo. Marek uvedl, že Jana vyleštila umyvadlo.",
+    "utterance": "Tomáš se ohradil: „Ne,“"
+  },
+  {
+    "id": 133,
+    "context": "Vyšlo najevo, že Filip sice něco ztratil, ale nikdo nevěděl, o co přesně šlo. Radim podotkl, že Filip ztratil peněženku.",
+    "utterance": "Eva namítla: „Ne,“"
+  },
+  {
+    "id": 134,
+    "context": "U památky bylo živo a ukázalo se, že Martina sice něco vyfotila, ale nikdo nevěděl, o co přesně šlo. Petr nadnesl, že Martina vyfotila zámek.",
+    "utterance": "Pavel se ohradil: „Ne,“"
+  },
+  {
+    "id": 135,
+    "context": "V kuchyni se ukázalo, že Lukáš sice něco namazal, ale nikdo nevěděl, o co se jednalo. Marek uvedl, že namazal rohlík.",
+    "utterance": "Jana namítla: „Ne,“"
+  },
+  {
+    "id": 136,
+    "context": "V trávě se něco zalesklo a vyšlo najevo, že Simona sice něco nalezla, ale nikdo nevěděl, o co šlo. David poznamenal, že Simona nalezla tablet.",
+    "utterance": "Eva se ohradila: „Ne,“"
+  },
+  {
+    "id": 137,
+    "context": "Z chodby byl slyšet hluk a ukázalo se, že Ondřej sice něco rozbil, ale nikdo nevěděl, o co šlo. Martina podotkla, že rozbil sklenici.",
+    "utterance": "Lucie se ohradila: „Ne,“"
+  },
+  {
+    "id": 138,
+    "context": "Ukázalo se, že Tereza sice něco schovala, ale nikdo nevěděl, o co přesně šlo. Lucie prohodila, že Tereza schovala kabelku.",
+    "utterance": "Filip se ohradil: „Ne,“"
+  },
+  {
+    "id": 139,
+    "context": "V lednici ubylo pití a ukázalo se, že Jana sice něco vypila, ale nikdo nevěděl, o co šlo. David nadnesl, že Jana vypila džus.",
+    "utterance": "Marek se ohradil: „Ne,“"
+  },
+  {
+    "id": 140,
+    "context": "Ukázalo se, že Michal sice něco zamkl, ale nikdo nevěděl, o co přesně se jednalo. Radim poznamenal, že zamkl garáž.",
+    "utterance": "Lucie namítla: „Ne,“"
+  },
+  {
+    "id": 141,
+    "context": "V galerii ubylo dat a vyšlo najevo, že Tereza sice něco smazala, ale nikdo nevěděl, o co šlo. Ondřej podotkl, že Tereza smazala zprávu.",
+    "utterance": "Filip se ohradil: „Ne,“"
+  },
+  {
+    "id": 142,
+    "context": "Z kuchyně byl slyšet hluk a ukázalo se, že Petr sice něco rozbil, ale nikdo nevěděl, o co se jednalo. Klára řekla, že Petr rozbil talíř.",
+    "utterance": "Eva se ohradila: „Ne,“"
+  },
+  {
+    "id": 143,
+    "context": "Ukázalo se, že Eva sice něco nalezla, ale nikdo nevěděl, o co přesně šlo. Martin nadnesl, že Eva nalezla mobil.",
+    "utterance": "Tomáš namítl: „Ne,“"
+  },
+  {
+    "id": 144,
+    "context": "Z historie chatu vyšlo najevo, že Petr sice něco smazal, ale nikdo nevěděl, o co přesně šlo. Jana prohodila, že Petr smazal fotku.",
+    "utterance": "Lucie se ohradila: „Ne,“"
+  },
+  {
+    "id": 145,
+    "context": "Na stole ležela věc v balicím papíře a ukázalo se, že Alena sice něco koupila, ale nikdo nevěděl, o co šlo. Martin poznamenal, že Alena koupila knihu.",
+    "utterance": "Marek namítl: „Ne,“"
+  },
+  {
+    "id": 146,
+    "context": "Ukázalo se, že Marek sice něco otevřel, ale nikdo nevěděl, o co přesně šlo. Filip nadnesl, že Marek otevřel balík.",
+    "utterance": "Eva se ohradila: „Ne,“"
+  },
+  {
+    "id": 147,
+    "context": "Kuchyň byla uklizená a ukázalo se, že Klára sice něco umyla, ale nikdo nevěděl, o co šlo. Ondřej promluvil a řekl, že Klára umyla talíř.",
+    "utterance": "Tomáš se ohradil: „Ne,“"
+  },
+  {
+    "id": 148,
+    "context": "V šatně nastal rozruch a vyšlo najevo, že Honza sice něco ztratil, ale nikdo nevěděl, o co přesně šlo. Martina podotkla, že Honza ztratil klíče.",
+    "utterance": "Jana namítla: „Ne,“"
+  },
+  {
+    "id": 149,
+    "context": "V koupelně byl slyšet hluk a ukázalo se, že Filip sice něco rozbil, ale nikdo nevěděl, o co přesně šlo. David nadnesl, že Filip rozbil okno.",
+    "utterance": "Pavel se ohradil: „Ne,“"
+  },
+  {
+    "id": 150,
+    "context": "U dveří stála připravená věc a ukázalo se, že Monika sice něco sbalila, ale nikdo nevěděl, o co šlo. Petr řekl, že Monika sbalila batoh.",
+    "utterance": "Jana namítla: „Ne,“"
+  },
+  {
+    "id": 151,
+    "context": "Z výpisu z účtu vyšlo najevo, že Michal sice něco zaplatil, ale nikdo nevěděl, o co se jednalo. Martin podotkl, že Michal zaplatil účet.",
+    "utterance": "Eva se ohradila: „Ne,“"
+  },
+  {
+    "id": 152,
+    "context": "Dům prokoukl a ukázalo se, že Jana sice něco zametla, ale nikdo nevěděl, o co šlo. Lukáš nadnesl, že Jana zametla schody.",
+    "utterance": "Tomáš namítl: „Ne,“"
+  },
+  {
+    "id": 153,
+    "context": "Dveře už šly zase zavřít a ukázalo se, že Tomáš sice něco opravil, ale nikdo nevěděl, o co šlo. Marek uvedl, že Tomáš opravil zámek.",
+    "utterance": "Lucie se ohradila: „Ne,“"
+  },
+  {
+    "id": 154,
+    "context": "Na stole byla skvrna a ukázalo se, že Petr sice něco vylil, ale nikdo nevěděl, o co šlo. Jana poznamenala, že Petr vylil čaj.",
+    "utterance": "Marek se ohradil: „Ne,“"
+  },
+  {
+    "id": 155,
+    "context": "Z historie úprav vyšlo najevo, že Martina sice něco smazala, ale nikdo nevěděl, o co přesně šlo. Lucie nadnesla, že Martina smazala graf.",
+    "utterance": "Jiří namítl: „Ne,“"
+  },
+  {
+    "id": 156,
+    "context": "V obývacím pokoji se ukázalo, že Ondřej sice něco našel, ale nikdo nevěděl, o co se jednalo. Filip uvedl, že Ondřej našel mobil.",
+    "utterance": "Eva se ohradila: „Ne,“"
+  },
+  {
+    "id": 157,
+    "context": "V chodbě bylo prázdno a ukázalo se, že Klára sice něco vynesla, ale nikdo nevěděl, o co šlo. Eva prohodila, že Klára vynesla pytle.",
+    "utterance": "Tomáš namítl: „Ne,“"
+  },
+  {
+    "id": 158,
+    "context": "V pokoji nastalo ticho a ukázalo se, že Lukáš sice něco vypnul, ale nikdo nevěděl, o co přesně šlo. David řekl, že Lukáš vypnul televizi.",
+    "utterance": "Lucie se ohradila: „Ne,“"
+  },
+  {
+    "id": 159,
+    "context": "V kuchyni se ukázalo, že Simona sice něco otevřela, ale nikdo nevěděl, o co šlo. Petr poznamenal, že Simona otevřela krabici.",
+    "utterance": "Marek se ohradil: „Ne,“"
+  },
+  {
+    "id": 160,
+    "context": "Světlo už fungovalo a ukázalo se, že David sice něco opravil, ale nikdo nevěděl, o co šlo. Lukáš uvedl, že David opravil zásuvku.",
+    "utterance": "Lucie se ohradila: „Ne,“"
+  },
+  {
+    "id": 161,
+    "context": "V chodbě bylo uklizeno a ukázalo se, že Martina sice něco umyla, ale nikdo nevěděl, o co šlo. Jana prohodila, že Martina umyla okno.",
+    "utterance": "Jiří se ohradil: „Ne,“"
+  },
+  {
+    "id": 162,
+    "context": "V pokoji přibyl kus nábytku a ukázalo se, že Honza sice něco přinesl, ale nikdo nevěděl, o co šlo. Petr řekl, že Honza přinesl stůl.",
+    "utterance": "Eva namítla: „Ne,“"
+  },
+  {
+    "id": 163,
+    "context": "Z evidence vyšlo najevo, že Veronika sice něco podepsala, ale nikdo nevěděl, o co šlo. Klára nadnesla, že Veronika podepsala smlouvu.",
+    "utterance": "Tomáš se ohradil: „Ne,“"
+  },
+  {
+    "id": 164,
+    "context": "V kanceláři se něco změnilo a ukázalo se, že Marek sice něco zapojil, ale nikdo nevěděl, o co šlo. David nadnesl, že Marek zapojil monitor.",
+    "utterance": "Pavel se ohradil: „Ne,“"
+  },
+  {
+    "id": 165,
+    "context": "Z paměti ubylo dat a vyšlo najevo, že Hana sice něco vymazala, ale nikdo nevěděl, o co šlo. Petr prohodil, že vymazala fotku.",
+    "utterance": "Lucie namítla: „Ne,“"
+  },
+  {
+    "id": 166,
+    "context": "V chodbě ležel rozbalený kus pošty a ukázalo se, že Simona sice něco otevřela, ale nikdo nevěděl, o co šlo. Klára nadnesla, že otevřela obálku.",
+    "utterance": "Jiří namítl: „Ne,“"
+  },
+  {
+    "id": 167,
+    "context": "V pokoji nastal rozruch a vyšlo najevo, že Vojta sice něco ztratil, ale nikdo nevěděl, o co přesně šlo. Lukáš uvedl, že Vojta ztratil telefon.",
+    "utterance": "Jana se ohradila: „Ne,“"
+  },
+  {
+    "id": 168,
+    "context": "V pokoji bylo více světla a ukázalo se, že Simona sice něco umyla, ale nikdo nevěděl, o co šlo. Petr nadnesl, že Simona umyla zrcadlo.",
+    "utterance": "Pavel se ohradil: „Ne,“"
+  }
+]

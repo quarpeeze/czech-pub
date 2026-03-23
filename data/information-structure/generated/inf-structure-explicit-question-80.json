@@ -1,0 +1,1762 @@
+[
+  {
+    "scenario_id": 0,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Lucie",
+        "verb": "naskenovala",
+        "object": "fotografii"
+      },
+      "distractor_bank": {
+        "focus_object": "Lucie otevřela složku.",
+        "focus_subject": "Fotografii pořídil fotograf.",
+        "focus_verb": "Lucie založila album."
+      },
+      "utterance": "Michal na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Z historie změn vyšlo najevo, že Lucie sice něco naskenovala, ale nikdo nevěděl, o co přesně se jednalo. Tomáš se zeptal: „Co Lucie naskenovala?“",
+        "focus_subject": "Bylo jasné, že tu fotografii někdo naskenoval, ale nikdo nevěděl, kdo to byl. Tomáš se zeptal: „Kdo naskenoval tu fotografii?“",
+        "focus_verb": "Bylo patrné, že Lucie s tou fotografií něco provedla, ale nikdo neviděl, co s ní udělala. Tomáš se zeptal: „Co Lucie udělala s tou fotografií?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 1,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Petr",
+        "verb": "vynesl",
+        "object": "odpadky"
+      },
+      "distractor_bank": {
+        "focus_object": "Petr umyl nádobí.",
+        "focus_subject": "Odpadky třídila sousedka.",
+        "focus_verb": "Petr zavřel popelnici."
+      },
+      "utterance": "Jana na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Ukázalo se, že Petr sice něco vynesl, ale nikdo přesně nevěděl, o co se jednalo. Martin se zeptal: „Co Petr vynesl?“",
+        "focus_subject": "Bylo jasné, že ty odpadky někdo vynesl, ale nikdo přesně nevěděl, kdo to byl. Martin se zeptal: „Kdo vynesl ty odpadky?“",
+        "focus_verb": "Bylo patrné, že Petr s těmi odpadky něco udělal, ale nikdo přesně nevěděl, co s nimi udělal. Martin se zeptal: „Co Petr udělal s těmi odpadky?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 2,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "skladník",
+        "verb": "vybalil",
+        "object": "zásilku"
+      },
+      "distractor_bank": {
+        "focus_object": "Skladník zkontroloval regál.",
+        "focus_subject": "Zásilku převzal kurýr.",
+        "focus_verb": "Skladník odvezl paletu."
+      },
+      "utterance": "Pavel na to najednou prohlásil:",
+      "contexts": {
+        "focus_object": "Ze systému vyšlo najevo, že skladník sice něco vybalil, ale nikdo nevěděl, o co šlo. Lucie se zeptala: „Co skladník vybalil?“",
+        "focus_subject": "Bylo zřejmé, že tu zásilku někdo vybalil, ale nikdo přesně nevěděl, kdo to byl. Lucie se zeptala: „Kdo vybalil tu zásilku?“",
+        "focus_verb": "Ukázalo se, že skladník s tou zásilkou něco udělal, ale nikdo neviděl, co s ní udělal. Lucie se zeptala: „Co skladník udělal s tou zásilkou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 3,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Martina",
+        "verb": "rozbila",
+        "object": "vázu"
+      },
+      "distractor_bank": {
+        "focus_object": "Martina otevřela okno.",
+        "focus_subject": "Vázu přinesla prodavačka.",
+        "focus_verb": "Martina utřela stůl."
+      },
+      "utterance": "Lukáš na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Bylo jasné, že Martina sice něco rozbila, ale nikdo přesně nevěděl, o co se jednalo. Klára se zeptala: „Co Martina rozbila?“",
+        "focus_subject": "Na zemi ležely střepy a bylo zřejmé, že tu vázu někdo rozbil, ale nikdo nevěděl, kdo to byl. Klára se zeptala: „Kdo rozbil tu vázu?“",
+        "focus_verb": "Bylo patrné, že Martina s tou vázou něco udělala, ale nikdo nevěděl, co s ní udělala. Klára se zeptala: „Co Martina udělala s tou vázou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 4,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "správce",
+        "verb": "zamkl",
+        "object": "garáž"
+      },
+      "distractor_bank": {
+        "focus_object": "Správce zkontroloval bránu.",
+        "focus_subject": "Garáž otevřel soused.",
+        "focus_verb": "Správce odemkl sklep."
+      },
+      "utterance": "Filip na to najednou prohlásil:",
+      "contexts": {
+        "focus_object": "Z protokolu vyšlo najevo, že správce sice něco zamkl, ale nikdo nevěděl, o co přesně šlo. Dana se zeptala: „Co správce zamkl?“",
+        "focus_subject": "Bylo patrné, že tu garáž někdo zamkl, ale nikdo nevěděl, kdo to ve skutečnosti byl. Dana se zeptala: „Kdo zamkl tu garáž?“",
+        "focus_verb": "Ukázalo se, že správce s tou garáží něco udělal, ale nikdo přesně nevěděl, co s ní udělal. Dana se zeptala: „Co správce udělal s tou garáží?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 5,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Alena",
+        "verb": "rozlila",
+        "object": "mléko"
+      },
+      "distractor_bank": {
+        "focus_object": "Alena uvařila čaj.",
+        "focus_subject": "Mléko koupila prodavačka.",
+        "focus_verb": "Alena otevřela lednici."
+      },
+      "utterance": "Simona na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Ukázalo se, že Alena sice něco rozlila, ale nikdo přesně nevěděl, o co šlo. Honza se zeptal: „Co Alena rozlila?“",
+        "focus_subject": "Na stole byla skvrna a bylo patrné, že to mléko někdo rozlil, ale nikdo neviděl, kdo to byl. Honza se zeptal: „Kdo rozlil to mléko?“",
+        "focus_verb": "Bylo jasné, že Alena s tím mlékem něco udělala, ale nikdo nevěděl, co s ním udělala. Honza se zeptal: „Co Alena udělala s tím mlékem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 6,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "údržbář",
+        "verb": "namazal",
+        "object": "zámek"
+      },
+      "distractor_bank": {
+        "focus_object": "Údržbář opravil dveře.",
+        "focus_subject": "Zámek vyměnil zámečník.",
+        "focus_verb": "Údržbář přinesl olej."
+      },
+      "utterance": "Petra na to najednou prohlásila:",
+      "contexts": {
+        "focus_object": "Bylo zřejmé, že údržbář sice něco namazal, ale nikdo přesně nevěděl, o co se jednalo. Marek se zeptal: „Co údržbář namazal?“",
+        "focus_subject": "Klíč se otáčel hladce a bylo patrné, že ten zámek někdo namazal, ale nikdo neviděl, kdo to byl. Marek se zeptal: „Kdo namazal ten zámek?“",
+        "focus_verb": "Ukázalo se, že údržbář se zámkem něco udělal, ale nikdo nevěděl, co s ním přesně udělal. Marek se zeptal: „Co údržbář udělal se zámkem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 7,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "David",
+        "verb": "koupil",
+        "object": "televizi"
+      },
+      "distractor_bank": {
+        "focus_object": "David objednal reproduktor.",
+        "focus_subject": "Televizi prodal obchodník.",
+        "focus_verb": "David zapojil konzoli."
+      },
+      "utterance": "Jitka na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Z výpisu vyšlo najevo, že David sice něco koupil, ale nikdo nevěděl, o co přesně šlo. Michal se zeptal: „Co David koupil?“",
+        "focus_subject": "V obývacím pokoji stál nový balík a bylo jasné, že tu televizi někdo koupil, ale nikdo neviděl, kdo to byl. Michal se zeptal: „Kdo koupil tu televizi?“",
+        "focus_verb": "Ukázalo se, že David s tou televizí něco udělal, ale nikdo nevěděl, co s ní přesně udělal. Michal se zeptal: „Co David udělal s tou televizí?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 8,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "řemeslník",
+        "verb": "natřel",
+        "object": "plot"
+      },
+      "distractor_bank": {
+        "focus_object": "Řemeslník opravil branku.",
+        "focus_subject": "Plot postavil soused.",
+        "focus_verb": "Řemeslník přinesl štětec."
+      },
+      "utterance": "Hana na to najednou prohlásila:",
+      "contexts": {
+        "focus_object": "V okolí byla cítit barva a bylo patrné, že řemeslník sice něco natřel, ale nikdo nevěděl, o co šlo. Tomáš se zeptal: „Co řemeslník natřel?“",
+        "focus_subject": "Vzhled zahrady se změnil a bylo jasné, že ten plot někdo natřel, ale nikdo nevěděl, kdo to byl. Tomáš se zeptal: „Kdo natřel ten plot?“",
+        "focus_verb": "Bylo zřejmé, že řemeslník s plotem něco udělal, ale nikdo neviděl, co s ním přesně udělal. Tomáš se zeptal: „Co řemeslník udělal s plotem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 9,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "školník",
+        "verb": "opravil",
+        "object": "lavici"
+      },
+      "distractor_bank": {
+        "focus_object": "Školník přestěhoval stůl.",
+        "focus_subject": "Lavici vyrobil truhlář.",
+        "focus_verb": "Školník donesl vrtačku."
+      },
+      "utterance": "Tereza na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Ukázalo se, že školník sice něco opravil, ale nikdo přesně nevěděl, o co se jednalo. Milan se zeptal: „Co školník opravil?“",
+        "focus_subject": "Už se u toho dalo sedět a bylo jasné, že tu lavici někdo opravil, ale nikdo nevěděl, kdo to byl. Milan se zeptal: „Kdo opravil tu lavici?“",
+        "focus_verb": "Bylo patrné, že školník s tou lavicí něco udělal, ale nikdo neviděl, co s ní přesně udělal. Milan se zeptal: „Co školník udělal s lavicí?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 10,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "kuchař",
+        "verb": "připravil",
+        "object": "těsto"
+      },
+      "distractor_bank": {
+        "focus_object": "Kuchař nakrájel cibuli.",
+        "focus_subject": "Těsto zamíchal pekař.",
+        "focus_verb": "Kuchař rozehřál troubu."
+      },
+      "utterance": "Martin na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Z protokolu vyšlo najevo, že kuchař sice něco připravil, ale nikdo přesně nevěděl, o co se jednalo. Jana se zeptala: „Co kuchař připravil?“",
+        "focus_subject": "Bylo zřejmé, že to těsto někdo připravil, ale nikdo nevěděl, kdo to byl. Jana se zeptala: „Kdo připravil to těsto?“",
+        "focus_verb": "Bylo patrné, že kuchař s tím těstem něco udělal, ale nikdo neviděl, co s ním udělal. Jana se zeptala: „Co kuchař udělal s těstem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 11,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Adam",
+        "verb": "roztrhal",
+        "object": "dopis"
+      },
+      "distractor_bank": {
+        "focus_object": "Adam otevřel šuplík.",
+        "focus_subject": "Dopis sepsal právník.",
+        "focus_verb": "Adam odnesl papíry."
+      },
+      "utterance": "Marek na to najednou prohlásil:",
+      "contexts": {
+        "focus_object": "Ukázalo se, že Adam sice něco roztrhal, ale nikdo nevěděl, o co šlo. Petr se zeptal: „Co Adam roztrhal?“",
+        "focus_subject": "V koši byly kousky papíru a bylo jasné, že ten dopis někdo roztrhal, ale nikdo neviděl, kdo to byl. Petr se zeptal: „Kdo roztrhal ten dopis?“",
+        "focus_verb": "Bylo patrné, že Adam s tím dopisem něco udělal, ale nikdo nevěděl, co s ním přesně udělal. Petr se zeptal: „Co Adam udělal s dopisem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 12,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "sekretářka",
+        "verb": "naskenovala",
+        "object": "smlouvu"
+      },
+      "distractor_bank": {
+        "focus_object": "Sekretářka otevřela složku.",
+        "focus_subject": "Smlouvu sepsal právník.",
+        "focus_verb": "Sekretářka založila spis."
+      },
+      "utterance": "Klára na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Ze systému vyšlo najevo, že sekretářka sice něco naskenovala, ale nikdo přesně nevěděl, o co šlo. Filip se zeptal: „Co sekretářka naskenovala?“",
+        "focus_subject": "Digitální kopie se objevila v cloudu a bylo jasné, že tu smlouvu někdo naskenoval, ale nikdo neviděl, kdo to byl. Filip se zeptal: „Kdo naskenoval tu smlouvu?“",
+        "focus_verb": "Bylo patrné, že sekretářka s tou smlouvou něco udělala, ale nikdo nevěděl, co s ní udělala. Filip se zeptal: „Co sekretářka udělala se smlouvou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 13,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Marek",
+        "verb": "schoval",
+        "object": "peněženku"
+      },
+      "distractor_bank": {
+        "focus_object": "Marek zamkl skříňku.",
+        "focus_subject": "Peněženku našel vrátný.",
+        "focus_verb": "Marek otevřel zásuvku."
+      },
+      "utterance": "Tomáš na to najednou prohlásil:",
+      "contexts": {
+        "focus_object": "Ukázalo se, že Marek sice něco schoval, ale nikdo přesně nevěděl, o co se jednalo. Eva se zeptala: „Co Marek schoval?“",
+        "focus_subject": "Věc nebyla k nalezení a bylo jasné, že tu peněženku někdo schoval, ale nikdo neviděl, kdo to byl. Eva se zeptala: „Kdo schoval tu peněženku?“",
+        "focus_verb": "Bylo zřejmé, že Marek s tou peněženkou něco udělal, ale nikdo nevěděl, co s ním přesně udělal. Eva se zeptala: „Co Marek udělal s peněženkou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 14,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "uklízečka",
+        "verb": "přemístila",
+        "object": "křeslo"
+      },
+      "distractor_bank": {
+        "focus_object": "Uklízečka vysála koberec.",
+        "focus_subject": "Křeslo vyrobil čalouník.",
+        "focus_verb": "Uklízečka otevřela okno."
+      },
+      "utterance": "Ondřej na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "V pokoji bylo něco jinak a bylo jasné, že uklízečka sice něco přemístila, ale nikdo nevěděl, o co šlo. Jiří se zeptal: „Co uklízečka přemístila?“",
+        "focus_subject": "Nábytek stál jinde a bylo patrné, že to křeslo někdo přemístil, ale nikdo neviděl, kdo to byl. Jiří se zeptal: „Kdo přemístil to křeslo?“",
+        "focus_verb": "Ukázalo se, že uklízečka s tím křeslem něco udělala, ale nikdo nevěděl, co s ním přesně udělala. Jiří se zeptal: „Co uklízečka udělala s křeslem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 15,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "automechanik",
+        "verb": "vypustil",
+        "object": "nádrž"
+      },
+      "distractor_bank": {
+        "focus_object": "Automechanik zvedl kapotu.",
+        "focus_subject": "Nádrž natřel lakýrník.",
+        "focus_verb": "Automechanik přinesl hadici."
+      },
+      "utterance": "Tomáš na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Ukázalo se, že automechanik sice něco vypustil, ale nikdo nevěděl, o co se jednalo. Lucie se zeptala: „Co automechanik vypustil?“",
+        "focus_subject": "Bylo jasné, že tu nádrž někdo vypustil, ale nikdo nevěděl, kdo to byl. Lucie se zeptala: „Kdo vypustil tu nádrž?“",
+        "focus_verb": "Bylo patrné, že automechanik s tou nádrží něco udělal, ale nikdo nevěděl, co s ní přesně udělal. Lucie se zeptala: „Co automechanik udělal s tou nádrží?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 16,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Barbora",
+        "verb": "smazala",
+        "object": "e-mail"
+      },
+      "distractor_bank": {
+        "focus_object": "Barbora otevřela přílohu.",
+        "focus_subject": "E-mail odeslal vedoucí.",
+        "focus_verb": "Barbora založila složku."
+      },
+      "utterance": "Michal na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Z historie změn vyšlo najevo, že Barbora sice něco smazala, ale nikdo nevěděl, o co šlo. Filip se zeptal: „Co Barbora smazala?“",
+        "focus_subject": "Bylo zřejmé, že ten e-mail někdo smazal, ale nikdo nevěděl, kdo ho smazal. Filip se zeptal: „Kdo smazal ten e-mail?“",
+        "focus_verb": "Bylo patrné, že Barbora s tím e-mailem něco udělala, ale nikdo neviděl, co s ním přesně udělala. Filip se zeptal: „Co Barbora udělala s e-mailem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 17,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "zahradník",
+        "verb": "ostříhal",
+        "object": "keře"
+      },
+      "distractor_bank": {
+        "focus_object": "Zahradník zalil záhon.",
+        "focus_subject": "Keře vysadil soused.",
+        "focus_verb": "Zahradník přinesl nůžky."
+      },
+      "utterance": "Eva na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Bylo patrné, že zahradník sice něco ostříhal, ale nikdo nevěděl, o co přesně se jednalo. Dana se zeptala: „Co zahradník ostříhal?“",
+        "focus_subject": "Ukázalo se, že ty keře někdo ostříhal, ale nikdo nevěděl, kdo to byl. Dana se zeptala: „Kdo ostříhal ty keře?“",
+        "focus_verb": "Bylo zřejmé, že zahradník s těmi keři něco udělal, ale nikdo nevěděl, co s nimi přesně udělal. Dana se zeptala: „Co zahradník udělal s keři?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 18,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "instalatér",
+        "verb": "utáhl",
+        "object": "kohoutek"
+      },
+      "distractor_bank": {
+        "focus_object": "Instalatér vyměnil těsnění.",
+        "focus_subject": "Kohoutek namontoval řemeslník.",
+        "focus_verb": "Instalatér odnesl nářadí."
+      },
+      "utterance": "Jiří na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Bylo patrné, že instalatér sice něco utáhl, ale nikdo nevěděl, o co přesně šlo. Petr se zeptal: „Co instalatér utáhl?“",
+        "focus_subject": "Voda přestala kapat a bylo jasné, že ten kohoutek někdo utáhl, ale nikdo neviděl, kdo to byl. Petr se zeptal: „Kdo utáhl ten kohoutek?“",
+        "focus_verb": "Bylo zřejmé, že instalatér s tím kohoutkem něco udělal, ale nikdo nevěděl, co s ním přesně udělal. Petr se zeptal: „Co instalatér udělal s kohoutkem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 19,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "úředník",
+        "verb": "skartoval",
+        "object": "listinu"
+      },
+      "distractor_bank": {
+        "focus_object": "Úředník orazítkoval formulář.",
+        "focus_subject": "Listinu podepsal starosta.",
+        "focus_verb": "Úředník otevřel šanon."
+      },
+      "utterance": "Marek na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Z protokolu vyšlo najevo, že úředník sice něco skartoval, ale nikdo nevěděl, o co šlo. Klára se zeptala: „Co úředník skartoval?“",
+        "focus_subject": "Bylo jasné, že tu listinu někdo skartoval, ale nikdo nevěděl, kdo to byl. Klára se zeptala: „Kdo skartoval tu listinu?“",
+        "focus_verb": "Bylo patrné, že úředník s tou listinou něco udělal, ale nikdo neviděl, co s ní přesně udělal. Klára se zeptala: „Co úředník udělal s listinou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 20,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "truhlář",
+        "verb": "ohobloval",
+        "object": "prkno"
+      },
+      "distractor_bank": {
+        "focus_object": "Truhlář slepil rám.",
+        "focus_subject": "Prkno přinesl pomocník.",
+        "focus_verb": "Truhlář uklidil dílnu."
+      },
+      "utterance": "Marek na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "V dílně bylo vidět hobliny a ukázalo se, že truhlář sice něco ohobloval, ale nikdo nevěděl, o co přesně šlo. Petr se zeptal: „Co truhlář ohobloval?“",
+        "focus_subject": "Bylo jasné, že to prkno někdo ohobloval, ale nikdo neviděl, kdo to ve skutečnosti byl. Petr se zeptal: „Kdo ohobloval to prkno?“",
+        "focus_verb": "Bylo patrné, že truhlář s tím prknem něco udělal, ale nikdo nevěděl, co s ním přesně udělal. Petr se zeptal: „Co truhlář udělal s prknem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 21,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Veronika",
+        "verb": "zamknula",
+        "object": "zásuvku"
+      },
+      "distractor_bank": {
+        "focus_object": "Veronika otevřela skříňku.",
+        "focus_subject": "Zásuvku vysunul technik.",
+        "focus_verb": "Veronika schovala klíč."
+      },
+      "utterance": "Lukáš na to najednou prohlásil:",
+      "contexts": {
+        "focus_object": "Z hlášení vyšlo najevo, že Veronika sice něco zamknula, ale nikdo nevěděl, o co přesně se jednalo. Jana se zeptala: „Co Veronika zamknula?“",
+        "focus_subject": "Bylo zřejmé, že tu zásuvku někdo zamknul, ale nikdo nevěděl, kdo to byl. Jana se zeptala: „Kdo zamknul tu zásuvku?“",
+        "focus_verb": "Bylo patrné, že Veronika se zásuvkou něco udělala, ale nikdo neviděl, co s ní přesně udělala. Jana se zeptala: „Co Veronika udělala se zásuvkou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 22,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "laborant",
+        "verb": "rozbil",
+        "object": "kádinku"
+      },
+      "distractor_bank": {
+        "focus_object": "Laborant připravil vzorek.",
+        "focus_subject": "Kádinku umyla kolegyně.",
+        "focus_verb": "Laborant zavřel skříň."
+      },
+      "utterance": "Eva na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Bylo slyšet hluk a ukázalo se, že laborant sice něco rozbil, ale nikdo nevěděl, o co se jednalo. Martin se zeptal: „Co laborant rozbil?“",
+        "focus_subject": "Na zemi ležely střepy a bylo jasné, že tu kádinku někdo rozbil, ale nikdo neviděl, kdo to byl. Martin se zeptal: „Kdo rozbil tu kádinku?“",
+        "focus_verb": "Bylo zřejmé, že laborant s tou kádinkou něco udělal, ale nikdo přesně nevěděl, co s ní udělal. Martin se zeptal: „Co laborant udělal s kádinkou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 23,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Michal",
+        "verb": "ztratil",
+        "object": "průkaz"
+      },
+      "distractor_bank": {
+        "focus_object": "Michal prohledal kapsy.",
+        "focus_subject": "Průkaz vystavil úřad.",
+        "focus_verb": "Michal otevřel peněženku."
+      },
+      "utterance": "Jana na to najednou prohlásila:",
+      "contexts": {
+        "focus_object": "Vyšlo najevo, že Michal sice něco ztratil, ale nikdo nevěděl, o co přesně šlo. Filip se zeptal: „Co Michal ztratil?“",
+        "focus_subject": "Bylo jasné, že ten průkaz někdo ztratil, ale nikdo nevěděl, kdo to byl. Filip se zeptal: „Kdo ztratil ten průkaz?“",
+        "focus_verb": "Bylo patrné, že Michal s tím průkazem něco udělal, ale nikdo neviděl, co s ním přesně udělal. Filip se zeptal: „Co Michal udělal s průkazem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 24,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "pokladní",
+        "verb": "orazítkovala",
+        "object": "lístek"
+      },
+      "distractor_bank": {
+        "focus_object": "Pokladní spočítala tržbu.",
+        "focus_subject": "Lístek prodal průvodčí.",
+        "focus_verb": "Pokladní otevřela pokladnu."
+      },
+      "utterance": "Martin na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Z historie změn vyšlo najevo, že pokladní sice něco orazítkovala, ale nikdo nevěděl, o co šlo. Dana se zeptala: „Co pokladní orazítkovala?“",
+        "focus_subject": "Ukázalo se, že ten lístek někdo orazítkoval, ale nikdo nevěděl, kdo to ve skutečnosti udělal. Dana se zeptala: „Kdo orazítkoval ten lístek?“",
+        "focus_verb": "Bylo zřejmé, že pokladní s tím lístkem něco udělala, ale nikdo neviděl, co s ním přesně udělala. Dana se zeptala: „Co pokladní udělala s lístkem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 25,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "asistent",
+        "verb": "vytiskl",
+        "object": "plakát"
+      },
+      "distractor_bank": {
+        "focus_object": "Asistent spustil tiskárnu.",
+        "focus_subject": "Plakát navrhl grafik.",
+        "focus_verb": "Asistent otevřel soubor."
+      },
+      "utterance": "Eva na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Ze záznamu tiskárny vyšlo najevo, že asistent sice něco vytiskl, ale nikdo nevěděl, o co přesně šlo. Marek se zeptal: „Co asistent vytiskl?“",
+        "focus_subject": "Bylo jasné, že ten plakát někdo vytiskl, ale nikdo přesně nevěděl, kdo to byl. Marek se zeptal: „Kdo vytiskl ten plakát?“",
+        "focus_verb": "Bylo patrné, že asistent s tím plakátem něco udělal, ale nikdo nevěděl, co s ním udělal. Marek se zeptal: „Co asistent udělal s plakátem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 26,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Jana",
+        "verb": "schovala",
+        "object": "mapu"
+      },
+      "distractor_bank": {
+        "focus_object": "Jana otevřela kufr.",
+        "focus_subject": "Mapu nakreslil kartograf.",
+        "focus_verb": "Jana zamkla skříňku."
+      },
+      "utterance": "Michal na to najednou prohlásil:",
+      "contexts": {
+        "focus_object": "Ukázalo se, že Jana sice něco schovala, ale nikdo nevěděl, o co se jednalo. Lukáš se zeptal: „Co Jana schovala?“",
+        "focus_subject": "Bylo zřejmé, že tu mapu někdo schoval, ale nikdo nevěděl, kdo to byl. Lukáš se zeptal: „Kdo schoval tu mapu?“",
+        "focus_verb": "Bylo patrné, že Jana s tou mapou něco udělala, ale nikdo neviděl, co s ní udělala. Lukáš se zeptal: „Co Jana udělala s mapou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 27,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "programátor",
+        "verb": "smazal",
+        "object": "kód"
+      },
+      "distractor_bank": {
+        "focus_object": "Programátor otevřel repozitář.",
+        "focus_subject": "Kód napsal kolega.",
+        "focus_verb": "Programátor spustil testy."
+      },
+      "utterance": "Tomáš na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Z historie změn vyšlo najevo, že programátor sice něco smazal, ale nikdo nevěděl, o co přesně šlo. Jitka se zeptala: „Co programátor smazal?“",
+        "focus_subject": "Bylo jasné, že ten kód někdo smazal, ale nikdo nevěděl, kdo to byl. Jitka se zeptala: „Kdo smazal ten kód?“",
+        "focus_verb": "Bylo zřejmé, že programátor s tím kódem něco udělal, ale nikdo nevěděl, co s ním přesně udělal. Jitka se zeptala: „Co programátor udělal s kódem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 28,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Petr",
+        "verb": "opravil",
+        "object": "motor"
+      },
+      "distractor_bank": {
+        "focus_object": "Petr zvedl kapotu.",
+        "focus_subject": "Motor zkontroloval mechanik.",
+        "focus_verb": "Petr přinesl nářadí."
+      },
+      "utterance": "Ondřej na to najednou prohlásil:",
+      "contexts": {
+        "focus_object": "Ukázalo se, že Petr sice něco opravil, ale nikdo nevěděl, o co se jednalo. Klára se zeptala: „Co Petr opravil?“",
+        "focus_subject": "Bylo zřejmé, že ten motor někdo opravil, ale nikdo neviděl, kdo to byl. Klára se zeptala: „Kdo opravil ten motor?“",
+        "focus_verb": "Z hlášení vyšlo najevo, že Petr s motorem něco udělal, ale nikdo nevěděl, co s ním přesně udělal. Klára se zeptala: „Co Petr udělal s motorem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 29,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "prodavačka",
+        "verb": "zabalila",
+        "object": "knihu"
+      },
+      "distractor_bank": {
+        "focus_object": "Prodavačka otevřela pokladnu.",
+        "focus_subject": "Knihu napsal autor.",
+        "focus_verb": "Prodavačka přinesla papír."
+      },
+      "utterance": "Martina na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Na pultu zbyl balicí papír a bylo jasné, že prodavačka sice něco zabalila, ale nikdo nevěděl, o co šlo. Filip se zeptal: „Co prodavačka zabalila?“",
+        "focus_subject": "V krabici ležel balíček a bylo patrné, že tu knihu někdo zabalil, ale nikdo nevěděl, kdo to byl. Filip se zeptal: „Kdo zabalil tu knihu?“",
+        "focus_verb": "Bylo zřejmé, že prodavačka s tou knihou něco udělala, ale nikdo neviděl, co s ní udělala. Filip se zeptal: „Co prodavačka udělala s knihou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 30,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Marek",
+        "verb": "podepsal",
+        "object": "smlouvu"
+      },
+      "distractor_bank": {
+        "focus_object": "Marek otevřel složku.",
+        "focus_subject": "Smlouvu sepsal advokát.",
+        "focus_verb": "Marek vytáhl pero."
+      },
+      "utterance": "Eva na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Z protokolu vyšlo najevo, že Marek sice něco podepsal, ale nikdo nevěděl, o co šlo. Petr se zeptal: „Co Marek podepsal?“",
+        "focus_subject": "Ukázalo se, že tu smlouvu někdo podepsal, ale nikdo nevěděl, kdo to byl. Petr se zeptal: „Kdo podepsal tu smlouvu?“",
+        "focus_verb": "Bylo patrné, že Marek se smlouvou něco udělal, ale nikdo nevěděl, co s ní udělal. Petr se zeptal: „Co Marek udělal se smlouvou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 31,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "hospodyně",
+        "verb": "vyprala",
+        "object": "ubrus"
+      },
+      "distractor_bank": {
+        "focus_object": "Hospodyně prostřela stůl.",
+        "focus_subject": "Ubrus koupila sousedka.",
+        "focus_verb": "Hospodyně naplnila pračku."
+      },
+      "utterance": "Marek na to najednou prohlásil:",
+      "contexts": {
+        "focus_object": "V kuchyni bylo cítit čerstvé prádlo a ukázalo se, že hospodyně sice něco vyprala, ale nikdo nevěděl, o co šlo. Jana se zeptala: „Co hospodyně vyprala?“",
+        "focus_subject": "Bylo patrné, že ten ubrus někdo vypral, ale nikdo nevěděl, kdo to ve skutečnosti byl. Jana se zeptala: „Kdo vypral ten ubrus?“",
+        "focus_verb": "Bylo jasné, že hospodyně s ubrusem něco udělala, ale nikdo nevěděl, co s ním udělala. Jana se zeptala: „Co hospodyně udělala s ubrusem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 32,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "programátor",
+        "verb": "aktualizoval",
+        "object": "skript"
+      },
+      "distractor_bank": {
+        "focus_object": "Programátor otevřel repozitář.",
+        "focus_subject": "Skript napsal kolega.",
+        "focus_verb": "Programátor spustil terminál."
+      },
+      "utterance": "Filip na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Z historie změn vyšlo najevo, že programátor sice něco aktualizoval, ale nikdo nevěděl, o co šlo. Lucie se zeptala: „Co programátor aktualizoval?“",
+        "focus_subject": "Bylo zřejmé, že ten skript někdo aktualizoval, ale nikdo nevěděl, kdo to byl. Lucie se zeptala: „Kdo aktualizoval ten skript?“",
+        "focus_verb": "Bylo patrné, že programátor se skriptem něco udělal, ale nikdo nevěděl, co s ním přesně udělal. Lucie se zeptala: „Co programátor udělal se skriptem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 33,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "asistentka",
+        "verb": "odeslala",
+        "object": "fakturu"
+      },
+      "distractor_bank": {
+        "focus_object": "Asistentka otevřela obálku.",
+        "focus_subject": "Fakturu schválil manažer.",
+        "focus_verb": "Asistentka vytiskla kopii."
+      },
+      "utterance": "Tomáš na to najednou prohlásil:",
+      "contexts": {
+        "focus_object": "Z poštovní evidence vyšlo najevo, že asistentka sice něco odeslala, ale nikdo nevěděl, o co šlo. Marek se zeptal: „Co asistentka odeslala?“",
+        "focus_subject": "Bylo jasné, že tu fakturu někdo odeslal, ale nikdo nevěděl, kdo ji odeslal. Marek se zeptal: „Kdo odeslal tu fakturu?“",
+        "focus_verb": "Ukázalo se, že asistentka s fakturou něco udělala, ale nikdo nevěděl, co s ní přesně udělala. Marek se zeptal: „Co asistentka udělala s fakturou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 34,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "automechanik",
+        "verb": "vyměnil",
+        "object": "kolo"
+      },
+      "distractor_bank": {
+        "focus_object": "Automechanik zvedl auto.",
+        "focus_subject": "Kolo přivezl skladník.",
+        "focus_verb": "Automechanik připravil hever."
+      },
+      "utterance": "Jiří na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Z hlášení servisu vyšlo najevo, že automechanik sice něco vyměnil, ale nikdo nevěděl, o co šlo. Dana se zeptala: „Co automechanik vyměnil?“",
+        "focus_subject": "Už se s tím dalo jet a bylo jasné, že to kolo někdo vyměnil, ale nikdo nevěděl, kdo to kolo vyměnil. Dana se zeptala: „Kdo vyměnil to kolo?“",
+        "focus_verb": "Bylo patrné, že automechanik s kolem něco udělal, ale nikdo nevěděl, co s ním přesně udělal. Dana se zeptala: „Co automechanik udělal s kolem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 35,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "grafik",
+        "verb": "upravil",
+        "object": "logo"
+      },
+      "distractor_bank": {
+        "focus_object": "Grafik otevřel editor.",
+        "focus_subject": "Logo navrhl kolega.",
+        "focus_verb": "Grafik poslal návrh."
+      },
+      "utterance": "Marek na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Z historie verzí vyšlo najevo, že grafik sice něco upravil, ale nikdo nevěděl, o co šlo. Filip se zeptal: „Co grafik upravil?“",
+        "focus_subject": "Ukázalo se, že to logo někdo upravil, ale nikdo nevěděl, kdo ho upravil. Filip se zeptal: „Kdo upravil to logo?“",
+        "focus_verb": "Bylo patrné, že grafik s logem něco udělal, ale nikdo nevěděl, co s ním udělal. Filip se zeptal: „Co grafik udělal s logem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 36,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "technik",
+        "verb": "restartoval",
+        "object": "server"
+      },
+      "distractor_bank": {
+        "focus_object": "Technik otevřel rozvaděč.",
+        "focus_subject": "Server spravoval administrátor.",
+        "focus_verb": "Technik zapojil kabel."
+      },
+      "utterance": "Eva na to najednou prohlásila:",
+      "contexts": {
+        "focus_object": "Z hlášení vyšlo najevo, že technik sice něco restartoval, ale nikdo nevěděl, o co šlo. Klára se zeptala: „Co technik restartoval?“",
+        "focus_subject": "Bylo jasné, že ten server někdo restartoval, ale nikdo nevěděl, kdo ten server restartoval. Klára se zeptala: „Kdo restartoval ten server?“",
+        "focus_verb": "Bylo zřejmé, že technik se serverem něco udělal, ale nikdo nevěděl, co s ním přesně udělal. Klára se zeptala: „Co technik udělal se serverem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 37,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Lukáš",
+        "verb": "vyfotil",
+        "object": "památku"
+      },
+      "distractor_bank": {
+        "focus_object": "Lukáš otevřel mapu.",
+        "focus_subject": "Památku navrhl architekt.",
+        "focus_verb": "Lukáš koupil pohlednici."
+      },
+      "utterance": "Jiří na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "V digitální galerii se ukázalo, že Lukáš sice něco vyfotil, ale nikdo nevěděl, o co šlo. Lucie se zeptala: „Co Lukáš vyfotil?“",
+        "focus_subject": "Bylo zřejmé, že tu památku někdo vyfotil, ale nikdo nevěděl, kdo tu památku vyfotil. Lucie se zeptala: „Kdo vyfotil tu památku?“",
+        "focus_verb": "Bylo patrné, že Lukáš s tou památkou něco udělal, ale nikdo nevěděl, co s ní udělal. Lucie se zeptala: „Co Lukáš udělal s památkou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 38,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Lucie",
+        "verb": "rozstříhala",
+        "object": "látku"
+      },
+      "distractor_bank": {
+        "focus_object": "Lucie navlékla nit.",
+        "focus_subject": "Látku prodal obchodník.",
+        "focus_verb": "Lucie připravila střih."
+      },
+      "utterance": "Marek na to najednou prohlásil:",
+      "contexts": {
+        "focus_object": "Na stole ležely zbytky a ukázalo se, že Lucie sice něco rozstříhala, ale nikdo nevěděl, o co šlo. Ondřej se zeptal: „Co Lucie rozstříhala?“",
+        "focus_subject": "Na zemi byly kousky a bylo jasné, že tu látku někdo rozstříhal, ale nikdo nevěděl, kdo tu látku rozstříhal. Ondřej se zeptal: „Kdo rozstříhal tu látku?“",
+        "focus_verb": "Bylo patrné, že Lucie s tou látkou něco udělala, ale nikdo nevěděl, co s ní udělala. Ondřej se zeptal: „Co Lucie udělala s látkou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 39,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "správce",
+        "verb": "smazal",
+        "object": "databázi"
+      },
+      "distractor_bank": {
+        "focus_object": "Správce otevřel konzoli.",
+        "focus_subject": "Databázi spravoval analytik.",
+        "focus_verb": "Správce zapnul monitoring."
+      },
+      "utterance": "Filip na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Ze záznamu serveru vyšlo najevo, že správce sice něco smazal, ale nikdo nevěděl, o co přesně šlo. Tereza se zeptala: „Co správce smazal?“",
+        "focus_subject": "Data zmizela a bylo jasné, že tu databázi někdo smazal, ale nikdo nevěděl, kdo tu databázi smazal. Tereza se zeptala: „Kdo smazal tu databázi?“",
+        "focus_verb": "Bylo zřejmé, že správce s tou databází něco udělal, ale nikdo nevěděl, co s ní přesně udělal. Tereza se zeptala: „Co správce udělal s databází?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 40,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "ředitel",
+        "verb": "schválil",
+        "object": "projekt"
+      },
+      "distractor_bank": {
+        "focus_object": "Ředitel otevřel složku.",
+        "focus_subject": "Projekt navrhl tým.",
+        "focus_verb": "Ředitel svolal poradu."
+      },
+      "utterance": "Marek na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Z protokolu vyšlo najevo, že ředitel sice něco schválil, ale nikdo nevěděl, o co přesně šlo. Pavel se zeptal: „Co ředitel schválil?“",
+        "focus_subject": "Bylo jasné, že ten projekt někdo schválil, ale nikdo nevěděl, kdo ho schválil. Pavel se zeptal: „Kdo schválil ten projekt?“",
+        "focus_verb": "Bylo patrné, že ředitel s projektem něco udělal, ale nikdo nevěděl, co s ním udělal. Pavel se zeptal: „Co ředitel udělal s projektem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 41,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Martin",
+        "verb": "rozlil",
+        "object": "polévku"
+      },
+      "distractor_bank": {
+        "focus_object": "Martin prostřel stůl.",
+        "focus_subject": "Polévku uvařila kuchařka.",
+        "focus_verb": "Martin donesl misku."
+      },
+      "utterance": "Eva na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Ukázalo se, že Martin sice něco rozlil, ale nikdo nevěděl, o co se jednalo. Jana se zeptala: „Co Martin rozlil?“",
+        "focus_subject": "Bylo zřejmé, že tu polévku někdo rozlil, ale nikdo nevěděl, kdo ji rozlil. Jana se zeptala: „Kdo rozlil tu polévku?“",
+        "focus_verb": "Bylo patrné, že Martin s polévkou něco udělal, ale nikdo nevěděl, co s ní udělal. Jana se zeptala: „Co Martin udělal s polévkou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 42,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "úřednice",
+        "verb": "orazítkovala",
+        "object": "průkaz"
+      },
+      "distractor_bank": {
+        "focus_object": "Úřednice otevřela přepážku.",
+        "focus_subject": "Průkaz vystavil úřad.",
+        "focus_verb": "Úřednice zkontrolovala podpis."
+      },
+      "utterance": "Jiří na to najednou prohlásil:",
+      "contexts": {
+        "focus_object": "Z evidence vyšlo najevo, že úřednice sice něco orazítkovala, ale nikdo nevěděl, o co přesně šlo. Filip se zeptal: „Co úřednice orazítkovala?“",
+        "focus_subject": "Bylo jasné, že ten průkaz někdo orazítkoval, ale nikdo nevěděl, kdo ho orazítkoval. Filip se zeptal: „Kdo orazítkoval ten průkaz?“",
+        "focus_verb": "Ukázalo se, že úřednice s průkazem něco udělala, ale nikdo nevěděl, co s ním přesně udělala. Filip se zeptal: „Co úřednice udělala s průkazem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 43,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Klára",
+        "verb": "smazala",
+        "object": "soubor"
+      },
+      "distractor_bank": {
+        "focus_object": "Klára otevřela notebook.",
+        "focus_subject": "Soubor nahrál kolega.",
+        "focus_verb": "Klára založila složku."
+      },
+      "utterance": "Lucie na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Z historie změn vyšlo najevo, že Klára sice něco smazala, ale nikdo nevěděl, o co šlo. Tomáš se zeptal: „Co Klára smazala?“",
+        "focus_subject": "Ukázalo se, že ten soubor někdo smazal, ale nikdo nevěděl, kdo ho smazal. Tomáš se zeptal: „Kdo smazal ten soubor?“",
+        "focus_verb": "Bylo patrné, že Klára se souborem něco udělala, ale nikdo nevěděl, co s ním udělala. Tomáš se zeptal: „Co Klára udělala se souborem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 44,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "opravář",
+        "verb": "vyměnil",
+        "object": "jistič"
+      },
+      "distractor_bank": {
+        "focus_object": "Opravář zkontroloval rozvaděč.",
+        "focus_subject": "Jistič dodal elektrikář.",
+        "focus_verb": "Opravář přinesl měřák."
+      },
+      "utterance": "Klára na to najednou prohlásila:",
+      "contexts": {
+        "focus_object": "Z hlášení vyšlo najevo, že opravář sice něco vyměnil, ale nikdo nevěděl, o co přesně se jednalo. Ondřej se zeptal: „Co opravář vyměnil?“",
+        "focus_subject": "Elektřina už fungovala a bylo patrné, že ten jistič někdo vyměnil, ale nikdo nevěděl, kdo ho vyměnil. Ondřej se zeptal: „Kdo vyměnil ten jistič?“",
+        "focus_verb": "Ukázalo se, že opravář s jističem něco udělal, ale nikdo nevěděl, co s ním přesně udělal. Ondřej se zeptal: „Co opravář udělal s jističem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 45,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "hospodyně",
+        "verb": "vylila",
+        "object": "vodu"
+      },
+      "distractor_bank": {
+        "focus_object": "Hospodyně umyla podlahu.",
+        "focus_subject": "Vodu přinesla služka.",
+        "focus_verb": "Hospodyně otevřela kýbl."
+      },
+      "utterance": "Klára na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Na podlaze byla louže a ukázalo se, že hospodyně sice něco vylila, ale nikdo nevěděl, o co šlo. Michal se zeptal: „Co hospodyně vylila?“",
+        "focus_subject": "Bylo zřejmé, že tu vodu někdo vylil, ale nikdo nevěděl, kdo ji vylil. Michal se zeptal: „Kdo vylil tu vodu?“",
+        "focus_verb": "Bylo patrné, že hospodyně s tou vodou něco udělala, ale nikdo nevěděl, co s ní udělala. Michal se zeptal: „Co hospodyně udělala s vodou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 46,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Jakub",
+        "verb": "posunul",
+        "object": "skříň"
+      },
+      "distractor_bank": {
+        "focus_object": "Jakub odsunul stůl.",
+        "focus_subject": "Skříň sestavil truhlář.",
+        "focus_verb": "Jakub přinesl vozík."
+      },
+      "utterance": "Martin na to najednou prohlásil:",
+      "contexts": {
+        "focus_object": "V místnosti byl slyšet hluk a ukázalo se, že Jakub sice něco posunul, ale nikdo nevěděl, o co šlo. Lucie se zeptala: „Co Jakub posunul?“",
+        "focus_subject": "Nábytek stál jinde a bylo jasné, že tu skříň někdo posunul, ale nikdo nevěděl, kdo ji posunul. Lucie se zeptala: „Kdo posunul tu skříň?“",
+        "focus_verb": "Bylo patrné, že Jakub s tou skříní něco udělal, ale nikdo nevěděl, co s ní udělal. Lucie se zeptala: „Co Jakub udělal se skříní?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 47,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "redaktorka",
+        "verb": "smazala",
+        "object": "titulek"
+      },
+      "distractor_bank": {
+        "focus_object": "Redaktorka otevřela článek.",
+        "focus_subject": "Titulek navrhl editor.",
+        "focus_verb": "Redaktorka uložila verzi."
+      },
+      "utterance": "David na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Z historie změn vyšlo najevo, že redaktorka sice něco smazala, ale nikdo nevěděl, o co šlo. Ondřej se zeptal: „Co redaktorka smazala?“",
+        "focus_subject": "V textu něco chybělo a bylo jasné, že ten titulek někdo smazal, ale nikdo nevěděl, kdo ho smazal. Ondřej se zeptal: „Kdo smazal ten titulek?“",
+        "focus_verb": "Bylo zřejmé, že redaktorka s tím titulkem něco udělala, ale nikdo nevěděl, co s ním udělala. Ondřej se zeptal: „Co redaktorka udělala s titulkem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 48,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "údržbář",
+        "verb": "opravil",
+        "object": "kliku"
+      },
+      "distractor_bank": {
+        "focus_object": "Údržbář zkontroloval dveře.",
+        "focus_subject": "Kliku namontoval truhlář.",
+        "focus_verb": "Údržbář přinesl šroubovák."
+      },
+      "utterance": "Jana na to najednou prohlásila:",
+      "contexts": {
+        "focus_object": "Bylo vidět, že údržbář sice něco opravil, ale nikdo nevěděl, o co šlo. Tomáš se zeptal: „Co údržbář opravil?“",
+        "focus_subject": "Dveře už šly otevřít a bylo jasné, že tu kliku někdo opravil, ale nikdo nevěděl, kdo ji opravil. Tomáš se zeptal: „Kdo opravil tu kliku?“",
+        "focus_verb": "Bylo patrné, že údržbář s tou klikou něco udělal, ale nikdo nevěděl, co s ní přesně udělal. Tomáš se zeptal: „Co údržbář udělal s klikou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 49,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Simona",
+        "verb": "vyfotila",
+        "object": "sochu"
+      },
+      "distractor_bank": {
+        "focus_object": "Simona koupila vstupenku.",
+        "focus_subject": "Sochu vytvořil sochař.",
+        "focus_verb": "Simona nastavila foťák."
+      },
+      "utterance": "Filip na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Z hlášení v aplikaci vyšlo najevo, že Simona sice něco vyfotila, ale nikdo nevěděl, o co šlo. Marek se zeptal: „Co Simona vyfotila?“",
+        "focus_subject": "Digitální snímek se objevil v galerii a bylo jasné, že tu sochu někdo vyfotil, ale nikdo nevěděl, kdo ji vyfotil. Marek se zeptal: „Kdo vyfotil tu sochu?“",
+        "focus_verb": "Bylo zřejmé, že Simona s tou sochou něco udělala, ale nikdo nevěděl, co s ní udělala. Marek se zeptal: „Co Simona udělala se sochou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 50,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Viktor",
+        "verb": "opravil",
+        "object": "zásuvku"
+      },
+      "distractor_bank": {
+        "focus_object": "Viktor zkontroloval kabel.",
+        "focus_subject": "Zásuvku namontoval elektrikář.",
+        "focus_verb": "Viktor přinesl zkoušečku."
+      },
+      "utterance": "Eva na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Ukázalo se, že Viktor sice něco opravil, ale nikdo nevěděl, o co přesně šlo. Michal se zeptal: „Co Viktor opravil?“",
+        "focus_subject": "Lampička se rozsvítila a bylo jasné, že tu zásuvku někdo opravil, ale nikdo nevěděl, kdo ji opravil. Michal se zeptal: „Kdo opravil tu zásuvku?“",
+        "focus_verb": "Bylo patrné, že Viktor s tou zásuvkou něco udělal, ale nikdo nevěděl, co s ní udělal. Michal se zeptal: „Co Viktor udělal se zásuvkou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 51,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "účetní",
+        "verb": "schválila",
+        "object": "platbu"
+      },
+      "distractor_bank": {
+        "focus_object": "Účetní otevřela systém.",
+        "focus_subject": "Platbu zadal klient.",
+        "focus_verb": "Účetní vytiskla výpis."
+      },
+      "utterance": "Jiří na to najednou prohlásil:",
+      "contexts": {
+        "focus_object": "Z hlášení systému vyšlo najevo, že účetní sice něco schválila, ale nikdo nevěděl, o co šlo. Klára se zeptala: „Co účetní schválila?“",
+        "focus_subject": "V seznamu se objevila nová položka a bylo jasné, že tu platbu někdo schválil, ale nikdo nevěděl, kdo ji schválil. Klára se zeptala: „Kdo schválil tu platbu?“",
+        "focus_verb": "Bylo patrné, že účetní s tou platbou něco udělala, ale nikdo nevěděl, co s ní udělala. Klára se zeptala: „Co účetní udělala s platbou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 52,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "studentka",
+        "verb": "odevzdala",
+        "object": "práci"
+      },
+      "distractor_bank": {
+        "focus_object": "Studentka otevřela portál.",
+        "focus_subject": "Práci zadal vyučující.",
+        "focus_verb": "Studentka stáhla formulář."
+      },
+      "utterance": "Marek na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Z evidence portálu vyšlo najevo, že studentka sice něco odevzdala, ale nikdo nevěděl, o co šlo. Petr se zeptal: „Co studentka odevzdala?“",
+        "focus_subject": "V systému se objevil soubor a bylo jasné, že tu práci někdo odevzdal, ale nikdo nevěděl, kdo ji odevzdal. Petr se zeptal: „Kdo odevzdal tu práci?“",
+        "focus_verb": "Bylo zřejmé, že studentka s tou prací něco udělala, ale nikdo nevěděl, co s ní udělala. Petr se zeptal: „Co studentka udělala s prací?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 53,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "řidič",
+        "verb": "umyl",
+        "object": "okno"
+      },
+      "distractor_bank": {
+        "focus_object": "Řidič natankoval auto.",
+        "focus_subject": "Okno osadil sklenář.",
+        "focus_verb": "Řidič přinesl hadr."
+      },
+      "utterance": "Jana na to najednou prohlásila:",
+      "contexts": {
+        "focus_object": "Ukázalo se, že řidič sice něco umyl, ale nikdo nevěděl, o co šlo. David se zeptal: „Co řidič umyl?“",
+        "focus_subject": "Povrch se leskl a bylo zřejmé, že to okno někdo umyl, ale nikdo nevěděl, kdo ho umyl. David se zeptal: „Kdo umyl to okno?“",
+        "focus_verb": "Bylo patrné, že řidič s tím oknem něco udělal, ale nikdo nevěděl, co s ním udělal. David se zeptal: „Co řidič udělal s oknem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 54,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "cukrářka",
+        "verb": "ozdobila",
+        "object": "dort"
+      },
+      "distractor_bank": {
+        "focus_object": "Cukrářka připravila krém.",
+        "focus_subject": "Dort upekl pekař.",
+        "focus_verb": "Cukrářka otevřela lednici."
+      },
+      "utterance": "Tomáš na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Na stole stál hotový výrobek a ukázalo se, že cukrářka sice něco ozdobila, ale nikdo nevěděl, o co šlo. Lucie se zeptala: „Co cukrářka ozdobila?“",
+        "focus_subject": "Vzhled dezertu se změnil a bylo jasné, že ten dort někdo ozdobil, ale nikdo nevěděl, kdo ho ozdobil. Lucie se zeptala: „Kdo ozdobil ten dort?“",
+        "focus_verb": "Bylo zřejmé, že cukrářka s tím dortem něco udělala, ale nikdo nevěděl, co s ním udělala. Lucie se zeptala: „Co cukrářka udělala s dortem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 55,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Martin",
+        "verb": "odemkl",
+        "object": "branku"
+      },
+      "distractor_bank": {
+        "focus_object": "Martin zkontroloval plot.",
+        "focus_subject": "Branku natřel soused.",
+        "focus_verb": "Martin vytáhl klíče."
+      },
+      "utterance": "Eva na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Z hlášení vyšlo najevo, že Martin sice něco odemkl, ale nikdo nevěděl, o co přesně šlo. Michal se zeptal: „Co Martin odemkl?“",
+        "focus_subject": "Bylo jasné, že tu branku někdo odemkl, ale nikdo nevěděl, kdo ji odemkl. Michal se zeptal: „Kdo odemkl tu branku?“",
+        "focus_verb": "Bylo patrné, že Martin s brankou něco udělal, ale nikdo nevěděl, co s ní udělal. Michal se zeptal: „Co Martin udělal s brankou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 56,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "architekt",
+        "verb": "dokončil",
+        "object": "model"
+      },
+      "distractor_bank": {
+        "focus_object": "Architekt otevřel ateliér.",
+        "focus_subject": "Model navrhl student.",
+        "focus_verb": "Architekt připravil podklad."
+      },
+      "utterance": "Jiří na to najednou prohlásil:",
+      "contexts": {
+        "focus_object": "V ateliéru se ukázalo, že architekt sice něco dokončil, ale nikdo nevěděl, o co šlo. Klára se zeptala: „Co architekt dokončil?“",
+        "focus_subject": "Na stole se objevil výsledek a bylo zřejmé, že ten model někdo dokončil, ale nikdo nevěděl, kdo ho dokončil. Klára se zeptala: „Kdo dokončil ten model?“",
+        "focus_verb": "Bylo jasné, že architekt s modelem něco udělal, ale nikdo nevěděl, co s ním přesně udělal. Klára se zeptala: „Co architekt udělal s modelem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 57,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Tereza",
+        "verb": "přeladila",
+        "object": "stanici"
+      },
+      "distractor_bank": {
+        "focus_object": "Tereza zapnula rádio.",
+        "focus_subject": "Stanici moderoval hlasatel.",
+        "focus_verb": "Tereza zvýšila hlasitost."
+      },
+      "utterance": "Marek na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Změnil se zvuk a vyšlo najevo, že Tereza sice něco přeladila, ale nikdo nevěděl, o co šlo. Filip se zeptal: „Co Tereza přeladila?“",
+        "focus_subject": "Z reproduktorů hrálo něco jiného a bylo patrné, že tu stanici někdo přeladil, ale nikdo nevěděl, kdo ji přeladil. Filip se zeptal: „Kdo přeladil tu stanici?“",
+        "focus_verb": "Ukázalo se, že Tereza se stanicí něco udělala, ale nikdo nevěděl, co s ní udělala. Filip se zeptal: „Co Tereza udělala se stanicí?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 58,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "skladník",
+        "verb": "přesunul",
+        "object": "paletu"
+      },
+      "distractor_bank": {
+        "focus_object": "Skladník otevřel vrata.",
+        "focus_subject": "Paletu přivezl řidič.",
+        "focus_verb": "Skladník připravil vozík."
+      },
+      "utterance": "Jana na to najednou prohlásila:",
+      "contexts": {
+        "focus_object": "Z evidence vyšlo najevo, že skladník sice něco přesunul, ale nikdo nevěděl, o co přesně se jednalo. Tomáš se zeptal: „Co skladník přesunul?“",
+        "focus_subject": "V uličce bylo prázdno a bylo jasné, že tu paletu někdo přesunul, ale nikdo nevěděl, kdo ji přesunul. Tomáš se zeptal: „Kdo přesunul tu paletu?“",
+        "focus_verb": "Bylo zřejmé, že skladník s paletou něco udělal, ale nikdo nevěděl, co s ní udělal. Tomáš se zeptal: „Co skladník udělal s paletou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 59,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Monika",
+        "verb": "ztratila",
+        "object": "náušnici"
+      },
+      "distractor_bank": {
+        "focus_object": "Monika prohledala kabelku.",
+        "focus_subject": "Náušnici koupil partner.",
+        "focus_verb": "Monika otevřela šperkovnici."
+      },
+      "utterance": "Lucie na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Ukázalo se, že Monika sice něco ztratila, ale nikdo nevěděl, o co šlo. Ondřej se zeptal: „Co Monika ztratila?“",
+        "focus_subject": "Bylo jasné, že tu náušnici někdo ztratil, ale nikdo nevěděl, kdo ji ztratil. Ondřej se zeptal: „Kdo ztratil tu náušnici?“",
+        "focus_verb": "Bylo patrné, že Monika s náušnicí něco udělala, ale nikdo nevěděl, co s ní udělala. Ondřej se zeptal: „Co Monika udělala s náušnicí?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 60,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "asistentka",
+        "verb": "skartovala",
+        "object": "dokument"
+      },
+      "distractor_bank": {
+        "focus_object": "Asistentka otevřela šanon.",
+        "focus_subject": "Dokument podepsal ředitel.",
+        "focus_verb": "Asistentka připravila skartovačku."
+      },
+      "utterance": "Michal na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Z hlášení vyšlo najevo, že asistentka sice něco skartovala, ale nikdo nevěděl, o co přesně šlo. Tomáš se zeptal: „Co asistentka skartovala?“",
+        "focus_subject": "Bylo jasné, že ten dokument někdo skartoval, ale nikdo nevěděl, kdo ho skartoval. Tomáš se zeptal: „Kdo skartoval ten dokument?“",
+        "focus_verb": "Bylo patrné, že asistentka s tím dokumentem něco udělala, ale nikdo nevěděl, co s ním udělala. Tomáš se zeptal: „Co asistentka udělala s dokumentem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 61,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Petr",
+        "verb": "vyleštil",
+        "object": "zrcadlo"
+      },
+      "distractor_bank": {
+        "focus_object": "Petr umyl rám.",
+        "focus_subject": "Zrcadlo zavěsil truhlář.",
+        "focus_verb": "Petr přinesl hadřík."
+      },
+      "utterance": "Pavel na to najednou prohlásil:",
+      "contexts": {
+        "focus_object": "Ukázalo se, že Petr sice něco vyleštil, ale nikdo nevěděl, o co šlo. Jana se zeptala: „Co Petr vyleštil?“",
+        "focus_subject": "Povrch se leskl a bylo zřejmé, že to zrcadlo někdo vyleštil, ale nikdo nevěděl, kdo ho vyleštil. Jana se zeptala: „Kdo vyleštil to zrcadlo?“",
+        "focus_verb": "Bylo patrné, že Petr s tím zrcadlem něco udělal, ale nikdo nevěděl, co s ním přesně udělal. Jana se zeptala: „Co Petr udělal se zrcadlem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 62,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "zahradník",
+        "verb": "zasadil",
+        "object": "stromek"
+      },
+      "distractor_bank": {
+        "focus_object": "Zahradník vykopal jámu.",
+        "focus_subject": "Stromek přivezl školkař.",
+        "focus_verb": "Zahradník přinesl konev."
+      },
+      "utterance": "Lucie na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Na zahradě přibyla nová rostlina a ukázalo se, že zahradník sice něco zasadil, ale nikdo nevěděl, o co šlo. Filip se zeptal: „Co zahradník zasadil?“",
+        "focus_subject": "Bylo jasné, že ten stromek někdo zasadil, ale nikdo nevěděl, kdo ho zasadil. Filip se zeptal: „Kdo zasadil ten stromek?“",
+        "focus_verb": "Bylo zřejmé, že zahradník se stromkem něco udělal, ale nikdo nevěděl, co s ním přesně udělal. Filip se zeptal: „Co zahradník udělal se stromkem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 63,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Lucie",
+        "verb": "vyžehlila",
+        "object": "košili"
+      },
+      "distractor_bank": {
+        "focus_object": "Lucie otevřela skříň.",
+        "focus_subject": "Košili koupila prodavačka.",
+        "focus_verb": "Lucie zapnula žehličku."
+      },
+      "utterance": "Klára na to najednou prohlásila:",
+      "contexts": {
+        "focus_object": "V pokoji bylo cítit teplo a ukázalo se, že Lucie sice něco vyžehlila, ale nikdo nevěděl, o co se jednalo. Martin se zeptal: „Co Lucie vyžehlila?“",
+        "focus_subject": "Bylo patrné, že tu košili někdo vyžehlil, ale nikdo nevěděl, kdo ji vyžehlil. Martin se zeptal: „Kdo vyžehlil tu košili?“",
+        "focus_verb": "Bylo jasné, že Lucie s tou košilí něco udělala, ale nikdo nevěděl, co s ní udělala. Martin se zeptal: „Co Lucie udělala s košilí?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 64,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "prodavač",
+        "verb": "přerovnal",
+        "object": "regál"
+      },
+      "distractor_bank": {
+        "focus_object": "Prodavač otevřel sklad.",
+        "focus_subject": "Regál smontoval truhlář.",
+        "focus_verb": "Prodavač přinesl vozík."
+      },
+      "utterance": "Jiří na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Z hlášení vyšlo najevo, že prodavač sice něco přerovnal, ale nikdo nevěděl, o co přesně šlo. Eva se zeptala: „Co prodavač přerovnal?“",
+        "focus_subject": "Zboží bylo uspořádané jinak a bylo zřejmé, že ten regál někdo přerovnal, ale nikdo nevěděl, kdo ho přerovnal. Eva se zeptala: „Kdo přerovnal ten regál?“",
+        "focus_verb": "Bylo patrné, že prodavač s tím regálem něco udělal, ale nikdo nevěděl, co s ním udělal. Eva se zeptala: „Co prodavač udělal s regálem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 65,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "barman",
+        "verb": "namíchal",
+        "object": "drink"
+      },
+      "distractor_bank": {
+        "focus_object": "Barman připravil sklenici.",
+        "focus_subject": "Drink objednal host.",
+        "focus_verb": "Barman podal menu."
+      },
+      "utterance": "Eva na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Z historie objednávek vyšlo najevo, že barman sice něco namíchal, ale nikdo nevěděl, o co přesně šlo. Honza se zeptal: „Co barman namíchal?“",
+        "focus_subject": "Na pultu stála sklenice a bylo jasné, že ten drink někdo namíchal, ale nikdo nevěděl, kdo ho namíchal. Honza se zeptal: „Kdo namíchal ten drink?“",
+        "focus_verb": "Ukázalo se, že barman s tím drinkem něco udělal, ale nikdo nevěděl, co s ním udělal. Honza se zeptal: „Co barman udělal s drinkem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 66,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Marek",
+        "verb": "otevřel",
+        "object": "obálku"
+      },
+      "distractor_bank": {
+        "focus_object": "Marek vzal dopis.",
+        "focus_subject": "Obálku přinesl kurýr.",
+        "focus_verb": "Marek přečetl zprávu."
+      },
+      "utterance": "Jana na to najednou prohlásila:",
+      "contexts": {
+        "focus_object": "Ukázalo se, že Marek sice něco otevřel, ale nikdo nevěděl, o co šlo. Petr se zeptal: „Co Marek otevřel?“",
+        "focus_subject": "Pečeť byla porušená a bylo zřejmé, že tu obálku někdo otevřel, ale nikdo nevěděl, kdo ji otevřel. Petr se zeptal: „Kdo otevřel tu obálku?“",
+        "focus_verb": "Bylo patrné, že Marek s tou obálkou něco udělal, ale nikdo nevěděl, co s ní udělal. Petr se zeptal: „Co Marek udělal s obálkou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 67,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "kuchařka",
+        "verb": "osolila",
+        "object": "omáčku"
+      },
+      "distractor_bank": {
+        "focus_object": "Kuchařka zamíchala polévku.",
+        "focus_subject": "Omáčku ochutnal číšník.",
+        "focus_verb": "Kuchařka otevřela troubu."
+      },
+      "utterance": "Jiří na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Změnila se chuť jídla a vyšlo najevo, že kuchařka sice něco osolila, ale nikdo nevěděl, o co přesně šlo. Jana se zeptala: „Co kuchařka osolila?“",
+        "focus_subject": "Bylo jasné, že tu omáčku někdo osolil, ale nikdo nevěděl, kdo ji osolil. Jana se zeptala: „Kdo osolil tu omáčku?“",
+        "focus_verb": "Bylo patrné, že kuchařka s tou omáčkou něco udělala, ale nikdo nevěděl, co s ní udělala. Jana se zeptala: „Co kuchařka udělala s omáčkou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 68,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "technik",
+        "verb": "zapojil",
+        "object": "tiskárnu"
+      },
+      "distractor_bank": {
+        "focus_object": "Technik otevřel krabici.",
+        "focus_subject": "Tiskárnu koupil vedoucí.",
+        "focus_verb": "Technik přinesl kabel."
+      },
+      "utterance": "Marek na to najednou prohlásil:",
+      "contexts": {
+        "focus_object": "Z hlášení vyšlo najevo, že technik sice něco zapojil, ale nikdo nevěděl, o co se jednalo. Martin se zeptal: „Co technik zapojil?“",
+        "focus_subject": "Zařízení začalo fungovat a bylo jasné, že tu tiskárnu někdo zapojil, ale nikdo nevěděl, kdo ji zapojil. Martin se zeptal: „Kdo zapojil tu tiskárnu?“",
+        "focus_verb": "Bylo zřejmé, že technik s tou tiskárnou něco udělal, ale nikdo nevěděl, co s ní udělal. Martin se zeptal: „Co technik udělal s tiskárnou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 69,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Veronika",
+        "verb": "vymazala",
+        "object": "fotku"
+      },
+      "distractor_bank": {
+        "focus_object": "Veronika otevřela galerii.",
+        "focus_subject": "Fotku pořídil fotograf.",
+        "focus_verb": "Veronika zálohovala mobil."
+      },
+      "utterance": "Filip na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Z historie změn vyšlo najevo, že Veronika sice něco vymazala, ale nikdo nevěděl, o co šlo. Lukáš se zeptal: „Co Veronika vymazala?“",
+        "focus_subject": "Snímek zmizel z galerie a bylo patrné, že tu fotku někdo vymazal, ale nikdo nevěděl, kdo ji vymazal. Lukáš se zeptal: „Kdo vymazal tu fotku?“",
+        "focus_verb": "Ukázalo se, že Veronika s tou fotkou něco udělala, ale nikdo nevěděl, co s ní přesně udělala. Lukáš se zeptal: „Co Veronika udělala s fotkou?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 70,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Michal",
+        "verb": "vypnul",
+        "object": "počítač"
+      },
+      "distractor_bank": {
+        "focus_object": "Michal zapnul monitor.",
+        "focus_subject": "Počítač sestavil technik.",
+        "focus_verb": "Michal odnesl myš."
+      },
+      "utterance": "David na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Ukázalo se, že Michal sice něco vypnul, ale nikdo nevěděl, o co přesně šlo. Klára se zeptala: „Co Michal vypnul?“",
+        "focus_subject": "Bylo jasné, že ten počítač někdo vypnul, ale nikdo nevěděl, kdo ho vypnul. Klára se zeptala: „Kdo vypnul ten počítač?“",
+        "focus_verb": "Bylo patrné, že Michal s počítačem něco udělal, ale nikdo nevěděl, co s ním udělal. Klára se zeptala: „Co Michal udělal s počítačem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 71,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "uklízeč",
+        "verb": "vyhodil",
+        "object": "noviny"
+      },
+      "distractor_bank": {
+        "focus_object": "Uklízeč vysypal koš.",
+        "focus_subject": "Noviny koupil soused.",
+        "focus_verb": "Uklízeč otevřel kontejner."
+      },
+      "utterance": "Jana na to najednou prohlásila:",
+      "contexts": {
+        "focus_object": "Vyšlo najevo, že uklízeč sice něco vyhodil, ale nikdo nevěděl, o co přesně šlo. Tomáš se zeptal: „Co uklízeč vyhodil?“",
+        "focus_subject": "Bylo zřejmé, že ty noviny někdo vyhodil, ale nikdo nevěděl, kdo je vyhodil. Tomáš se zeptal: „Kdo vyhodil ty noviny?“",
+        "focus_verb": "Bylo patrné, že uklízeč s novinami něco udělal, ale nikdo nevěděl, co s nimi udělal. Tomáš se zeptal: „Co uklízeč udělal s novinami?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 72,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Roman",
+        "verb": "uklidil",
+        "object": "talíř"
+      },
+      "distractor_bank": {
+        "focus_object": "Roman prostřel stůl.",
+        "focus_subject": "Talíř umyla servírka.",
+        "focus_verb": "Roman otevřel myčku."
+      },
+      "utterance": "Eva na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Ukázalo se, že Roman sice něco uklidil, ale nikdo nevěděl, o co šlo. Petr se zeptal: „Co Roman uklidil?“",
+        "focus_subject": "Na stole bylo prázdno a bylo jasné, že ten talíř někdo uklidil, ale nikdo nevěděl, kdo ho uklidil. Petr se zeptal: „Kdo uklidil ten talíř?“",
+        "focus_verb": "Bylo patrné, že Roman s talířem něco udělal, ale nikdo nevěděl, co s ním udělal. Petr se zeptal: „Co Roman udělal s talířem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 73,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "mechanik",
+        "verb": "opravil",
+        "object": "brzdy"
+      },
+      "distractor_bank": {
+        "focus_object": "Mechanik zvedl auto.",
+        "focus_subject": "Brzdy objednal vedoucí.",
+        "focus_verb": "Mechanik přinesl klíč."
+      },
+      "utterance": "Filip na to najednou prohlásil:",
+      "contexts": {
+        "focus_object": "Ze záznamu vyšlo najevo, že mechanik sice něco opravil, ale nikdo nevěděl, o co šlo. Lucie se zeptala: „Co mechanik opravil?“",
+        "focus_subject": "Auto už bezpečně zastavilo a bylo jasné, že ty brzdy někdo opravil, ale nikdo nevěděl, kdo je opravil. Lucie se zeptala: „Kdo opravil ty brzdy?“",
+        "focus_verb": "Ukázalo se, že mechanik s brzdami něco udělal, ale nikdo nevěděl, co s nimi přesně udělal. Lucie se zeptala: „Co mechanik udělal s brzdami?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 74,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Hana",
+        "verb": "sbalila",
+        "object": "kufr"
+      },
+      "distractor_bank": {
+        "focus_object": "Hana otevřela skříň.",
+        "focus_subject": "Kufr koupil cestovatel.",
+        "focus_verb": "Hana připravila pas."
+      },
+      "utterance": "Marek na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Ukázalo se, že Hana sice něco sbalila, ale nikdo nevěděl, o co se jednalo. Martin se zeptal: „Co Hana sbalila?“",
+        "focus_subject": "U dveří stála věc připravená k odjezdu a bylo jasné, že ten kufr někdo sbalil, ale nikdo nevěděl, kdo ho sbalil. Martin se zeptal: „Kdo sbalil ten kufr?“",
+        "focus_verb": "Bylo patrné, že Hana s kufrem něco udělala, ale nikdo nevěděl, co s ním přesně udělala. Martin se zeptal: „Co Hana udělala s kufrem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 75,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "policista",
+        "verb": "zabavil",
+        "object": "doklad"
+      },
+      "distractor_bank": {
+        "focus_object": "Policista otevřel spis.",
+        "focus_subject": "Doklad vystavil úřad.",
+        "focus_verb": "Policista sepsal protokol."
+      },
+      "utterance": "Marek na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Z hlášení vyšlo najevo, že policista sice něco zabavil, ale nikdo nevěděl, o co šlo. Klára se zeptala: „Co policista zabavil?“",
+        "focus_subject": "Ukázalo se, že ten doklad někdo zabavil, ale nikdo nevěděl, kdo ho zabavil. Klára se zeptala: „Kdo zabavil ten doklad?“",
+        "focus_verb": "Bylo patrné, že policista s dokladem něco udělal, ale nikdo nevěděl, co. Klára se zeptala: „Co policista udělal s dokladem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 76,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "asistentka",
+        "verb": "přepsala",
+        "object": "text"
+      },
+      "distractor_bank": {
+        "focus_object": "Asistentka otevřela dokument.",
+        "focus_subject": "Text nadiktoval manažer.",
+        "focus_verb": "Asistentka spustila editor."
+      },
+      "utterance": "Martin na to najednou prohlásil:",
+      "contexts": {
+        "focus_object": "Z historie úprav vyšlo najevo, že asistentka sice něco přepsala, ale nikdo nevěděl, o co se jednalo. Lucie se zeptala: „Co asistentka přepsala?“",
+        "focus_subject": "Bylo zřejmé, že ten text někdo přepsal, ale nikdo nevěděl, kdo ho přepsal. Lucie se zeptala: „Kdo přepsal ten text?“",
+        "focus_verb": "Bylo patrné, že asistentka s textem něco udělala, ale nikdo nevěděl, co s ním přesně udělala. Lucie se zeptala: „Co asistentka udělala s textem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 77,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "údržbář",
+        "verb": "vyčistil",
+        "object": "filtr"
+      },
+      "distractor_bank": {
+        "focus_object": "Údržbář otevřel kryt.",
+        "focus_subject": "Filtr dodal výrobce.",
+        "focus_verb": "Údržbář přinesl kartáč."
+      },
+      "utterance": "Jana na to najednou odpověděla:",
+      "contexts": {
+        "focus_object": "Z protokolu vyšlo najevo, že údržbář sice něco vyčistil, ale nikdo nevěděl, o co přesně šlo. Michal se zeptal: „Co údržbář vyčistil?“",
+        "focus_subject": "Stroj už fungoval a bylo jasné, že ten filtr někdo vyčistil, ale nikdo nevěděl, kdo ho vyčistil. Michal se zeptal: „Kdo vyčistil ten filtr?“",
+        "focus_verb": "Bylo zřejmé, že údržbář s filtrem něco udělal, ale nikdo nevěděl, co s ním přesně udělal. Michal se zeptal: „Co údržbář udělal s filtrem?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 78,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "Lenka",
+        "verb": "upustila",
+        "object": "sklenici"
+      },
+      "distractor_bank": {
+        "focus_object": "Lenka prostřela stůl.",
+        "focus_subject": "Sklenici umyla servírka.",
+        "focus_verb": "Lenka otevřela skříňku."
+      },
+      "utterance": "David na to najednou prohlásil:",
+      "contexts": {
+        "focus_object": "Byl slyšet hluk a ukázalo se, že Lenka sice něco upustila, ale nikdo nevěděl, o co šlo. Petr se zeptal: „Co Lenka upustila?“",
+        "focus_subject": "Na zemi ležely střepy a bylo jasné, že tu sklenici někdo upustil, ale nikdo nevěděl, kdo ji upustil. Petr se zeptal: „Kdo upustil tu sklenici?“",
+        "focus_verb": "Bylo patrné, že Lenka se sklenicí něco udělala, ale nikdo nevěděl, co s ní udělala. Petr se zeptal: „Co Lenka udělala se sklenicí?“"
+      }
+    }
+  },
+  {
+    "scenario_id": 79,
+    "cue": "explicit_question",
+    "seed": {
+      "base_proposition": {
+        "subject": "řidič",
+        "verb": "přikryl",
+        "object": "náklad"
+      },
+      "distractor_bank": {
+        "focus_object": "Řidič zkontroloval plachtu.",
+        "focus_subject": "Náklad naložil skladník.",
+        "focus_verb": "Řidič utáhl popruhy."
+      },
+      "utterance": "Filip na to najednou odpověděl:",
+      "contexts": {
+        "focus_object": "Na parkovišti se ukázalo, že řidič sice něco přikryl, ale nikdo nevěděl, o co přesně šlo. Eva se zeptala: „Co řidič přikryl?“",
+        "focus_subject": "Bylo vidět, že ten náklad někdo přikryl, ale nikdo nevěděl, kdo ho přikryl. Eva se zeptala: „Kdo přikryl ten náklad?“",
+        "focus_verb": "Bylo zřejmé, že řidič s nákladem něco udělal, ale nikdo nevěděl, co s ním udělal. Eva se zeptala: „Co řidič udělal s nákladem?“"
+      }
+    }
+  }
+]
