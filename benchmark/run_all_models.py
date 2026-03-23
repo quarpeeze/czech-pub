@@ -67,7 +67,7 @@ def build_model(model_spec: dict) -> Model:
     return Model(
         provider=model_spec["provider"],
         model_name=model_spec["model_name"],
-        max_tokens=model_spec.get("max_tokens", 8),
+        max_tokens=model_spec.get("max_tokens", 64),
         temperature=model_spec.get("temperature", 0.0),
         top_p=model_spec.get("top_p"),
         extra=model_spec.get("extra", {}),
