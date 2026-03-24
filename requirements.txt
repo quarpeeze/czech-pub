@@ -2,7 +2,12 @@
 
 # base
 python-dotenv
+numpy
 pandas
+
+# visual
+matplotlib
+seaborn
 
 # jupyter
 jupyter
