@@ -25,7 +25,7 @@ def format_options_block(options: list[dict[str, str]]) -> str:
 
 
 def prepare_prompt_vars(item: dict[str, Any]) -> dict[str, str]:
-    required = ["context", "utterance", "question", "options", "phenomenon"]
+    required = ["context", "utterance", "options", "phenomenon"]
     for key in required:
         if key not in item:
             raise KeyError(f"missing required item field: '{key}'") # check missing
@@ -36,7 +36,6 @@ def prepare_prompt_vars(item: dict[str, Any]) -> dict[str, str]:
     return {
         "context": item["context"],
         "utterance": item["utterance"],
-        "question": item["question"],
         "options": format_options_block(item["options"]),
         "phenomenon": item["phenomenon"],
         "trigger": meta_special.get("trigger", ""),

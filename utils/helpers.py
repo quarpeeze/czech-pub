@@ -55,7 +55,6 @@ def save_jsonl(path: str | Path, rows: list[dict[str, Any]]) -> None:
         for row in rows:
             f.write(json.dumps(row, ensure_ascii=False) + "\n")
 
-
 def normalize(s: str) -> str:
     """normalize any string."""
     return " ".join(str(s).strip().split()).lower()
@@ -88,10 +87,10 @@ def get_gold_label(item: dict[str, Any]) -> str | None:
     """
     extract gold label (correct answer) from the item
 
-    currently gold label key name according to the item_schema.json is: "correct_option"
+    currently gold label key name according to the item_schema.json is: "gold_label"
     """
     #TODO pozdeji zmenit tohle
-    key = "correct_option"
+    key = "gold_label"
     value = item.get(key)
     if value:
         return str(value).strip()
