@@ -13,13 +13,12 @@ class ParseResult:
 
 def parse_mcq_answer(raw_text: str | None, valid_labels: list[str]) -> ParseResult:
     """
-    Minimal parser for MCQ labels like A/B/C/D.
+    parser for MCQ labels like A/B/C/D
 
-    Case 1:
-        exact short answers only, e.g. "A", "B.", "(C)", "D)"
-    Case 2:
-        longer outputs with explicit answer markers, e.g.
-        "Odpověď: A", "Odpověď je B", "Správná odpověď je C", "Volba D"
+    accepted patterns:
+    - exact short answers: "A", "B.", "(C)", "D)"
+    - leading label before explanation: "D\n\nVysvětlení: ..."
+    - explicit markers: "Odpověď: A", "Answer is B", "Správná odpověď je C"
     """
     if raw_text is None:
         return ParseResult(label=None, status="empty", matched_text=None)
@@ -30,7 +29,18 @@ def parse_mcq_answer(raw_text: str | None, valid_labels: list[str]) -> ParseResu
 
     valid = {label.upper() for label in valid_labels}
 
-    # case 1: exact short answers, only label-like outputs
+    # case 0: output starts with a standalone label, even if more text follows
+    start_match = re.match(
+        r"^\s*\(?([A-Za-z])\)?(?:[\.\:\)]|\b)",
+        text,
+        flags=re.IGNORECASE,
+    )
+    if start_match:
+        label = start_match.group(1).upper()
+        if label in valid:
+            return ParseResult(label=label, status="ok", matched_text=start_match.group(0))
+
+    # case 1: exact short answers only
     exact_patterns = [
         r"^\s*\(?([A-Za-z])\)?[\.\:\)]?\s*$",
     ]
@@ -44,32 +54,34 @@ def parse_mcq_answer(raw_text: str | None, valid_labels: list[str]) -> ParseResu
 
     # case 2: longer outputs with explicit answer markers
     marker_patterns = [
-        # "odpověď A", "odpověď je A", "správná odpověď: B"
         r"(?:správná\s+odpověď|spravna\s+odpoved|odpověď|odpoved|answer)(?:\s+je|\s+is)?\s*[:\-]?\s*\(?([A-Za-z])\)?\b",
-
-        # "volba C", "možnost: D", "varianta B", "option A"
         r"(?:správná\s+volba|spravna\s+volba|volba|možnost|moznost|varianta|option)\s*[:\-]?\s*\(?([A-Za-z])\)?\b",
-
-        # "písmeno A", "pismeno: B"
         r"(?:písmeno|pismeno)\s*[:\-]?\s*\(?([A-Za-z])\)?\b",
-
-        # final standalone letter at end of longer output
-        r"\b([A-Za-z])\b(?=\s*$)",
     ]
 
-    candidates: list[str] = []
+    candidates: list[tuple[str, str]] = []
     for pattern in marker_patterns:
         for m in re.finditer(pattern, text, flags=re.IGNORECASE):
             label = m.group(1).upper()
             if label in valid:
-                candidates.append(label)
+                candidates.append((label, m.group(0)))
 
-    candidates = list(dict.fromkeys(candidates))
+    # deduplicate while preserving order
+    seen = set()
+    deduped: list[tuple[str, str]] = []
+    for label, matched in candidates:
+        if label not in seen:
+            seen.add(label)
+            deduped.append((label, matched))
 
-    if len(candidates) == 1:
-        return ParseResult(label=candidates[0], status="ok", matched_text=candidates[0])
+    if len(deduped) == 1:
+        return ParseResult(label=deduped[0][0], status="ok", matched_text=deduped[0][1])
 
-    if len(candidates) > 1:
-        return ParseResult(label=None, status="ambiguous", matched_text=", ".join(candidates))
+    if len(deduped) > 1:
+        return ParseResult(
+            label=None,
+            status="ambiguous",
+            matched_text=", ".join(label for label, _ in deduped),
+        )
 
     return ParseResult(label=None, status="invalid", matched_text=None)
