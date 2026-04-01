@@ -5,15 +5,6 @@ from openai import OpenAI
 from ..entities import GenerationResult, Model
 
 
-def _build_input_text(prompt: str, system_prompt: str | None) -> str:
-    """
-    prompt is neccessary, system prompt currently is not
-    """
-    if system_prompt and system_prompt.strip():
-        return f"{system_prompt.strip()}\n\n{prompt.strip()}"
-    return prompt.strip()
-
-
 def generate_openai(
     *,
     prompt: str,
@@ -22,14 +13,14 @@ def generate_openai(
 ) -> GenerationResult:
     client = OpenAI()
 
-    input_text = _build_input_text(prompt, system_prompt) # do we use system prompt?
-
-    # gather request kwargs from the Model instance
     request_kwargs: dict = {
         "model": model.model_name,
-        "input": input_text,
+        "input": prompt.strip(),
     }
-    
+
+    if system_prompt and system_prompt.strip():
+        request_kwargs["instructions"] = system_prompt.strip()
+
     if model.max_tokens is not None:
         request_kwargs["max_output_tokens"] = model.max_tokens
 
@@ -38,6 +29,9 @@ def generate_openai(
 
     if model.top_p is not None:
         request_kwargs["top_p"] = model.top_p
+
+    if model.model_name == "gpt-5.4":
+        request_kwargs["reasoning"] = {"effort": "none"}
 
     response = client.responses.create(**request_kwargs)
 

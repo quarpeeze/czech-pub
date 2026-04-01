@@ -12,7 +12,11 @@ def generate_google(
     model: Model,
     system_prompt: str | None = None,
 ) -> GenerationResult:
-    client = genai.Client()
+    client = genai.Client(
+        http_options=types.HttpOptions(
+            timeout=120,  # seconds
+        )
+    )
 
     config_kwargs: dict = {}
 
@@ -31,6 +35,20 @@ def generate_google(
     if "top_k" in model.extra:
         config_kwargs["top_k"] = model.extra["top_k"]
 
+    # keep thinking low/minimal for benchmark stability
+    if model.model_name == "gemini-3.1-pro-preview":
+        config_kwargs["thinking_config"] = types.ThinkingConfig(
+            thinking_level="low"
+        )
+    elif model.model_name == "gemini-3-flash-preview":
+        config_kwargs["thinking_config"] = types.ThinkingConfig(
+            thinking_level="minimal"
+        )
+    elif model.model_name == "gemini-3.1-flash-lite-preview":
+        config_kwargs["thinking_config"] = types.ThinkingConfig(
+            thinking_level="minimal"
+        )
+
     config = types.GenerateContentConfig(**config_kwargs) if config_kwargs else None
 
     response = client.models.generate_content(
@@ -45,7 +63,11 @@ def generate_google(
         text=getattr(response, "text", "") or "",
         provider="google",
         model_name=model.model_name,
-        finish_reason=str(getattr(response, "finish_reason", None)) if getattr(response, "finish_reason", None) is not None else None,
+        finish_reason=(
+            str(getattr(response, "finish_reason", None))
+            if getattr(response, "finish_reason", None) is not None
+            else None
+        ),
         usage_prompt_tokens=getattr(usage, "prompt_token_count", None) if usage else None,
         usage_completion_tokens=getattr(usage, "candidates_token_count", None) if usage else None,
         raw_response=response.model_dump() if hasattr(response, "model_dump") else response,
