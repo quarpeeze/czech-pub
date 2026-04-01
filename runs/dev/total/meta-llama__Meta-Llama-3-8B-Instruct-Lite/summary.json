@@ -1,0 +1,2352 @@
+{
+  "n_items": 180,
+  "n_correct": 105,
+  "accuracy": 0.5833333333333334,
+  "parse_status_counts": {
+    "ok": 180
+  },
+  "parse_ok_rate": 1.0,
+  "parsed_type_counts": {
+    "distractor_negation": 8,
+    "distractor_lexical": 16,
+    "direct_answer_positive": 26,
+    "object_last": 21,
+    "presupposition": 46,
+    "subject_last": 21,
+    "distractor_associative": 10,
+    "verb_last": 16,
+    "distractor": 2,
+    "direct_answer_negative": 8,
+    "implicature_true": 6
+  },
+  "gold_type_counts": {
+    "presupposition": 60,
+    "implicature_true": 10,
+    "direct_answer_negative": 18,
+    "direct_answer_positive": 32,
+    "object_last": 20,
+    "subject_last": 20,
+    "verb_last": 20
+  },
+  "provider": "together",
+  "model_name": "meta-llama/Meta-Llama-3-8B-Instruct-Lite",
+  "n_model_errors": 0,
+  "n_parse_invalid": 0,
+  "by_phenomenon": {
+    "presupposition": {
+      "n_items": 60,
+      "n_correct": 46,
+      "accuracy": 0.7666666666666667,
+      "parse_status_counts": {
+        "ok": 60
+      },
+      "parse_ok_rate": 1.0,
+      "parsed_type_counts": {
+        "distractor_negation": 6,
+        "presupposition": 46,
+        "distractor_lexical": 4,
+        "distractor_associative": 4
+      },
+      "gold_type_counts": {
+        "presupposition": 60
+      }
+    },
+    "implicature": {
+      "n_items": 60,
+      "n_correct": 33,
+      "accuracy": 0.55,
+      "parse_status_counts": {
+        "ok": 60
+      },
+      "parse_ok_rate": 1.0,
+      "parsed_type_counts": {
+        "distractor_negation": 2,
+        "distractor_lexical": 12,
+        "direct_answer_positive": 26,
+        "distractor_associative": 6,
+        "direct_answer_negative": 8,
+        "implicature_true": 6
+      },
+      "gold_type_counts": {
+        "implicature_true": 10,
+        "direct_answer_negative": 18,
+        "direct_answer_positive": 32
+      }
+    },
+    "information_structure": {
+      "n_items": 60,
+      "n_correct": 26,
+      "accuracy": 0.43333333333333335,
+      "parse_status_counts": {
+        "ok": 60
+      },
+      "parse_ok_rate": 1.0,
+      "parsed_type_counts": {
+        "object_last": 21,
+        "subject_last": 21,
+        "verb_last": 16,
+        "distractor": 2
+      },
+      "gold_type_counts": {
+        "object_last": 20,
+        "subject_last": 20,
+        "verb_last": 20
+      }
+    }
+  },
+  "phenomenon_details": {
+    "information_structure": {
+      "overall": {
+        "n_items": 60,
+        "n_correct": 26,
+        "accuracy": 0.43333333333333335,
+        "parse_status_counts": {
+          "ok": 60
+        },
+        "parse_ok_rate": 1.0,
+        "parsed_type_counts": {
+          "object_last": 21,
+          "subject_last": 21,
+          "verb_last": 16,
+          "distractor": 2
+        },
+        "gold_type_counts": {
+          "object_last": 20,
+          "subject_last": 20,
+          "verb_last": 20
+        }
+      },
+      "by_cue": {
+        "baseline": {
+          "n_items": 20,
+          "n_correct": 7,
+          "accuracy": 0.35,
+          "parse_status_counts": {
+            "ok": 20
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "object_last": 8,
+            "subject_last": 7,
+            "verb_last": 5
+          },
+          "gold_type_counts": {
+            "object_last": 7,
+            "subject_last": 7,
+            "verb_last": 6
+          }
+        },
+        "explicit_question": {
+          "n_items": 20,
+          "n_correct": 7,
+          "accuracy": 0.35,
+          "parse_status_counts": {
+            "ok": 20
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "object_last": 7,
+            "verb_last": 5,
+            "subject_last": 6,
+            "distractor": 2
+          },
+          "gold_type_counts": {
+            "object_last": 7,
+            "verb_last": 7,
+            "subject_last": 6
+          }
+        },
+        "correction": {
+          "n_items": 20,
+          "n_correct": 12,
+          "accuracy": 0.6,
+          "parse_status_counts": {
+            "ok": 20
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "subject_last": 8,
+            "verb_last": 6,
+            "object_last": 6
+          },
+          "gold_type_counts": {
+            "verb_last": 7,
+            "subject_last": 7,
+            "object_last": 6
+          }
+        }
+      },
+      "by_case": {
+        "focus_object": {
+          "n_items": 20,
+          "n_correct": 10,
+          "accuracy": 0.5,
+          "parse_status_counts": {
+            "ok": 20
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "object_last": 10,
+            "verb_last": 4,
+            "subject_last": 5,
+            "distractor": 1
+          },
+          "gold_type_counts": {
+            "object_last": 20
+          }
+        },
+        "focus_subject": {
+          "n_items": 20,
+          "n_correct": 10,
+          "accuracy": 0.5,
+          "parse_status_counts": {
+            "ok": 20
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "object_last": 4,
+            "verb_last": 6,
+            "subject_last": 10
+          },
+          "gold_type_counts": {
+            "subject_last": 20
+          }
+        },
+        "focus_verb": {
+          "n_items": 20,
+          "n_correct": 6,
+          "accuracy": 0.3,
+          "parse_status_counts": {
+            "ok": 20
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "subject_last": 6,
+            "verb_last": 6,
+            "distractor": 1,
+            "object_last": 7
+          },
+          "gold_type_counts": {
+            "verb_last": 20
+          }
+        }
+      },
+      "by_cue_then_case": {
+        "baseline": {
+          "overall": {
+            "n_items": 20,
+            "n_correct": 7,
+            "accuracy": 0.35,
+            "parse_status_counts": {
+              "ok": 20
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "object_last": 8,
+              "subject_last": 7,
+              "verb_last": 5
+            },
+            "gold_type_counts": {
+              "object_last": 7,
+              "subject_last": 7,
+              "verb_last": 6
+            }
+          },
+          "by_inner": {
+            "focus_object": {
+              "n_items": 7,
+              "n_correct": 3,
+              "accuracy": 0.42857142857142855,
+              "parse_status_counts": {
+                "ok": 7
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "object_last": 3,
+                "verb_last": 2,
+                "subject_last": 2
+              },
+              "gold_type_counts": {
+                "object_last": 7
+              }
+            },
+            "focus_subject": {
+              "n_items": 7,
+              "n_correct": 3,
+              "accuracy": 0.42857142857142855,
+              "parse_status_counts": {
+                "ok": 7
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "object_last": 2,
+                "verb_last": 2,
+                "subject_last": 3
+              },
+              "gold_type_counts": {
+                "subject_last": 7
+              }
+            },
+            "focus_verb": {
+              "n_items": 6,
+              "n_correct": 1,
+              "accuracy": 0.16666666666666666,
+              "parse_status_counts": {
+                "ok": 6
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "subject_last": 2,
+                "verb_last": 1,
+                "object_last": 3
+              },
+              "gold_type_counts": {
+                "verb_last": 6
+              }
+            }
+          }
+        },
+        "explicit_question": {
+          "overall": {
+            "n_items": 20,
+            "n_correct": 7,
+            "accuracy": 0.35,
+            "parse_status_counts": {
+              "ok": 20
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "object_last": 7,
+              "verb_last": 5,
+              "subject_last": 6,
+              "distractor": 2
+            },
+            "gold_type_counts": {
+              "object_last": 7,
+              "verb_last": 7,
+              "subject_last": 6
+            }
+          },
+          "by_inner": {
+            "focus_object": {
+              "n_items": 7,
+              "n_correct": 3,
+              "accuracy": 0.42857142857142855,
+              "parse_status_counts": {
+                "ok": 7
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "object_last": 3,
+                "subject_last": 2,
+                "verb_last": 1,
+                "distractor": 1
+              },
+              "gold_type_counts": {
+                "object_last": 7
+              }
+            },
+            "focus_verb": {
+              "n_items": 7,
+              "n_correct": 2,
+              "accuracy": 0.2857142857142857,
+              "parse_status_counts": {
+                "ok": 7
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "verb_last": 2,
+                "distractor": 1,
+                "object_last": 2,
+                "subject_last": 2
+              },
+              "gold_type_counts": {
+                "verb_last": 7
+              }
+            },
+            "focus_subject": {
+              "n_items": 6,
+              "n_correct": 2,
+              "accuracy": 0.3333333333333333,
+              "parse_status_counts": {
+                "ok": 6
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "subject_last": 2,
+                "object_last": 2,
+                "verb_last": 2
+              },
+              "gold_type_counts": {
+                "subject_last": 6
+              }
+            }
+          }
+        },
+        "correction": {
+          "overall": {
+            "n_items": 20,
+            "n_correct": 12,
+            "accuracy": 0.6,
+            "parse_status_counts": {
+              "ok": 20
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "subject_last": 8,
+              "verb_last": 6,
+              "object_last": 6
+            },
+            "gold_type_counts": {
+              "verb_last": 7,
+              "subject_last": 7,
+              "object_last": 6
+            }
+          },
+          "by_inner": {
+            "focus_verb": {
+              "n_items": 7,
+              "n_correct": 3,
+              "accuracy": 0.42857142857142855,
+              "parse_status_counts": {
+                "ok": 7
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "subject_last": 2,
+                "verb_last": 3,
+                "object_last": 2
+              },
+              "gold_type_counts": {
+                "verb_last": 7
+              }
+            },
+            "focus_subject": {
+              "n_items": 7,
+              "n_correct": 5,
+              "accuracy": 0.7142857142857143,
+              "parse_status_counts": {
+                "ok": 7
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "subject_last": 5,
+                "verb_last": 2
+              },
+              "gold_type_counts": {
+                "subject_last": 7
+              }
+            },
+            "focus_object": {
+              "n_items": 6,
+              "n_correct": 4,
+              "accuracy": 0.6666666666666666,
+              "parse_status_counts": {
+                "ok": 6
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "object_last": 4,
+                "verb_last": 1,
+                "subject_last": 1
+              },
+              "gold_type_counts": {
+                "object_last": 6
+              }
+            }
+          }
+        }
+      }
+    },
+    "presupposition": {
+      "overall": {
+        "n_items": 60,
+        "n_correct": 46,
+        "accuracy": 0.7666666666666667,
+        "parse_status_counts": {
+          "ok": 60
+        },
+        "parse_ok_rate": 1.0,
+        "parsed_type_counts": {
+          "distractor_negation": 6,
+          "presupposition": 46,
+          "distractor_lexical": 4,
+          "distractor_associative": 4
+        },
+        "gold_type_counts": {
+          "presupposition": 60
+        }
+      },
+      "by_category": {
+        "temporal": {
+          "n_items": 6,
+          "n_correct": 4,
+          "accuracy": 0.6666666666666666,
+          "parse_status_counts": {
+            "ok": 6
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "distractor_negation": 1,
+            "distractor_associative": 1,
+            "presupposition": 4
+          },
+          "gold_type_counts": {
+            "presupposition": 6
+          }
+        },
+        "accusative": {
+          "n_items": 6,
+          "n_correct": 5,
+          "accuracy": 0.8333333333333334,
+          "parse_status_counts": {
+            "ok": 6
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "presupposition": 5,
+            "distractor_associative": 1
+          },
+          "gold_type_counts": {
+            "presupposition": 6
+          }
+        },
+        "factive-semifactive": {
+          "n_items": 6,
+          "n_correct": 6,
+          "accuracy": 1.0,
+          "parse_status_counts": {
+            "ok": 6
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "presupposition": 6
+          },
+          "gold_type_counts": {
+            "presupposition": 6
+          }
+        },
+        "change-of-state": {
+          "n_items": 6,
+          "n_correct": 3,
+          "accuracy": 0.5,
+          "parse_status_counts": {
+            "ok": 6
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "distractor_lexical": 2,
+            "presupposition": 3,
+            "distractor_associative": 1
+          },
+          "gold_type_counts": {
+            "presupposition": 6
+          }
+        },
+        "iterative": {
+          "n_items": 6,
+          "n_correct": 6,
+          "accuracy": 1.0,
+          "parse_status_counts": {
+            "ok": 6
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "presupposition": 6
+          },
+          "gold_type_counts": {
+            "presupposition": 6
+          }
+        },
+        "wh-question": {
+          "n_items": 6,
+          "n_correct": 4,
+          "accuracy": 0.6666666666666666,
+          "parse_status_counts": {
+            "ok": 6
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "presupposition": 4,
+            "distractor_associative": 1,
+            "distractor_negation": 1
+          },
+          "gold_type_counts": {
+            "presupposition": 6
+          }
+        },
+        "counterfactual": {
+          "n_items": 6,
+          "n_correct": 3,
+          "accuracy": 0.5,
+          "parse_status_counts": {
+            "ok": 6
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "presupposition": 3,
+            "distractor_negation": 3
+          },
+          "gold_type_counts": {
+            "presupposition": 6
+          }
+        },
+        "possessive": {
+          "n_items": 6,
+          "n_correct": 6,
+          "accuracy": 1.0,
+          "parse_status_counts": {
+            "ok": 6
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "presupposition": 6
+          },
+          "gold_type_counts": {
+            "presupposition": 6
+          }
+        },
+        "implicative": {
+          "n_items": 6,
+          "n_correct": 5,
+          "accuracy": 0.8333333333333334,
+          "parse_status_counts": {
+            "ok": 6
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "presupposition": 5,
+            "distractor_lexical": 1
+          },
+          "gold_type_counts": {
+            "presupposition": 6
+          }
+        },
+        "comparative": {
+          "n_items": 6,
+          "n_correct": 4,
+          "accuracy": 0.6666666666666666,
+          "parse_status_counts": {
+            "ok": 6
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "presupposition": 4,
+            "distractor_lexical": 1,
+            "distractor_negation": 1
+          },
+          "gold_type_counts": {
+            "presupposition": 6
+          }
+        }
+      },
+      "by_genre": {
+        "beletrie": {
+          "n_items": 21,
+          "n_correct": 14,
+          "accuracy": 0.6666666666666666,
+          "parse_status_counts": {
+            "ok": 21
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "distractor_negation": 2,
+            "presupposition": 14,
+            "distractor_lexical": 3,
+            "distractor_associative": 2
+          },
+          "gold_type_counts": {
+            "presupposition": 21
+          }
+        },
+        "oborova_literatura": {
+          "n_items": 25,
+          "n_correct": 21,
+          "accuracy": 0.84,
+          "parse_status_counts": {
+            "ok": 25
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "presupposition": 21,
+            "distractor_negation": 3,
+            "distractor_lexical": 1
+          },
+          "gold_type_counts": {
+            "presupposition": 25
+          }
+        },
+        "publicistika": {
+          "n_items": 14,
+          "n_correct": 11,
+          "accuracy": 0.7857142857142857,
+          "parse_status_counts": {
+            "ok": 14
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "distractor_associative": 2,
+            "presupposition": 11,
+            "distractor_negation": 1
+          },
+          "gold_type_counts": {
+            "presupposition": 14
+          }
+        }
+      },
+      "by_category_then_genre": {
+        "temporal": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 4,
+            "accuracy": 0.6666666666666666,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "distractor_negation": 1,
+              "distractor_associative": 1,
+              "presupposition": 4
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_genre": {
+            "beletrie": {
+              "n_items": 2,
+              "n_correct": 1,
+              "accuracy": 0.5,
+              "parse_status_counts": {
+                "ok": 2
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "distractor_negation": 1,
+                "presupposition": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 2
+              }
+            },
+            "publicistika": {
+              "n_items": 2,
+              "n_correct": 1,
+              "accuracy": 0.5,
+              "parse_status_counts": {
+                "ok": 2
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "distractor_associative": 1,
+                "presupposition": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 2
+              }
+            },
+            "oborova_literatura": {
+              "n_items": 2,
+              "n_correct": 2,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 2
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 2
+              },
+              "gold_type_counts": {
+                "presupposition": 2
+              }
+            }
+          }
+        },
+        "accusative": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 5,
+            "accuracy": 0.8333333333333334,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 5,
+              "distractor_associative": 1
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_genre": {
+            "beletrie": {
+              "n_items": 3,
+              "n_correct": 2,
+              "accuracy": 0.6666666666666666,
+              "parse_status_counts": {
+                "ok": 3
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 2,
+                "distractor_associative": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 3
+              }
+            },
+            "oborova_literatura": {
+              "n_items": 3,
+              "n_correct": 3,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 3
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 3
+              },
+              "gold_type_counts": {
+                "presupposition": 3
+              }
+            }
+          }
+        },
+        "factive-semifactive": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 6,
+            "accuracy": 1.0,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 6
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_genre": {
+            "beletrie": {
+              "n_items": 3,
+              "n_correct": 3,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 3
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 3
+              },
+              "gold_type_counts": {
+                "presupposition": 3
+              }
+            },
+            "publicistika": {
+              "n_items": 2,
+              "n_correct": 2,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 2
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 2
+              },
+              "gold_type_counts": {
+                "presupposition": 2
+              }
+            },
+            "oborova_literatura": {
+              "n_items": 1,
+              "n_correct": 1,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 1
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 1
+              }
+            }
+          }
+        },
+        "change-of-state": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 3,
+            "accuracy": 0.5,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "distractor_lexical": 2,
+              "presupposition": 3,
+              "distractor_associative": 1
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_genre": {
+            "beletrie": {
+              "n_items": 6,
+              "n_correct": 3,
+              "accuracy": 0.5,
+              "parse_status_counts": {
+                "ok": 6
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "distractor_lexical": 2,
+                "presupposition": 3,
+                "distractor_associative": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 6
+              }
+            }
+          }
+        },
+        "iterative": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 6,
+            "accuracy": 1.0,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 6
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_genre": {
+            "oborova_literatura": {
+              "n_items": 3,
+              "n_correct": 3,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 3
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 3
+              },
+              "gold_type_counts": {
+                "presupposition": 3
+              }
+            },
+            "beletrie": {
+              "n_items": 1,
+              "n_correct": 1,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 1
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 1
+              }
+            },
+            "publicistika": {
+              "n_items": 2,
+              "n_correct": 2,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 2
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 2
+              },
+              "gold_type_counts": {
+                "presupposition": 2
+              }
+            }
+          }
+        },
+        "wh-question": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 4,
+            "accuracy": 0.6666666666666666,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 4,
+              "distractor_associative": 1,
+              "distractor_negation": 1
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_genre": {
+            "oborova_literatura": {
+              "n_items": 4,
+              "n_correct": 3,
+              "accuracy": 0.75,
+              "parse_status_counts": {
+                "ok": 4
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 3,
+                "distractor_negation": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 4
+              }
+            },
+            "publicistika": {
+              "n_items": 2,
+              "n_correct": 1,
+              "accuracy": 0.5,
+              "parse_status_counts": {
+                "ok": 2
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "distractor_associative": 1,
+                "presupposition": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 2
+              }
+            }
+          }
+        },
+        "counterfactual": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 3,
+            "accuracy": 0.5,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 3,
+              "distractor_negation": 3
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_genre": {
+            "publicistika": {
+              "n_items": 2,
+              "n_correct": 1,
+              "accuracy": 0.5,
+              "parse_status_counts": {
+                "ok": 2
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 1,
+                "distractor_negation": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 2
+              }
+            },
+            "beletrie": {
+              "n_items": 3,
+              "n_correct": 2,
+              "accuracy": 0.6666666666666666,
+              "parse_status_counts": {
+                "ok": 3
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 2,
+                "distractor_negation": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 3
+              }
+            },
+            "oborova_literatura": {
+              "n_items": 1,
+              "n_correct": 0,
+              "accuracy": 0.0,
+              "parse_status_counts": {
+                "ok": 1
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "distractor_negation": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 1
+              }
+            }
+          }
+        },
+        "possessive": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 6,
+            "accuracy": 1.0,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 6
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_genre": {
+            "publicistika": {
+              "n_items": 2,
+              "n_correct": 2,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 2
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 2
+              },
+              "gold_type_counts": {
+                "presupposition": 2
+              }
+            },
+            "beletrie": {
+              "n_items": 1,
+              "n_correct": 1,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 1
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 1
+              }
+            },
+            "oborova_literatura": {
+              "n_items": 3,
+              "n_correct": 3,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 3
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 3
+              },
+              "gold_type_counts": {
+                "presupposition": 3
+              }
+            }
+          }
+        },
+        "implicative": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 5,
+            "accuracy": 0.8333333333333334,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 5,
+              "distractor_lexical": 1
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_genre": {
+            "publicistika": {
+              "n_items": 1,
+              "n_correct": 1,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 1
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 1
+              }
+            },
+            "oborova_literatura": {
+              "n_items": 4,
+              "n_correct": 4,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 4
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 4
+              },
+              "gold_type_counts": {
+                "presupposition": 4
+              }
+            },
+            "beletrie": {
+              "n_items": 1,
+              "n_correct": 0,
+              "accuracy": 0.0,
+              "parse_status_counts": {
+                "ok": 1
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "distractor_lexical": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 1
+              }
+            }
+          }
+        },
+        "comparative": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 4,
+            "accuracy": 0.6666666666666666,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 4,
+              "distractor_lexical": 1,
+              "distractor_negation": 1
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_genre": {
+            "beletrie": {
+              "n_items": 1,
+              "n_correct": 1,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 1
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 1
+              }
+            },
+            "oborova_literatura": {
+              "n_items": 4,
+              "n_correct": 2,
+              "accuracy": 0.5,
+              "parse_status_counts": {
+                "ok": 4
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 2,
+                "distractor_lexical": 1,
+                "distractor_negation": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 4
+              }
+            },
+            "publicistika": {
+              "n_items": 1,
+              "n_correct": 1,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 1
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 1
+              }
+            }
+          }
+        }
+      },
+      "by_category_then_trigger": {
+        "temporal": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 4,
+            "accuracy": 0.6666666666666666,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "distractor_negation": 1,
+              "distractor_associative": 1,
+              "presupposition": 4
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_trigger": {
+            "potom": {
+              "n_items": 2,
+              "n_correct": 1,
+              "accuracy": 0.5,
+              "parse_status_counts": {
+                "ok": 2
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "distractor_negation": 1,
+                "presupposition": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 2
+              }
+            },
+            "poté": {
+              "n_items": 4,
+              "n_correct": 3,
+              "accuracy": 0.75,
+              "parse_status_counts": {
+                "ok": 4
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "distractor_associative": 1,
+                "presupposition": 3
+              },
+              "gold_type_counts": {
+                "presupposition": 4
+              }
+            }
+          }
+        },
+        "accusative": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 5,
+            "accuracy": 0.8333333333333334,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 5,
+              "distractor_associative": 1
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_trigger": {
+            "obvinit": {
+              "n_items": 6,
+              "n_correct": 5,
+              "accuracy": 0.8333333333333334,
+              "parse_status_counts": {
+                "ok": 6
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 5,
+                "distractor_associative": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 6
+              }
+            }
+          }
+        },
+        "factive-semifactive": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 6,
+            "accuracy": 1.0,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 6
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_trigger": {
+            "zapomenout": {
+              "n_items": 2,
+              "n_correct": 2,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 2
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 2
+              },
+              "gold_type_counts": {
+                "presupposition": 2
+              }
+            },
+            "litovat": {
+              "n_items": 3,
+              "n_correct": 3,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 3
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 3
+              },
+              "gold_type_counts": {
+                "presupposition": 3
+              }
+            },
+            "všimnout si": {
+              "n_items": 1,
+              "n_correct": 1,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 1
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 1
+              }
+            }
+          }
+        },
+        "change-of-state": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 3,
+            "accuracy": 0.5,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "distractor_lexical": 2,
+              "presupposition": 3,
+              "distractor_associative": 1
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_trigger": {
+            "přestat": {
+              "n_items": 3,
+              "n_correct": 2,
+              "accuracy": 0.6666666666666666,
+              "parse_status_counts": {
+                "ok": 3
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "distractor_lexical": 1,
+                "presupposition": 2
+              },
+              "gold_type_counts": {
+                "presupposition": 3
+              }
+            },
+            "departure": {
+              "n_items": 3,
+              "n_correct": 1,
+              "accuracy": 0.3333333333333333,
+              "parse_status_counts": {
+                "ok": 3
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 1,
+                "distractor_lexical": 1,
+                "distractor_associative": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 3
+              }
+            }
+          }
+        },
+        "iterative": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 6,
+            "accuracy": 1.0,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 6
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_trigger": {
+            "opět": {
+              "n_items": 4,
+              "n_correct": 4,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 4
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 4
+              },
+              "gold_type_counts": {
+                "presupposition": 4
+              }
+            },
+            "znovu": {
+              "n_items": 1,
+              "n_correct": 1,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 1
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 1
+              }
+            },
+            "zase": {
+              "n_items": 1,
+              "n_correct": 1,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 1
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 1
+              }
+            }
+          }
+        },
+        "wh-question": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 4,
+            "accuracy": 0.6666666666666666,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 4,
+              "distractor_associative": 1,
+              "distractor_negation": 1
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_trigger": {
+            "kdo": {
+              "n_items": 2,
+              "n_correct": 2,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 2
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 2
+              },
+              "gold_type_counts": {
+                "presupposition": 2
+              }
+            },
+            "co": {
+              "n_items": 1,
+              "n_correct": 0,
+              "accuracy": 0.0,
+              "parse_status_counts": {
+                "ok": 1
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "distractor_associative": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 1
+              }
+            },
+            "kdy": {
+              "n_items": 3,
+              "n_correct": 2,
+              "accuracy": 0.6666666666666666,
+              "parse_status_counts": {
+                "ok": 3
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "distractor_negation": 1,
+                "presupposition": 2
+              },
+              "gold_type_counts": {
+                "presupposition": 3
+              }
+            }
+          }
+        },
+        "counterfactual": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 3,
+            "accuracy": 0.5,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 3,
+              "distractor_negation": 3
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_trigger": {
+            "kdyby": {
+              "n_items": 3,
+              "n_correct": 2,
+              "accuracy": 0.6666666666666666,
+              "parse_status_counts": {
+                "ok": 3
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 2,
+                "distractor_negation": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 3
+              }
+            },
+            "kdyby_byt": {
+              "n_items": 3,
+              "n_correct": 1,
+              "accuracy": 0.3333333333333333,
+              "parse_status_counts": {
+                "ok": 3
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "distractor_negation": 2,
+                "presupposition": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 3
+              }
+            }
+          }
+        },
+        "possessive": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 6,
+            "accuracy": 1.0,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 6
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_trigger": {
+            "possessive": {
+              "n_items": 6,
+              "n_correct": 6,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 6
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 6
+              },
+              "gold_type_counts": {
+                "presupposition": 6
+              }
+            }
+          }
+        },
+        "implicative": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 5,
+            "accuracy": 0.8333333333333334,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 5,
+              "distractor_lexical": 1
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_trigger": {
+            "dokázat": {
+              "n_items": 3,
+              "n_correct": 2,
+              "accuracy": 0.6666666666666666,
+              "parse_status_counts": {
+                "ok": 3
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 2,
+                "distractor_lexical": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 3
+              }
+            },
+            "zapomenout": {
+              "n_items": 3,
+              "n_correct": 3,
+              "accuracy": 1.0,
+              "parse_status_counts": {
+                "ok": 3
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 3
+              },
+              "gold_type_counts": {
+                "presupposition": 3
+              }
+            }
+          }
+        },
+        "comparative": {
+          "overall": {
+            "n_items": 6,
+            "n_correct": 4,
+            "accuracy": 0.6666666666666666,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 4,
+              "distractor_lexical": 1,
+              "distractor_negation": 1
+            },
+            "gold_type_counts": {
+              "presupposition": 6
+            }
+          },
+          "by_trigger": {
+            "než": {
+              "n_items": 4,
+              "n_correct": 3,
+              "accuracy": 0.75,
+              "parse_status_counts": {
+                "ok": 4
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 3,
+                "distractor_lexical": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 4
+              }
+            },
+            "také": {
+              "n_items": 2,
+              "n_correct": 1,
+              "accuracy": 0.5,
+              "parse_status_counts": {
+                "ok": 2
+              },
+              "parse_ok_rate": 1.0,
+              "parsed_type_counts": {
+                "presupposition": 1,
+                "distractor_negation": 1
+              },
+              "gold_type_counts": {
+                "presupposition": 2
+              }
+            }
+          }
+        }
+      },
+      "special_metadata": {
+        "implicative_by_negation": {
+          "False": {
+            "n_items": 1,
+            "n_correct": 1,
+            "accuracy": 1.0,
+            "parse_status_counts": {
+              "ok": 1
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 1
+            },
+            "gold_type_counts": {
+              "presupposition": 1
+            }
+          },
+          "True": {
+            "n_items": 5,
+            "n_correct": 4,
+            "accuracy": 0.8,
+            "parse_status_counts": {
+              "ok": 5
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 4,
+              "distractor_lexical": 1
+            },
+            "gold_type_counts": {
+              "presupposition": 5
+            }
+          }
+        },
+        "possessive_by_has_apposition": {
+          "False": {
+            "n_items": 3,
+            "n_correct": 3,
+            "accuracy": 1.0,
+            "parse_status_counts": {
+              "ok": 3
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 3
+            },
+            "gold_type_counts": {
+              "presupposition": 3
+            }
+          },
+          "True": {
+            "n_items": 3,
+            "n_correct": 3,
+            "accuracy": 1.0,
+            "parse_status_counts": {
+              "ok": 3
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "presupposition": 3
+            },
+            "gold_type_counts": {
+              "presupposition": 3
+            }
+          }
+        }
+      }
+    },
+    "implicature": {
+      "overall": {
+        "n_items": 60,
+        "n_correct": 33,
+        "accuracy": 0.55,
+        "parse_status_counts": {
+          "ok": 60
+        },
+        "parse_ok_rate": 1.0,
+        "parsed_type_counts": {
+          "distractor_negation": 2,
+          "distractor_lexical": 12,
+          "direct_answer_positive": 26,
+          "distractor_associative": 6,
+          "direct_answer_negative": 8,
+          "implicature_true": 6
+        },
+        "gold_type_counts": {
+          "implicature_true": 10,
+          "direct_answer_negative": 18,
+          "direct_answer_positive": 32
+        }
+      },
+      "grouped_views": {
+        "indirect_answer": {
+          "n_items": 50,
+          "n_correct": 27,
+          "accuracy": 0.54,
+          "parse_status_counts": {
+            "ok": 50
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "distractor_lexical": 10,
+            "direct_answer_positive": 26,
+            "distractor_associative": 6,
+            "direct_answer_negative": 8
+          },
+          "gold_type_counts": {
+            "direct_answer_negative": 18,
+            "direct_answer_positive": 32
+          }
+        },
+        "scalar_implicatures": {
+          "n_items": 10,
+          "n_correct": 6,
+          "accuracy": 0.6,
+          "parse_status_counts": {
+            "ok": 10
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "distractor_negation": 2,
+            "distractor_lexical": 2,
+            "implicature_true": 6
+          },
+          "gold_type_counts": {
+            "implicature_true": 10
+          }
+        },
+        "frequency": {
+          "n_items": 5,
+          "n_correct": 2,
+          "accuracy": 0.4,
+          "parse_status_counts": {
+            "ok": 5
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "distractor_negation": 2,
+            "distractor_lexical": 1,
+            "implicature_true": 2
+          },
+          "gold_type_counts": {
+            "implicature_true": 5
+          }
+        },
+        "quantifier": {
+          "n_items": 5,
+          "n_correct": 4,
+          "accuracy": 0.8,
+          "parse_status_counts": {
+            "ok": 5
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "implicature_true": 4,
+            "distractor_lexical": 1
+          },
+          "gold_type_counts": {
+            "implicature_true": 5
+          }
+        }
+      },
+      "indirect_answer": {
+        "overall": {
+          "n_items": 50,
+          "n_correct": 27,
+          "accuracy": 0.54,
+          "parse_status_counts": {
+            "ok": 50
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "distractor_lexical": 10,
+            "direct_answer_positive": 26,
+            "distractor_associative": 6,
+            "direct_answer_negative": 8
+          },
+          "gold_type_counts": {
+            "direct_answer_negative": 18,
+            "direct_answer_positive": 32
+          }
+        },
+        "by_topic": {
+          "childhood_neighbors": {
+            "n_items": 5,
+            "n_correct": 1,
+            "accuracy": 0.2,
+            "parse_status_counts": {
+              "ok": 5
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "distractor_lexical": 2,
+              "direct_answer_positive": 2,
+              "distractor_associative": 1
+            },
+            "gold_type_counts": {
+              "direct_answer_negative": 2,
+              "direct_answer_positive": 3
+            }
+          },
+          "food": {
+            "n_items": 5,
+            "n_correct": 2,
+            "accuracy": 0.4,
+            "parse_status_counts": {
+              "ok": 5
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "distractor_lexical": 2,
+              "direct_answer_positive": 2,
+              "direct_answer_negative": 1
+            },
+            "gold_type_counts": {
+              "direct_answer_negative": 1,
+              "direct_answer_positive": 4
+            }
+          },
+          "weekend": {
+            "n_items": 5,
+            "n_correct": 2,
+            "accuracy": 0.4,
+            "parse_status_counts": {
+              "ok": 5
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "direct_answer_positive": 2,
+              "distractor_lexical": 3
+            },
+            "gold_type_counts": {
+              "direct_answer_positive": 4,
+              "direct_answer_negative": 1
+            }
+          },
+          "new_neighbor": {
+            "n_items": 5,
+            "n_correct": 3,
+            "accuracy": 0.6,
+            "parse_status_counts": {
+              "ok": 5
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "distractor_associative": 1,
+              "direct_answer_negative": 1,
+              "direct_answer_positive": 3
+            },
+            "gold_type_counts": {
+              "direct_answer_positive": 3,
+              "direct_answer_negative": 2
+            }
+          },
+          "travel_visit": {
+            "n_items": 5,
+            "n_correct": 2,
+            "accuracy": 0.4,
+            "parse_status_counts": {
+              "ok": 5
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "distractor_lexical": 2,
+              "direct_answer_positive": 2,
+              "distractor_associative": 1
+            },
+            "gold_type_counts": {
+              "direct_answer_negative": 2,
+              "direct_answer_positive": 3
+            }
+          },
+          "books": {
+            "n_items": 5,
+            "n_correct": 5,
+            "accuracy": 1.0,
+            "parse_status_counts": {
+              "ok": 5
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "direct_answer_positive": 3,
+              "direct_answer_negative": 2
+            },
+            "gold_type_counts": {
+              "direct_answer_positive": 3,
+              "direct_answer_negative": 2
+            }
+          },
+          "ny_flat": {
+            "n_items": 5,
+            "n_correct": 2,
+            "accuracy": 0.4,
+            "parse_status_counts": {
+              "ok": 5
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "distractor_lexical": 1,
+              "direct_answer_positive": 4
+            },
+            "gold_type_counts": {
+              "direct_answer_negative": 3,
+              "direct_answer_positive": 2
+            }
+          },
+          "music": {
+            "n_items": 5,
+            "n_correct": 2,
+            "accuracy": 0.4,
+            "parse_status_counts": {
+              "ok": 5
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "distractor_associative": 1,
+              "direct_answer_negative": 1,
+              "direct_answer_positive": 3
+            },
+            "gold_type_counts": {
+              "direct_answer_negative": 2,
+              "direct_answer_positive": 3
+            }
+          },
+          "friday_coworkers": {
+            "n_items": 5,
+            "n_correct": 4,
+            "accuracy": 0.8,
+            "parse_status_counts": {
+              "ok": 5
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "distractor_associative": 1,
+              "direct_answer_positive": 4
+            },
+            "gold_type_counts": {
+              "direct_answer_positive": 5
+            }
+          },
+          "job_switch": {
+            "n_items": 5,
+            "n_correct": 4,
+            "accuracy": 0.8,
+            "parse_status_counts": {
+              "ok": 5
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "direct_answer_positive": 1,
+              "direct_answer_negative": 3,
+              "distractor_associative": 1
+            },
+            "gold_type_counts": {
+              "direct_answer_positive": 2,
+              "direct_answer_negative": 3
+            }
+          }
+        }
+      },
+      "scalar_implicatures": {
+        "overall": {
+          "n_items": 10,
+          "n_correct": 6,
+          "accuracy": 0.6,
+          "parse_status_counts": {
+            "ok": 10
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "distractor_negation": 2,
+            "distractor_lexical": 2,
+            "implicature_true": 6
+          },
+          "gold_type_counts": {
+            "implicature_true": 10
+          }
+        },
+        "by_subtype": {
+          "declarative": {
+            "n_items": 4,
+            "n_correct": 2,
+            "accuracy": 0.5,
+            "parse_status_counts": {
+              "ok": 4
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "distractor_negation": 1,
+              "implicature_true": 2,
+              "distractor_lexical": 1
+            },
+            "gold_type_counts": {
+              "implicature_true": 4
+            }
+          },
+          "qa": {
+            "n_items": 6,
+            "n_correct": 4,
+            "accuracy": 0.6666666666666666,
+            "parse_status_counts": {
+              "ok": 6
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "distractor_lexical": 1,
+              "distractor_negation": 1,
+              "implicature_true": 4
+            },
+            "gold_type_counts": {
+              "implicature_true": 6
+            }
+          }
+        }
+      },
+      "scalar_frequency": {
+        "overall": {
+          "n_items": 5,
+          "n_correct": 2,
+          "accuracy": 0.4,
+          "parse_status_counts": {
+            "ok": 5
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "distractor_negation": 2,
+            "distractor_lexical": 1,
+            "implicature_true": 2
+          },
+          "gold_type_counts": {
+            "implicature_true": 5
+          }
+        },
+        "by_subtype": {
+          "declarative": {
+            "n_items": 1,
+            "n_correct": 0,
+            "accuracy": 0.0,
+            "parse_status_counts": {
+              "ok": 1
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "distractor_negation": 1
+            },
+            "gold_type_counts": {
+              "implicature_true": 1
+            }
+          },
+          "qa": {
+            "n_items": 4,
+            "n_correct": 2,
+            "accuracy": 0.5,
+            "parse_status_counts": {
+              "ok": 4
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "distractor_lexical": 1,
+              "distractor_negation": 1,
+              "implicature_true": 2
+            },
+            "gold_type_counts": {
+              "implicature_true": 4
+            }
+          }
+        }
+      },
+      "scalar_quantifier": {
+        "overall": {
+          "n_items": 5,
+          "n_correct": 4,
+          "accuracy": 0.8,
+          "parse_status_counts": {
+            "ok": 5
+          },
+          "parse_ok_rate": 1.0,
+          "parsed_type_counts": {
+            "implicature_true": 4,
+            "distractor_lexical": 1
+          },
+          "gold_type_counts": {
+            "implicature_true": 5
+          }
+        },
+        "by_subtype": {
+          "declarative": {
+            "n_items": 3,
+            "n_correct": 2,
+            "accuracy": 0.6666666666666666,
+            "parse_status_counts": {
+              "ok": 3
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "implicature_true": 2,
+              "distractor_lexical": 1
+            },
+            "gold_type_counts": {
+              "implicature_true": 3
+            }
+          },
+          "qa": {
+            "n_items": 2,
+            "n_correct": 2,
+            "accuracy": 1.0,
+            "parse_status_counts": {
+              "ok": 2
+            },
+            "parse_ok_rate": 1.0,
+            "parsed_type_counts": {
+              "implicature_true": 2
+            },
+            "gold_type_counts": {
+              "implicature_true": 2
+            }
+          }
+        }
+      }
+    }
+  }
+}
