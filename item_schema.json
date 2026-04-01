@@ -1,26 +1,39 @@
 {
-    "id": "unique item identifier string. should be stable across dataset versions, e.g. 'presupposition-iterative-1'.",
-    "creation_method": "how the item was obtained (corpus_mining / translation / generation).",
-    "phenomenon": "main pragmatic phenomenon this item belongs to ('presupposition' / 'implicature' / 'information_structure').",
-    "category": "lower-level subtype within the phenomenon (e.g. 'iterative' / 'semi-factive' / 'additive').",
-    "context": "short natural-language context.",
-    "utterance": "the target utterance (e.g. a key phrase said by a speaker in the given context).",
-    "question": "the question shown to the respondent or model, asking for the intended pragmatic inference.",
-    "options": [
-      {
-        "label": "display label of the option (A / B / C / D).",
-        "type": "internal option type identifier (e.g. 'presupposition_true', 'distractor_lexical').",
-        "text": "the full natural-language text of the answer option."
-      },
-      { "label": "", "type": "", "text": "" },
-      { "label": "", "type": "", "text": "" },
-      { "label": "", "type": "", "text": "" }
-    ],
-    "correct_option": "label of the correct displayed option, e.g. 'B'.",
-    "metadata": {
-      "corpus": "source corpus name, e.g. 'SYN2025'.",
-      "genre": "genre or text type within the corpus (e.g. 'beletrie' / 'publicistika' / 'oborova literatura').",
-      "trigger": "linguistic trigger or construction relevant for the item, e.g. 'opět', 'také', 'kdyby'.",
-      "negation": "negation-related value or note if relevant for the item; otherwise an empty string."
+  "id": "unique item identifier string; should be stable across dataset versions, e.g. 'presupposition-iterative-1'.",
+  "creation_method": "how the item was obtained (corpus_mining / translation / generation).",
+  "phenomenon": "main pragmatic phenomenon this item belongs to ('presupposition' / 'implicature' / 'information_structure').",
+  "category": "lower-level subtype within the phenomenon (e.g. 'iterative' / 'semi-factive' / 'additive').",
+  "context": "short natural-language context.",
+  "utterance": "the target utterance (e.g. a key phrase said by a speaker in the given context).",
+  "options": [
+    {
+      "label": "display label of the option (A / B / C / D).",
+      "type": "internal option type identifier for the correct pragmatic inference, e.g. 'presupposition_true' or 'implicature_true'.",
+      "text": "the full natural-language text of the answer option expressing the true intended pragmatic inference."
+    },
+    {
+      "label": "display label of the option (A / B / C / D).",
+      "type": "internal option type identifier for a distractor option, e.g. 'distractor_lexical', 'distractor_associative', or another distractor subtype.",
+      "text": "the full natural-language text of the distractor option."
+    },
+    {
+      "label": "display label of the option (A / B / C / D).",
+      "type": "internal option type identifier for a distractor option, e.g. 'distractor_lexical', 'distractor_associative', or another distractor subtype.",
+      "text": "the full natural-language text of the distractor option."
+    },
+    {
+      "label": "display label of the option (A / B / C / D).",
+      "type": "internal option type identifier for a distractor option, e.g. 'distractor_lexical', 'distractor_associative', or another distractor subtype.",
+      "text": "the full natural-language text of the distractor option."
     }
+  ],
+  "correct_option": "label of the correct displayed option, e.g. 'B'.",
+  "metadata": {
+    "corpus": "source corpus name, e.g. 'SYN2025'.",
+    "genre": "genre or text type within the corpus (e.g. 'beletrie' / 'publicistika' / 'oborova literatura').",
+    "trigger": "linguistic trigger or construction relevant for the item, e.g. 'opět', 'také', 'kdyby'.",
+    "negation": "negation-related value or note if relevant for the item; otherwise an empty string.",
+    "note": "optional annotator message or comment for the given item.",
+    "has_apposition": "optional boolean field used only for possessive presupposition items; true if the referent is explicitly named."
   }
+}
