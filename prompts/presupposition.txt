@@ -1,10 +1,4 @@
 Urči, co mluvčí ve své výpovědi bere jako samozřejmý předpoklad, aby výpověď dávala smysl.
-Opírej se o daný kontext a výpověď mluvčího, ne o obecné znalosti nebo volné domýšlení.
-
-Přečti si kontext, výpověď a možnosti.
-Vyber jednu nejlepší odpověď.
-
-Odpověz pouze jedním písmenem: A, B, C nebo D.
 
 Kontext: 
 {context}

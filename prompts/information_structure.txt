@@ -1,4 +1,4 @@
-Vyber, co mluvčí v daném kontextu nejspíš řekl a jak to formuloval. Představ si, že větu říkáš nahlas.
+Vyber možnost, která by v daném kontextu zněla nejpřirozeněji jako výpověď.
  
 {context}
 {utterance}

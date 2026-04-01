@@ -1,17 +1,10 @@
 Vyber, co mluvčí svou odpovědí v daném kontextu nepřímo sděluje.
 
-Přečti si kontext, výpověď a možnosti.
-Vyber jednu nejlepší odpověď.
-
-Odpověz pouze jedním písmenem: A, B, C nebo D.
-
 Kontext: 
- {context}
+{context}
 
 Výpověď:
 {utterance}
-
-{question}
 
 Možnosti:
 {options}
