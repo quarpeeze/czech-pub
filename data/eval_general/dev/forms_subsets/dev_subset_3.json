@@ -1,0 +1,2146 @@
+[
+  {
+    "id": "implicature-indirect-answer-857",
+    "creation_method": "translation",
+    "phenomenon": "implicature",
+    "category": "indirect-answer",
+    "context": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "utterance": "- X: Byl jsi už v tom novém letním amfiteátru?\n- Y: Vlastně hned několikrát.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_associative",
+        "text": "V létě tam chodí i kolega."
+      },
+      {
+        "label": "B",
+        "type": "direct_answer_positive",
+        "text": "Ano, byl jsem tam."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Vlastně jsem tam zapomněl batoh."
+      },
+      {
+        "label": "D",
+        "type": "direct_answer_negative",
+        "text": "Ne, nebyl jsem tam."
+      }
+    ],
+    "gold_label": "B",
+    "metadata": {
+      "corpus": "CIRCA",
+      "topic": "music"
+    }
+  },
+  {
+    "id": "presupposition-implicative-13",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Cesta v husté mlze zásadně ovlivnila mluvčí a její schopnost orientace.",
+    "utterance": "Mluvčí: Všechno se koupalo v mlze. Nedokázala jsem rozeznat budovy a ztrácela jsem cestu.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_lexical",
+        "text": "Mluvčí se pokoušela rozeznat dopravní značky."
+      },
+      {
+        "label": "B",
+        "type": "distractor_associative",
+        "text": "Mluvčí si v mlze kryla oči rukou."
+      },
+      {
+        "label": "C",
+        "type": "presupposition",
+        "text": "Mluvčí se v té mlze snažila rozeznat obrysy budov."
+      },
+      {
+        "label": "D",
+        "type": "distractor_negation",
+        "text": "Mluvčí se nepokoušela rozeznat budovy."
+      }
+    ],
+    "gold_label": "C",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova_literatura",
+      "trigger": "dokázat",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "implicature-indirect-answer-95",
+    "creation_method": "translation",
+    "phenomenon": "implicature",
+    "category": "indirect-answer",
+    "context": "Y právě řekl X, že uvažuje o koupi bytu v Praze.",
+    "utterance": "- X: Je to blízko stanice metra?\n- Y: Stanice je hned v téhle ulici.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_lexical",
+        "text": "Pekárna je hned v téhle ulici."
+      },
+      {
+        "label": "B",
+        "type": "distractor_associative",
+        "text": "V té ulici je lékárna."
+      },
+      {
+        "label": "C",
+        "type": "direct_answer_negative",
+        "text": "Ne, není to blízko metra."
+      },
+      {
+        "label": "D",
+        "type": "direct_answer_positive",
+        "text": "Ano, je to blízko metra."
+      }
+    ],
+    "gold_label": "D",
+    "metadata": {
+      "corpus": "CIRCA",
+      "topic": "ny_flat"
+    }
+  },
+  {
+    "id": "presupposition-change-of-state-50",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "change-of-state",
+    "context": "Vypravěč líčí začátek plavby lodi Roma.",
+    "utterance": "Vypravěč: Roma vyplula z Jakarty za rozbřesku.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_lexical",
+        "text": "Roma byla předtím v Surabaji."
+      },
+      {
+        "label": "B",
+        "type": "distractor_associative",
+        "text": "Roma z Jakarty odplula bez části posádky."
+      },
+      {
+        "label": "C",
+        "type": "presupposition",
+        "text": "Plavidlo Roma kotvilo před svým vyplutím v Jakartě."
+      },
+      {
+        "label": "D",
+        "type": "distractor_negation",
+        "text": "Roma předtím v Jakartě nebyla."
+      }
+    ],
+    "gold_label": "C",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "departure"
+    }
+  },
+  {
+    "id": "implicature-indirect-answer-394",
+    "creation_method": "translation",
+    "phenomenon": "implicature",
+    "category": "indirect-answer",
+    "context": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "utterance": "- X: Vadilo by vám, kdyby byla občas slyšet hudba?\n- Y: Já jsem na hudbu zvyklý pořád.",
+    "options": [
+      {
+        "label": "A",
+        "type": "direct_answer_positive",
+        "text": "Ano, vadilo."
+      },
+      {
+        "label": "B",
+        "type": "direct_answer_negative",
+        "text": "Ne, nevadilo."
+      },
+      {
+        "label": "C",
+        "type": "distractor_associative",
+        "text": "Soused občas hraje na kytaru."
+      },
+      {
+        "label": "D",
+        "type": "distractor_lexical",
+        "text": "Já tu hudbu vypínám v jednom kuse."
+      }
+    ],
+    "gold_label": "B",
+    "metadata": {
+      "corpus": "CIRCA",
+      "topic": "new_neighbor"
+    }
+  },
+  {
+    "id": "implicature-scalar-frequency-24",
+    "creation_method": "qa",
+    "phenomenon": "implicature",
+    "category": "scalar-frequency",
+    "context": "Mluvčí A a mluvčí B vedou časně ráno v baru konverzaci o svých zvycích a kladení otázek.",
+    "utterance": "B: „Vždycky máš tolik otázek?“ A: „Někdy.“",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_lexical",
+        "text": "Mluvčí A mívá někdy peněženku plnou účtenek."
+      },
+      {
+        "label": "B",
+        "type": "distractor_associative",
+        "text": "Mluvčí A si po ránu dává dvojitou kávu."
+      },
+      {
+        "label": "C",
+        "type": "implicature_true",
+        "text": "Mluvčí A nemá vždycky tolik otázek."
+      },
+      {
+        "label": "D",
+        "type": "distractor_negation",
+        "text": "Mluvčí A má vždycky tolik otázek."
+      }
+    ],
+    "gold_label": "C",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa"
+    }
+  },
+  {
+    "id": "implicature-indirect-answer-762",
+    "creation_method": "translation",
+    "phenomenon": "implicature",
+    "category": "indirect-answer",
+    "context": "Y právě řekl X, že zvažuje změnu práce.",
+    "utterance": "- X: Pracuješ někdy z domova?\n- Y: Už jsem to zkoušel, ale moc mě to nebaví.",
+    "options": [
+      {
+        "label": "A",
+        "type": "direct_answer_positive",
+        "text": "Ano, pracuju z domova."
+      },
+      {
+        "label": "B",
+        "type": "distractor_associative",
+        "text": "Doma se hůř soustředím."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Už jsem zkoušel opravit tiskárnu."
+      },
+      {
+        "label": "D",
+        "type": "direct_answer_negative",
+        "text": "Ne, nepracuju z domova."
+      }
+    ],
+    "gold_label": "A",
+    "metadata": {
+      "corpus": "CIRCA",
+      "topic": "job_switch"
+    }
+  },
+  {
+    "id": "presupposition-factive-semifactive-58",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "factive-semifactive",
+    "context": "Výzkumník během pokusu sleduje vývoj rostlin a začne být znepokojen průběhem měření.",
+    "utterance": "Mluvčí: Salisburyho ale něco znepokojilo . Všiml si , že listy , které měřili , nikdy nedosáhly své běžné délky .",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_associative",
+        "text": "Listy, které měřili, se po týdnu začaly kroutit."
+      },
+      {
+        "label": "B",
+        "type": "presupposition",
+        "text": "Měřené listy zůstaly kratší, než bývá obvyklé."
+      },
+      {
+        "label": "C",
+        "type": "distractor_negation",
+        "text": "Listy, které měřili, své obvyklé délky dosáhly."
+      },
+      {
+        "label": "D",
+        "type": "distractor_lexical",
+        "text": "Listy, které měřili, měly po okrajích hnědé skvrny."
+      }
+    ],
+    "gold_label": "B",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova_literatura",
+      "trigger": "všimnout si"
+    }
+  },
+  {
+    "id": "implicature-scalar-quantifier-16",
+    "creation_method": "corpus_mining",
+    "phenomenon": "implicature",
+    "category": "scalar-quantifier",
+    "context": "Skupina lidí se snaží shromáždit všechny členy týmu a kontroluje jejich počet.",
+    "utterance": "A: Kolik jich máme? Všechny? \nB: Jsou tady někteří.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_associative",
+        "text": "Členové výpravy nosí povinné uniformy."
+      },
+      {
+        "label": "B",
+        "type": "implicature_true",
+        "text": "Ne všechny členy týmu tam shromáždili."
+      },
+      {
+        "label": "C",
+        "type": "distractor_negation",
+        "text": "Všechny členy týmu tam mají."
+      },
+      {
+        "label": "D",
+        "type": "distractor_lexical",
+        "text": "Někteří členové týmu mají na sobě promočené bundy."
+      }
+    ],
+    "gold_label": "B",
+    "metadata": {
+      "corpus": "OpenSubtitles2023",
+      "subtype": "qa"
+    }
+  },
+  {
+    "id": "information-structure-explicit_question-54-focus_verb",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "explicit_question",
+    "context": "Bylo patrné, že řidič s tím oknem něco udělal, ale nikdo nevěděl, co s ním udělal. David se zeptal: „Co řidič udělal s oknem?“",
+    "utterance": "Jana na to najednou prohlásila:",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor",
+        "text": "Řidič přinesl hadr."
+      },
+      {
+        "label": "B",
+        "type": "verb_last",
+        "text": "Řidič okno umyl."
+      },
+      {
+        "label": "C",
+        "type": "object_last",
+        "text": "Umyl řidič okno."
+      },
+      {
+        "label": "D",
+        "type": "subject_last",
+        "text": "Okno umyl řidič."
+      }
+    ],
+    "gold_label": "B",
+    "metadata": {
+      "cue": "explicit_question",
+      "case": "focus_verb",
+      "scenario_id": 54
+    }
+  },
+  {
+    "id": "implicature-indirect-answer-232",
+    "creation_method": "translation",
+    "phenomenon": "implicature",
+    "category": "indirect-answer",
+    "context": "Y právě přijel z jiného města, aby se viděl s X.",
+    "utterance": "- X: Ulevilo se ti, že sis dal na chvíli od všeho pohov?\n- Y: Je to skvělý pocit!",
+    "options": [
+      {
+        "label": "A",
+        "type": "direct_answer_negative",
+        "text": "Ne, neulevilo."
+      },
+      {
+        "label": "B",
+        "type": "direct_answer_positive",
+        "text": "Ano, ulevilo."
+      },
+      {
+        "label": "C",
+        "type": "distractor_associative",
+        "text": "Teď si může chvíli odpočinout."
+      },
+      {
+        "label": "D",
+        "type": "distractor_lexical",
+        "text": "Je to zvláštní pocit."
+      }
+    ],
+    "gold_label": "B",
+    "metadata": {
+      "corpus": "CIRCA",
+      "topic": "travel_visit"
+    }
+  },
+  {
+    "id": "presupposition-implicative-5",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "V reportáži o změnách v nemocnici se popisují personální otázky vedení.",
+    "utterance": "Mluvčí nemocnice: Dokázali jsme najít šéfkuchaře a ten si přivedl svůj tým.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_associative",
+        "text": "Vedení nemocnice kvůli tomu přesunulo část provozu do vedlejší budovy."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Vedení nemocnice se nepokoušelo najít šéfkuchaře."
+      },
+      {
+        "label": "C",
+        "type": "presupposition",
+        "text": "Vedení nemocnice se snažilo sehnat nového šéfkuchaře."
+      },
+      {
+        "label": "D",
+        "type": "distractor_lexical",
+        "text": "Vedení nemocnice se pokoušelo najít primáře."
+      }
+    ],
+    "gold_label": "C",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "dokázat",
+      "negation": "False"
+    }
+  },
+  {
+    "id": "presupposition-factive-semifactive-30",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "factive-semifactive",
+    "context": "Muž v Oxfordu se loučí s doktorem Brunem po událostech, které změnily jejich situaci.",
+    "utterance": "Muž: Ve světle posledních událostí lituji, že jsem se vám nesvěřil dříve.",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Mluvčí se doktoru Brunovi dříve nesvěřil."
+      },
+      {
+        "label": "B",
+        "type": "distractor_lexical",
+        "text": "Mluvčí doktoru Brunovi dříve nenapsal dopis."
+      },
+      {
+        "label": "C",
+        "type": "distractor_associative",
+        "text": "Mluvčí měl pro doktora Bruna připravený zapečetěný dopis."
+      },
+      {
+        "label": "D",
+        "type": "distractor_negation",
+        "text": "Mluvčí se doktoru Brunovi dříve svěřil."
+      }
+    ],
+    "gold_label": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "litovat"
+    }
+  },
+  {
+    "id": "information-structure-baseline-59-focus_verb",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "baseline",
+    "context": "Bylo patrné, že lékárník s tou mastí něco provedl, ale nikdo nevěděl, co s ní přesně udělal.",
+    "utterance": "Filip na to najednou prohlásil:",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor",
+        "text": "Lékárník otevřel kelímek."
+      },
+      {
+        "label": "B",
+        "type": "subject_last",
+        "text": "Mast připravil lékárník."
+      },
+      {
+        "label": "C",
+        "type": "object_last",
+        "text": "Připravil lékárník mast."
+      },
+      {
+        "label": "D",
+        "type": "verb_last",
+        "text": "Lékárník mast připravil."
+      }
+    ],
+    "gold_label": "D",
+    "metadata": {
+      "cue": "baseline",
+      "case": "focus_verb",
+      "scenario_id": 59
+    }
+  },
+  {
+    "id": "implicature-indirect-answer-636",
+    "creation_method": "translation",
+    "phenomenon": "implicature",
+    "category": "indirect-answer",
+    "context": "Y právě řekl X, že zvažuje změnu práce.",
+    "utterance": "- X: Musíš v práci tahat těžké věci?\n- Y: Sedím u stolu, takže nic nezvedám.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_associative",
+        "text": "Krabice nosí skladníci."
+      },
+      {
+        "label": "B",
+        "type": "direct_answer_negative",
+        "text": "Ne, nemusím tahat těžké věci."
+      },
+      {
+        "label": "C",
+        "type": "direct_answer_positive",
+        "text": "Ano, musím tahat těžké věci."
+      },
+      {
+        "label": "D",
+        "type": "distractor_lexical",
+        "text": "Sedím u okna."
+      }
+    ],
+    "gold_label": "B",
+    "metadata": {
+      "corpus": "CIRCA",
+      "topic": "job_switch"
+    }
+  },
+  {
+    "id": "information-structure-correction-62-focus_subject",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "correction",
+    "context": "Zavazadlo bylo nachystané a bylo zřejmé, že ten kufr někdo sbalil, ale nikdo nevěděl, kdo to byl. Petr řekl, že ho sbalila Hana.",
+    "utterance": "Jana ho opravila:",
+    "options": [
+      {
+        "label": "A",
+        "type": "subject_last",
+        "text": "Kufr sbalila Monika."
+      },
+      {
+        "label": "B",
+        "type": "object_last",
+        "text": "Sbalila Monika kufr."
+      },
+      {
+        "label": "C",
+        "type": "distractor",
+        "text": "Kufr nesl řidič."
+      },
+      {
+        "label": "D",
+        "type": "verb_last",
+        "text": "Monika kufr sbalila."
+      }
+    ],
+    "gold_label": "A",
+    "metadata": {
+      "cue": "correction",
+      "case": "focus_subject",
+      "scenario_id": 62
+    }
+  },
+  {
+    "id": "implicature-indirect-answer-162",
+    "creation_method": "translation",
+    "phenomenon": "implicature",
+    "category": "indirect-answer",
+    "context": "Y právě řekl X, že zvažuje změnu práce.",
+    "utterance": "- X: Chceš novou výzvu?\n- Y: Výzva by byla skvělá.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_lexical",
+        "text": "Výzva k platbě přišla včera."
+      },
+      {
+        "label": "B",
+        "type": "direct_answer_positive",
+        "text": "Ano, chci novou výzvu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_associative",
+        "text": "Novou pozici nabízí i konkurence."
+      },
+      {
+        "label": "D",
+        "type": "direct_answer_negative",
+        "text": "Ne, nechci novou výzvu."
+      }
+    ],
+    "gold_label": "B",
+    "metadata": {
+      "corpus": "CIRCA",
+      "topic": "job_switch"
+    }
+  },
+  {
+    "id": "information-structure-explicit_question-27-focus_subject",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "explicit_question",
+    "context": "Bylo zřejmé, že tu mapu někdo schoval, ale nikdo nevěděl, kdo to byl. Lukáš se zeptal: „Kdo schoval tu mapu?“",
+    "utterance": "Michal na to najednou prohlásil:",
+    "options": [
+      {
+        "label": "A",
+        "type": "verb_last",
+        "text": "Jana mapu schovala."
+      },
+      {
+        "label": "B",
+        "type": "distractor",
+        "text": "Mapu nakreslil kartograf."
+      },
+      {
+        "label": "C",
+        "type": "subject_last",
+        "text": "Mapu schovala Jana."
+      },
+      {
+        "label": "D",
+        "type": "object_last",
+        "text": "Schovala Jana mapu."
+      }
+    ],
+    "gold_label": "C",
+    "metadata": {
+      "cue": "explicit_question",
+      "case": "focus_subject",
+      "scenario_id": 27
+    }
+  },
+  {
+    "id": "presupposition-factive-semifactive-8",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "factive-semifactive",
+    "context": "Žena po příchodu k domu zabuší na dveře a hned se omlouvá za hluk, který udělala.",
+    "utterance": "Žena: Omlouvám se. Měla jsem si to rozmyslet, než udělám ten kravál. Zapomněla jsem, že je v domě miminko.",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "V tom domě bylo miminko."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "V tom domě miminko nebylo."
+      },
+      {
+        "label": "C",
+        "type": "distractor_associative",
+        "text": "V tom domě ležel na chodbě dětský míček."
+      },
+      {
+        "label": "D",
+        "type": "distractor_lexical",
+        "text": "V tom domě stála na polici porcelánová panenka."
+      }
+    ],
+    "gold_label": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "zapomenout"
+    }
+  },
+  {
+    "id": "presupposition-change-of-state-42",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "change-of-state",
+    "context": "Sestra popisuje setkání s holčičkou po večerní modlitbě.",
+    "utterance": "Sestra: Počkala si na mě, když jsem vycházela z kostela.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_associative",
+        "text": "Holčička přišla ke kostelu se svíčkou."
+      },
+      {
+        "label": "B",
+        "type": "presupposition",
+        "text": "Mluvčí se před chvílí nacházela uvnitř kostelní budovy."
+      },
+      {
+        "label": "C",
+        "type": "distractor_negation",
+        "text": "Mluvčí předtím v kostele nikdy nebyla."
+      },
+      {
+        "label": "D",
+        "type": "distractor_lexical",
+        "text": "Mluvčí byla předtím na faře."
+      }
+    ],
+    "gold_label": "B",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "departure"
+    }
+  },
+  {
+    "id": "presupposition-factive-semifactive-19",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "factive-semifactive",
+    "context": "Trenér Lovosic Jan Landa hodnotí po utkání průběh zápasu svého týmu proti Karviné.",
+    "utterance": "Novinář: Trenér Lovosic Jan Landa litoval, že jeho tým nedokázal udržet vývoj zápasu z první půle, ve které neustále vedl.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_associative",
+        "text": "V hale bylo po většinu zápasu téměř vyprodáno."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Tým Lovosic dokázal udržet vývoj zápasu z první půle, ve které neustále vedl."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Lovosice nezvládly navázat na trénink v místní hale."
+      },
+      {
+        "label": "D",
+        "type": "presupposition",
+        "text": "Lovosice nezvládly navázat na průběh první půle, v níž pořád vedly."
+      }
+    ],
+    "gold_label": "D",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "litovat"
+    }
+  },
+  {
+    "id": "implicature-indirect-answer-737",
+    "creation_method": "translation",
+    "phenomenon": "implicature",
+    "category": "indirect-answer",
+    "context": "Y právě řekl X, že uvažuje o koupi bytu v Praze.",
+    "utterance": "- X: Byl jsi už někdy v Praze?\n- Y: Tohle bude moje poprvé.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_associative",
+        "text": "Kamarád v Praze studoval."
+      },
+      {
+        "label": "B",
+        "type": "direct_answer_positive",
+        "text": "Ano, byl jsem tam."
+      },
+      {
+        "label": "C",
+        "type": "direct_answer_negative",
+        "text": "Ne, nebyl jsem tam."
+      },
+      {
+        "label": "D",
+        "type": "distractor_lexical",
+        "text": "Tohle bude moje první prohlídka."
+      }
+    ],
+    "gold_label": "C",
+    "metadata": {
+      "corpus": "CIRCA",
+      "topic": "ny_flat"
+    }
+  },
+  {
+    "id": "information-structure-explicit_question-53-focus_verb",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "explicit_question",
+    "context": "Bylo zřejmé, že studentka s tou prací něco udělala, ale nikdo nevěděl, co s ní udělala. Petr se zeptal: „Co studentka udělala s prací?“",
+    "utterance": "Marek na to najednou odpověděl:",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor",
+        "text": "Studentka stáhla formulář."
+      },
+      {
+        "label": "B",
+        "type": "verb_last",
+        "text": "Studentka práci odevzdala."
+      },
+      {
+        "label": "C",
+        "type": "subject_last",
+        "text": "Práci odevzdala studentka."
+      },
+      {
+        "label": "D",
+        "type": "object_last",
+        "text": "Odevzdala studentka práci."
+      }
+    ],
+    "gold_label": "B",
+    "metadata": {
+      "cue": "explicit_question",
+      "case": "focus_verb",
+      "scenario_id": 53
+    }
+  },
+  {
+    "id": "information-structure-baseline-4-focus_subject",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "baseline",
+    "context": "Z logu serveru vyšlo najevo, že ten e-mail někdo smazal, ale nebylo tam jméno toho, kdo to udělal.",
+    "utterance": "Ondřej na to najednou prohlásil:",
+    "options": [
+      {
+        "label": "A",
+        "type": "verb_last",
+        "text": "Sekretářka e-mail smazala."
+      },
+      {
+        "label": "B",
+        "type": "subject_last",
+        "text": "E-mail smazala sekretářka."
+      },
+      {
+        "label": "C",
+        "type": "object_last",
+        "text": "Smazala sekretářka e-mail."
+      },
+      {
+        "label": "D",
+        "type": "distractor",
+        "text": "E-mail četl vedoucí."
+      }
+    ],
+    "gold_label": "B",
+    "metadata": {
+      "cue": "baseline",
+      "case": "focus_subject",
+      "scenario_id": 4
+    }
+  },
+  {
+    "id": "implicature-indirect-answer-18",
+    "creation_method": "translation",
+    "phenomenon": "implicature",
+    "category": "indirect-answer",
+    "context": "X chce vědět, co Y rád podniká o víkendech.",
+    "utterance": "- X: Máš rád nějaké sporty?\n- Y: Tenis hraju skvěle.",
+    "options": [
+      {
+        "label": "A",
+        "type": "direct_answer_negative",
+        "text": "Ne, nemám rád sporty."
+      },
+      {
+        "label": "B",
+        "type": "distractor_associative",
+        "text": "Táta chodí na tenis často."
+      },
+      {
+        "label": "C",
+        "type": "distractor_lexical",
+        "text": "Tenis sleduju skvěle."
+      },
+      {
+        "label": "D",
+        "type": "direct_answer_positive",
+        "text": "Ano, mám rád sporty."
+      }
+    ],
+    "gold_label": "D",
+    "metadata": {
+      "corpus": "CIRCA",
+      "topic": "weekend"
+    }
+  },
+  {
+    "id": "information-structure-baseline-67-focus_subject",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "baseline",
+    "context": "V krabici byl balíček a bylo jasné, že ten dárek někdo zabalil, ale nikdo nevěděl, kdo to ve skutečnosti udělal.",
+    "utterance": "Eva na to najednou prohlásila:",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor",
+        "text": "Dárek koupila manažerka."
+      },
+      {
+        "label": "B",
+        "type": "object_last",
+        "text": "Zabalil asistent dárek."
+      },
+      {
+        "label": "C",
+        "type": "subject_last",
+        "text": "Dárek zabalil asistent."
+      },
+      {
+        "label": "D",
+        "type": "verb_last",
+        "text": "Asistent dárek zabalil."
+      }
+    ],
+    "gold_label": "C",
+    "metadata": {
+      "cue": "baseline",
+      "case": "focus_subject",
+      "scenario_id": 67
+    }
+  },
+  {
+    "id": "implicature-indirect-answer-313",
+    "creation_method": "translation",
+    "phenomenon": "implicature",
+    "category": "indirect-answer",
+    "context": "X chce vědět, co Y rád podniká o víkendech.",
+    "utterance": "- X: Zajímáš se o umění a kulturu?\n- Y: Docela mě to zajímá.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_associative",
+        "text": "V centru je nová galerie."
+      },
+      {
+        "label": "B",
+        "type": "direct_answer_negative",
+        "text": "Ne, o umění a kulturu se nezajímám."
+      },
+      {
+        "label": "C",
+        "type": "direct_answer_positive",
+        "text": "Ano, zajímám se o umění a kulturu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_lexical",
+        "text": "Docela mě to mate."
+      }
+    ],
+    "gold_label": "C",
+    "metadata": {
+      "corpus": "CIRCA",
+      "topic": "weekend"
+    }
+  },
+  {
+    "id": "presupposition-comparative-9",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "comparative",
+    "context": "V místnosti plné lidí někdo nahlas mluví o hudbě.",
+    "utterance": "Heinrich: Buck Clayton je mnohem lepší trumpetista než Hot Lips Page.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_lexical",
+        "text": "Hot Lips Page je častým hostem v místní rozhlasové stanici."
+      },
+      {
+        "label": "B",
+        "type": "distractor_negation",
+        "text": "Hot Lips Page trumpetista není."
+      },
+      {
+        "label": "C",
+        "type": "distractor_associative",
+        "text": "Hot Lips Page diriguje malý taneční orchestr."
+      },
+      {
+        "label": "D",
+        "type": "presupposition",
+        "text": "Hot Lips Page je trumpetista."
+      }
+    ],
+    "gold_label": "D",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "než"
+    }
+  },
+  {
+    "id": "implicature-indirect-answer-149",
+    "creation_method": "translation",
+    "phenomenon": "implicature",
+    "category": "indirect-answer",
+    "context": "X a Y jsou kolegové, kteří v pátek odcházejí z práce ve stejnou chvíli.",
+    "utterance": "- X: Zajdeme na drink?\n- Y: Dal bych si aspoň tři.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_lexical",
+        "text": "Dal bych si to do šuplíku."
+      },
+      {
+        "label": "B",
+        "type": "direct_answer_negative",
+        "text": "Ne, nezajdeme na drink."
+      },
+      {
+        "label": "C",
+        "type": "distractor_associative",
+        "text": "Dneska bych potřeboval něco silnějšího."
+      },
+      {
+        "label": "D",
+        "type": "direct_answer_positive",
+        "text": "Ano, zajdeme na drink."
+      }
+    ],
+    "gold_label": "D",
+    "metadata": {
+      "corpus": "CIRCA",
+      "topic": "friday_coworkers"
+    }
+  },
+  {
+    "id": "presupposition-accusative-30",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "accusative",
+    "context": "V regionální krizi se státy vzájemně napadají kvůli bezpečnostním hrozbám.",
+    "utterance": "Mluvčí: Po atentátu na Mubáraka v Etiopii 26. června 1995 Egypt obvinil Súdán z ukrývání spiklenců.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_lexical",
+        "text": "Egypt považoval zbrojení Súdánu za nepřijatelné."
+      },
+      {
+        "label": "B",
+        "type": "distractor_associative",
+        "text": "Egypt po atentátu uzavřel se Súdánem novou bezpečnostní dohodu."
+      },
+      {
+        "label": "C",
+        "type": "distractor_negation",
+        "text": "Egypt nepovažoval ukrývání spiklenců za nic, co by bylo v rozporu s mezinárodními vztahy."
+      },
+      {
+        "label": "D",
+        "type": "presupposition",
+        "text": "Egypt považoval ukrývání spiklenců za nepřijatelné."
+      }
+    ],
+    "gold_label": "D",
+    "metadata": {
+      "corpus": "SYN2020",
+      "genre": "oborova_literatura",
+      "trigger": "obvinit"
+    }
+  },
+  {
+    "id": "information-structure-explicit_question-70-focus_verb",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "explicit_question",
+    "context": "Ukázalo se, že Veronika s tou fotkou něco udělala, ale nikdo nevěděl, co s ní přesně udělala. Lukáš se zeptal: „Co Veronika udělala s fotkou?“",
+    "utterance": "Filip na to najednou odpověděl:",
+    "options": [
+      {
+        "label": "A",
+        "type": "verb_last",
+        "text": "Veronika fotku vymazala."
+      },
+      {
+        "label": "B",
+        "type": "distractor",
+        "text": "Veronika zálohovala mobil."
+      },
+      {
+        "label": "C",
+        "type": "subject_last",
+        "text": "Fotku vymazala Veronika."
+      },
+      {
+        "label": "D",
+        "type": "object_last",
+        "text": "Vymazala Veronika fotku."
+      }
+    ],
+    "gold_label": "A",
+    "metadata": {
+      "cue": "explicit_question",
+      "case": "focus_verb",
+      "scenario_id": 70
+    }
+  },
+  {
+    "id": "presupposition-temporal-58",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Gustavo v rozhovorech o svém osobním životě mluví jen velmi málo.",
+    "utterance": "Mluvčí: O svém osobním životě poté, co vyšel z vězení, mluví velmi málo, jako by snad žádný ani neměl.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_associative",
+        "text": "Gustavo po propuštění změnil telefonní číslo."
+      },
+      {
+        "label": "B",
+        "type": "distractor_lexical",
+        "text": "Gustavo vyšel z nemocnice."
+      },
+      {
+        "label": "C",
+        "type": "distractor_negation",
+        "text": "Gustavo z vězení nevyšel."
+      },
+      {
+        "label": "D",
+        "type": "presupposition",
+        "text": "Gustavo vyšel z vězení."
+      }
+    ],
+    "gold_label": "D",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova_literatura",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "implicature-indirect-answer-718",
+    "creation_method": "translation",
+    "phenomenon": "implicature",
+    "category": "indirect-answer",
+    "context": "X a Y jsou sousedé z dětství, kteří na sebe náhodou narazili v kavárně.",
+    "utterance": "- X: Je pravda, že jsi adoptoval čtyři děti?\n- Y: Mám jen jednoho syna.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_lexical",
+        "text": "Mám jen jedno auto."
+      },
+      {
+        "label": "B",
+        "type": "direct_answer_negative",
+        "text": "Ne, není to pravda."
+      },
+      {
+        "label": "C",
+        "type": "direct_answer_positive",
+        "text": "Ano, je to pravda."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Syn teď chodí do školky."
+      }
+    ],
+    "gold_label": "B",
+    "metadata": {
+      "corpus": "CIRCA",
+      "topic": "childhood_neighbors"
+    }
+  },
+  {
+    "id": "information-structure-baseline-56-focus_object",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "baseline",
+    "context": "Ukázalo se, že Marek sice něco opravil, ale nikdo nevěděl, o co přesně šlo.",
+    "utterance": "Eva na to najednou prohlásila:",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor",
+        "text": "Marek otevřel sešit."
+      },
+      {
+        "label": "B",
+        "type": "subject_last",
+        "text": "Test opravil Marek."
+      },
+      {
+        "label": "C",
+        "type": "verb_last",
+        "text": "Marek test opravil."
+      },
+      {
+        "label": "D",
+        "type": "object_last",
+        "text": "Marek opravil test."
+      }
+    ],
+    "gold_label": "D",
+    "metadata": {
+      "cue": "baseline",
+      "case": "focus_object",
+      "scenario_id": 56
+    }
+  },
+  {
+    "id": "information-structure-explicit_question-67-focus_object",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "explicit_question",
+    "context": "Ukázalo se, že Marek sice něco otevřel, ale nikdo nevěděl, o co šlo. Petr se zeptal: „Co Marek otevřel?“",
+    "utterance": "Jana na to najednou prohlásila:",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor",
+        "text": "Marek vzal dopis."
+      },
+      {
+        "label": "B",
+        "type": "subject_last",
+        "text": "Obálku otevřel Marek."
+      },
+      {
+        "label": "C",
+        "type": "verb_last",
+        "text": "Marek obálku otevřel."
+      },
+      {
+        "label": "D",
+        "type": "object_last",
+        "text": "Marek otevřel obálku."
+      }
+    ],
+    "gold_label": "D",
+    "metadata": {
+      "cue": "explicit_question",
+      "case": "focus_object",
+      "scenario_id": 67
+    }
+  },
+  {
+    "id": "information-structure-correction-22-focus_object",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "correction",
+    "context": "Ukázalo se, že Lukáš sice něco schoval, ale nikdo nevěděl, o co přesně šlo. Lucie nadnesla, že Lukáš schoval mobil.",
+    "utterance": "Petr ji opravil:",
+    "options": [
+      {
+        "label": "A",
+        "type": "object_last",
+        "text": "Lukáš schoval klíče."
+      },
+      {
+        "label": "B",
+        "type": "distractor",
+        "text": "Lukáš zavřel zásuvku."
+      },
+      {
+        "label": "C",
+        "type": "subject_last",
+        "text": "Klíče schoval Lukáš."
+      },
+      {
+        "label": "D",
+        "type": "verb_last",
+        "text": "Lukáš klíče schoval."
+      }
+    ],
+    "gold_label": "A",
+    "metadata": {
+      "cue": "correction",
+      "case": "focus_object",
+      "scenario_id": 22
+    }
+  },
+  {
+    "id": "information-structure-correction-21-focus_verb",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "correction",
+    "context": "Bylo patrné, že Martina s tou lampou něco provedla, ale nikdo nevěděl, co s ní přesně udělala. Petr poznamenal, že ji Martina pouze zhasla.",
+    "utterance": "Jana ho opravila:",
+    "options": [
+      {
+        "label": "A",
+        "type": "subject_last",
+        "text": "Lampu rozbila Martina."
+      },
+      {
+        "label": "B",
+        "type": "distractor",
+        "text": "Martina přinesla židli."
+      },
+      {
+        "label": "C",
+        "type": "object_last",
+        "text": "Rozbila Martina lampu."
+      },
+      {
+        "label": "D",
+        "type": "verb_last",
+        "text": "Martina lampu rozbila."
+      }
+    ],
+    "gold_label": "D",
+    "metadata": {
+      "cue": "correction",
+      "case": "focus_verb",
+      "scenario_id": 21
+    }
+  },
+  {
+    "id": "information-structure-correction-9-focus_verb",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "correction",
+    "context": "Bylo patrné, že truhlář s tím stolem něco provedl, ale nikdo nevěděl, co s ním udělal. Klára říkala, že ho truhlář jenom nalakoval.",
+    "utterance": "Eva ji opravila:",
+    "options": [
+      {
+        "label": "A",
+        "type": "verb_last",
+        "text": "Truhlář stůl ohobloval."
+      },
+      {
+        "label": "B",
+        "type": "subject_last",
+        "text": "Stůl ohobloval truhlář."
+      },
+      {
+        "label": "C",
+        "type": "distractor",
+        "text": "Truhlář odnesl fošnu."
+      },
+      {
+        "label": "D",
+        "type": "object_last",
+        "text": "Ohobloval truhlář stůl."
+      }
+    ],
+    "gold_label": "A",
+    "metadata": {
+      "cue": "correction",
+      "case": "focus_verb",
+      "scenario_id": 9
+    }
+  },
+  {
+    "id": "presupposition-possessive-36",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "possessive",
+    "context": "V textu se komentuje biblický příběh a upozorňuje se na detail v ději.",
+    "utterance": "Autor: Zajímavým detailem je, že všemu přihlíží Mojžíšova sestra, která faraonově dceři opatří jako kojnou pro dítě jeho vlastní matku.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_lexical",
+        "text": "Mojžíš má (nebo měl) bratra."
+      },
+      {
+        "label": "B",
+        "type": "presupposition",
+        "text": "Mojžíš má (nebo měl) sestru"
+      },
+      {
+        "label": "C",
+        "type": "distractor_negation",
+        "text": "Mojžíš nemá (ani neměl) sestru."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Mojžíš byl vychován u dvora."
+      }
+    ],
+    "gold_label": "B",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova_literatura",
+      "trigger": "possessive",
+      "has_apposition": "False"
+    }
+  },
+  {
+    "id": "information-structure-correction-28-focus_subject",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "correction",
+    "context": "Na zemi ležely střepy a bylo jasné, že ten talíř někdo upustil, ale nikdo nevěděl, kdo ho upustil. Klára prohodila, že ho upustil David.",
+    "utterance": "Eva ji opravila:",
+    "options": [
+      {
+        "label": "A",
+        "type": "object_last",
+        "text": "Upustil Filip talíř."
+      },
+      {
+        "label": "B",
+        "type": "verb_last",
+        "text": "Filip talíř upustil."
+      },
+      {
+        "label": "C",
+        "type": "distractor",
+        "text": "Talíř leštila servírka."
+      },
+      {
+        "label": "D",
+        "type": "subject_last",
+        "text": "Talíř upustil Filip."
+      }
+    ],
+    "gold_label": "D",
+    "metadata": {
+      "cue": "correction",
+      "case": "focus_subject",
+      "scenario_id": 28
+    }
+  },
+  {
+    "id": "information-structure-baseline-75-focus_object",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "baseline",
+    "context": "Bylo vidět, že číšník sice něco vyleštil, ale nikdo nevěděl, o co přesně se jednalo.",
+    "utterance": "Filip na to najednou prohlásil:",
+    "options": [
+      {
+        "label": "A",
+        "type": "subject_last",
+        "text": "Příbor vyleštil číšník."
+      },
+      {
+        "label": "B",
+        "type": "object_last",
+        "text": "Číšník vyleštil příbor."
+      },
+      {
+        "label": "C",
+        "type": "verb_last",
+        "text": "Číšník příbor vyleštil."
+      },
+      {
+        "label": "D",
+        "type": "distractor",
+        "text": "Číšník srovnal sklenice."
+      }
+    ],
+    "gold_label": "B",
+    "metadata": {
+      "cue": "baseline",
+      "case": "focus_object",
+      "scenario_id": 75
+    }
+  },
+  {
+    "id": "implicature-indirect-answer-594",
+    "creation_method": "translation",
+    "phenomenon": "implicature",
+    "category": "indirect-answer",
+    "context": "Y se právě přistěhoval do sousedství a potkává svého nového souseda X.",
+    "utterance": "- X: Pracujete tady v okolí?\n- Y: Pracuju docela kousek odsud.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_lexical",
+        "text": "Pracuju docela často v noci."
+      },
+      {
+        "label": "B",
+        "type": "direct_answer_negative",
+        "text": "Ne, nepracuju."
+      },
+      {
+        "label": "C",
+        "type": "distractor_associative",
+        "text": "Autobus staví za rohem."
+      },
+      {
+        "label": "D",
+        "type": "direct_answer_positive",
+        "text": "Ano, pracuju."
+      }
+    ],
+    "gold_label": "D",
+    "metadata": {
+      "corpus": "CIRCA",
+      "topic": "new_neighbor"
+    }
+  },
+  {
+    "id": "implicature-indirect-answer-734",
+    "creation_method": "translation",
+    "phenomenon": "implicature",
+    "category": "indirect-answer",
+    "context": "Y právě řekl X, že zvažuje změnu práce.",
+    "utterance": "- X: Je to v technice?\n- Y: Pracuju v umění.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_associative",
+        "text": "V umění je i moje sestra."
+      },
+      {
+        "label": "B",
+        "type": "distractor_lexical",
+        "text": "Pracuju obvykle do večera."
+      },
+      {
+        "label": "C",
+        "type": "direct_answer_positive",
+        "text": "Ano, je to v technice."
+      },
+      {
+        "label": "D",
+        "type": "direct_answer_negative",
+        "text": "Ne, není to v technice."
+      }
+    ],
+    "gold_label": "D",
+    "metadata": {
+      "corpus": "CIRCA",
+      "topic": "job_switch"
+    }
+  },
+  {
+    "id": "presupposition-change-of-state-11",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "change-of-state",
+    "context": "V opatství panuje napětí, opat spěchá vpřed a ostatní sledují, co se děje kolem.",
+    "utterance": "Mluvčí: Eadulf si všiml, že venku přestalo sněžit, a třebaže bylo stále větrno, vítr nebyl už tak silný jako předtím.",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "V předchozí chvíli padal venku sníh."
+      },
+      {
+        "label": "B",
+        "type": "distractor_lexical",
+        "text": "Předtím venku pršelo."
+      },
+      {
+        "label": "C",
+        "type": "distractor_negation",
+        "text": "Předtím venku nikdy nesněžilo."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Předtím venku vítr úplně ustal."
+      }
+    ],
+    "gold_label": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "přestat"
+    }
+  },
+  {
+    "id": "implicature-indirect-answer-109",
+    "creation_method": "translation",
+    "phenomenon": "implicature",
+    "category": "indirect-answer",
+    "context": "X chce vědět, jaké knížky Y rád čte.",
+    "utterance": "- X: Dáváš přednost šťastným koncům?\n- Y: Bez šťastného konce mě to většinou nebaví.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_associative",
+        "text": "Dobré konce si pamatuju nejdéle."
+      },
+      {
+        "label": "B",
+        "type": "direct_answer_negative",
+        "text": "Ne, nedávám přednost šťastným koncům."
+      },
+      {
+        "label": "C",
+        "type": "direct_answer_positive",
+        "text": "Ano, dávám přednost šťastným koncům."
+      },
+      {
+        "label": "D",
+        "type": "distractor_lexical",
+        "text": "Zvládnu jen kratší knížky."
+      }
+    ],
+    "gold_label": "C",
+    "metadata": {
+      "corpus": "CIRCA",
+      "topic": "books"
+    }
+  },
+  {
+    "id": "implicature-indirect-answer-792",
+    "creation_method": "translation",
+    "phenomenon": "implicature",
+    "category": "indirect-answer",
+    "context": "X se chce dozvědět, co Y nejraději jí.",
+    "utterance": "- X: Baví tě pálivá jídla?\n- Y: Ostrá jídla jsem nikdy nesnášel.",
+    "options": [
+      {
+        "label": "A",
+        "type": "direct_answer_positive",
+        "text": "Ano, baví mě."
+      },
+      {
+        "label": "B",
+        "type": "distractor_lexical",
+        "text": "Ostrá slova mě překvapila."
+      },
+      {
+        "label": "C",
+        "type": "distractor_associative",
+        "text": "Pálivé jí hlavně bratr."
+      },
+      {
+        "label": "D",
+        "type": "direct_answer_negative",
+        "text": "Ne, nebaví mě."
+      }
+    ],
+    "gold_label": "D",
+    "metadata": {
+      "corpus": "CIRCA",
+      "topic": "food"
+    }
+  },
+  {
+    "id": "information-structure-baseline-77-focus_verb",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "baseline",
+    "context": "Bylo zřejmé, že Monika s krabicí něco provedla, ale nikdo nevěděl, co s ní přesně udělala.",
+    "utterance": "Eva na to najednou prohlásila:",
+    "options": [
+      {
+        "label": "A",
+        "type": "verb_last",
+        "text": "Monika krabici vyhodila."
+      },
+      {
+        "label": "B",
+        "type": "subject_last",
+        "text": "Krabici vyhodila Monika."
+      },
+      {
+        "label": "C",
+        "type": "distractor",
+        "text": "Monika zavázala pytel."
+      },
+      {
+        "label": "D",
+        "type": "object_last",
+        "text": "Vyhodila Monika krabici."
+      }
+    ],
+    "gold_label": "A",
+    "metadata": {
+      "cue": "baseline",
+      "case": "focus_verb",
+      "scenario_id": 77
+    }
+  },
+  {
+    "id": "presupposition-wh-question-57",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "V rozhovoru se probírá práce u záchranné služby.",
+    "utterance": "Novinář: Kdy jste se rozhodl jezdit se záchrankou?",
+    "options": [
+      {
+        "label": "A",
+        "type": "presupposition",
+        "text": "Dotazovaný se rozhodl, že bude jezdit se záchrankou."
+      },
+      {
+        "label": "B",
+        "type": "distractor_lexical",
+        "text": "Dotazovaný se rozhodl jezdit s kamionem."
+      },
+      {
+        "label": "C",
+        "type": "distractor_negation",
+        "text": "Dotazovaný se nerozhodl jezdit se záchrankou."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Dotazovaný si před první směnou pořídil novou termosku."
+      }
+    ],
+    "gold_label": "A",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova_literatura",
+      "trigger": "kdy"
+    }
+  },
+  {
+    "id": "presupposition-implicative-25",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "implicative",
+    "context": "Falien se nachází uprostřed chaosu u brány pod palbou z hradeb.",
+    "utterance": "Mluvčí: Brána už nemohla dlouho vydržet a Falien to věděl. Ale nedokázal se k ní dostat.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_lexical",
+        "text": "Falien se pokoušel dostat se k hradbám."
+      },
+      {
+        "label": "B",
+        "type": "distractor_associative",
+        "text": "Falien měl štít potrhaný od šípů."
+      },
+      {
+        "label": "C",
+        "type": "presupposition",
+        "text": "Falien se snažil prodrat davem až k bráně."
+      },
+      {
+        "label": "D",
+        "type": "distractor_negation",
+        "text": "Falien se nepokoušel dostat se k bráně."
+      }
+    ],
+    "gold_label": "C",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "dokázat",
+      "negation": "True"
+    }
+  },
+  {
+    "id": "information-structure-baseline-55-focus_subject",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "baseline",
+    "context": "Bylo jasné, že ten průkaz někdo zabavil, ale nikdo nevěděl, kdo to ve skutečnosti udělal.",
+    "utterance": "Klára na to najednou prohlásila:",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor",
+        "text": "Průkaz ukázal řidič."
+      },
+      {
+        "label": "B",
+        "type": "object_last",
+        "text": "Zabavil policista průkaz."
+      },
+      {
+        "label": "C",
+        "type": "verb_last",
+        "text": "Policista průkaz zabavil."
+      },
+      {
+        "label": "D",
+        "type": "subject_last",
+        "text": "Průkaz zabavil policista."
+      }
+    ],
+    "gold_label": "D",
+    "metadata": {
+      "cue": "baseline",
+      "case": "focus_subject",
+      "scenario_id": 55
+    }
+  },
+  {
+    "id": "presupposition-temporal-54",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Prezident připravuje expedici a shání odbornou podporu.",
+    "utterance": "Mluvčí: Záhy poté, co Kongres předlohu schválil, začal prezident obesílat přátele mezi geografy, lékaři, matematiky, mineralogy či astronomy.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_lexical",
+        "text": "Kongres předlohu odložil."
+      },
+      {
+        "label": "B",
+        "type": "distractor_associative",
+        "text": "Kongres o předloze hlasoval až po dlouhé rozpravě."
+      },
+      {
+        "label": "C",
+        "type": "presupposition",
+        "text": "Kongres tu předlohu schválil."
+      },
+      {
+        "label": "D",
+        "type": "distractor_negation",
+        "text": "Kongres předlohu neschválil."
+      }
+    ],
+    "gold_label": "C",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova_literatura",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-temporal-41",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "temporal",
+    "context": "Mluvčí popisuje těžké období v životě své matky a její další rozhodování.",
+    "utterance": "Mluvčí: Poté co ztratila práci, se matka rozhodla živit tlumočením a překládáním.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_associative",
+        "text": "Matka po ztrátě práce přerušila kontakt s bývalými kolegy."
+      },
+      {
+        "label": "B",
+        "type": "presupposition",
+        "text": "Matka přišla o práci."
+      },
+      {
+        "label": "C",
+        "type": "distractor_negation",
+        "text": "Matka práci neztratila."
+      },
+      {
+        "label": "D",
+        "type": "distractor_lexical",
+        "text": "Matka si našla novou práci."
+      }
+    ],
+    "gold_label": "B",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "poté"
+    }
+  },
+  {
+    "id": "presupposition-iterative-40",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "iterative",
+    "context": "Fotbalista komentuje výkony svého týmu proti pražským soupeřům.",
+    "utterance": "Mluvčí: Byl jsem moc rád, že se nám to znovu povedlo a zase jsme „trápili“ Pražáky.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_negation",
+        "text": "Týmu se předtím nikdy nepodařilo Pražáky v zápase potrápit."
+      },
+      {
+        "label": "B",
+        "type": "distractor_associative",
+        "text": "Fotbalista po zápase děkoval fanouškům za podporu."
+      },
+      {
+        "label": "C",
+        "type": "presupposition",
+        "text": "Podle fotbalisty jejich tým Pražáky dokázal potrápit už dřív."
+      },
+      {
+        "label": "D",
+        "type": "distractor_lexical",
+        "text": "Týmu se už dříve podařilo potrápit Brňáky."
+      }
+    ],
+    "gold_label": "C",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "publicistika",
+      "trigger": "zase"
+    }
+  },
+  {
+    "id": "information-structure-correction-6-focus_subject",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "correction",
+    "context": "Bylo jasné, že tu garáž někdo odemkl, ale nikdo nevěděl, kdo to byl. Dana poznamenala, že ji odemkl hlídač.",
+    "utterance": "Pavel ji opravil:",
+    "options": [
+      {
+        "label": "A",
+        "type": "object_last",
+        "text": "Odemkl správce garáž."
+      },
+      {
+        "label": "B",
+        "type": "distractor",
+        "text": "Garáž obcházel hlídač."
+      },
+      {
+        "label": "C",
+        "type": "subject_last",
+        "text": "Garáž odemkl správce."
+      },
+      {
+        "label": "D",
+        "type": "verb_last",
+        "text": "Správce garáž odemkl."
+      }
+    ],
+    "gold_label": "C",
+    "metadata": {
+      "cue": "correction",
+      "case": "focus_subject",
+      "scenario_id": 6
+    }
+  },
+  {
+    "id": "implicature-indirect-answer-321",
+    "creation_method": "translation",
+    "phenomenon": "implicature",
+    "category": "indirect-answer",
+    "context": "X chce vědět, jakou hudbu Y rád poslouchá.",
+    "utterance": "- X: Máš rád reggaeton?\n- Y: Bolí mě z něj hlava.",
+    "options": [
+      {
+        "label": "A",
+        "type": "direct_answer_negative",
+        "text": "Ne, nemám ho rád."
+      },
+      {
+        "label": "B",
+        "type": "distractor_lexical",
+        "text": "Bolí mě z toho klubu uši."
+      },
+      {
+        "label": "C",
+        "type": "direct_answer_positive",
+        "text": "Ano, mám ho rád."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Reggaeton poslouchá sestra."
+      }
+    ],
+    "gold_label": "A",
+    "metadata": {
+      "corpus": "CIRCA",
+      "topic": "music"
+    }
+  },
+  {
+    "id": "information-structure-explicit_question-17-focus_verb",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "explicit_question",
+    "context": "Bylo patrné, že Barbora s tím e-mailem něco udělala, ale nikdo neviděl, co s ním přesně udělala. Filip se zeptal: „Co Barbora udělala s e-mailem?“",
+    "utterance": "Michal na to najednou odpověděl:",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor",
+        "text": "Barbora založila složku."
+      },
+      {
+        "label": "B",
+        "type": "subject_last",
+        "text": "E-mail smazala Barbora."
+      },
+      {
+        "label": "C",
+        "type": "object_last",
+        "text": "Smazala Barbora e-mail."
+      },
+      {
+        "label": "D",
+        "type": "verb_last",
+        "text": "Barbora e-mail smazala."
+      }
+    ],
+    "gold_label": "D",
+    "metadata": {
+      "cue": "explicit_question",
+      "case": "focus_verb",
+      "scenario_id": 17
+    }
+  },
+  {
+    "id": "presupposition-accusative-45",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "accusative",
+    "context": "V rozhovoru o nepovedené obchodní dohodě se hledá viník situace.",
+    "utterance": "Mluvčí: Můj společník mě obvinil z nekompetentnosti.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_lexical",
+        "text": "Společník se domnívá, že mluvčí je podvodník."
+      },
+      {
+        "label": "B",
+        "type": "presupposition",
+        "text": "Společník se domnívá, že mluvčí je nekompetentní."
+      },
+      {
+        "label": "C",
+        "type": "distractor_associative",
+        "text": "Společník po krachu dohody začal mluvčímu kontrolovat každou smlouvu."
+      },
+      {
+        "label": "D",
+        "type": "distractor_negation",
+        "text": "Společník mluvčího nepovažoval za nekompetentního člověka."
+      }
+    ],
+    "gold_label": "B",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "beletrie",
+      "trigger": "obvinit"
+    }
+  },
+  {
+    "id": "presupposition-wh-question-11",
+    "creation_method": "corpus_mining",
+    "phenomenon": "presupposition",
+    "category": "wh-question",
+    "context": "Mluví se o muži spojovaném s útokem a o tom, jak se mohl dostat k penězům a ochraně.",
+    "utterance": "Mluvčí: Kdo mu zajistil peníze a slíbil beztrestnost?",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_lexical",
+        "text": "Někdo mu zajistil zbraně a slíbil beztrestnost."
+      },
+      {
+        "label": "B",
+        "type": "distractor_associative",
+        "text": "Někdo začal prověřovat jeho starší bankovní účty."
+      },
+      {
+        "label": "C",
+        "type": "distractor_negation",
+        "text": "Nikdo mu nezajistil peníze ani mu neslíbil beztrestnost."
+      },
+      {
+        "label": "D",
+        "type": "presupposition",
+        "text": "Někdo mu sehnal peníze a slíbil, že nebude potrestán."
+      }
+    ],
+    "gold_label": "D",
+    "metadata": {
+      "corpus": "SYN2025",
+      "genre": "oborova_literatura",
+      "trigger": "kdo"
+    }
+  },
+  {
+    "id": "implicature-indirect-answer-71",
+    "creation_method": "translation",
+    "phenomenon": "implicature",
+    "category": "indirect-answer",
+    "context": "X se chce dozvědět, co Y nejraději jí.",
+    "utterance": "- X: Dáváš přednost místním restauracím?\n- Y: V řetězcích v podstatě vůbec nejím.",
+    "options": [
+      {
+        "label": "A",
+        "type": "distractor_lexical",
+        "text": "V řetězcích oblečení nenakupuju."
+      },
+      {
+        "label": "B",
+        "type": "direct_answer_positive",
+        "text": "Ano, dávám přednost místním restauracím."
+      },
+      {
+        "label": "C",
+        "type": "direct_answer_negative",
+        "text": "Ne, nedávám přednost místním restauracím."
+      },
+      {
+        "label": "D",
+        "type": "distractor_associative",
+        "text": "Do místního bistra chodí sestra."
+      }
+    ],
+    "gold_label": "B",
+    "metadata": {
+      "corpus": "CIRCA",
+      "topic": "food"
+    }
+  },
+  {
+    "id": "information-structure-explicit_question-77-focus_object",
+    "creation_method": "generation",
+    "phenomenon": "information_structure",
+    "category": "explicit_question",
+    "context": "Z historie úprav vyšlo najevo, že asistentka sice něco přepsala, ale nikdo nevěděl, o co se jednalo. Lucie se zeptala: „Co asistentka přepsala?“",
+    "utterance": "Martin na to najednou prohlásil:",
+    "options": [
+      {
+        "label": "A",
+        "type": "subject_last",
+        "text": "Text přepsala asistentka."
+      },
+      {
+        "label": "B",
+        "type": "object_last",
+        "text": "Asistentka přepsala text."
+      },
+      {
+        "label": "C",
+        "type": "distractor",
+        "text": "Asistentka otevřela dokument."
+      },
+      {
+        "label": "D",
+        "type": "verb_last",
+        "text": "Asistentka text přepsala."
+      }
+    ],
+    "gold_label": "B",
+    "metadata": {
+      "cue": "explicit_question",
+      "case": "focus_object",
+      "scenario_id": 77
+    }
+  }
+]

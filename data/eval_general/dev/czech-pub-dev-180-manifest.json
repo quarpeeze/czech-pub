@@ -1,0 +1,104 @@
+{
+  "seed": 42,
+  "output_file": "data\\eval_general\\dev\\czech-pub-dev-180.json",
+  "total_items": 180,
+  "sampling_spec": {
+    "implicature": {
+      "circa_per_topic": 5,
+      "scalar_frequency_n": 5,
+      "scalar_quantifier_n": 5
+    },
+    "presupposition": {
+      "total_target": 60,
+      "categories_found": [
+        "accusative",
+        "change-of-state",
+        "comparative",
+        "counterfactual",
+        "factive-semifactive",
+        "implicative",
+        "iterative",
+        "possessive",
+        "temporal",
+        "wh-question"
+      ],
+      "per_category": 6
+    },
+    "information_structure": {
+      "quota_matrix": {
+        "baseline__focus_object": 7,
+        "baseline__focus_subject": 7,
+        "baseline__focus_verb": 6,
+        "explicit_question__focus_object": 7,
+        "explicit_question__focus_subject": 6,
+        "explicit_question__focus_verb": 7,
+        "correction__focus_object": 6,
+        "correction__focus_subject": 7,
+        "correction__focus_verb": 7
+      }
+    }
+  },
+  "counts": {
+    "by_phenomenon": {
+      "implicature": 60,
+      "information_structure": 60,
+      "presupposition": 60
+    },
+    "by_category": {
+      "accusative": 6,
+      "baseline": 20,
+      "change-of-state": 6,
+      "comparative": 6,
+      "correction": 20,
+      "counterfactual": 6,
+      "explicit_question": 20,
+      "factive-semifactive": 6,
+      "implicative": 6,
+      "indirect-answer": 50,
+      "iterative": 6,
+      "possessive": 6,
+      "scalar-frequency": 5,
+      "scalar-quantifier": 5,
+      "temporal": 6,
+      "wh-question": 6
+    },
+    "circa_by_topic": {
+      "books": 5,
+      "childhood_neighbors": 5,
+      "food": 5,
+      "friday_coworkers": 5,
+      "job_switch": 5,
+      "music": 5,
+      "new_neighbor": 5,
+      "ny_flat": 5,
+      "travel_visit": 5,
+      "weekend": 5
+    },
+    "scalar_by_category": {
+      "scalar-frequency": 5,
+      "scalar-quantifier": 5
+    },
+    "presupposition_by_category": {
+      "accusative": 6,
+      "change-of-state": 6,
+      "comparative": 6,
+      "counterfactual": 6,
+      "factive-semifactive": 6,
+      "implicative": 6,
+      "iterative": 6,
+      "possessive": 6,
+      "temporal": 6,
+      "wh-question": 6
+    },
+    "info_by_cue": {
+      "baseline": 20,
+      "correction": 20,
+      "explicit_question": 20
+    },
+    "info_by_case": {
+      "focus_object": 20,
+      "focus_subject": 20,
+      "focus_verb": 20
+    }
+  }
+}
