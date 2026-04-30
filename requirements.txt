@@ -6,8 +6,8 @@ numpy
 pandas
 
 # visual
-matplotlib
-seaborn
+# matplotlib
+# seaborn
 
 # jupyter
 jupyter
@@ -24,6 +24,3 @@ transformers
 accelerate
 huggingface_hub
 # torch - install locally 
-
-# udpipe
-ufal.udpipe
