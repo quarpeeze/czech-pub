@@ -4,6 +4,15 @@ from typing import Any
 
 PROMPTS_DIR = Path(__file__).resolve().parents[1] / "prompts"
 
+def load_system_prompt() -> str:
+    path = PROMPTS_DIR / "system_prompt.txt"
+
+    if not path.exists():
+        raise FileNotFoundError(f"system prompt file not found: {path}")
+
+    return path.read_text(encoding="utf-8").strip()
+
+
 def load_prompt_template(phenomenon: str) -> str:
     path = PROMPTS_DIR / f"{phenomenon}.txt"
 
