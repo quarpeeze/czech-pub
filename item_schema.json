@@ -27,7 +27,7 @@
       "text": "the full natural-language text of the distractor option."
     }
   ],
-  "correct_option": "label of the correct displayed option, e.g. 'B'.",
+  "gold_label": "label of the correct displayed option, e.g. 'B'.",
   "metadata": {
     "corpus": "source corpus name, e.g. 'SYN2025'.",
     "genre": "genre or text type within the corpus (e.g. 'beletrie' / 'publicistika' / 'oborova literatura').",
