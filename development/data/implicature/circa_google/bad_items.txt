@@ -1,4 +1,51 @@
+THIS FILE IS A RAW FILE USED FOR ANNOTATING THE ITEMS IN THE CIRCA DATASET; ITEM IDs WRITTEN HERE WILL BE DELETED
+
+
+
 30
 51
 760
 
+
+books
+108, 167, 240
+doubtful: 652
+
+
+2// neighbour 
+DELETE: 395, 396, 760, 45 165,
+doubts:  
+
+//food
+DELETE: 1, 82, 342, 896, 154
+DOUBT: 154bad, 788
+
+// friday cowork
+DELETE: 132,266, 419,616, 548
+DOUBT:442 
+
+// job switch
+DELETE:
+DOUBT: 30x,51x, 328x 596 655, 707easy,
+
+//music
+DOUBT: 251, 482easy, 581easy, 866tooeasy, 707too easy
+
+
+
+//neighbor 246 461 406 782 586
+
+
+\\new flat 54maybe, 37fixedbutdel, 146 fajn, 175 not clear, 329 clearly yes
+
+
+//travel 131 139 163fajn 209 320 easy 575 666
+
+
+//weekend 732 805broken
+
+
+
+
+later change:
+Bodlo by mi lepší hrazení zubní péče.
