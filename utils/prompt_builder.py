@@ -30,8 +30,9 @@ def prepare_prompt_vars(item: dict[str, Any]) -> dict[str, str]:
         if key not in item:
             raise KeyError(f"missing required item field: '{key}'") # check missing
 
-    meta_general = item.get("meta_general", {})
-    meta_special = item.get("meta_special", {})
+    metadata = item.get("metadata", {})
+    meta_general = item.get("meta_general", metadata)
+    meta_special = item.get("meta_special", metadata)
 
     return {
         "context": item["context"],
@@ -58,3 +59,38 @@ def build_prompt(item: dict[str, Any]) -> str:
             f"missing variable '{missing}' while rendering "
             f"prompt for phenomenon '{phenomenon}'"
         ) from e
+
+
+def get_items_by_phenomenon_and_category(
+    items: list[dict[str, Any]],
+    phenomenon: str,
+    category: str,
+) -> list[dict[str, Any]]:
+    matches = [
+        item
+        for item in items
+        if item.get("phenomenon") == phenomenon and item.get("category") == category
+    ]
+
+    if not matches:
+        raise ValueError(
+            f"no items found for phenomenon='{phenomenon}' and category='{category}'"
+        )
+
+    return matches
+
+
+def print_question_for_category(
+    items: list[dict[str, Any]],
+    phenomenon: str,
+    category: str,
+    index: int = 0,
+) -> None:
+    matches = get_items_by_phenomenon_and_category(items, phenomenon, category)
+
+    if index < 0 or index >= len(matches):
+        raise IndexError(
+            f"index {index} is out of range for {len(matches)} matching items"
+        )
+
+    print(build_prompt(matches[index]))
