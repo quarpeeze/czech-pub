@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from pathlib import Path
 
+from evaluation.analyze import build_report
 from evaluation.evaluate import make_summary
 from evaluation.parser import parse_mcq_answer
 from benchmark.model_client import generate
@@ -160,6 +161,10 @@ def save_run_outputs(
 
     save_jsonl(run_dir / "predictions.jsonl", results)
     save_json(run_dir / "summary.json", summary)
+    (run_dir / "analysis.txt").write_text(
+        build_report(summary),
+        encoding="utf-8",
+    )
 
     return run_dir
 

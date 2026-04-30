@@ -6,6 +6,7 @@ from pathlib import Path
 
 from benchmark.core import run_benchmark
 from benchmark.entities import Model
+from utils.prompt_builder import load_system_prompt
 
 
 def main() -> None:
@@ -33,7 +34,7 @@ def main() -> None:
     )
     argparser.add_argument(
         "--system-prompt",
-        default=None,
+        default=load_system_prompt(),
         help="system prompt string (or path to .txt file)",
     )
     argparser.add_argument(
