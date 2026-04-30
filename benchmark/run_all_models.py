@@ -12,8 +12,8 @@ import traceback
 
 from dotenv import load_dotenv
 
+from benchmark.core import run_benchmark
 from benchmark.entities import Model
-from benchmark.run_benchmark import run_benchmark
 
 # load env vars from .env
 load_dotenv()
