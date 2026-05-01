@@ -48,6 +48,8 @@ The main repository layout is:
 - `demo/` - Provides an overview of the CZECH-PUB dataset and step-by-step demo of evaluation pipeline.
 - `tests/` - Tests.
 
+For development-side data processing and the historical benchmark-building workflow, see `development/DEVELOPMENT_WORKFLOW.md`.
+
 
 ## Demo
 
