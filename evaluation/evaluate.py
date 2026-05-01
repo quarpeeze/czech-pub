@@ -1,8 +1,12 @@
 from __future__ import annotations
 
+import argparse
+import json
 from collections import Counter
+from pathlib import Path
 
 from benchmark.entities import Model
+from utils.helpers import load_dataset, save_json
 
 
 def _subset_metrics(rows: list[dict]) -> dict:
@@ -258,3 +262,45 @@ def make_summary(results: list[dict], model: Model) -> dict:
         )
 
     return summary
+
+
+def _infer_model_from_results(results: list[dict]) -> Model:
+    if not results:
+        return Model(provider="unknown", model_name="unknown")
+
+    first = results[0]
+    return Model(
+        provider=first.get("provider", "unknown"),
+        model_name=first.get("model_name", "unknown"),
+    )
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(
+        description="build summary.json from benchmark predictions.jsonl"
+    )
+    parser.add_argument("--input", required=True, help="path to predictions.jsonl")
+    parser.add_argument("--output", required=True, help="path to output summary.json")
+    parser.add_argument("--provider", default=None, help="optional provider override")
+    parser.add_argument("--model", default=None, help="optional model name override")
+    args = parser.parse_args()
+
+    results = load_dataset(args.input)
+    inferred_model = _infer_model_from_results(results)
+    model = Model(
+        provider=args.provider or inferred_model.provider,
+        model_name=args.model or inferred_model.model_name,
+    )
+
+    summary = make_summary(results, model)
+
+    output_path = Path(args.output)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    save_json(output_path, summary)
+
+    print(f"wrote summary to {output_path}")
+    print(json.dumps(summary, ensure_ascii=False, indent=2))
+
+
+if __name__ == "__main__":
+    main()

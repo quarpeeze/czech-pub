@@ -4,7 +4,7 @@ import argparse
 import json
 from pathlib import Path
 
-from benchmark.core import run_benchmark
+from benchmark.core import run_benchmark, safe_model_dir_name
 from benchmark.entities import Model
 from utils.prompt_builder import load_system_prompt
 
@@ -96,7 +96,10 @@ def main() -> None:
         limit=args.limit,
     )
 
+    run_dir = Path(args.outdir) / safe_model_dir_name(model)
+
     print("\nfinished running the benchmark.")
+    print(f"run directory: {run_dir}")
     print(json.dumps(summary, ensure_ascii=False, indent=2))
 
 

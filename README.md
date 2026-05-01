@@ -67,6 +67,28 @@ These materials are useful for quickly inspecting benchmark items and trying the
 
 The reusable benchmark flow is implemented in `benchmark/core.py` and exposed through the CLI script `benchmark/run_benchmark.py`.
 
+### Installation Notes
+
+The repository now has small requirement sets for different use cases:
+
+- `requirements-base.txt` - shared utilities and notebook support
+- `requirements-hf.txt` - local HuggingFace benchmarking
+- `requirements-providers.txt` - cloud provider SDKs
+- `requirements.txt` - installs all of the above
+
+If you only want to test a local HuggingFace model, you do not need to install all cloud provider packages. You can install:
+
+```console
+pip install -r requirements-base.txt -r requirements-hf.txt
+```
+
+If you want everything:
+
+```console
+pip install -r requirements.txt
+```
+
+`torch` is still expected to be installed locally.
 
 ### Minimal CLI Run
 
@@ -90,6 +112,8 @@ Another HuggingFace example:
 ```console
 python benchmark/run_benchmark.py --data data/eval/eval_czech_pub.json --provider hf_local --model google/gemma-3-4b-it --limit 20
 ```
+
+After the run finishes, the CLI prints the run directory where outputs were written.
 
 ### Python Usage
 
@@ -150,6 +174,17 @@ The evaluation utilities can also be used independently:
 - `evaluation/evaluate.py` builds a structured summary from benchmark prediction rows (predictions.jsonl).
 - `evaluation/analyze.py` turns a summary JSON file into a short human-readable text report.
 
+Example summary generation from saved predictions:
+
+```console
+python evaluation/evaluate.py --input runs/Qwen__Qwen2.5-0.5B-Instruct/predictions.jsonl --output runs/Qwen__Qwen2.5-0.5B-Instruct/summary.json
+```
+
+Example human-readable analysis:
+
+```console
+python evaluation/analyze.py --input runs/Qwen__Qwen2.5-0.5B-Instruct/summary.json --output runs/Qwen__Qwen2.5-0.5B-Instruct/analysis.txt
+```
 
 ## Prompting
 

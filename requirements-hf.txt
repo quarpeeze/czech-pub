@@ -1,0 +1,6 @@
+# local llm stack
+transformers
+accelerate
+huggingface_hub
+
+# torch - install locally

@@ -1,26 +1,4 @@
-
-
-# base
-python-dotenv
-numpy
-pandas
-
-# visual
-# matplotlib
-# seaborn
-
-# jupyter
-jupyter
-ipykernel
-
-# llm providers
-openai
-anthropic
-google-genai
-together
-
-# local llm stack
-transformers
-accelerate
-huggingface_hub
-# torch - install locally 
+# install everything
+-r requirements-base.txt
+-r requirements-hf.txt
+-r requirements-providers.txt
