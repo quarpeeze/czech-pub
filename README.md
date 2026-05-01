@@ -90,7 +90,7 @@ pip install -r requirements.txt
 
 `torch` is still expected to be installed locally.
 
-### Minimal CLI Run
+### CLI Run
 
 The smallest command to run the benchmark requires only the dataset path, provider, and model name. Default system prompt is taken from `prompts/system_prompt.txt`.
 
