@@ -1,0 +1,61 @@
+benchmark analysis
+
+model: deepseek-ai/DeepSeek-V3.1
+provider: together
+overall accuracy: 87.8% (1686/1920)
+
+accuracy by phenomenon:
+- presupposition: 96.0% (576/600)
+- implicature: 93.8% (563/600)
+- information_structure: 76.0% (547/720)
+
+presupposition breakdown:
+- overall: 96.0% (576/600)
+by category:
+- change-of-state: 100.0% (60/60)
+- implicative: 90.0% (54/60)
+- possessive: 96.7% (58/60)
+- temporal: 100.0% (60/60)
+- accusative: 100.0% (60/60)
+- comparative: 93.3% (56/60)
+- iterative: 88.3% (53/60)
+- factive-semifactive: 95.0% (57/60)
+- wh-question: 100.0% (60/60)
+- counterfactual: 96.7% (58/60)
+by genre:
+- publicistika: 97.6% (206/211)
+- oborova_literatura: 94.5% (154/163)
+- beletrie: 95.6% (216/226)
+
+implicature breakdown:
+- overall: 93.8% (563/600)
+- grouped views:
+  indirect_answer: 92.6% (463/500)
+  scalar_implicatures: 100.0% (100/100)
+  frequency: 100.0% (50/50)
+  quantifier: 100.0% (50/50)
+- indirect answer by topic:
+  new_neighbor: 94.0% (47/50)
+  childhood_neighbors: 90.0% (45/50)
+  food: 90.0% (45/50)
+  music: 94.0% (47/50)
+  job_switch: 90.0% (45/50)
+  travel_visit: 94.0% (47/50)
+  ny_flat: 94.0% (47/50)
+  friday_coworkers: 90.0% (45/50)
+  books: 98.0% (49/50)
+  weekend: 92.0% (46/50)
+- scalar implicatures by subtype:
+  qa: 100.0% (50/50)
+  declarative: 100.0% (50/50)
+
+information structure breakdown:
+- overall: 76.0% (547/720)
+- by cue:
+  explicit_question: 81.2% (195/240)
+  correction: 74.2% (178/240)
+  baseline: 72.5% (174/240)
+- by case:
+  focus_object: 70.4% (169/240)
+  focus_subject: 76.2% (183/240)
+  focus_verb: 81.2% (195/240)

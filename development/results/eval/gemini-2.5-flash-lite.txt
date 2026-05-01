@@ -1,0 +1,61 @@
+benchmark analysis
+
+model: gemini-2.5-flash-lite
+provider: google
+overall accuracy: 81.5% (1565/1920)
+
+accuracy by phenomenon:
+- presupposition: 96.8% (581/600)
+- implicature: 94.7% (568/600)
+- information_structure: 57.8% (416/720)
+
+presupposition breakdown:
+- overall: 96.8% (581/600)
+by category:
+- change-of-state: 96.7% (58/60)
+- implicative: 95.0% (57/60)
+- possessive: 98.3% (59/60)
+- temporal: 100.0% (60/60)
+- accusative: 100.0% (60/60)
+- comparative: 88.3% (53/60)
+- iterative: 96.7% (58/60)
+- factive-semifactive: 96.7% (58/60)
+- wh-question: 100.0% (60/60)
+- counterfactual: 96.7% (58/60)
+by genre:
+- publicistika: 95.3% (201/211)
+- oborova_literatura: 96.9% (158/163)
+- beletrie: 98.2% (222/226)
+
+implicature breakdown:
+- overall: 94.7% (568/600)
+- grouped views:
+  indirect_answer: 93.6% (468/500)
+  scalar_implicatures: 100.0% (100/100)
+  frequency: 100.0% (50/50)
+  quantifier: 100.0% (50/50)
+- indirect answer by topic:
+  new_neighbor: 98.0% (49/50)
+  childhood_neighbors: 90.0% (45/50)
+  food: 98.0% (49/50)
+  music: 96.0% (48/50)
+  job_switch: 88.0% (44/50)
+  travel_visit: 98.0% (49/50)
+  ny_flat: 94.0% (47/50)
+  friday_coworkers: 84.0% (42/50)
+  books: 94.0% (47/50)
+  weekend: 96.0% (48/50)
+- scalar implicatures by subtype:
+  qa: 100.0% (50/50)
+  declarative: 100.0% (50/50)
+
+information structure breakdown:
+- overall: 57.8% (416/720)
+- by cue:
+  explicit_question: 65.0% (156/240)
+  correction: 54.2% (130/240)
+  baseline: 54.2% (130/240)
+- by case:
+  focus_object: 52.1% (125/240)
+  focus_subject: 50.4% (121/240)
+  focus_verb: 70.8% (170/240)

@@ -1,0 +1,61 @@
+benchmark analysis
+
+model: meta-llama/Meta-Llama-3-8B-Instruct-Lite
+provider: together
+overall accuracy: 55.1% (1058/1920)
+
+accuracy by phenomenon:
+- presupposition: 71.8% (431/600)
+- implicature: 52.3% (314/600)
+- information_structure: 43.5% (313/720)
+
+presupposition breakdown:
+- overall: 71.8% (431/600)
+by category:
+- change-of-state: 55.0% (33/60)
+- implicative: 60.0% (36/60)
+- possessive: 88.3% (53/60)
+- temporal: 75.0% (45/60)
+- accusative: 80.0% (48/60)
+- comparative: 71.7% (43/60)
+- iterative: 78.3% (47/60)
+- factive-semifactive: 81.7% (49/60)
+- wh-question: 75.0% (45/60)
+- counterfactual: 53.3% (32/60)
+by genre:
+- publicistika: 72.5% (153/211)
+- oborova_literatura: 73.0% (119/163)
+- beletrie: 70.4% (159/226)
+
+implicature breakdown:
+- overall: 52.3% (314/600)
+- grouped views:
+  indirect_answer: 51.8% (259/500)
+  scalar_implicatures: 55.0% (55/100)
+  frequency: 48.0% (24/50)
+  quantifier: 62.0% (31/50)
+- indirect answer by topic:
+  new_neighbor: 54.0% (27/50)
+  childhood_neighbors: 52.0% (26/50)
+  food: 44.0% (22/50)
+  music: 56.0% (28/50)
+  job_switch: 64.0% (32/50)
+  travel_visit: 52.0% (26/50)
+  ny_flat: 46.0% (23/50)
+  friday_coworkers: 44.0% (22/50)
+  books: 60.0% (30/50)
+  weekend: 46.0% (23/50)
+- scalar implicatures by subtype:
+  qa: 58.0% (29/50)
+  declarative: 52.0% (26/50)
+
+information structure breakdown:
+- overall: 43.5% (313/720)
+- by cue:
+  explicit_question: 44.2% (106/240)
+  correction: 43.3% (104/240)
+  baseline: 42.9% (103/240)
+- by case:
+  focus_object: 58.3% (140/240)
+  focus_subject: 40.8% (98/240)
+  focus_verb: 31.2% (75/240)

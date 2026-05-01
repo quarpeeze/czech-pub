@@ -1,0 +1,61 @@
+benchmark analysis
+
+model: Qwen/Qwen2.5-7B-Instruct-Turbo
+provider: together
+overall accuracy: 60.5% (1162/1920)
+
+accuracy by phenomenon:
+- presupposition: 88.2% (529/600)
+- implicature: 49.5% (297/600)
+- information_structure: 46.7% (336/720)
+
+presupposition breakdown:
+- overall: 88.2% (529/600)
+by category:
+- change-of-state: 86.7% (52/60)
+- implicative: 65.0% (39/60)
+- possessive: 96.7% (58/60)
+- temporal: 98.3% (59/60)
+- accusative: 98.3% (59/60)
+- comparative: 81.7% (49/60)
+- iterative: 83.3% (50/60)
+- factive-semifactive: 95.0% (57/60)
+- wh-question: 95.0% (57/60)
+- counterfactual: 81.7% (49/60)
+by genre:
+- publicistika: 90.0% (190/211)
+- oborova_literatura: 90.2% (147/163)
+- beletrie: 85.0% (192/226)
+
+implicature breakdown:
+- overall: 49.5% (297/600)
+- grouped views:
+  indirect_answer: 45.6% (228/500)
+  scalar_implicatures: 69.0% (69/100)
+  frequency: 68.0% (34/50)
+  quantifier: 70.0% (35/50)
+- indirect answer by topic:
+  new_neighbor: 42.0% (21/50)
+  childhood_neighbors: 40.0% (20/50)
+  food: 40.0% (20/50)
+  music: 60.0% (30/50)
+  job_switch: 58.0% (29/50)
+  travel_visit: 40.0% (20/50)
+  ny_flat: 50.0% (25/50)
+  friday_coworkers: 48.0% (24/50)
+  books: 44.0% (22/50)
+  weekend: 34.0% (17/50)
+- scalar implicatures by subtype:
+  qa: 88.0% (44/50)
+  declarative: 50.0% (25/50)
+
+information structure breakdown:
+- overall: 46.7% (336/720)
+- by cue:
+  explicit_question: 48.8% (117/240)
+  correction: 42.5% (102/240)
+  baseline: 48.8% (117/240)
+- by case:
+  focus_object: 53.3% (128/240)
+  focus_subject: 45.8% (110/240)
+  focus_verb: 40.8% (98/240)

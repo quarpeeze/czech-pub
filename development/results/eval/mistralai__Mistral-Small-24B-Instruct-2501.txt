@@ -1,0 +1,61 @@
+benchmark analysis
+
+model: mistralai/Mistral-Small-24B-Instruct-2501
+provider: together
+overall accuracy: 80.8% (1552/1920)
+
+accuracy by phenomenon:
+- presupposition: 94.3% (566/600)
+- implicature: 92.0% (552/600)
+- information_structure: 60.3% (434/720)
+
+presupposition breakdown:
+- overall: 94.3% (566/600)
+by category:
+- change-of-state: 93.3% (56/60)
+- implicative: 86.7% (52/60)
+- possessive: 96.7% (58/60)
+- temporal: 96.7% (58/60)
+- accusative: 98.3% (59/60)
+- comparative: 90.0% (54/60)
+- iterative: 93.3% (56/60)
+- factive-semifactive: 93.3% (56/60)
+- wh-question: 98.3% (59/60)
+- counterfactual: 96.7% (58/60)
+by genre:
+- publicistika: 95.3% (201/211)
+- oborova_literatura: 93.3% (152/163)
+- beletrie: 94.2% (213/226)
+
+implicature breakdown:
+- overall: 92.0% (552/600)
+- grouped views:
+  indirect_answer: 90.4% (452/500)
+  scalar_implicatures: 100.0% (100/100)
+  frequency: 100.0% (50/50)
+  quantifier: 100.0% (50/50)
+- indirect answer by topic:
+  new_neighbor: 90.0% (45/50)
+  childhood_neighbors: 86.0% (43/50)
+  food: 98.0% (49/50)
+  music: 96.0% (48/50)
+  job_switch: 78.0% (39/50)
+  travel_visit: 88.0% (44/50)
+  ny_flat: 94.0% (47/50)
+  friday_coworkers: 90.0% (45/50)
+  books: 94.0% (47/50)
+  weekend: 90.0% (45/50)
+- scalar implicatures by subtype:
+  qa: 100.0% (50/50)
+  declarative: 100.0% (50/50)
+
+information structure breakdown:
+- overall: 60.3% (434/720)
+- by cue:
+  explicit_question: 68.3% (164/240)
+  correction: 58.3% (140/240)
+  baseline: 54.2% (130/240)
+- by case:
+  focus_object: 69.6% (167/240)
+  focus_subject: 60.4% (145/240)
+  focus_verb: 50.8% (122/240)

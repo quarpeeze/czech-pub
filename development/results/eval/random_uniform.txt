@@ -1,0 +1,61 @@
+benchmark analysis
+
+model: random_uniform
+provider: random_baseline
+overall accuracy: 27.5% (528/1920)
+
+accuracy by phenomenon:
+- presupposition: 26.2% (157/600)
+- implicature: 28.3% (170/600)
+- information_structure: 27.9% (201/720)
+
+presupposition breakdown:
+- overall: 26.2% (157/600)
+by category:
+- change-of-state: 36.7% (22/60)
+- implicative: 23.3% (14/60)
+- possessive: 26.7% (16/60)
+- temporal: 23.3% (14/60)
+- accusative: 26.7% (16/60)
+- comparative: 21.7% (13/60)
+- iterative: 28.3% (17/60)
+- factive-semifactive: 26.7% (16/60)
+- wh-question: 18.3% (11/60)
+- counterfactual: 30.0% (18/60)
+by genre:
+- publicistika: 28.0% (59/211)
+- oborova_literatura: 23.3% (38/163)
+- beletrie: 26.5% (60/226)
+
+implicature breakdown:
+- overall: 28.3% (170/600)
+- grouped views:
+  indirect_answer: 28.6% (143/500)
+  scalar_implicatures: 27.0% (27/100)
+  frequency: 28.0% (14/50)
+  quantifier: 26.0% (13/50)
+- indirect answer by topic:
+  new_neighbor: 30.0% (15/50)
+  childhood_neighbors: 22.0% (11/50)
+  food: 30.0% (15/50)
+  music: 26.0% (13/50)
+  job_switch: 40.0% (20/50)
+  travel_visit: 24.0% (12/50)
+  ny_flat: 38.0% (19/50)
+  friday_coworkers: 26.0% (13/50)
+  books: 22.0% (11/50)
+  weekend: 28.0% (14/50)
+- scalar implicatures by subtype:
+  qa: 30.0% (15/50)
+  declarative: 24.0% (12/50)
+
+information structure breakdown:
+- overall: 27.9% (201/720)
+- by cue:
+  explicit_question: 22.9% (55/240)
+  correction: 32.5% (78/240)
+  baseline: 28.3% (68/240)
+- by case:
+  focus_object: 28.3% (68/240)
+  focus_subject: 27.5% (66/240)
+  focus_verb: 27.9% (67/240)

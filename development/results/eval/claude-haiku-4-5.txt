@@ -1,0 +1,61 @@
+benchmark analysis
+
+model: claude-haiku-4-5
+provider: anthropic
+overall accuracy: 88.1% (1692/1920)
+
+accuracy by phenomenon:
+- presupposition: 95.7% (574/600)
+- implicature: 95.2% (571/600)
+- information_structure: 76.0% (547/720)
+
+presupposition breakdown:
+- overall: 95.7% (574/600)
+by category:
+- change-of-state: 98.3% (59/60)
+- implicative: 91.7% (55/60)
+- possessive: 93.3% (56/60)
+- temporal: 98.3% (59/60)
+- accusative: 96.7% (58/60)
+- comparative: 96.7% (58/60)
+- iterative: 93.3% (56/60)
+- factive-semifactive: 90.0% (54/60)
+- wh-question: 100.0% (60/60)
+- counterfactual: 98.3% (59/60)
+by genre:
+- publicistika: 96.2% (203/211)
+- oborova_literatura: 96.3% (157/163)
+- beletrie: 94.7% (214/226)
+
+implicature breakdown:
+- overall: 95.2% (571/600)
+- grouped views:
+  indirect_answer: 94.4% (472/500)
+  scalar_implicatures: 99.0% (99/100)
+  frequency: 100.0% (50/50)
+  quantifier: 98.0% (49/50)
+- indirect answer by topic:
+  new_neighbor: 98.0% (49/50)
+  childhood_neighbors: 88.0% (44/50)
+  food: 100.0% (50/50)
+  music: 94.0% (47/50)
+  job_switch: 90.0% (45/50)
+  travel_visit: 98.0% (49/50)
+  ny_flat: 94.0% (47/50)
+  friday_coworkers: 96.0% (48/50)
+  books: 90.0% (45/50)
+  weekend: 96.0% (48/50)
+- scalar implicatures by subtype:
+  qa: 100.0% (50/50)
+  declarative: 98.0% (49/50)
+
+information structure breakdown:
+- overall: 76.0% (547/720)
+- by cue:
+  explicit_question: 90.4% (217/240)
+  correction: 70.0% (168/240)
+  baseline: 67.5% (162/240)
+- by case:
+  focus_object: 75.0% (180/240)
+  focus_subject: 75.4% (181/240)
+  focus_verb: 77.5% (186/240)

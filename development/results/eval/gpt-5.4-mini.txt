@@ -1,0 +1,61 @@
+benchmark analysis
+
+model: gpt-5.4-mini
+provider: openai
+overall accuracy: 86.9% (1669/1920)
+
+accuracy by phenomenon:
+- presupposition: 94.5% (567/600)
+- implicature: 96.8% (581/600)
+- information_structure: 72.4% (521/720)
+
+presupposition breakdown:
+- overall: 94.5% (567/600)
+by category:
+- change-of-state: 90.0% (54/60)
+- implicative: 91.7% (55/60)
+- possessive: 96.7% (58/60)
+- temporal: 100.0% (60/60)
+- accusative: 96.7% (58/60)
+- comparative: 93.3% (56/60)
+- iterative: 96.7% (58/60)
+- factive-semifactive: 95.0% (57/60)
+- wh-question: 98.3% (59/60)
+- counterfactual: 86.7% (52/60)
+by genre:
+- publicistika: 96.2% (203/211)
+- oborova_literatura: 92.6% (151/163)
+- beletrie: 94.2% (213/226)
+
+implicature breakdown:
+- overall: 96.8% (581/600)
+- grouped views:
+  indirect_answer: 96.2% (481/500)
+  scalar_implicatures: 100.0% (100/100)
+  frequency: 100.0% (50/50)
+  quantifier: 100.0% (50/50)
+- indirect answer by topic:
+  new_neighbor: 100.0% (50/50)
+  childhood_neighbors: 98.0% (49/50)
+  food: 96.0% (48/50)
+  music: 98.0% (49/50)
+  job_switch: 92.0% (46/50)
+  travel_visit: 100.0% (50/50)
+  ny_flat: 90.0% (45/50)
+  friday_coworkers: 92.0% (46/50)
+  books: 100.0% (50/50)
+  weekend: 96.0% (48/50)
+- scalar implicatures by subtype:
+  qa: 100.0% (50/50)
+  declarative: 100.0% (50/50)
+
+information structure breakdown:
+- overall: 72.4% (521/720)
+- by cue:
+  explicit_question: 79.6% (191/240)
+  correction: 70.4% (169/240)
+  baseline: 67.1% (161/240)
+- by case:
+  focus_object: 79.2% (190/240)
+  focus_subject: 59.2% (142/240)
+  focus_verb: 78.8% (189/240)
