@@ -144,10 +144,6 @@ summary = make_summary(results, model)
 run_dir = save_run_outputs(results, summary, model, out_dir="runs")
 ```
 
-### Multi-Model Script
-
-The repository also includes `benchmark/run_all_models.py`, which defines a predefined model list and runs multiple benchmark configurations in sequence.
-
 ## Data Flow
 
 The actual benchmark flow is:
