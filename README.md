@@ -42,6 +42,7 @@ The main repository layout is:
 
 - `benchmark/` - Core benchmark code, model dispatch, and runnable benchmark scripts.
 - `evaluation/` - Answer parsing, metric aggregation, and human-readable summary generation.
+- `development/` - Code used in the process of constructing the dataset.
 - `utils/` - Dataset IO and prompt-building helpers.
 - `prompts/` - Prompt templates for the three benchmark phenomena + the shared system prompt.
 - `data/` - Main benchmark datasets.
